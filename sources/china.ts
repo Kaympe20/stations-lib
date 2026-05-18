@@ -12,7 +12,7 @@ export async function getChinaStations(): Promise<Station[]> {
 
     data = "atCode|chineseStationName|chinese3LetterCode|englishName|english3LetterCode|id|Otherid|chineseCityName|||" + data;
 
-    data = data.replaceAll("|||", "\n");
+    data = data.replaceAll("|||@", "\n");
 
     let formattedData: response[] = papaparse.parse(data, {header: true, dynamicTyping: {
             "id": true,
@@ -26,7 +26,7 @@ export async function getChinaStations(): Promise<Station[]> {
 
         stationName: row.englishName
             ? row.englishName.charAt(0).toUpperCase() + row.englishName.slice(1)
-            : await (await fetch("http://api.geonames.org/search?" + row.chineseStationName)).text(),
+            : "",
 
         translations: [{
             langCode: "zh",
@@ -36,7 +36,7 @@ export async function getChinaStations(): Promise<Station[]> {
 
         altCodes: [row.chinese3LetterCode],
 
-        stationCode: row.englishName
+        stationCode: row.english3LetterCode
             ? row.english3LetterCode.toUpperCase()
             : row.chinese3LetterCode,
 

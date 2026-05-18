@@ -28025,22 +28025,6 @@
     "priority": 0
   },
   {
-    "stationID": 1116,
-    "stationName": "Xingguo",
-    "translations": [
-      {
-        "langCode": "zh",
-        "cityName": "赣州",
-        "stationName": "兴国"
-      }
-    ],
-    "altCodes": [
-      "EUG"
-    ],
-    "stationCode": "XG",
-    "priority": 0
-  },
-  {
     "stationID": 2102,
     "stationName": "Xigu",
     "translations": [
@@ -60486,18 +60470,6 @@
       "ZZE"
     ],
     "stationCode": "ZZX",
-    "priority": 0
-  },
-  {
-    "stationName": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<geonames>\n    <status message=\"Please add a username to each call in order for geonames to be able to identify the calling application and count the credits usage.\" value=\"10\"/>\n</geonames>\n",
-    "translations": [
-      {
-        "langCode": "zh"
-      }
-    ],
-    "altCodes": [
-      null
-    ],
     "priority": 0
   }
 ]

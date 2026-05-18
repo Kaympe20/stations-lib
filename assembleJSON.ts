@@ -21,5 +21,21 @@ Bun.write('./stations.csv', papaparse.unparse({
         "altCodes",
         "priority",
     ],
-    data: data,
+    data: convertAllTranslationsToJSON(data),
 }))
+
+function convertAllTranslationsToJSON(dataToConvert: Station[]): object[] {
+    let newStationsArray: object[] = [];
+
+    for (let station of dataToConvert) {
+        let newStation: any = station;
+
+        if (newStation.translations) {
+            newStation.translations = JSON.stringify(station.translations);
+        }
+
+        newStationsArray.push(newStation as object)
+    }
+
+    return newStationsArray
+}
