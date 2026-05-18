@@ -14,6 +14,9 @@
   {
     "city": "Abbotsford-Colby, WI",
     "stationName": "Colby",
+    "aliases": [
+      "Colby"
+    ],
     "stationCode": "ABB",
     "priority": 0
   },
@@ -38,6 +41,9 @@
   {
     "city": "Antioch-Pittsburg, CA",
     "stationName": "Antioch",
+    "aliases": [
+      "Pittsburg"
+    ],
     "stationCode": "ACA",
     "priority": 0
   },
@@ -188,6 +194,10 @@
   {
     "city": "Arcata, CA",
     "stationName": "Transit Center",
+    "aliases": [
+      "Humboldt State University",
+      "McKinleyville"
+    ],
     "stationCode": "ARC",
     "priority": 0
   },
@@ -236,6 +246,9 @@
   {
     "city": "Atlanta, GA",
     "stationName": "Atlanta",
+    "aliases": [
+      "Peachtree"
+    ],
     "stationCode": "ATL",
     "priority": 0
   },
@@ -254,6 +267,9 @@
   {
     "city": "Auburn, ME",
     "stationName": "Auburn",
+    "aliases": [
+      "Lewiston"
+    ],
     "stationCode": "AUR",
     "priority": 0
   },
@@ -266,6 +282,9 @@
   {
     "city": "Allentown, PA",
     "stationName": "Allentown",
+    "aliases": [
+      "Lehigh University"
+    ],
     "stationCode": "AWN",
     "priority": 0
   },
@@ -278,6 +297,9 @@
   {
     "city": "Baltimore, MD",
     "stationName": "Penn Station",
+    "aliases": [
+      "Penn Station"
+    ],
     "stationCode": "BAL",
     "priority": 0
   },
@@ -320,6 +342,11 @@
   {
     "city": "Boston, MA",
     "stationName": "Back Bay Station",
+    "aliases": [
+      "Boston",
+      "Back Bay",
+      "westwood"
+    ],
     "stationCode": "BBY",
     "priority": 0
   },
@@ -350,6 +377,9 @@
   {
     "city": "Bradenton, FL",
     "stationName": "Bradenton",
+    "aliases": [
+      "Ellenton"
+    ],
     "stationCode": "BDT",
     "priority": 0
   },
@@ -398,6 +428,9 @@
   {
     "city": "Buffalo, NY",
     "stationName": "Exchange Street Station",
+    "aliases": [
+      "Exchange"
+    ],
     "stationCode": "BFX",
     "priority": 0
   },
@@ -464,6 +497,9 @@
   {
     "city": "Blacksburg, VA",
     "stationName": "Virginia Tech",
+    "aliases": [
+      "Virginia Tech"
+    ],
     "stationCode": "BLK",
     "priority": 0
   },
@@ -506,6 +542,12 @@
   {
     "city": "Bingen-White Salmon, WA",
     "stationName": "Bingen",
+    "aliases": [
+      "White Salmon",
+      "Hood River",
+      "Dalles",
+      "The Dalles"
+    ],
     "stationCode": "BNG",
     "priority": 0
   },
@@ -530,12 +572,18 @@
   {
     "city": "Boston, MA",
     "stationName": "North Station",
+    "aliases": [
+      "North Station"
+    ],
     "stationCode": "BON",
     "priority": 0
   },
   {
     "city": "Boston, MA",
     "stationName": "South Station",
+    "aliases": [
+      "South Station"
+    ],
     "stationCode": "BOS",
     "priority": 0
   },
@@ -572,6 +620,10 @@
   {
     "city": "Browning, MT",
     "stationName": "Browning",
+    "aliases": [
+      "glacier",
+      "east glacier"
+    ],
     "stationCode": "BRO",
     "priority": 0
   },
@@ -602,12 +654,18 @@
   {
     "city": "South Burlington, VT",
     "stationName": "Burlington International Airport",
+    "aliases": [
+      "Burlington"
+    ],
     "stationCode": "BTV",
     "priority": 0
   },
   {
     "city": "Buffalo, NY",
     "stationName": "Depew Station",
+    "aliases": [
+      "Depew"
+    ],
     "stationCode": "BUF",
     "priority": 0
   },
@@ -620,6 +678,9 @@
   {
     "city": "Burbank, CA",
     "stationName": "Hollywood Burbank Airport",
+    "aliases": [
+      "Hollywood"
+    ],
     "stationCode": "BUR",
     "priority": 0
   },
@@ -644,6 +705,10 @@
   {
     "city": "BWI Marshall Airport, MD",
     "stationName": "Baltimore",
+    "aliases": [
+      "Baltimore",
+      "bwi airport"
+    ],
     "stationCode": "BWI",
     "priority": 0
   },
@@ -758,6 +823,9 @@
   {
     "city": "Chicago, IL",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "CHI",
     "priority": 0
   },
@@ -770,12 +838,20 @@
   {
     "city": "Champaign-Urbana, IL",
     "stationName": "Champaign",
+    "aliases": [
+      "Urbana"
+    ],
     "stationCode": "CHM",
     "priority": 0
   },
   {
     "city": "Chiloquin, OR",
     "stationName": "Chiloquin",
+    "aliases": [
+      "Kla-Mo-Ya Casino",
+      "Kla Mo Ya Casino",
+      "Klamoya Casino"
+    ],
     "stationCode": "CHN",
     "priority": 0
   },
@@ -806,6 +882,9 @@
   {
     "city": "Cincinnati, OH",
     "stationName": "Union Terminal",
+    "aliases": [
+      "Union Terminal"
+    ],
     "stationCode": "CIN",
     "priority": 0
   },
@@ -890,6 +969,11 @@
   {
     "city": "Col Allensworth State Park, CA",
     "stationName": "Allensworth",
+    "aliases": [
+      "Allensworth",
+      "Colonel Allensworth",
+      "cnl"
+    ],
     "stationCode": "CNL",
     "priority": 0
   },
@@ -932,6 +1016,10 @@
   {
     "city": "Cameron Park, CA",
     "stationName": "Cameron Park",
+    "aliases": [
+      "Cambridge Road",
+      "Cambridge Rd."
+    ],
     "stationCode": "CPC",
     "priority": 0
   },
@@ -1088,6 +1176,9 @@
   {
     "city": "Dallas, TX",
     "stationName": "Eddie Bernice Johnson Union Sta",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "DAL",
     "priority": 0
   },
@@ -1106,6 +1197,9 @@
   {
     "city": "Dayton-Trotwood, OH",
     "stationName": "Trotwood",
+    "aliases": [
+      "Trotwood"
+    ],
     "stationCode": "DAT",
     "priority": 0
   },
@@ -1124,6 +1218,9 @@
   {
     "city": "Dublin-Pleasanton, CA",
     "stationName": "Pleasanton",
+    "aliases": [
+      "Pleasanton"
+    ],
     "stationCode": "DBP",
     "priority": 0
   },
@@ -1154,6 +1251,9 @@
   {
     "city": "Denver, CO",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "DEN",
     "priority": 0
   },
@@ -1382,6 +1482,9 @@
   {
     "city": "El Paso, TX",
     "stationName": "Union Depot",
+    "aliases": [
+      "Union Depot"
+    ],
     "stationCode": "ELP",
     "priority": 0
   },
@@ -1454,12 +1557,18 @@
   {
     "city": "Essex Junction, VT",
     "stationName": "Amtrak Station",
+    "aliases": [
+      "Burlington"
+    ],
     "stationCode": "ESX",
     "priority": 0
   },
   {
     "city": "Eugene-Springfield, OR",
     "stationName": "Chase Bank",
+    "aliases": [
+      "Springfield"
+    ],
     "stationCode": "EUB",
     "priority": 0
   },
@@ -1502,6 +1611,11 @@
   {
     "city": "Newark, NJ",
     "stationName": "Liberty International Airport",
+    "aliases": [
+      "Liberty International",
+      "Liberty Airport",
+      "Liberty Intl"
+    ],
     "stationCode": "EWR",
     "priority": 0
   },
@@ -1538,6 +1652,11 @@
   {
     "city": "Fort Collins, CO",
     "stationName": "Fort Collins",
+    "aliases": [
+      "Ft Collins",
+      "Ft. Collins",
+      "Collins"
+    ],
     "stationCode": "FCC",
     "priority": 0
   },
@@ -1550,12 +1669,23 @@
   {
     "city": "Fort Edward-Glens Falls, NY",
     "stationName": "Fort Edward",
+    "aliases": [
+      "Ft Edward",
+      "Ft. Edward",
+      "Edward",
+      "Glens Falls",
+      " Glenns Falls",
+      "Hudson Falls"
+    ],
     "stationCode": "FED",
     "priority": 0
   },
   {
     "city": "Fairfield-Vacaville, CA",
     "stationName": "Fairfield",
+    "aliases": [
+      "Vacaville"
+    ],
     "stationCode": "FFV",
     "priority": 0
   },
@@ -1568,6 +1698,14 @@
   {
     "city": "Fort Hood, TX",
     "stationName": "Fort Hood",
+    "aliases": [
+      "Ft Hood",
+      "Ft. Hood",
+      "Hood",
+      "Cavazos",
+      "Ft Cavazos",
+      "Ft. Cavazos"
+    ],
     "stationCode": "FHD",
     "priority": 0
   },
@@ -1598,12 +1736,22 @@
   {
     "city": "Fort Madison, IA",
     "stationName": "Historic Santa Fe Station",
+    "aliases": [
+      "Ft Madison",
+      "Ft. Madison",
+      "Madison"
+    ],
     "stationCode": "FMD",
     "priority": 0
   },
   {
     "city": "Fort Morgan, CO",
     "stationName": "Fort Morgan",
+    "aliases": [
+      "Ft Morgan",
+      "Ft. Morgan",
+      "Morgan"
+    ],
     "stationCode": "FMG",
     "priority": 0
   },
@@ -1670,6 +1818,10 @@
   {
     "city": "Florence, OR",
     "stationName": "Carl G. Washburne State Park",
+    "aliases": [
+      "Washburne State Park",
+      "Carl Washburne State Park"
+    ],
     "stationCode": "FSP",
     "priority": 0
   },
@@ -1688,12 +1840,22 @@
   {
     "city": "Fort Lauderdale, FL",
     "stationName": "Fort Lauderdale",
+    "aliases": [
+      "Ft Lauderdale",
+      "Ft. Lauderdale",
+      "Lauderdale"
+    ],
     "stationCode": "FTL",
     "priority": 0
   },
   {
     "city": "North Fort Myers, FL",
     "stationName": "Fort Myers",
+    "aliases": [
+      "Ft Myers",
+      "Ft. Myers",
+      "Myers"
+    ],
     "stationCode": "FTM",
     "priority": 0
   },
@@ -1706,6 +1868,11 @@
   {
     "city": "Fort Worth, TX",
     "stationName": "Central Station",
+    "aliases": [
+      "Ft Worth",
+      "Ft. Worth",
+      "Worth"
+    ],
     "stationCode": "FTW",
     "priority": 0
   },
@@ -1790,6 +1957,10 @@
   {
     "city": "Glens Falls, NY",
     "stationName": "Glens Falls",
+    "aliases": [
+      "Glenns Falls",
+      "Hudson Falls"
+    ],
     "stationCode": "GFS",
     "priority": 0
   },
@@ -1898,6 +2069,10 @@
   {
     "city": "East Glacier Park, MT",
     "stationName": "East Glacier Park",
+    "aliases": [
+      "glacier",
+      "browning"
+    ],
     "stationCode": "GPK",
     "priority": 0
   },
@@ -1928,12 +2103,20 @@
   {
     "city": "Grand Ronde, OR",
     "stationName": "Spirit Mountain Casino",
+    "aliases": [
+      "Spirit Mountain Casino"
+    ],
     "stationCode": "GRM",
     "priority": 0
   },
   {
     "city": "Greenville, NC",
     "stationName": "Greenville",
+    "aliases": [
+      "East Carolina University",
+      "Shaw University",
+      "Kinston"
+    ],
     "stationCode": "GRN",
     "priority": 0
   },
@@ -1994,6 +2177,9 @@
   {
     "city": "Guadalupe, CA",
     "stationName": "Guadalupe",
+    "aliases": [
+      "santa maria"
+    ],
     "stationCode": "GUA",
     "priority": 0
   },
@@ -2162,6 +2348,9 @@
   {
     "city": "Hiouchi, CA",
     "stationName": "Crescent City",
+    "aliases": [
+      "Crescent City"
+    ],
     "stationCode": "HIO",
     "priority": 0
   },
@@ -2198,6 +2387,9 @@
   {
     "city": "Hammond-Whiting, IN",
     "stationName": "Hammond",
+    "aliases": [
+      "Whiting"
+    ],
     "stationCode": "HMI",
     "priority": 0
   },
@@ -2240,6 +2432,10 @@
   {
     "city": "Hood River, OR",
     "stationName": "Hood River",
+    "aliases": [
+      "Bingen-White Salmon",
+      "White Salmon"
+    ],
     "stationCode": "HOO",
     "priority": 0
   },
@@ -2270,6 +2466,9 @@
   {
     "city": "Arcata, CA",
     "stationName": "Cal Poly Humboldt",
+    "aliases": [
+      "Humboldt State University"
+    ],
     "stationCode": "HSU",
     "priority": 0
   },
@@ -2360,6 +2559,9 @@
   {
     "city": "Jacksonville, NC",
     "stationName": "Jacksonville",
+    "aliases": [
+      "Swansboro"
+    ],
     "stationCode": "JNC",
     "priority": 0
   },
@@ -2426,6 +2628,9 @@
   {
     "city": "Kansas City, MO",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "KCY",
     "priority": 0
   },
@@ -2438,6 +2643,9 @@
   {
     "city": "Kelso-Longview, WA",
     "stationName": "Kelso",
+    "aliases": [
+      "Longview"
+    ],
     "stationCode": "KEL",
     "priority": 0
   },
@@ -2522,6 +2730,9 @@
   {
     "city": "Kent Island-Grasonville, MD",
     "stationName": "Grasonville",
+    "aliases": [
+      "Grasonville"
+    ],
     "stationCode": "KNT",
     "priority": 0
   },
@@ -2582,6 +2793,9 @@
   {
     "city": "L'Anse, MI",
     "stationName": "L'Anse",
+    "aliases": [
+      "Lanse"
+    ],
     "stationCode": "LAN",
     "priority": 0
   },
@@ -2594,6 +2808,11 @@
   {
     "city": "Las Vegas, NV",
     "stationName": "McCarran International Airport",
+    "aliases": [
+      "McCarran International",
+      "McCarran Intl",
+      "McCarran Airport"
+    ],
     "stationCode": "LAS",
     "priority": 0
   },
@@ -2612,6 +2831,9 @@
   {
     "city": "Los Angeles, CA",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "LAX",
     "priority": 0
   },
@@ -2768,6 +2990,9 @@
   {
     "city": "East Lansing, MI",
     "stationName": "East Lansing",
+    "aliases": [
+      "Lansing"
+    ],
     "stationCode": "LNS",
     "priority": 0
   },
@@ -2804,6 +3029,9 @@
   {
     "city": "Lorton, VA",
     "stationName": "Auto Train Station",
+    "aliases": [
+      "Washington"
+    ],
     "stationCode": "LOR",
     "priority": 0
   },
@@ -2822,12 +3050,18 @@
   {
     "city": "La Pine, OR",
     "stationName": "La Pine",
+    "aliases": [
+      "LaPine"
+    ],
     "stationCode": "LPN",
     "priority": 0
   },
   {
     "city": "Lompoc-Surf, CA",
     "stationName": "Surf",
+    "aliases": [
+      "Surf"
+    ],
     "stationCode": "LPS",
     "priority": 0
   },
@@ -2846,6 +3080,9 @@
   {
     "city": "Little Rock, AR",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "LRK",
     "priority": 0
   },
@@ -2858,6 +3095,9 @@
   {
     "city": "Lewisburg, PA",
     "stationName": "Lewisburg",
+    "aliases": [
+      "Bucknell University"
+    ],
     "stationCode": "LSB",
     "priority": 0
   },
@@ -2888,6 +3128,9 @@
   {
     "city": "Lathrop-Manteca, CA",
     "stationName": "Manteca",
+    "aliases": [
+      "Manteca"
+    ],
     "stationCode": "LTM",
     "priority": 0
   },
@@ -3098,6 +3341,9 @@
   {
     "city": "Meridian, MS",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "MEI",
     "priority": 0
   },
@@ -3110,6 +3356,9 @@
   {
     "city": "Metropark, NJ",
     "stationName": "Iselin",
+    "aliases": [
+      "iselin"
+    ],
     "stationCode": "MET",
     "priority": 0
   },
@@ -3194,6 +3443,10 @@
   {
     "city": "Milwaukee Airport-Trains, WI",
     "stationName": "General Mitchell Int'l Airport",
+    "aliases": [
+      "General Mitchell",
+      "Mitchell"
+    ],
     "stationCode": "MKA",
     "priority": 0
   },
@@ -3278,6 +3531,9 @@
   {
     "city": "Monarch Mountain, CO",
     "stationName": "Salida",
+    "aliases": [
+      "Salida"
+    ],
     "stationCode": "MOH",
     "priority": 0
   },
@@ -3320,6 +3576,9 @@
   {
     "city": "Montpelier-Berlin, VT",
     "stationName": "Montpelier",
+    "aliases": [
+      "Berlin"
+    ],
     "stationCode": "MPR",
     "priority": 0
   },
@@ -3344,6 +3603,9 @@
   {
     "city": "Maricopa, AZ",
     "stationName": "Maricopa",
+    "aliases": [
+      "Phoenix"
+    ],
     "stationCode": "MRC",
     "priority": 0
   },
@@ -3374,6 +3636,11 @@
   {
     "city": "St. Paul-Minneapolis, MN",
     "stationName": "Minneapolis-St Paul Intl Airport",
+    "aliases": [
+      "St Paul",
+      "Saint Paul",
+      "Minneapolis"
+    ],
     "stationCode": "MSL",
     "priority": 0
   },
@@ -3386,6 +3653,12 @@
   {
     "city": "St. Paul-Minneapolis, MN",
     "stationName": "Union Depot",
+    "aliases": [
+      "Minneapolis",
+      "St Paul",
+      "Saint Paul",
+      "Union Depot"
+    ],
     "stationCode": "MSP",
     "priority": 0
   },
@@ -3416,6 +3689,12 @@
   {
     "city": "Montreal, QC",
     "stationName": "Gare Centrale / Central Station",
+    "aliases": [
+      "Central",
+      "Centrale",
+      "Gare",
+      "Quebec"
+    ],
     "stationCode": "MTR",
     "priority": 0
   },
@@ -3500,12 +3779,19 @@
   {
     "city": "Newbern-Dyersburg, TN",
     "stationName": "Newbern",
+    "aliases": [
+      "Dyersburg"
+    ],
     "stationCode": "NBN",
     "priority": 0
   },
   {
     "city": "New Bern, NC",
     "stationName": "New Bern",
+    "aliases": [
+      "Havelock",
+      "Morehead City"
+    ],
     "stationCode": "NBR",
     "priority": 0
   },
@@ -3572,6 +3858,9 @@
   {
     "city": "Santa Clarita-Newhall, CA",
     "stationName": "Santa Clarita",
+    "aliases": [
+      "Newhall"
+    ],
     "stationCode": "NHL",
     "priority": 0
   },
@@ -3584,6 +3873,9 @@
   {
     "city": "New Haven, CT",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "NHV",
     "priority": 0
   },
@@ -3596,6 +3888,9 @@
   {
     "city": "New London, CT",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "NLC",
     "priority": 0
   },
@@ -3608,6 +3903,9 @@
   {
     "city": "New Orleans, LA",
     "stationName": "Union Passenger Terminal",
+    "aliases": [
+      "Union Passenger Depot"
+    ],
     "stationCode": "NOL",
     "priority": 0
   },
@@ -3662,6 +3960,12 @@
   {
     "city": "North Carolina State Fair, NC",
     "stationName": "Raleigh",
+    "aliases": [
+      "raleigh",
+      "fair",
+      "state fair",
+      "nc state fair"
+    ],
     "stationCode": "NSF",
     "priority": 0
   },
@@ -3680,6 +3984,9 @@
   {
     "city": "Newark, NJ",
     "stationName": "Penn Station",
+    "aliases": [
+      "Penn Station"
+    ],
     "stationCode": "NWK",
     "priority": 0
   },
@@ -3698,6 +4005,13 @@
   {
     "city": "New York, NY",
     "stationName": "Moynihan Train Hall at Penn Sta.",
+    "aliases": [
+      "nyc",
+      "Penn Station",
+      "Moynihan Train Hall",
+      "new york city",
+      "newyork"
+    ],
     "stationCode": "NYP",
     "priority": 0
   },
@@ -3716,6 +4030,11 @@
   {
     "city": "O'Brien, CA",
     "stationName": "O'Brien",
+    "aliases": [
+      "OBrien",
+      "O'Brian",
+      "OBrian"
+    ],
     "stationCode": "OBR",
     "priority": 0
   },
@@ -3794,6 +4113,9 @@
   {
     "city": "Olympia-Lacey, WA",
     "stationName": "Lacey",
+    "aliases": [
+      "Lacey"
+    ],
     "stationCode": "OLW",
     "priority": 0
   },
@@ -3830,6 +4152,9 @@
   {
     "city": "Orlando, FL",
     "stationName": "Orlando",
+    "aliases": [
+      "Disney"
+    ],
     "stationCode": "ORL",
     "priority": 0
   },
@@ -3866,6 +4191,10 @@
   {
     "city": "Oshkosh, WI",
     "stationName": "Special Stop at EAA Air Show",
+    "aliases": [
+      "Wittman",
+      "EAA Air Show"
+    ],
     "stationCode": "OSH",
     "priority": 0
   },
@@ -3878,6 +4207,9 @@
   {
     "city": "Otis, OR - Eastbound",
     "stationName": "Otis",
+    "aliases": [
+      "Rosewood Lodge"
+    ],
     "stationCode": "OTE",
     "priority": 0
   },
@@ -3986,6 +4318,9 @@
   {
     "city": "Portland, OR",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "PDX",
     "priority": 0
   },
@@ -4004,6 +4339,9 @@
   {
     "city": "Pittsburgh, PA",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "PGH",
     "priority": 0
   },
@@ -4022,12 +4360,20 @@
   {
     "city": "Philadelphia, PA",
     "stationName": "William H Gray III 30th St. Sta.",
+    "aliases": [
+      "30th",
+      "Gray",
+      "Grey"
+    ],
     "stationCode": "PHL",
     "priority": 0
   },
   {
     "city": "North Philadelphia, PA",
     "stationName": "Philadelphia",
+    "aliases": [
+      "Philadelphia"
+    ],
     "stationCode": "PHN",
     "priority": 0
   },
@@ -4100,6 +4446,9 @@
   {
     "city": "Pleasanton, CA",
     "stationName": "Pleasanton",
+    "aliases": [
+      "dublin"
+    ],
     "stationCode": "PLS",
     "priority": 0
   },
@@ -4196,12 +4545,18 @@
   {
     "city": "Pasco, WA",
     "stationName": "Pasco",
+    "aliases": [
+      "Walla Walla"
+    ],
     "stationCode": "PSC",
     "priority": 0
   },
   {
     "city": "Petoskey, MI",
     "stationName": "Petsoskey",
+    "aliases": [
+      "Bay View"
+    ],
     "stationCode": "PSK",
     "priority": 0
   },
@@ -4370,6 +4725,9 @@
   {
     "city": "Redding, CA",
     "stationName": "Amtrak Station",
+    "aliases": [
+      "Shasta College"
+    ],
     "stationCode": "RDD",
     "priority": 0
   },
@@ -4412,6 +4770,9 @@
   {
     "city": "Raleigh, NC",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "RGH",
     "priority": 0
   },
@@ -4496,6 +4857,9 @@
   {
     "city": "Running Y Ranch, OR",
     "stationName": "Klamath Falls",
+    "aliases": [
+      "Klamath Falls"
+    ],
     "stationCode": "RNY",
     "priority": 0
   },
@@ -4532,6 +4896,9 @@
   {
     "city": "Rohnert Park, CA",
     "stationName": "Rohnert Park",
+    "aliases": [
+      "Sonoma State University"
+    ],
     "stationCode": "RPC",
     "priority": 0
   },
@@ -4580,6 +4947,10 @@
   {
     "city": "Route 128, MA",
     "stationName": "Westwood",
+    "aliases": [
+      "Boston",
+      "128"
+    ],
     "stationCode": "RTE",
     "priority": 0
   },
@@ -4610,12 +4981,18 @@
   {
     "city": "Richmond, VA",
     "stationName": "Main Street Station",
+    "aliases": [
+      "Main Street"
+    ],
     "stationCode": "RVM",
     "priority": 0
   },
   {
     "city": "Richmond, VA",
     "stationName": "Staples Mill Road Station",
+    "aliases": [
+      "Staples Mills Road"
+    ],
     "stationCode": "RVR",
     "priority": 0
   },
@@ -4634,6 +5011,11 @@
   {
     "city": "St. Albans, VT",
     "stationName": "St Albans",
+    "aliases": [
+      "St Albans",
+      "Saint Albans",
+      "Albans"
+    ],
     "stationCode": "SAB",
     "priority": 0
   },
@@ -4694,6 +5076,10 @@
   {
     "city": "Santa Maria, CA",
     "stationName": "Santa Maria",
+    "aliases": [
+      "guadalupe",
+      "Allan Hancock College"
+    ],
     "stationCode": "SAT",
     "priority": 0
   },
@@ -4742,6 +5128,12 @@
   {
     "city": "St. Catharines, ON",
     "stationName": "St. Catharines",
+    "aliases": [
+      "St Catharines",
+      "Saint Catharines",
+      "Sainte Catharines",
+      "Catharines"
+    ],
     "stationCode": "SCA",
     "priority": 0
   },
@@ -4754,6 +5146,11 @@
   {
     "city": "St. Cloud, MN",
     "stationName": "St. Cloud",
+    "aliases": [
+      "St Cloud",
+      "Saint Cloud",
+      "Cloud"
+    ],
     "stationCode": "SCD",
     "priority": 0
   },
@@ -4790,6 +5187,9 @@
   {
     "city": "Seattle, WA",
     "stationName": "King Street Station",
+    "aliases": [
+      "King Street"
+    ],
     "stationCode": "SEA",
     "priority": 0
   },
@@ -4802,12 +5202,19 @@
   {
     "city": "Seaside-Sand City, CA",
     "stationName": "Sand City",
+    "aliases": [
+      "Sand City"
+    ],
     "stationCode": "SES",
     "priority": 0
   },
   {
     "city": "Sanford, FL",
     "stationName": "Auto Train Station",
+    "aliases": [
+      "Orlando",
+      "Disney"
+    ],
     "stationCode": "SFA",
     "priority": 0
   },
@@ -4850,12 +5257,21 @@
   {
     "city": "San Jose, CA",
     "stationName": "Diridon Station",
+    "aliases": [
+      "Diridon"
+    ],
     "stationCode": "SJC",
     "priority": 0
   },
   {
     "city": "St. Joseph-Benton Harbor, MI",
     "stationName": "St. Joseph",
+    "aliases": [
+      "St Joseph",
+      "Saint Joseph",
+      "Joseph",
+      "Benton Harbor"
+    ],
     "stationCode": "SJM",
     "priority": 0
   },
@@ -4922,6 +5338,10 @@
   {
     "city": "South Lake Tahoe, CA",
     "stationName": "Stateline Transit Center",
+    "aliases": [
+      "Lake Tahoe",
+      "Tahoe"
+    ],
     "stationCode": "SLH",
     "priority": 0
   },
@@ -4934,18 +5354,31 @@
   {
     "city": "San Luis Obispo, CA",
     "stationName": "Amtrak Station",
+    "aliases": [
+      "Cuesta College"
+    ],
     "stationCode": "SLO",
     "priority": 0
   },
   {
     "city": "San Luis Obispo, CA",
     "stationName": "Cal Poly",
+    "aliases": [
+      "Cuesta College"
+    ],
     "stationCode": "SLP",
     "priority": 0
   },
   {
     "city": "St-Lambert, QC",
     "stationName": "St-Lambert",
+    "aliases": [
+      "St Lambert",
+      "St. Lambert",
+      "Saint Lambert",
+      "Lambert",
+      "Quebec"
+    ],
     "stationCode": "SLQ",
     "priority": 0
   },
@@ -4958,6 +5391,10 @@
   {
     "city": "South Lake Tahoe, CA",
     "stationName": "South Y Transit Center",
+    "aliases": [
+      "Lake Tahoe",
+      "Tahoe"
+    ],
     "stationCode": "SLT",
     "priority": 0
   },
@@ -5090,6 +5527,9 @@
   {
     "city": "San Pedro, CA",
     "stationName": "Catalina Express Terminal",
+    "aliases": [
+      "long beach"
+    ],
     "stationCode": "SPD",
     "priority": 0
   },
@@ -5120,12 +5560,19 @@
   {
     "city": "South Shore-South Portsmouth, KY",
     "stationName": "South Shore",
+    "aliases": [
+      "Portsmouth",
+      "South Portsmouth"
+    ],
     "stationCode": "SPM",
     "priority": 0
   },
   {
     "city": "San Pedro, CA",
     "stationName": "Public Library",
+    "aliases": [
+      "long beach"
+    ],
     "stationCode": "SPO",
     "priority": 0
   },
@@ -5180,6 +5627,9 @@
   {
     "city": "Selinsgrove, PA",
     "stationName": "Selinsgrove",
+    "aliases": [
+      "Susquehanna University"
+    ],
     "stationCode": "SSG",
     "priority": 0
   },
@@ -5192,6 +5642,9 @@
   {
     "city": "Selma-Smithfield, NC",
     "stationName": "Selma",
+    "aliases": [
+      "Smithfield"
+    ],
     "stationCode": "SSM",
     "priority": 0
   },
@@ -5210,24 +5663,43 @@
   {
     "city": "State College, PA",
     "stationName": "State College",
+    "aliases": [
+      "Penn State",
+      "Happy Valley"
+    ],
     "stationCode": "STC",
     "priority": 0
   },
   {
     "city": "St. George, UT",
     "stationName": "St. George",
+    "aliases": [
+      "St George",
+      "Saint George",
+      "George"
+    ],
     "stationCode": "STG",
     "priority": 0
   },
   {
     "city": "St. Ignace, MI",
     "stationName": "St. Ignace",
+    "aliases": [
+      "St Ignace",
+      "Saint Ignace",
+      "Ignace"
+    ],
     "stationCode": "STI",
     "priority": 0
   },
   {
     "city": "St. Louis, MO",
     "stationName": "Gateway Station",
+    "aliases": [
+      "St Louis",
+      "Saint Louis",
+      "Louis"
+    ],
     "stationCode": "STL",
     "priority": 0
   },
@@ -5252,6 +5724,16 @@
   {
     "city": "St. Petersburg, FL",
     "stationName": "St. Petersburg",
+    "aliases": [
+      "St Petersburg",
+      "Saint Petersburg",
+      "Petersburg",
+      "Clearwater",
+      "Pinellas Park",
+      "Pinella's Park",
+      "Pinelas Park",
+      "Pinelas Park"
+    ],
     "stationCode": "STP",
     "priority": 0
   },
@@ -5270,6 +5752,9 @@
   {
     "city": "Suisun-Fairfield, CA",
     "stationName": "Suisun City",
+    "aliases": [
+      "Fairfield"
+    ],
     "stationCode": "SUI",
     "priority": 0
   },
@@ -5288,6 +5773,9 @@
   {
     "city": "Sun City-Menifee, CA",
     "stationName": "Sun City-Menifee",
+    "aliases": [
+      "Menifee"
+    ],
     "stationCode": "SUT",
     "priority": 0
   },
@@ -5408,6 +5896,12 @@
   {
     "city": "The Dalles, OR",
     "stationName": "The Dalles",
+    "aliases": [
+      "Bingen-White Salmon",
+      "White Salmon",
+      "Dalles",
+      "Wishram"
+    ],
     "stationCode": "THD",
     "priority": 0
   },
@@ -5438,6 +5932,9 @@
   {
     "city": "Tampa, FL",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "TPA",
     "priority": 0
   },
@@ -5486,6 +5983,9 @@
   {
     "city": "Turlock-Denair, CA",
     "stationName": "Denair",
+    "aliases": [
+      "Denair"
+    ],
     "stationCode": "TRK",
     "priority": 0
   },
@@ -5540,6 +6040,10 @@
   {
     "city": "The Villages-Lady Lake, FL",
     "stationName": "Lady Lake",
+    "aliases": [
+      "Lady Lake",
+      "Villages"
+    ],
     "stationCode": "TVF",
     "priority": 0
   },
@@ -5552,6 +6056,10 @@
   {
     "city": "Toronto, ON",
     "stationName": "Union Station",
+    "aliases": [
+      "Ontario",
+      "Union"
+    ],
     "stationCode": "TWO",
     "priority": 0
   },
@@ -5582,6 +6090,9 @@
   {
     "city": "Ukiah, CA",
     "stationName": "Ukiah",
+    "aliases": [
+      "Mendocino College"
+    ],
     "stationCode": "UKH",
     "priority": 0
   },
@@ -5600,6 +6111,10 @@
   {
     "city": "Vancouver, BC Canada",
     "stationName": "Pacific Central Station",
+    "aliases": [
+      "Pacific Central",
+      "British Columbia"
+    ],
     "stationCode": "VAC",
     "priority": 0
   },
@@ -5672,6 +6187,9 @@
   {
     "city": "Ferrisburgh-Vergennes, VT",
     "stationName": "Ferrisburgh",
+    "aliases": [
+      "vergennes"
+    ],
     "stationCode": "VRN",
     "priority": 0
   },
@@ -5690,6 +6208,9 @@
   {
     "city": "Waterbury-Stowe, VT",
     "stationName": "Waterbury",
+    "aliases": [
+      "Stowe"
+    ],
     "stationCode": "WAB",
     "priority": 0
   },
@@ -5720,6 +6241,9 @@
   {
     "city": "Washington, DC",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "WAS",
     "priority": 0
   },
@@ -5828,6 +6352,9 @@
   {
     "city": "West Glacier, MT",
     "stationName": "West Glacier",
+    "aliases": [
+      "glacier"
+    ],
     "stationCode": "WGL",
     "priority": 0
   },
@@ -5846,6 +6373,10 @@
   {
     "city": "Wishram, WA",
     "stationName": "Wishram",
+    "aliases": [
+      "Dalles",
+      "The Dalles"
+    ],
     "stationCode": "WIH",
     "priority": 0
   },
@@ -5864,6 +6395,9 @@
   {
     "city": "Fraser-Winter Park, CO",
     "stationName": "Fraser",
+    "aliases": [
+      "Winter Park"
+    ],
     "stationCode": "WIP",
     "priority": 0
   },
@@ -5888,12 +6422,20 @@
   {
     "city": "Williamsport, PA",
     "stationName": "Williamsport",
+    "aliases": [
+      "Lockhaven University",
+      "Pennsylvania College",
+      "Lycoming College"
+    ],
     "stationCode": "WLM",
     "priority": 0
   },
   {
     "city": "Wilson, NC",
     "stationName": "Wilson",
+    "aliases": [
+      "Goldsboro"
+    ],
     "stationCode": "WLN",
     "priority": 0
   },
@@ -5948,6 +6490,11 @@
   {
     "city": "Windsor-Mt. Ascutney, VT",
     "stationName": "Windsor",
+    "aliases": [
+      "Mt. Ascutney",
+      "Mt Ascutney",
+      "mount ascutney"
+    ],
     "stationCode": "WNM",
     "priority": 0
   },
@@ -5990,6 +6537,9 @@
   {
     "city": "Worcester, MA",
     "stationName": "Union Station",
+    "aliases": [
+      "Union Station"
+    ],
     "stationCode": "WOR",
     "priority": 0
   },
@@ -6008,6 +6558,9 @@
   {
     "city": "Winter Park, CO",
     "stationName": "Winter Park Resort Trn Platform",
+    "aliases": [
+      "ski train"
+    ],
     "stationCode": "WPR",
     "priority": 0
   },
@@ -6068,6 +6621,9 @@
   {
     "city": "Wausau-Rothschild, WI",
     "stationName": "Lamers Connect bus station",
+    "aliases": [
+      "Rothschild"
+    ],
     "stationCode": "WSU",
     "priority": 0
   },
@@ -6098,6 +6654,9 @@
   {
     "city": "Walla Walla, WA",
     "stationName": "Walla Walla",
+    "aliases": [
+      "Pasco"
+    ],
     "stationCode": "WWA",
     "priority": 0
   },

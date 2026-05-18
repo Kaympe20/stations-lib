@@ -2,6 +2,7 @@ export type Station = {
     city?: string;
     stationID?: number;
     stationName: string
+    aliases?: string[];
     translations?: translation[];
     stationCode: string;
     longerStationCode?: string;

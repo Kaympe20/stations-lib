@@ -23,6 +23,9 @@ export async function getAmtrakStations() {
     const stations: Station[] = data.features.map(({ attributes }) => ({
         city: attributes.StationName,
         stationName: !(attributes.Name === " ") ? attributes.Name : attributes.City,
+        aliases: attributes.StationAliases !== " "
+            ? attributes.StationAliases.split(",")
+            : undefined,
         stationCode: attributes.Code,
         priority: 0,
     }));
