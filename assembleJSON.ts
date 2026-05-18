@@ -26,14 +26,13 @@ Bun.write('./stations.csv', papaparse.unparse({
 
 function convertAllTranslationsToJSON(dataToConvert: Station[]): object[] {
     let newStationsArray: object[] = [];
-    let isFirst: boolean = true;
-
+    
     for (let station of dataToConvert) {
         let newStation: any = station;
 
         if (station.translations) {
             newStation.translations = papaparse.unparse(station.translations, {
-                header: isFirst,
+                header: false,
             });
             isFirst = false;
         }
