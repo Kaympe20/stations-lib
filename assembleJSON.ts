@@ -3,7 +3,7 @@ import { getChinaStations } from "./sources/china";
 import type { Station } from "./types/station";
 
 
-let data: Station[] = Array.prototype.concat(await Promise.all([
+let data: Station[] = Array.prototype.concat(...await Promise.all([
     getAmtrakStations(),
     getChinaStations(),
 ]))
