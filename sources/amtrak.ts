@@ -21,8 +21,6 @@ export async function getUsStations() {
     // }
 
     const stations: Station[] = data.features.map(({ attributes }) => ({
-        
-
         city: attributes.StationName,
         stationName: !(attributes.Name === " ") ? attributes.Name : attributes.City,
         stationCode: attributes.Code,
@@ -32,7 +30,7 @@ export async function getUsStations() {
     return stations;
 }
 
-//console.log(await getUsStations()) testing
+console.log(await getUsStations()) // testing
 
 interface apiResponse {
     features: Array<{
