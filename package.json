@@ -1,5 +1,5 @@
 {
-  "name": "station2code",
+  "name": "stations-lib",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {

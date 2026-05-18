@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "station2code",
+      "name": "stations-lib",
       "devDependencies": {
         "@types/bun": "^1.3.14",
       },

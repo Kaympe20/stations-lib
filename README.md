@@ -1,4 +1,4 @@
-# station2code
+# stations-lib
 
 To install dependencies:
 
