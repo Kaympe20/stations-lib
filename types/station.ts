@@ -1,7 +1,8 @@
 export type station = {
     city?: string;
-    englishStationName: string;
-    localLangStationName?: string;
+    stationName: string
+    translations?: string;
     stationCode: string;
     sixLetterStationCode: string;
 }
+
