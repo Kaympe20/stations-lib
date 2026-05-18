@@ -1,0 +1,4396 @@
+city,stationID,stationName,aliases,translations,stationCode,longerStationCode,altCodes,priority
+"Alma, MI",,Alma,,,AAM,,,0
+"Albany, NY",,Albany Intl Airport,,,ABA,,,0
+"Abbotsford-Colby, WI",,Colby,Colby,,ABB,,,0
+"Aberdeen, MD",,Aberdeen,,,ABE,,,0
+"Absecon, NJ",,Absecon,,,ABN,,,0
+"Albuquerque, NM",,Albuquerque,,,ABQ,,,0
+"Antioch-Pittsburg, CA",,Antioch,Pittsburg,,ACA,,,0
+"Atlantic City, NJ",,Atlantic City,,,ACB,,,0
+"Arcadia, MO",,Arcadia,,,ACD,,,0
+"Atlantic City, NJ",,Atlantic City,,,ACY,,,0
+"Ardmore, OK",,Ardmore,,,ADM,,,0
+"Augusta, ME",,Augusta,,,AGM,,,0
+"Ashland, OR",,Southern Oregon University,,,AHL,,,0
+"Atwater, CA",,Castle Air Museum,,,AIR,,,0
+"Ashland, KY",,Ashland,,,AKY,,,0
+"Alanson, MI",,Alanson,,,ALA,,,0
+"Albany-Rensselaer, NY",,Rensselaer,,,ALB,,,0
+"Alliance, OH",,Alliance,,,ALC,,,0
+"Alderson, WV",,Alderson,,,ALD,,,0
+"Albion, MI",,Albion,,,ALI,,,0
+"Alpena, MI",,Alpena,,,ALM,,,0
+"Alton, IL",,Alton,,,ALN,,,0
+"Alpine, TX",,Alpine,,,ALP,,,0
+"Altoona, PA",,Altoona,,,ALT,,,0
+"Alexandria, VA",,Alexandria,,,ALX,,,0
+"Albany, OR",,Albany,,,ALY,,,0
+"Amsterdam, NY",,Amsterdam,,,AMS,,,0
+"Anaheim, CA",,Anaheim,,,ANA,,,0
+"Almont, CO",,Almont,,,ANT,,,0
+"Appleton, WI",,Appleton,,,APP,,,0
+"Ann Arbor, MI",,Ann Arbor,,,ARB,,,0
+"Arcata, CA",,Transit Center,"Humboldt State University,McKinleyville",,ARC,,,0
+"Ardmore, PA",,Ardmore,,,ARD,,,0
+"Arkadelphia, AR",,Arkadelphia,,,ARK,,,0
+"Auburn, CA",,Auburn,,,ARN,,,0
+"Astoria, OR",,Astoria,,,ART,,,0
+"Ashland, VA",,Ashland,,,ASD,,,0
+"Aldershot, ON",,Aldershot,,,AST,,,0
+"Atascadero, CA",,Atascadero,,,ATA,,,0
+"Atlanta, GA",,Atlanta,Peachtree,,ATL,,,0
+"Anniston, AL",,Anniston,,,ATN,,,0
+"Atco, NJ",,Atco,,,ATO,,,0
+"Auburn, ME",,Auburn,Lewiston,,AUR,,,0
+"Austin, TX",,Austin,,,AUS,,,0
+"Allentown, PA",,Allentown,Lehigh University,,AWN,,,0
+"Baker City, OR",,Baker City,,,BAK,,,0
+"Baltimore, MD",,Penn Station,Penn Station,,BAL,,,0
+"Bangor, MI",,Bangor,,,BAM,,,0
+"Bangor, ME",,Bangor,,,BAN,,,0
+"Barstow, CA",,Harvey House Rail Depot,,,BAR,,,0
+"Bay Saint Louis, MS",,Bay St. Louis,,,BAS,,,0
+"Burbank, CA",,Downtown,,,BBK,,,0
+"Barstow, CA",,McDonald's restaurant,,,BBS,,,0
+"Boston, MA",,Back Bay Station,"Boston,Back Bay,westwood",,BBY,,,0
+"Buchanan, OR",,Buchanan,,,BCH,,,0
+"Burke Centre, VA",,Burke,,,BCV,,,0
+"Bay City, MI",,Bay City,,,BCY,,,0
+"Brandon, VT",,Brandon,,,BDN,,,0
+"Bradenton, FL",,Bradenton,Ellenton,,BDT,,,0
+"Bonduel, WI",,Bonduel,,,BDU,,,0
+"Bellingham, WA",,Bellingham,,,BEL,,,0
+"Benson, AZ",,Benson,,,BEN,,,0
+"Berlin, CT",,Berlin,,,BER,,,0
+"South Beloit, IL",,South Beloit,,,BET,,,0
+"Bakersfield, CA",,Bakersfield,,,BFD,,,0
+"Belfast, ME",,Belfast,,,BFT,,,0
+"Buffalo, NY",,Exchange Street Station,Exchange,,BFX,,,0
+"Big Rapids, MI",,Big Rapids,,,BGP,,,0
+"Birmingham, AL",,Birmingham,,,BHM,,,0
+"Brothers, OR",,Brothers,,,BHS,,,0
+"Berlin, NH",,Berlin,,,BIN,,,0
+"Big Run, PA",,Big Run,,,BIR,,,0
+"Biloxi, MS",,Biloxi,,,BIX,,,0
+"Brookings, OR",,Brookings,,,BKO,,,0
+"Banks, OR",,Banks,,,BKS,,,0
+"Berkeley, CA",,Berkeley,,,BKY,,,0
+"Bellows Falls, VT",,Bellows Falls,,,BLF,,,0
+"Blacksburg, VA",,Virginia Tech,Virginia Tech,,BLK,,,0
+"Blairsville, PA",,Blairsville,,,BLS,,,0
+"Burlington, VT",,Downtown Transit Center,,,BLT,,,0
+"Beaumont, TX",,Beaumont,,,BMT,,,0
+"Burlington, NC",,Burlington,,,BNC,,,0
+"Bend, OR",,Bend,,,BND,,,0
+"Branford, CT",,Branford,,,BNF,,,0
+"Bingen-White Salmon, WA",,Bingen,"White Salmon,Hood River,Dalles,The Dalles",,BNG,,,0
+"Bennington, VT",,Green Mountain Express Bus Term,,,BNI,,,0
+"Bloomington-Normal, IL",,Normal,,,BNL,,,0
+"Burns, OR",,Burns,,,BNS,,,0
+"Boston, MA",,North Station,North Station,,BON,,,0
+"Boston, MA",,South Station,South Station,,BOS,,,0
+"Brattleboro, VT",,Brattleboro,,,BRA,,,0
+"Baraboo, WI",,Baraboo,,,BRB,,,0
+"Brookhaven, MS",,Brookhaven,,,BRH,,,0
+"Brunswick, ME",,Brunswick,,,BRK,,,0
+"Burlington, IA",,Burlington,,,BRL,,,0
+"Browning, MT",,Browning,"glacier,east glacier",,BRO,,,0
+"Bridgeport, CT",,Bridgeport,,,BRP,,,0
+"Battle Creek, MI",,Battle Creek,,,BTL,,,0
+"Burlington, VT",,Union Station,,,BTN,,,0
+"Baton Rouge, LA",,Baton Rouge,,,BTR,,,0
+"South Burlington, VT",,Burlington International Airport,Burlington,,BTV,,,0
+"Buffalo, NY",,Depew Station,Depew,,BUF,,,0
+"Buellton, CA",,Buellton,,,BUL,,,0
+"Burbank, CA",,Hollywood Burbank Airport,Hollywood,,BUR,,,0
+"Buena Vista, CO",,Buena Vista,,,BUV,,,0
+"Beaver Marsh, OR",,Beaver Marsh,,,BVM,,,0
+"Beaverton, OR",,Beaverton,,,BVT,,,0
+"BWI Marshall Airport, MD",,Baltimore,"Baltimore,bwi airport",,BWI,,,0
+"Bryan, OH",,Bryan,,,BYN,,,0
+"Camden, SC",,Camden,,,CAM,,,0
+"Conway, NH",,Conway,,,CAY,,,0
+"Crested Butte, CO",,Crested Butte,,,CBC,,,0
+"Cannon Beach, OR",,Cannon Beach,,,CBO,,,0
+"Cleburne, TX",,Cleburne,,,CBR,,,0
+"Columbus, WI",,Columbus,,,CBS,,,0
+"Coos Bay, OR",,Coos Bay,,,CBY,,,0
+"Cabazon, CA",,Cabazon,,,CBZ,,,0
+"Cambridge, MD",,Cambridge,,,CDE,,,0
+"Carbondale, IL",,Carbondale,,,CDL,,,0
+"Camden-Rockport, ME",,Rockport,,,CDN,,,0
+"Cedar Springs, MI",,Cedar Springs,,,CDS,,,0
+"Centralia, IL",,Centralia,,,CEN,,,0
+"Clearfield, PA",,Clearfield,,,CFD,,,0
+"Colfax, WA",,Colfax,,,CFX,,,0
+"Coarsegold, CA",,Coarsegold,,,CGD,,,0
+"Cheboygan, MI",,Cheboygan,,,CHB,,,0
+"Chicago, IL",,Union Station,Union Station,,CHI,,,0
+"Charlevoix, MI",,Charlevoix,,,CHL,,,0
+"Champaign-Urbana, IL",,Champaign,Urbana,,CHM,,,0
+"Chiloquin, OR",,Chiloquin,"Kla-Mo-Ya Casino,Kla Mo Ya Casino,Klamoya Casino",,CHN,,,0
+"Chippewa Falls, WI",,Chippewa Falls,,,CHP,,,0
+"Charleston, SC",,North Charleston,,,CHS,,,0
+"Charleston, WV",,Charleston,,,CHW,,,0
+"Chico, CA",,Chico,,,CIC,,,0
+"Cincinnati, OH",,Union Terminal,Union Terminal,,CIN,,,0
+"Claremont, NH",,Claremont,,,CLA,,,0
+"Columbia, SC",,Columbia,,,CLB,,,0
+"Cadillac, MI",,Cadillac,,,CLC,,,0
+"Cleveland, OH",,Cleveland,,,CLE,,,0
+"Clifton Forge, VA",,Clifton Forge,,,CLF,,,0
+"Claremont, CA",,Claremont,,,CLM,,,0
+"Clinton, CT",,Clinton,,,CLN,,,0
+"Culpeper, VA",,Culpeper,,,CLP,,,0
+"Clare, MI",,Clare,,,CLR,,,0
+"Charlotte, NC",,Charlotte,,,CLT,,,0
+"Cloverdale, CA",,Cloverdale,,,CLV,,,0
+"Camarillo, CA",,Camarillo,,,CML,,,0
+"Chemult, OR",,Chemult,,,CMO,,,0
+"Col Allensworth State Park, CA",,Allensworth,"Allensworth,Colonel Allensworth,cnl",,CNL,,,0
+"Castleton, VT",,Castleton,,,CNV,,,0
+"Corcoran, CA",,Corcoran,,,COC,,,0
+"Connersville, IN",,Connersville,,,COI,,,0
+"Coatesville, PA",,Coatesville,,,COT,,,0
+"Connellsville, PA",,Connellsville,,,COV,,,0
+"Colfax, CA",,Colfax,,,COX,,,0
+"Cameron Park, CA",,Cameron Park,"Cambridge Road,Cambridge Rd.",,CPC,,,0
+"Carpinteria, CA",,Carpinteria,,,CPN,,,0
+"Crescent City, CA",,Crescent City,,,CRC,,,0
+"Crawfordsville, IN",,Crawfordsville,,,CRF,,,0
+"Cherry Hill, NJ",,Cherry Hill,,,CRH,,,0
+"Carmel, CA",,Carmel,,,CRM,,,0
+"Creston, IA",,Creston,,,CRN,,,0
+"Croton-Harmon, NY",,Croton-on-Hudson,,,CRT,,,0
+"Carlinville, IL",,Carlinville,,,CRV,,,0
+"Clemson, SC",,Clemson,,,CSN,,,0
+"Crescent, OR",,Crescent,,,CSO,,,0
+"Centralia, WA",,Centralia,,,CTL,,,0
+"Canton, NY",,Downtown,,,CTO,,,0
+"Canton, NY",,State University of New York,,,CTS,,,0
+"Cumberland, MD",,Allegany College of Maryland,,,CUA,,,0
+"Cumberland, MD",,Amtrak Station,,,CUM,,,0
+"Cut Bank, MT",,Cut Bank,,,CUT,,,0
+"Corvallis, OR",,Downtown Transit Center,,,CVI,,,0
+"Cave Junction, OR",,Cave Junction,,,CVJ,,,0
+"Corvallis, OR",,Oregon State University,,,CVO,,,0
+"Charlottesville, VA",,Charlottesville,,,CVS,,,0
+"Colchester, VT",,Colchester,,,CVT,,,0
+"Cornwells Heights, PA",,Cornwells Heights,,,CWH,,,0
+"Chatsworth, CA",,Chatsworth,,,CWT,,,0
+"Cary, NC",,Cary,,,CYN,,,0
+"Dallas, TX",,Greyhound Station,,,DAG,,,0
+"Dallas, TX",,Eddie Bernice Johnson Union Sta,Union Station,,DAL,,,0
+"Damariscotta, ME",,Damariscotta,,,DAM,,,0
+"Danville, VA",,Danville,,,DAN,,,0
+"Dayton-Trotwood, OH",,Trotwood,Trotwood,,DAT,,,0
+"Davis, CA",,Davis,,,DAV,,,0
+"Du Bois, PA",,Du Bois,,,DBI,,,0
+"Dublin-Pleasanton, CA",,Pleasanton,Pleasanton,,DBP,,,0
+"Discovery Bay, WA",,Discovery Bay,,,DBY,,,0
+"Dade City, FL",,Dade City,,,DDE,,,0
+"Dodge City, KS",,Dodge City,,,DDG,,,0
+"Deming, NM",,Deming,,,DEM,,,0
+"Denver, CO",,Union Station,Union Station,,DEN,,,0
+"Dearborn, MI",,Dearborn,,,DER,,,0
+"Detroit, MI",,Detroit,,,DET,,,0
+"Deerfield Beach, FL",,Deerfield Beach,,,DFB,,,0
+"Durham, NH",,University of New Hampshire,,,DHM,,,0
+"Dillon, SC",,Dillon,,,DIL,,,0
+"De Kalb Junction, NY",,De Kalb Junction,,,DKJ,,,0
+"Delray Beach, FL",,Delray Beach,,,DLB,,,0
+"DeLand, FL",,DeLand,,,DLD,,,0
+"Detroit Lakes, MN",,Detroit Lakes,,,DLK,,,0
+"Delmont, PA",,Delmont,,,DLT,,,0
+"Durham, NC",,Durham,,,DNC,,,0
+"Denmark, SC",,Denmark,,,DNK,,,0
+"Dowagiac, MI",,Dowagiac,,,DOA,,,0
+"Dover, NH",,Dover,,,DOV,,,0
+"Downingtown, PA",,Downingtown,,,DOW,,,0
+"Green Bay, WI",,De Pere Park and Ride,,,DPE,,,0
+"Du Quoin, IL",,Du Quoin,,,DQN,,,0
+"Durand, MI",,Durand,,,DRD,,,0
+"Del Rio, TX",,Del Rio,,,DRT,,,0
+"Drewsey, OR",,Drewsey,,,DRW,,,0
+"Duluth, MN",,Transportation Center,,,DUL,,,0
+"Dunsmuir, CA",,Dunsmuir,,,DUN,,,0
+"Duluth, MN",,University of Minnesota,,,DUU,,,0
+"Danville, IL",,Danville,,,DVI,,,0
+"Devils Lake, ND",,Devils Lake,,,DVL,,,0
+"Davenport, IA",,Davenport,,,DVP,,,0
+"Dwight, IL",,Dwight,,,DWT,,,0
+"Daytona Beach, FL",,Daytona Beach,,,DYA,,,0
+"Dyer, IN",,Dyer,,,DYE,,,0
+"Ebensburg, PA",,Ebensburg,,,EBN,,,0
+"Edmonds, WA",,Edmonds,,,EDM,,,0
+"Effingham, IL",,Effingham,,,EFG,,,0
+"Egg Harbor City, NJ",,Egg Harbor City,,,EGH,,,0
+"Eureka, CA",,Eureka,,,EKA,,,0
+"Elk Grove, CA",,Elk Grove,,,EKG,,,0
+"Elkhart, IN",,Elkhart,,,EKH,,,0
+"Elko, NV",,Elko,,,ELK,,,0
+"El Paso, TX",,Union Depot,Union Depot,,ELP,,,0
+"Elsie, OR",,Elsie,,,ELS,,,0
+"Elizabethtown, PA",,Elizabethtown,,,ELT,,,0
+"Elyria, OH",,Elyria,,,ELY,,,0
+"Escanaba, MI",,Escanaba,,,EMI,,,0
+"Emeryville, CA",,Emeryville,,,EMY,,,0
+"Ephrata, WA",,Ephrata,,,EPH,,,0
+"El Portal, CA",,El Portal,,,EPL,,,0
+"Erie, PA",,Erie,,,ERI,,,0
+"El Segundo, CA",,El Segundo,,,ESG,,,0
+"Essex, MT",,Essex,,,ESM,,,0
+"Easton, MD",,Easton,,,ESN,,,0
+"Essex Junction, VT",,Amtrak Station,Burlington,,ESX,,,0
+"Eugene-Springfield, OR",,Chase Bank,Springfield,,EUB,,,0
+"Eau Claire, WI",,University of Wisconsin,,,EUC,,,0
+"Eugene, OR",,Amtrak Station,,,EUG,,,0
+"Eugene, OR",,University of Oregon,,,EUO,,,0
+"Evans Mills, NY",,Evans Mills,,,EVM,,,0
+"Everett, WA",,Everett,,,EVR,,,0
+"Evanston, WY",,Evanston,,,EVY,,,0
+"Newark, NJ",,Liberty International Airport,"Liberty International,Liberty Airport,Liberty Intl",,EWR,,,0
+"Exeter, NH",,Exeter,,,EXR,,,0
+"Exton, PA",,Exton,,,EXT,,,0
+"Fargo, ND",,Fargo,,,FAR,,,0
+"Fayetteville, NC",,Fayetteville,,,FAY,,,0
+"Fredericksburg, VA",,Fredericksburg,,,FBG,,,0
+"Fort Collins, CO",,Fort Collins,"Ft Collins,Ft. Collins,Collins",,FCC,,,0
+"Fond du Lac, WI",,Fond du Lac,,,FDL,,,0
+"Fort Edward-Glens Falls, NY",,Fort Edward,"Ft Edward,Ft. Edward,Edward,Glens Falls, Glenns Falls,Hudson Falls",,FED,,,0
+"Fairfield-Vacaville, CA",,Fairfield,Vacaville,,FFV,,,0
+"Flagstaff, AZ",,Greyhound Station,,,FGG,,,0
+"Fort Hood, TX",,Fort Hood,"Ft Hood,Ft. Hood,Hood,Cavazos,Ft Cavazos,Ft. Cavazos",,FHD,,,0
+"Fillmore, CA",,Fillmore,,,FIL,,,0
+"Flagstaff, AZ",,Amtrak Station,,,FLG,,,0
+"Flint, MI",,Flint,,,FLN,,,0
+"Florence, SC",,Florence,,,FLO,,,0
+"Fort Madison, IA",,Historic Santa Fe Station,"Ft Madison,Ft. Madison,Madison",,FMD,,,0
+"Fort Morgan, CO",,Fort Morgan,"Ft Morgan,Ft. Morgan,Morgan",,FMG,,,0
+"Fremont, CA",,Amtrak/ACE Station,,,FMT,,,0
+"Fresno, CA",,Fresno,,,FNO,,,0
+"Framingham, MA",,Framingham,,,FRA,,,0
+"Frederick, MD",,Transit Center/MARC Station,,,FRC,,,0
+"Freeport, ME",,Freeport,,,FRE,,,0
+"Fairplay, CO",,Fairplay,,,FRP,,,0
+"Frederick, MD",,Frederick Municipal Airport,,,FRR,,,0
+"Fremont, CA",,VTA Transit Bus Stop,,,FRT,,,0
+"Frostburg, MD",,Frostburg State University,,,FSB,,,0
+"Fish Camp, CA",,Fish Camp,,,FSH,,,0
+"Florence, OR",,Carl G. Washburne State Park,"Washburne State Park,Carl Washburne State Park",,FSP,,,0
+"Fortuna, CA",,Fortuna,,,FTA,,,0
+"Ticonderoga, NY",,Ticonderoga,,,FTC,,,0
+"Fort Lauderdale, FL",,Fort Lauderdale,"Ft Lauderdale,Ft. Lauderdale,Lauderdale",,FTL,,,0
+"North Fort Myers, FL",,Fort Myers,"Ft Myers,Ft. Myers,Myers",,FTM,,,0
+"Fulton, KY",,Fulton,,,FTN,,,0
+"Fort Worth, TX",,Central Station,"Ft Worth,Ft. Worth,Worth",,FTW,,,0
+"Fullerton, CA",,Fullerton,,,FUL,,,0
+"Santa Clara, CA",,Great America,,,GAC,,,0
+"Gastonia, NC",,Gastonia,,,GAS,,,0
+"Galesburg, IL",,Galesburg,,,GBB,,,0
+"Goldsboro, NC",,Goldsboro,,,GBO,,,0
+"Garberville, CA",,Garberville,,,GBV,,,0
+"Green Bay, WI",,Transportation Center,,,GBY,,,0
+"Grand Canyon Village, AZ",,Maswik Lodge,,,GCB,,,0
+"Garden City, KS",,Garden City,,,GCK,,,0
+"Glendale, CA",,Glendale,,,GDL,,,0
+"Spokane, WA",,Spokane Airport,,,GEG,,,0
+"Greenfield, MA",,Greenfield,,,GFD,,,0
+"Grand Forks, ND",,Grand Forks,,,GFK,,,0
+"Glens Falls, NY",,Glens Falls,"Glenns Falls,Hudson Falls",,GFS,,,0
+"Glasgow, MT",,Glasgow,,,GGW,,,0
+"Gearhart - Northbound, OR",,Dollar General Store,,,GHN,,,0
+"Gearhart - Southbound, OR",,Gearhart Bowl & Fultano's Pizza,,,GHT,,,0
+"Gilchrist, OR",,Gilchrist,,,GIL,,,0
+"Grand Junction, CO",,Grand Junction,,,GJT,,,0
+"Gainesville, TX",,Gainesville,,,GLE,,,0
+"Gilman, IL",,Gilman,,,GLM,,,0
+"Glenview, IL",,Glenview,,,GLN,,,0
+"Gallup, NM",,Gallup,,,GLP,,,0
+"Gilroy, CA",,Gilroy,,,GLY,,,0
+"Grimsby, ON",,Grimsby,,,GMS,,,0
+"Greensburg, PA",,Amtrak Station,,,GNB,,,0
+"Gainesville, FL",,Gainesville,,,GNF,,,0
+"Greensburg, PA",,Westmoreland Transit Center,,,GNG,,,0
+"Gainesville, GA",,Gainesville,,,GNS,,,0
+"Florence, OR",,Grocery Outlet Florence,,,GOF,,,0
+"Government Camp, OR",,Government Camp,,,GOV,,,0
+"East Glacier Park, MT",,East Glacier Park,"glacier,browning",,GPK,,,0
+"Granby, CO",,Granby,,,GRA,,,0
+"Grand Ronde, OR",,Community Center,,,GRC,,,0
+"Gresham, OR",,Gresham,,,GRH,,,0
+"Green River, UT",,Green River,,,GRI,,,0
+"Grand Ronde, OR",,Spirit Mountain Casino,Spirit Mountain Casino,,GRM,,,0
+"Greenville, NC",,Greenville,"East Carolina University,Shaw University,Kinston",,GRN,,,0
+"Greensboro, NC",,Greensboro,,,GRO,,,0
+"Grand Rapids, MI",,Grand Rapids,,,GRR,,,0
+"Greenville, SC",,Greenville,,,GRV,,,0
+"Gary, IN",,Gary,,,GRY,,,0
+"Glenwood Springs, CO",,Glenwood Springs,,,GSC,,,0
+"Gasquet, CA",,Gasquet,,,GSQ,,,0
+"Goleta, CA",,Goleta,,,GTA,,,0
+"Grants Pass, OR",,Grants Pass,,,GTP,,,0
+"Grantsville, MD",,Grantsville,,,GTV,,,0
+"Guadalupe, CA",,Guadalupe,santa maria,,GUA,,,0
+"Gulfport, MS",,Gulfport,,,GUF,,,0
+"Guilford, CT",,Guilford,,,GUI,,,0
+"Gunnison, CO",,Gunnison,,,GUN,,,0
+"Grover Beach, CA",,Grover Beach,,,GVB,,,0
+"Gouverneur, NY",,Gouverneur,,,GVR,,,0
+"Greenwood, MS",,Greenwood,,,GWD,,,0
+"Grayling, MI",,Grayling,,,GYG,,,0
+"Gaylord, MI",,Gaylord,,,GYL,,,0
+"Hagerstown, MD",,Hagerstown,,,HAG,,,0
+"Hamlet, NC",,Hamlet,,,HAM,,,0
+"Harrisburg, PA",,Harrisburg,,,HAR,,,0
+"Hastings, NE",,Hastings,,,HAS,,,0
+"Havre, MT",,Havre,,,HAV,,,0
+"Hayward, CA",,Hayward,,,HAY,,,0
+"Hazlehurst, MS",,Hazlehurst,,,HAZ,,,0
+"Hattiesburg, MS",,Hattiesburg,,,HBG,,,0
+"Healdsburg, CA",,Healdsburg,,,HEA,,,0
+"Hermann, MO",,Hermann,,,HEM,,,0
+"Helper, UT",,Helper,,,HER,,,0
+"Hartford, CT",,Hartford,,,HFD,,,0
+"Harpers Ferry, WV",,Harpers Ferry,,,HFY,,,0
+"Huntingdon, PA",,Huntingdon,,,HGD,,,0
+"Houghton, MI",,Michigan Tech University,,,HGH,,,0
+"Houghton Lake, MI",,Houghton Lake,,,HGL,,,0
+"Hogansburg, NY",,Hogansburg,,,HGS,,,0
+"Haverhill, MA",,Haverhill,,,HHL,,,0
+"Hinton, WV",,Hinton,,,HIN,,,0
+"Hiouchi, CA",,Crescent City,Crescent City,,HIO,,,0
+"Hancock, MI",,Hancock,,,HKM,,,0
+"Hillsboro, OR",,Hillsboro,,,HLB,,,0
+"Holdrege, NE",,Holdrege,,,HLD,,,0
+"Holyoke, MA",,Holyoke,,,HLK,,,0
+"Hammond, LA",,Hammond,,,HMD,,,0
+"Hammond-Whiting, IN",,Hammond,Whiting,,HMI,,,0
+"Homewood, IL",,Homewood,,,HMW,,,0
+"Hanford, CA",,Hanford,,,HNF,,,0
+"Hancock, MD",,Hancock,,,HNK,,,0
+"Houston, TX",,Greyhound Terminal,,,HOG,,,0
+"Hollywood, FL",,Hollywood,,,HOL,,,0
+"Holland, MI",,Holland,,,HOM,,,0
+"Hood River, OR",,Hood River,"Bingen-White Salmon,White Salmon",,HOO,,,0
+"Hope, AR",,Hope,,,HOP,,,0
+"Houston, TX",,Amtrak Station,,,HOS,,,0
+"High Point, NC",,High Point,,,HPT,,,0
+"Harper, OR",,Harper,,,HRP,,,0
+"Arcata, CA",,Cal Poly Humboldt,Humboldt State University,,HSU,,,0
+"Hammonton, NJ",,Hammonton,,,HTN,,,0
+"Hudson, NY",,Hudson,,,HUD,,,0
+"Huntington, WV",,Huntington,,,HUN,,,0
+"Hutchinson, KS",,Hutchinson,,,HUT,,,0
+"Havelock, NC",,Havelock,,,HVL,,,0
+"Howard City, MI",,Howard City,,,HWC,,,0
+"Indio, CA",,Indio,,,IDO,,,0
+"Independence, MO",,Independence,,,IDP,,,0
+"Indiana, PA",,Indiana University of Penn,,,INA,,,0
+"Indianapolis, IN",,Indianapolis,,,IND,,,0
+"Irvine, CA",,Irvine,,,IRV,,,0
+"Jackson, MS",,Jackson,,,JAN,,,0
+"Jacksonville, FL",,Jacksonville,,,JAX,,,0
+"Jefferson City, MO",,Jefferson City,,,JEF,,,0
+"Jacksonville, NC",,Jacksonville,Swansboro,,JNC,,,0
+"June Lake, CA",,June Lake,,,JNL,,,0
+"Johnson Creek, WI",,Johnson Creek,,,JOC,,,0
+"Joliet, IL",,Joliet,,,JOL,,,0
+"Jesup, GA",,Jesup,,,JSP,,,0
+"Johnstown, PA",,Johnstown,,,JST,,,0
+"Juntura, OR",,Juntura,,,JTR,,,0
+"Janesville, WI",,Janesville,,,JVL,,,0
+"Jackson, MI",,Jackson,,,JXN,,,0
+"Kalamazoo, MI",,Kalamazoo,,,KAL,,,0
+"Kannapolis, NC",,Kannapolis,,,KAN,,,0
+"Kansas City, MO",,Union Station,Union Station,,KCY,,,0
+"Kewanee, IL",,Kewanee,,,KEE,,,0
+"Kelso-Longview, WA",,Kelso,Longview,,KEL,,,0
+"Klamath Falls, OR",,Klamath Falls,,,KFS,,,0
+"King City, CA",,King City,,,KGC,,,0
+"Kingston - Eastbound, WA",,Washington State Ferry dock,,,KGE,,,0
+"Kingsley, MI",,Kingsley,,,KGS,,,0
+"Kingston - Westbound, WA",,Henery Hardware,,,KGW,,,0
+"Killeen, TX",,Killeen,,,KIL,,,0
+"Kingston, RI",,West Kingston,,,KIN,,,0
+"Kissimmee, FL",,Kissimmee,,,KIS,,,0
+"Kankakee, IL",,Kankakee,,,KKI,,,0
+"Killington, VT",,Killington,,,KLT,,,0
+"Kinston, NC",,Kinston,,,KNC,,,0
+"Kingman, AZ",,Kingman,,,KNG,,,0
+"Kinross Charter Twp, MI",,Kinross Charter Twp,,,KNS,,,0
+"Kent Island-Grasonville, MD",,Grasonville,Grasonville,,KNT,,,0
+"Kingstree, SC",,Kingstree,,,KTR,,,0
+"Keene Valley, NY",,Keene Valley,,,KVL,,,0
+"Kirkwood, MO",,Kirkwood,,,KWD,,,0
+"Latrobe, PA",,Amtrak Station,,,LAB,,,0
+"La Grande, OR",,La Grande,,,LAE,,,0
+"Lafayette, IN",,Amtrak Station,,,LAF,,,0
+"La Grange, IL",,La Grange,,,LAG,,,0
+"La Junta, CO",,La Junta,,,LAJ,,,0
+"Lakeland, FL",,To/from points north,,,LAK,,,0
+"L'Anse, MI",,L'Anse,Lanse,,LAN,,,0
+"La Plata, MO",,La Plata,,,LAP,,,0
+"Las Vegas, NV",,McCarran International Airport,"McCarran International,McCarran Intl,McCarran Airport",,LAS,,,0
+"Lafayette, IN",,CityBus Center,,,LAT,,,0
+"Laurel, MS",,Laurel,,,LAU,,,0
+"Los Angeles, CA",,Union Station,Union Station,,LAX,,,0
+"Los Banos, CA",,Los Banos,,,LBO,,,0
+"La Crescenta, CA",,La Crescenta,,,LCA,,,0
+"Lake Charles, LA",,Lake Charles,,,LCH,,,0
+"Lincoln, IL",,Lincoln,,,LCN,,,0
+"Lincoln City, OR",,Lincoln City,,,LCO,,,0
+"Las Cruces, NM",,Las Cruces,,,LCR,,,0
+"Lancaster, CA",,Lancaster,,,LCS,,,0
+"Lincolnville, ME",,Lincolnville,,,LCV,,,0
+"Lordsburg, NM",,Lordsburg,,,LDB,,,0
+"Lindenwold, NJ",,Somerdale,,,LDW,,,0
+"Lee's Summit, MO",,Lee's Summit,,,LEE,,,0
+"Leggett, CA",,Leggett,,,LEG,,,0
+"Leavenworth, WA",,Wilkommen Park and Ride,,,LEV,,,0
+"Lewistown, PA",,Amtrak Station,,,LEW,,,0
+"Lexington Barbeque Festival, NC",,Lexington,,,LEX,,,0
+"Lafayette, LA",,Lafayette,,,LFT,,,0
+"Longueuil, QC",,Longueuil,,,LGU,,,0
+"Libby, MT",,Libby,,,LIB,,,0
+"Livermore, CA",,Livermore Transit Center,,,LIV,,,0
+"Lakeland, FL",,To/from points south,,,LKL,,,0
+"Lemoore, CA",,Lemoore,,,LMC,,,0
+"Lamar, CO",,Lamar,,,LMR,,,0
+"Lamy, NM",,Lamy,,,LMY,,,0
+"Lancaster, PA",,Lancaster,,,LNC,,,0
+"Lincoln, NE",,Lincoln,,,LNK,,,0
+"East Lansing, MI",,East Lansing,Lansing,,LNS,,,0
+"Laughlin, NV",,Laughlin,,,LNV,,,0
+"London, ON",,London,,,LOB,,,0
+"Lodi, CA",,Lodi,,,LOD,,,0
+"Los Alamos, NM",,White Rock Area,,,LOH,,,0
+"Lompoc, CA",,Lompoc,,,LOM,,,0
+"Lorton, VA",,Auto Train Station,Washington,,LOR,,,0
+"Los Alamos, NM",,Central Area,,,LOS,,,0
+"Lapeer, MI",,Lapeer,,,LPE,,,0
+"La Pine, OR",,La Pine,LaPine,,LPN,,,0
+"Lompoc-Surf, CA",,Surf,Surf,,LPS,,,0
+"La Quinta, CA",,La Quinta,,,LQT,,,0
+"Lawrence, KS",,Lawrence,,,LRC,,,0
+"Little Rock, AR",,Union Station,Union Station,,LRK,,,0
+"Laramie, WY",,Laramie,,,LRY,,,0
+"Lewisburg, PA",,Lewisburg,Bucknell University,,LSB,,,0
+"La Crosse, WI",,Amtrak Station,,,LSE,,,0
+"Las Vegas, NM",,Las Vegas,,,LSV,,,0
+"La Crosse, WI",,University of Wisconsin,,,LSW,,,0
+"Latrobe, PA",,Arnold Palmer Regional Airport,,,LTB,,,0
+"Lathrop-Manteca, CA",,Manteca,Manteca,,LTM,,,0
+"Littlerock, CA",,Littlerock,,,LTR,,,0
+"Laytonville, CA",,Laytonville,,,LTV,,,0
+"Louisville, KY",,Louisville,,,LVL,,,0
+"Lee Vining, CA",,Lee Vining,,,LVN,,,0
+"Liverpool, PA",,Park & Ride Lot,,,LVP,,,0
+"Liverpool, PA",,Lowes restaurant,,,LVR,,,0
+"Las Vegas, NV",,Las Vegas,,,LVS,,,0
+"Las Vegas, NV",,South Strip Transfer Terminal,,,LVT,,,0
+"Longview, TX",,Longview,,,LVW,,,0
+"Leavenworth, WA",,Icicle Station,,,LWA,,,0
+"Lewistown, PA",,Laskaris restaurant,,,LWB,,,0
+"Lewiston, ID",,Lewiston,,,LWN,,,0
+"Lynchburg, VA",,Lynchburg,,,LYH,,,0
+"Macomb, IL",,Thomas C. Carper Station,,,MAC,,,0
+"Madras, OR",,Madras,,,MAD,,,0
+"Marion, IL",,Marion,,,MAI,,,0
+"Mackinaw City, MI",,Mackinaw City,,,MAK,,,0
+"Malta, MT",,Malta,,,MAL,,,0
+"Mattoon, IL",,Mattoon,,,MAT,,,0
+"Maysville, KY",,Maysville,,,MAY,,,0
+"Middlebury, VT",,Amtrak Station,,,MBY,,,0
+"McComb, MS",,McComb,,,MCB,,,0
+"Merced, CA",,Merced,,,MCD,,,0
+"McGregor, TX",,McGregor,,,MCG,,,0
+"McCook, NE",,McCook,,,MCK,,,0
+"Montreal, QC",,Gare d'autocars / Bus Terminal,,,MCT,,,0
+"Manchester Center, VT",,Tour Bus Parking Area,,,MCV,,,0
+"Meriden, CT",,Meriden,,,MDN,,,0
+"Midpines, CA",,Midpines,,,MDP,,,0
+"Madera, CA",,Madera,,,MDR,,,0
+"Madison, CT",,Madison,,,MDS,,,0
+"Mendota, IL",,Mendota,,,MDT,,,0
+"Madisonville, KY",,Madisonville,,,MDV,,,0
+"Monroe - Eastbound, WA",,Grocery Outlet,,,MEE,,,0
+"Meridian, MS",,Union Station,Union Station,,MEI,,,0
+"Memphis, TN",,Central Station,,,MEM,,,0
+"Metropark, NJ",,Iselin,iselin,,MET,,,0
+"Monroe - Westbound, WA",,Shell gas station,,,MEW,,,0
+"Medford, OR",,Rogue Valley Int'l Airport,,,MFA,,,0
+"Medford, OR",,Front Street Station,,,MFR,,,0
+"Morgan Hill, CA",,Morgan Hill,,,MHC,,,0
+"Morehead City, NC",,Morehead City,,,MHD,,,0
+"Marshall, TX",,Marshall,,,MHL,,,0
+"Manchester, NH",,Manchester,,,MHT,,,0
+"Miami, FL",,Miami,,,MIA,,,0
+"Middletown, PA",,Middletown,,,MID,,,0
+"Mifflintown, PA",,Mifflintown,,,MIF,,,0
+"Mineola, TX",,Mineola,,,MIN,,,0
+"Middlebury, VT",,Middlebury College,,,MIY,,,0
+"Mount Joy, PA",,Mount Joy,,,MJY,,,0
+"Milwaukee Airport-Trains, WI",,General Mitchell Int'l Airport,"General Mitchell,Mitchell",,MKA,,,0
+"Milwaukee Airport-Buses, WI",,General Mitchell Int'l Airport,,,MKB,,,0
+"Milwaukee-Downtown, WI",,Intermodal Station,,,MKE,,,0
+"Marks, MS",,Marks,,,MKS,,,0
+"Moline, IL",,Moline,,,MLI,,,0
+"Moses Lake, WA",,Moses Lake,,,MLK,,,0
+"Mammoth Lakes, CA",,Mammoth Lakes,,,MMK,,,0
+"Montgomery, WV",,Montgomery,,,MNG,,,0
+"Menomonie, WI",,University of Wisconsin Stout,,,MNM,,,0
+"Monroeville, PA",,Monroeville,,,MNR,,,0
+"Massena, NY",,Massena,,,MNY,,,0
+"Moscow, ID",,Moscow,,,MOC,,,0
+"Modesto, CA",,Modesto,,,MOD,,,0
+"Mobile, AL",,Mobile,,,MOE,,,0
+"Monarch Mountain, CO",,Salida,Salida,,MOH,,,0
+"Mojave, CA",,Mojave,,,MOJ,,,0
+"Morley, MI",,Morley,,,MOR,,,0
+"Minot, ND",,Minot,,,MOT,,,0
+"Moreno Valley, CA",,Riverside,,,MOV,,,0
+"Moorpark, CA",,Moorpark,,,MPK,,,0
+"Mapleton, OR",,Mapleton,,,MPL,,,0
+"Montpelier-Berlin, VT",,Montpelier,Berlin,,MPR,,,0
+"Mt. Pleasant, MI",,Central Michigan University,,,MPT,,,0
+"Marquette, MI",,Marquette,,,MQT,,,0
+"Martinsburg, WV",,Martinsburg,,,MRB,,,0
+"Maricopa, AZ",,Maricopa,Phoenix,,MRC,,,0
+"Mariposa, CA",,Midtown YARTS bus stop,,,MRM,,,0
+"Mariposa, CA",,Mariposa Park and Ride,,,MRP,,,0
+"Marysville, CA",,Marysville,,,MRV,,,0
+"Monterey, CA",,Transit Plaza,,,MRY,,,0
+"St. Paul-Minneapolis, MN",,Minneapolis-St Paul Intl Airport,"St Paul,Saint Paul,Minneapolis",,MSL,,,0
+"Madison, WI",,Univ of Wisc - Gordon Center,,,MSN,,,0
+"St. Paul-Minneapolis, MN",,Union Depot,"Minneapolis,St Paul,Saint Paul,Union Depot",,MSP,,,0
+"Manassas, VA",,Manassas,,,MSS,,,0
+"Manitowoc, WI",,Manitowoc,,,MTC,,,0
+"Manton, MI",,Manton,,,MTO,,,0
+"Mount Pleasant, IA",,Mount Pleasant,,,MTP,,,0
+"Montreal, QC",,Gare Centrale / Central Station,"Central,Centrale,Gare,Quebec",,MTR,,,0
+"Martinez, CA",,Martinez,,,MTZ,,,0
+"Malvern, AR",,Malvern,,,MVN,,,0
+"Mount Vernon, WA",,Mount Vernon,,,MVW,,,0
+"Marinette, WI",,Marinette,,,MWI,,,0
+"Monterey, CA",,Monterey Bay Aquarium,,,MYA,,,0
+"Monterey, CA",,Hyatt Regency Hotel,,,MYH,,,0
+"Monterey, CA",,Calle Principal Parking Garage,,,MYM,,,0
+"Mystic, CT",,Mystic,,,MYS,,,0
+"Monterey, CA",,Chevron gas station,,,MYT,,,0
+"Seaside-Marina, CA",,CSU-Monterey Bay,,,MYU,,,0
+"Nampa, ID",,Nampa,,,NAM,,,0
+"Napa, CA",,Napa,,,NAP,,,0
+"New Brunswick, NJ",,New Brunswick,,,NBK,,,0
+"Newbern-Dyersburg, TN",,Newbern,Dyersburg,,NBN,,,0
+"New Bern, NC",,New Bern,"Havelock,Morehead City",,NBR,,,0
+"New Buffalo, MI",,New Buffalo,,,NBU,,,0
+"Nacogdoches, TX",,Nacogdoches,,,NCG,,,0
+"New Carrollton, MD",,New Carrollton,,,NCR,,,0
+"North Conway, NH",,North Conway,,,NCW,,,0
+"Needles, CA",,Needles,,,NDL,,,0
+"Newton, KS",,Newton,,,NEW,,,0
+"New Buffalo, PA",,New Buffalo,,,NFF,,,0
+"Norfolk, VA",,Norfolk,,,NFK,,,0
+"Niagara Falls, NY",,Niagara Falls,,,NFL,,,0
+"Niagara Falls, ON",,Niagara Falls,,,NFS,,,0
+"Santa Clarita-Newhall, CA",,Santa Clarita,Newhall,,NHL,,,0
+"Northampton, MA",,Northampton,,,NHT,,,0
+"New Haven, CT",,Union Station,Union Station,,NHV,,,0
+"New Iberia, LA",,New Iberia,,,NIB,,,0
+"New London, CT",,Union Station,Union Station,,NLC,,,0
+"Niles, MI",,Niles,,,NLS,,,0
+"New Orleans, LA",,Union Passenger Terminal,Union Passenger Depot,,NOL,,,0
+"Norman, OK",,Norman,,,NOR,,,0
+"North Plains, OR",,North Plains,,,NPL,,,0
+"Newport News, VA",,Newport News,,,NPN,,,0
+"Newport, OR",,Newport,,,NPO,,,0
+"Naperville, IL",,Naperville,,,NPV,,,0
+"Northridge, CA",,Los Angeles,,,NRG,,,0
+"Newark, DE",,Thomas R. Carper Station,,,NRK,,,0
+"New Rochelle, NY",,New Rochelle,,,NRO,,,0
+"North Carolina State Fair, NC",,Raleigh,"raleigh,fair,state fair,nc state fair",,NSF,,,0
+"Nashua, NH",,Nashua,,,NSH,,,0
+"Nashville, TN",,Nashville,,,NVL,,,0
+"Newark, NJ",,Penn Station,Penn Station,,NWK,,,0
+"Newport, RI",,Newport,,,NWP,,,0
+"New York State Fair, NY",,Syracuse,,,NYF,,,0
+"New York, NY",,Moynihan Train Hall at Penn Sta.,"nyc,Penn Station,Moynihan Train Hall,new york city,newyork",,NYP,,,0
+"Oakland, CA",,Coliseum/Airport Station,,,OAC,,,0
+"Oakhurst, CA",,Oakhurst,,,OAH,,,0
+"O'Brien, CA",,O'Brien,"OBrien,O'Brian,OBrian",,OBR,,,0
+"Ocala, FL",,Ocala,,,OCA,,,0
+"Ocean City, MD",,Ocean City,,,OCM,,,0
+"Oconto, WI",,Oconto,,,OCO,,,0
+"Ocean Pines-Berlin, MD",,Berlin,,,OCP,,,0
+"Ogden, UT",,Ogden,,,OGD,,,0
+"Oklahoma City, OK",,Oklahoma City,,,OKC,,,0
+"Okeechobee, FL",,Okeechobee,,,OKE,,,0
+"Oakland, CA",,Jack London Square Station,,,OKJ,,,0
+"Oakville, ON",,Oakville,,,OKL,,,0
+"Oakridge, OR",,Oakridge,,,OKR,,,0
+"Orland, CA",,Orland,,,OLD,,,0
+"San Diego, CA",,Old Town Transportation Center,,,OLT,,,0
+"Olympia-Lacey, WA",,Lacey,Lacey,,OLW,,,0
+"Omaha, NE",,Omaha,,,OMA,,,0
+"Ontario, CA",,Ontario,,,ONA,,,0
+"Ontario, OR",,Ontario,,,ONT,,,0
+"Old Orchard Beach, ME",,Old Orchard Beach,,,ORB,,,0
+"Oregon City, OR",,Oregon City,,,ORC,,,0
+"Orlando, FL",,Orlando,Disney,,ORL,,,0
+"Orono, ME",,University of Maine,,,ORO,,,0
+"Oroville, CA",,Oroville,,,ORV,,,0
+"Old Saybrook, CT",,Old Saybrook,,,OSB,,,0
+"Osceola, IA",,Osceola,,,OSC,,,0
+"Oceanside, CA",,Oceanside,,,OSD,,,0
+"Oshkosh, WI",,Special Stop at EAA Air Show,"Wittman,EAA Air Show",,OSH,,,0
+"Oshkosh, WI",,University of Wisconsin,,,OSU,,,0
+"Otis, OR - Eastbound",,Otis,Rosewood Lodge,,OTE,,,0
+"Ottumwa, IA",,Ottumwa,,,OTM,,,0
+"Otis, OR - Westbound",,Otis,,,OTW,,,0
+"Owosso, MI",,Owosso,,,OWO,,,0
+"Oxnard, CA",,Oxnard,,,OXN,,,0
+"Paducah, KY",,Paducah,,,PAD,,,0
+"Pascagoula, MS",,Pascagoula,,,PAG,,,0
+"Palatka, FL",,Palatka,,,PAK,,,0
+"Paoli, PA",,Paoli,,,PAO,,,0
+"Parkesburg, PA",,Parkesburg,,,PAR,,,0
+"Pasadena, CA",,Pasadena,,,PAS,,,0
+"Poplar Bluff, MO",,Poplar Bluff,,,PBF,,,0
+"Port Charlotte, FL",,Port Charlotte,,,PCH,,,0
+"Princeton, IL",,Princeton,,,PCT,,,0
+"Placerville, CA",,Placerville,,,PCV,,,0
+"Portland, OR",,Portland International Airport,,,PDA,,,0
+"Palm Desert, CA",,Palm Desert,,,PDC,,,0
+"Prunedale, CA",,Prunedale,,,PDL,,,0
+"Portland, OR",,Union Station,Union Station,,PDX,,,0
+"Pendleton, OR",,Pendleton,,,PEN,,,0
+"Pittsburgh, PA",,Grant Street Transportation Ctr,,,PGB,,,0
+"Pittsburgh, PA",,Union Station,Union Station,,PGH,,,0
+"Phoenix, AZ",,Sky Harbor Airport,,,PHA,,,0
+"Phoenix, AZ",,Greyhound Station,,,PHG,,,0
+"Philadelphia, PA",,William H Gray III 30th St. Sta.,"30th,Gray,Grey",,PHL,,,0
+"North Philadelphia, PA",,Philadelphia,Philadelphia,,PHN,,,0
+"Peoria, IL",,City Link Transit Center,,,PIA,,,0
+"Picayune, MS",,Picayune,,,PIC,,,0
+"Pinehurst, NC",,Pinehurst,,,PIH,,,0
+"Pittsfield, MA",,Pittsfield,,,PIT,,,0
+"Peoria, IL",,Bradley University,,,PIU,,,0
+"Princeton Junction, NJ",,Princeton Junction,,,PJC,,,0
+"Pine Junction, CO",,Pine,,,PJT,,,0
+"Plattsburgh, NY",,Plattsburgh,,,PLB,,,0
+"Pulaski, NY",,Pulaski,,,PLK,,,0
+"Plano, IL",,Plano,,,PLO,,,0
+"Philipsburg, PA",,Philipsburg,,,PLP,,,0
+"Pleasanton, CA",,Pleasanton,dublin,,PLS,,,0
+"Palmdale, CA",,Palmdale,,,PMD,,,0
+"Pennsauken, NJ",,Pennsauken,,,PNK,,,0
+"Pontiac, MI",,Pontiac,,,PNT,,,0
+"Portage, WI",,Portage,,,POG,,,0
+"Port Henry, NY",,Port Henry,,,POH,,,0
+"Pontiac, IL",,Pontiac,,,PON,,,0
+"Portland, ME",,Portland,,,POR,,,0
+"Pomona, CA",,Pomona,,,POS,,,0
+"Poughkeepsie, NY",,Poughkeepsie,,,POU,,,0
+"Paso Robles, CA",,Paso Robles,,,PRB,,,0
+"Prince, WV",,Prince,,,PRC,,,0
+"Port Trevorton, PA",,Port Trevorton,,,PRE,,,0
+"Perris, CA",,Perris,,,PRI,,,0
+"Port Kent, NY",,Port Kent,,,PRK,,,0
+"Provo, UT",,Provo,,,PRO,,,0
+"Pasco, WA",,Pasco,Walla Walla,,PSC,,,0
+"Petoskey, MI",,Petsoskey,Bay View,,PSK,,,0
+"Palm Springs, CA",,Amtrak Station,,,PSN,,,0
+"Palm Springs, CA",,Palm Springs Airport,,,PSP,,,0
+"Palm Springs, CA",,Spa Resort Casino,,,PSS,,,0
+"Pellston, MI",,Pellston,,,PST,,,0
+"Port Angeles, WA",,Port Angeles,,,PTA,,,0
+"Petersburg, VA",,Petersburg,,,PTB,,,0
+"Petaluma, CA",,Petaluma,,,PTC,,,0
+"Potsdam, NY",,Potsdam,,,PTD,,,0
+"Port Huron, MI",,Port Huron,,,PTH,,,0
+"Port Townsend, WA",,Port Townsend,,,PTO,,,0
+"Portsmouth, NH",,Portsmouth,,,PTS,,,0
+"Potsdam, NY",,Clarkson University,,,PTU,,,0
+"Pullman, WA",,Pullman,,,PUL,,,0
+"Punxsutawney, PA",,Punxsutawney,,,PUN,,,0
+"Purcell, OK",,Purcell,,,PUR,,,0
+"Providence, RI",,Amtrak/MBTA Station,,,PVD,,,0
+"Providence, RI",,Seastreak Ferry Terminal,,,PVF,,,0
+"Pauls Valley, OK",,Pauls Valley,,,PVL,,,0
+"Pottstown, PA",,Pottstown,,,PWN,,,0
+"Phoenix - North, AZ",,Denny's Restaurant,,,PXN,,,0
+"Quantico, VA",,Quantico,,,QAN,,,0
+"Quincy, IL",,Quincy,,,QCY,,,0
+"Quincy, WA",,Quincy,,,QUC,,,0
+"Raton, NM",,Raton,,,RAT,,,0
+"Richmond, BC",,Richmond,,,RBC,,,0
+"Red Bluff, CA",,Red Bluff,,,RBF,,,0
+"Rockford, IL",,Rockford,,,RCK,,,0
+"Redding, CA",,Amtrak Station,Shasta College,,RDD,,,0
+"Reading, PA",,Reading,,,RDI,,,0
+"Redmond, OR",,Roberts Field Airport,,,RDM,,,0
+"Redmond, OR",,Transit Hub,,,RDT,,,0
+"Red Wing, MN",,Red Wing,,,RDW,,,0
+"Reed City, MI",,Reed City,,,REE,,,0
+"Rensselaer, IN",,Rensselaer,,,REN,,,0
+"Raleigh, NC",,Union Station,Union Station,,RGH,,,0
+"Rhinecliff, NY",,Rhinecliff,,,RHI,,,0
+"Richmond, CA",,Richmond,,,RIC,,,0
+"Riley, OR",,Riley,,,RIL,,,0
+"Riverside, CA",,Riverside,,,RIV,,,0
+"Rockford, MI",,Rockford,,,RKF,,,0
+"Rockingham, NC",,Rockingham Speedway,,,RKH,,,0
+"Rock Island, IL",,Augustana College,,,RKI,,,0
+"Rockville, MD",,Rockville,,,RKV,,,0
+"Rocklin, CA",,Rocklin,,,RLN,,,0
+"Rochester, MN",,Rochester,,,RMN,,,0
+"Rocky Mount, NC",,Rocky Mount,,,RMT,,,0
+"Roanoke, VA",,Roanoke,,,RNK,,,0
+"Reno, NV",,Reno,,,RNO,,,0
+"Running Y Ranch, OR",,Klamath Falls,Klamath Falls,,RNY,,,0
+"Rochester, NY",,Bus Terminal,,,ROB,,,0
+"Rochester, NY",,Louise M. Slaughter Station,,,ROC,,,0
+"Rockland, ME",,Rockland,,,ROD,,,0
+"Rome, NY",,Rome,,,ROM,,,0
+"Royal Oak, MI",,Royal Oak,,,ROY,,,0
+"Rohnert Park, CA",,Rohnert Park,Sonoma State University,,RPC,,,0
+"Randolph, VT",,Randolph,,,RPH,,,0
+"Reedsport, OR",,Reedsport,,,RPT,,,0
+"Rickreall, OR",,Rickreall,,,RRL,,,0
+"Rouses Point, NY",,Rouses Point,,,RSP,,,0
+"Roseville, CA",,Roseville,,,RSV,,,0
+"Rock Springs, WY",,Rock Springs,,,RSY,,,0
+"Rutland, VT",,MVRTD Transit Center,,,RTC,,,0
+"Route 128, MA",,Westwood,"Boston,128",,RTE,,,0
+"Rantoul, IL",,Rantoul,,,RTL,,,0
+"Ritzville, WA",,Ritzville,,,RTZ,,,0
+"Rutland, VT",,"James M Jeffords Station ",,,RUD,,,0
+"Rugby, ND",,Rugby,,,RUG,,,0
+"Richmond, VA",,Main Street Station,Main Street,,RVM,,,0
+"Richmond, VA",,Staples Mill Road Station,Staples Mills Road,,RVR,,,0
+"Rawlins, WY",,Rawlins,,,RWY,,,0
+"Sacramento Airport, CA",,Sacramento,,,SAA,,,0
+"St. Albans, VT",,St Albans,"St Albans,Saint Albans,Albans",,SAB,,,0
+"Sacramento, CA",,Sacramento Valley Station,,,SAC,,,0
+"Santa Fe, NM",,Four Seasons Area,,,SAE,,,0
+"Santa Fe, NM",,Central Area,,,SAF,,,0
+"Salisbury, NC",,Salisbury,,,SAL,,,0
+"San Diego, CA",,Santa Fe Depot,,,SAN,,,0
+"Saco, ME",,Saco,,,SAO,,,0
+"Santa Paula, CA",,Santa Paula,,,SAP,,,0
+"Saratoga Springs, NY",,Saratoga Springs,,,SAR,,,0
+"San Antonio, TX",,San Antonio,,,SAS,,,0
+"Santa Maria, CA",,Santa Maria,"guadalupe,Allan Hancock College",,SAT,,,0
+"Savannah, GA",,Savannah,,,SAV,,,0
+"Sandy, OR",,Sandy,,,SAY,,,0
+"Santa Barbara, CA",,Amtrak Station,,,SBA,,,0
+"Sebring, FL",,Sebring,,,SBG,,,0
+"Seabrook, NH",,Seabrook,,,SBK,,,0
+"Santa Barbara, CA",,"Univ of California, Snta Barbara",,,SBU,,,0
+"Shelby, MT",,Shelby,,,SBY,,,0
+"St. Catharines, ON",,St. Catharines,"St Catharines,Saint Catharines,Sainte Catharines,Catharines",,SCA,,,0
+"Santa Clara, CA",,Transit Center,,,SCC,,,0
+"St. Cloud, MN",,St. Cloud,"St Cloud,Saint Cloud,Cloud",,SCD,,,0
+"Schriever, LA",,Schriever,,,SCH,,,0
+"Sacramento, CA",,State Capitol (discharge-only),,,SCS,,,0
+"Santa Cruz, CA",,Santa Cruz,,,SCZ,,,0
+"Slidell, LA",,Slidell,,,SDL,,,0
+"Schenectady, NY",,Schenectady,,,SDY,,,0
+"Seattle, WA",,King Street Station,King Street,,SEA,,,0
+"Sedalia, MO",,Sedalia,,,SED,,,0
+"Seaside-Sand City, CA",,Sand City,Sand City,,SES,,,0
+"Sanford, FL",,Auto Train Station,"Orlando,Disney",,SFA,,,0
+"San Francisco, CA",,San Francisco,,,SFC,,,0
+"Saginaw, MI",,Saginaw,,,SGW,,,0
+"Sheboygan, WI",,Sheboygan,,,SHB,,,0
+"Shreveport, LA",,SporTran Intermodal Terminal,,,SHR,,,0
+"Shawano, WI",,Shawano,,,SHW,,,0
+"Simi Valley, CA",,Simi Valley,,,SIM,,,0
+"San Jose, CA",,Diridon Station,Diridon,,SJC,,,0
+"St. Joseph-Benton Harbor, MI",,St. Joseph,"St Joseph,Saint Joseph,Joseph,Benton Harbor",,SJM,,,0
+"Shamokin Dam, PA",,Shamokin Dam,,,SKD,,,0
+"Skykomish - Eastbound, WA",,Sky gas station,,,SKE,,,0
+"Stockton, CA",,San Joaquin Street Station,,,SKN,,,0
+"Stockton, CA",,Robert J. Cabral Station,,,SKT,,,0
+"Skykomish - Westbound, WA",,Big Bear Rest Stop restaurant,,,SKW,,,0
+"Sandusky, OH",,Sandusky,,,SKY,,,0
+"Salt Lake City, UT",,Salt Lake City,,,SLB,,,0
+"Salt Lake City, UT",,Amtrak Station,,,SLC,,,0
+"Salida, CO",,Salida,,,SLD,,,0
+"Salem, OR",,Bus Stop,,,SLE,,,0
+"South Lake Tahoe, CA",,Stateline Transit Center,"Lake Tahoe,Tahoe",,SLH,,,0
+"Salem, OR",,Amtrak Station,,,SLM,,,0
+"San Luis Obispo, CA",,Amtrak Station,Cuesta College,,SLO,,,0
+"San Luis Obispo, CA",,Cal Poly,Cuesta College,,SLP,,,0
+"St-Lambert, QC",,St-Lambert,"St Lambert,St. Lambert,Saint Lambert,Lambert,Quebec",,SLQ,,,0
+"Salisbury, MD",,BayRunner Shuttle Office,,,SLS,,,0
+"South Lake Tahoe, CA",,South Y Transit Center,"Lake Tahoe,Tahoe",,SLT,,,0
+"Solvang, CA",,Solvang,,,SLV,,,0
+"San Marcos, TX",,San Marcos,,,SMC,,,0
+"Madison, WI",,Dutch Mill Park and Ride,,,SMD,,,0
+"Sault Sainte Marie, MI",,Sault Sainte Marie,,,SMI,,,0
+"Santa Monica Pier, CA",,Santa Monica,,,SMN,,,0
+"Smith River, CA",,Smith River,,,SMR,,,0
+"Summit, IL",,Summit,,,SMT,,,0
+"Santa Ana, CA",,Santa Ana,,,SNA,,,0
+"San Bernardino, CA",,San Bernardino,,,SNB,,,0
+"San Juan Capistrano, CA",,San Juan Capistrano,,,SNC,,,0
+"Sanderson, TX",,Sanderson,,,SND,,,0
+"San Clemente Pier, CA",,San Clemente,,,SNP,,,0
+"Salinas, CA",,Transit Center,,,SNR,,,0
+"Salinas, CA",,Amtrak Station,,,SNS,,,0
+"Stanley, WI",,Stanley,,,SNY,,,0
+"South Bend, IN",,South Bend,,,SOB,,,0
+"Solana Beach, CA",,Solana Beach,,,SOL,,,0
+"Southern Pines, NC",,Southern Pines,,,SOP,,,0
+"Selma, OR",,Selma,,,SOR,,,0
+"Sparta, WI",,Sparta,,,SPA,,,0
+"Spartanburg, SC",,Spartanburg,,,SPB,,,0
+"San Pedro, CA",,Catalina Express Terminal,long beach,,SPD,,,0
+"Springfield, MA",,Springfield,,,SPG,,,0
+"Springfield, IL",,Springfield,,,SPI,,,0
+"Spokane, WA",,Amtrak Station,,,SPK,,,0
+"Staples, MN",,Staples,,,SPL,,,0
+"South Shore-South Portsmouth, KY",,South Shore,"Portsmouth,South Portsmouth",,SPM,,,0
+"San Pedro, CA",,Public Library,long beach,,SPO,,,0
+"Sandpoint, ID",,Sandpoint,,,SPT,,,0
+"Sparks, NV",,Sparks,,,SPX,,,0
+"Sequim, WA",,Sequim,,,SQM,,,0
+"Sarasota, FL",,Sarasota,,,SRA,,,0
+"Santa Rosa, CA",,Santa Rosa,,,SRC,,,0
+"Scranton, PA",,Scranton,,,SRN,,,0
+"Searsport, ME",,Searsport,,,SRT,,,0
+"Seaside, OR",,Seaside Cinema,,,SSD,,,0
+"Selinsgrove, PA",,Selinsgrove,Susquehanna University,,SSG,,,0
+"Seaside, OR",,Seaside Lodge & Int'l Hostel,,,SSH,,,0
+"Selma-Smithfield, NC",,Selma,Smithfield,,SSM,,,0
+"Stevens Pass, WA",,Stevens Pass,,,SSW,,,0
+"Staunton, VA",,Staunton,,,STA,,,0
+"State College, PA",,State College,"Penn State,Happy Valley",,STC,,,0
+"St. George, UT",,St. George,"St George,Saint George,George",,STG,,,0
+"St. Ignace, MI",,St. Ignace,"St Ignace,Saint Ignace,Ignace",,STI,,,0
+"St. Louis, MO",,Gateway Station,"St Louis,Saint Louis,Louis",,STL,,,0
+"Stamford, CT",,Stamford,,,STM,,,0
+"Stanley, ND",,Stanley,,,STN,,,0
+"Sisters, OR",,Sisters,,,STO,,,0
+"St. Petersburg, FL",,St. Petersburg,"St Petersburg,Saint Petersburg,Petersburg,Clearwater,Pinellas Park,Pinella's Park,Pinelas Park,Pinelas Park",,STP,,,0
+"New Haven, CT",,State Street Station,,,STS,,,0
+"Stanwood, WA",,Stanwood,,,STW,,,0
+"Suisun-Fairfield, CA",,Suisun City,Fairfield,,SUI,,,0
+"Sunriver, OR",,Sunriver,,,SUN,,,0
+"Sunbury, PA",,Sunbury,,,SUR,,,0
+"Sun City-Menifee, CA",,Sun City-Menifee,Menifee,,SUT,,,0
+"Seattle, WA",,Clipper Vacations Ferry Terminal,,,SVF,,,0
+"Stevens Point, WI",,Olympia Family Restaurant,,,SVP,,,0
+"Sturtevant, WI",,Sturtevant,,,SVT,,,0
+"Stevens Point, WI",,University of Wisconsin,,,SVU,,,0
+"Scotts Valley, CA",,Scotts Valley,,,SVY,,,0
+"Swansboro, NC",,Swansboro,,,SWB,,,0
+"Stanwood, MI",,Stanwood,,,SWD,,,0
+"Syracuse, NY",,Syracuse Hancock Airport,,,SYA,,,0
+"Sykesville, PA",,Sykesville,,,SYK,,,0
+"Syracuse, NY",,Regional Transportation Center,,,SYR,,,0
+"Tacoma, Washington",,Tacoma,,,TAB,,,0
+"Tacoma, WA",,Amtrak Station,,,TAC,,,0
+"Taylor, TX",,Taylor,,,TAY,,,0
+"Toccoa, GA",,Toccoa,,,TCA,,,0
+"Tuscaloosa, AL",,Tuscaloosa,,,TCL,,,0
+"Toledo, OR",,Toledo,,,TDO,,,0
+"Tehachapi, CA",,Tehachapi,,,TEH,,,0
+"Tempe, AZ",,Tempe,,,TEM,,,0
+"Twin Falls, ID",,Twin Falls,,,TFI,,,0
+"The Dalles, OR",,The Dalles,"Bingen-White Salmon,White Salmon,Dalles,Wishram",,THD,,,0
+"Thurmond, WV",,Thurmond,,,THN,,,0
+"Tomah, WI",,Tomah,,,TOH,,,0
+"Toledo, OH",,Toledo,,,TOL,,,0
+"Topeka, KS",,Topeka,,,TOP,,,0
+"Tampa, FL",,Union Station,Union Station,,TPA,,,0
+"Temple, TX",,Temple,,,TPL,,,0
+"Tillamook, OR",,Park & Ride,,,TPR,,,0
+"Tracy, CA",,Wendy's restaurant,,,TRA,,,0
+"Tracy, CA",,ACE Station,,,TRC,,,0
+"Trenton, NJ",,Trenton,,,TRE,,,0
+"Florence, OR",,Three Rivers Casino,,,TRF,,,0
+"Trinidad, CO",,Trinidad,,,TRI,,,0
+"Turlock-Denair, CA",,Denair,Denair,,TRK,,,0
+"Troy, MI",,Troy,,,TRM,,,0
+"Trout Run, PA",,Trout Run,,,TRR,,,0
+"Truckee, CA",,Truckee,,,TRU,,,0
+"Traverse City, MI",,Traverse City,,,TRV,,,0
+"Tillamook, OR",,Transit Center,,,TTC,,,0
+"Tualatin, OR",,Tualatin,,,TUA,,,0
+"Tukwila, WA",,Tukwila,,,TUK,,,0
+"Tucson, AZ",,Tucson,,,TUS,,,0
+"The Villages-Lady Lake, FL",,Lady Lake,"Lady Lake,Villages",,TVF,,,0
+"Tawas City, MI",,Tawas City,,,TWC,,,0
+"Toronto, ON",,Union Station,"Ontario,Union",,TWO,,,0
+"Texarkana, AR",,Texarkana,,,TXA,,,0
+"Tyler, TX",,Tyler,,,TYL,,,0
+"Tyrone, PA",,Tyrone,,,TYR,,,0
+"Utica, NY",,Utica,,,UCA,,,0
+"Ukiah, CA",,Ukiah,Mendocino College,,UKH,,,0
+"Winston-Salem, NC",,Winston-Salem State University,,,UWS,,,0
+"Virginia Beach, VA",,Hampton Road Transit bus stop,,,VAB,,,0
+"Vancouver, BC Canada",,Pacific Central Station,"Pacific Central,British Columbia",,VAC,,,0
+"Vale, OR",,Vale,,,VAE,,,0
+"Vallejo, CA",,Vallejo Transit Center,,,VAL,,,0
+"Vancouver, WA USA",,Vancouver,,,VAN,,,0
+"Livermore, CA",,Vasco Road ACE Station,,,VAS,,,0
+"Victoria, BC",,Capital City Station,,,VBC,,,0
+"Ventura, CA",,Ventura,,,VEC,,,0
+"Victoria, BC",,Clipper Vacations Ferry Terminal,,,VIF,,,0
+"Visalia, CA",,Visalia,,,VIS,,,0
+"Vicksburg, MS",,Vicksburg,,,VKS,,,0
+"Vienna, IL",,Vienna,,,VNA,,,0
+"Van Nuys, CA",,Van Nuys,,,VNC,,,0
+"Ferrisburgh-Vergennes, VT",,Ferrisburgh,vergennes,,VRN,,,0
+"Victorville, CA",,Amtrak Station,,,VRV,,,0
+"Veneta, OR",,Veneta,,,VTA,,,0
+"Waterbury-Stowe, VT",,Waterbury,Stowe,,WAB,,,0
+"Wasco, CA",,Wasco,,,WAC,,,0
+"Wallingford, VT",,Wallingford,,,WAG,,,0
+"Washington, MO",,Washington,,,WAH,,,0
+"Warrensburg, MO",,Warrensburg,,,WAR,,,0
+"Washington, DC",,Union Station,Union Station,,WAS,,,0
+"Waupaca, WI",,Waupaca,,,WAU,,,0
+"Williamsburg, VA",,Williamsburg,,,WBG,,,0
+"Woodburn, OR",,Woodburn,,,WBN,,,0
+"Westchester, CA",,Westchester,,,WCH,,,0
+"Waco, TX",,Waco,,,WCX,,,0
+"Woodbridge, VA",,Woodbridge,,,WDB,,,0
+"Wisconsin Dells, WI",,Wisconsin Dells,,,WDL,,,0
+"Waldo, FL",,Waldo,,,WDO,,,0
+"Waldoboro, ME",,Waldoboro,,,WDR,,,0
+"Wenatchee, WA",,Link Transit Columbia Station,,,WEC,,,0
+"Wellington, KS",,Wellington,,,WEL,,,0
+"Wells, ME",,Wells,,,WEM,,,0
+"Wenatchee, WA",,Amtrak Station,,,WEN,,,0
+"Westwood UCLA, CA",,Los Angeles,,,WES,,,0
+"Wallingford, CT",,Wallingford,,,WFD,,,0
+"Whitefish, MT",,Whitefish,,,WFH,,,0
+"Westfir, OR",,Westfir,,,WFR,,,0
+"West Glacier, MT",,West Glacier,glacier,,WGL,,,0
+"Whitehall, NY",,Whitehall,,,WHL,,,0
+"Wichita, KS",,Wichita,,,WIC,,,0
+"Wishram, WA",,Wishram,"Dalles,The Dalles",,WIH,,,0
+"Wilmington, DE",,Wilmington,,,WIL,,,0
+"Winona, MN",,Winona,,,WIN,,,0
+"Fraser-Winter Park, CO",,Fraser,Winter Park,,WIP,,,0
+"Wittenberg, WI",,Wittenberg,,,WIT,,,0
+"Wilkes-Barre, PA",,Wilkes-Barre,,,WKB,,,0
+"Welches, OR",,76 Gas Station,,,WLC,,,0
+"Williamsport, PA",,Williamsport,"Lockhaven University,Pennsylvania College,Lycoming College",,WLM,,,0
+"Wilson, NC",,Wilson,Goldsboro,,WLN,,,0
+"Winslow, AZ",,Winslow,,,WLO,,,0
+"Westerly, RI",,Westerly,,,WLY,,,0
+"Williams, CA",,Williams,,,WMD,,,0
+"Williams, AZ",,Holiday Inn Express,,,WMH,,,0
+"Wilmington, NC",,Wilmington,,,WMN,,,0
+"Warm Springs, OR",,Warm Springs,,,WMS,,,0
+"Windsor, CT",,Windsor,,,WND,,,0
+"Windsor Locks, CT",,Windsor Locks,,,WNL,,,0
+"Windsor-Mt. Ascutney, VT",,Windsor,"Mt. Ascutney,Mt Ascutney,mount ascutney",,WNM,,,0
+"Winnemucca, NV",,Winnemucca,,,WNN,,,0
+"Windsor, ON",,Windsor,,,WNO,,,0
+"Walnut Ridge, AR",,Walnut Ridge,,,WNR,,,0
+"Winston-Salem, NC",,Clark Campbell Transp Center,,,WNS,,,0
+"Warrenton, OR",,Warrenton,,,WNT,,,0
+"Woburn, MA",,Woburn,,,WOB,,,0
+"Worcester, MA",,Union Station,Union Station,,WOR,,,0
+"West Palm Beach, FL",,West Palm Beach,,,WPB,,,0
+"Winter Park, FL",,Winter Park,,,WPK,,,0
+"Winter Park, CO",,Winter Park Resort Trn Platform,ski train,,WPR,,,0
+"Winter Park, CO",,Winter Park Shuttle Bus Stop,,,WPS,,,0
+"Wolf Point, MT",,Wolf Point,,,WPT,,,0
+"White River Junction, VT",,White River Junction,,,WRJ,,,0
+"Watertown, NY",,Watertown,,,WRT,,,0
+"Westbrook, CT",,Westbrook,,,WSB,,,0
+"Wausau, WI",,Transit Center,,,WSJ,,,0
+"Westport, NY",,Westport,,,WSP,,,0
+"White Sulphur Springs, WV",,White Sulphur Springs,,,WSS,,,0
+"Wiscasset, ME",,Wiscasset,,,WST,,,0
+"Wausau-Rothschild, WI",,Lamers Connect bus station,Rothschild,,WSU,,,0
+"Winter Haven, FL",,Winter Haven,,,WTH,,,0
+"Waterloo, IN",,Waterloo,,,WTI,,,0
+"Williston, ND",,Williston,,,WTN,,,0
+"Willits, CA",,Calif Western Railroad Depot,,,WTS,,,0
+"Walla Walla, WA",,Walla Walla,Pasco,,WWA,,,0
+"Wildwood, FL",,Wildwood,,,WWD,,,0
+"Yazoo City, MS",,Yazoo City,,,YAZ,,,0
+"Yachats, OR",,Yachats,,,YCH,,,0
+"Yemassee, SC",,Yemassee,,,YEM,,,0
+"Yonkers, NY",,Yonkers,,,YNY,,,0
+"Yosemite National Park, CA",,Curry Village,,,YOC,,,0
+"Yosemite National Park, CA",,Crane Flat,,,YOF,,,0
+"Yosemite National Park, CA",,Wawona,,,YOH,,,0
+"Yosemite National Park, CA",,Mariposa Grove,,,YOM,,,0
+"Yosemite National Park, CA",,Yosemite Valley Lodge,,,YOS,,,0
+"Yosemite National Park, CA",,Tuolomne Meadows,,,YOT,,,0
+"Yosemite National Park, CA",,Yosemite Village,,,YOV,,,0
+"Yosemite National Park, CA",,White Wolf Lodge,,,YOW,,,0
+"Yuma, AZ",,Yuma,,,YUM,,,0
+,357,Beijingbei,,[object Object],BJB,,VAP,0
+,357,Beijingdong,,[object Object],BJD,,BOP,0
+,357,Beijing,,[object Object],BJ,,BJP,0
+,357,Beijingnan,,[object Object],BJN,,VNP,0
+,357,Beijingdaxing,,[object Object],BJDX,,IPP,0
+,357,Beijingxi,,[object Object],BJX,,BXP,0
+,357,Beijingchaoyang,,[object Object],BJCY,,IFP,0
+,357,Beijingtongzhou,,[object Object],BJTZ,,BUI,0
+,357,Lixian,,[object Object],LX,,LXI,0
+,1717,Chongqingbei,,[object Object],CQB,,CUW,0
+,1717,Chongqingdong,,[object Object],CQD,,COE,0
+,1717,Chongqing,,[object Object],CQ,,CQW,0
+,1717,Chongqingnan,,[object Object],CQN,,CRW,0
+,1717,Chongqingxi,,[object Object],CQX,,CXW,0
+,712,Liantang,,[object Object],LT,,LTU,0
+,712,Shanghai,,[object Object],SH,,SHH,0
+,712,Shanghainan,,[object Object],SHN,,SNH,0
+,712,Shanghaihongqiao,,[object Object],SHHQ,,AOH,0
+,712,Shanghaixi,,[object Object],SHX,,SXH,0
+,359,Tianjinbei,,[object Object],TJB,,TBP,0
+,359,Tianjin,,[object Object],TJ,,TJP,0
+,359,Tianjinnan,,[object Object],TJN,,TIP,0
+,359,Tianjinxi,,[object Object],TJX,,TXP,0
+,9206,Wanxiang,,[object Object],WX,,YTM,0
+,1902,Banmaoqing,,[object Object],BMQ,,BNM,0
+,405,Beiying,,[object Object],BY,,BIV,0
+,110,Changchun,,[object Object],CC,,CCT,0
+,110,Changchunnan,,[object Object],CCN,,CET,0
+,110,Changchunxi,,[object Object],CCX,,CRT,0
+,1707,Chengdudong,,[object Object],CDD,,ICW,0
+,1707,Chengdunan,,[object Object],CDN,,CNW,0
+,1707,Chengdu,,[object Object],CD,,CDW,0
+,1707,Chengduxi,,[object Object],CDX,,CMW,0
+,2102,Chenguanying,,[object Object],CGY,,CAJ,0
+,602,Changqing,,[object Object],CQ,,CNK,0
+,1407,Changsha,,[object Object],CS,,CSQ,0
+,1407,Changshanan,,[object Object],CSN,,CWQ,0
+,1407,Changshaxi,,[object Object],CSX,,RXQ,0
+,602,Changzhuang,,[object Object],CZ,,CVK,0
+,205,Dacheng,,[object Object],DC,,DCT,0
+,1607,Dani,,[object Object],DN,,DNZ,0
+,1607,Dawangtan,,[object Object],DWT,,DZZ,0
+,1607,Dayuan,,[object Object],DY,,DYZ,0
+,2102,Fengshuicun,,[object Object],FSC,,FSJ,0
+,1004,Fuzhou,,[object Object],FZ,,FZS,0
+,1004,Fuzhounan,,[object Object],FZN,,FYS,0
+,2102,Gancaodian,,[object Object],GCD,,GDJ,0
+,602,Gangcheng,,[object Object],GC,,GAK,0
+,205,Gujiazi,,[object Object],GJZ,,GKT,0
+,1902,Guangnanwei,,[object Object],GNW,,GNM,0
+,1803,Guiyang,,[object Object],GY,,GIW,0
+,1803,Guiyangbei,,[object Object],GYB,,KQW,0
+,1803,Guiyangdong,,[object Object],GYD,,KEW,0
+,1502,Guangzhoubei,,[object Object],GZB,,GBQ,0
+,1502,Guangzhoudong,,[object Object],GZD,,GGQ,0
+,1502,Guangzhou,,[object Object],GZ,,GZQ,0
+,1502,Guangzhounan,,[object Object],GZN,,IZQ,0
+,1502,Guangzhouxintang,,[object Object],GZXT,,XWQ,0
+,1502,Guangzhouxi,,[object Object],GZX,,GXQ,0
+,1502,Guangzhoubaiyun,,[object Object],GZBY,,GBA,0
+,34,Haerbinbei,,[object Object],HEBB,,HTB,0
+,34,Haerbin,,[object Object],HEB,,HBB,0
+,34,Haerbindong,,[object Object],HEBD,,VBB,0
+,34,Haerbinxi,,[object Object],HEBX,,VAB,0
+,809,Hefeibeicheng,,[object Object],HFBC,,COH,0
+,809,Hefei,,[object Object],HF,,HFH,0
+,809,Hefeinan,,[object Object],HFN,,ENH,0
+,809,Hefeixi,,[object Object],HFX,,HFU,0
+,205,Huanggutun,,[object Object],HGT,,HTT,0
+,511,Huhehaotedong,,[object Object],HHHTD,,NDC,0
+,511,Huhehaote,,[object Object],HHHT,,HHC,0
+,2501,Haikoudong,,[object Object],HKD,,HMQ,0
+,2501,Haikou,,[object Object],HK,,VUQ,0
+,904,Hangzhoudong,,[object Object],HZD,,HGH,0
+,904,Hangzhou,,[object Object],HZ,,HZH,0
+,904,Hangzhounan,,[object Object],HZN,,XHH,0
+,602,Jinan,,[object Object],JN,,JNK,0
+,602,Jinandong,,[object Object],JND,,MDK,0
+,602,Jinanxi,,[object Object],JNX,,JGK,0
+,1902,Kunming,,[object Object],KM,,KMM,0
+,1902,Kunmingnan,,[object Object],KMN,,KOM,0
+,602,Licheng,,[object Object],LC,,VHK,0
+,602,Linjialou,,[object Object],LJL,,ULK,0
+,2102,Longquansi,,[object Object],LQS,,UQJ,0
+,2751,Lasa,,[object Object],LS,,LSO,0
+,1902,Leshancun,,[object Object],LSC,,LUM,0
+,205,Linshengpu,,[object Object],LSP,,LBT,0
+,2102,Luotuoxiang,,[object Object],LTX,,LTJ,0
+,602,Laiwubei,,[object Object],LWB,,VIK,0
+,2102,Lanzhoudong,,[object Object],LZD,,LVJ,0
+,2102,Lanzhou,,[object Object],LZ,,LZJ,0
+,2102,Lanzhouxinqu,,[object Object],LZXQ,,LQJ,0
+,2102,Lanzhouxi,,[object Object],LZX,,LAJ,0
+,1902,Maoshezu,,[object Object],MSZ,,MOM,0
+,1104,Nanchangdong,,[object Object],NCD,,NUG,0
+,1104,Nanchang,,[object Object],NC,,NCG,0
+,1104,Nanchangnan,,[object Object],NCN,,HOG,0
+,1607,Ningcun,,[object Object],NC,,NCZ,0
+,1104,Nanchangxi,,[object Object],NCX,,NXG,0
+,705,Nanjing,,[object Object],NJ,,NJH,0
+,705,Nanjingnan,,[object Object],NJN,,NKH,0
+,1607,Naluo,,[object Object],NL,,ULZ,0
+,1607,Nanningbei,,[object Object],NNB,,NRZ,0
+,1607,Nanningdong,,[object Object],NND,,NFZ,0
+,1607,Nanning,,[object Object],NN,,NNZ,0
+,1607,Nanningxi,,[object Object],NNX,,NXZ,0
+,1607,Napu,,[object Object],NP,,NPZ,0
+,2302,Nuanquan,,[object Object],NQ,,NQJ,0
+,2102,Podixia,,[object Object],PDX,,PXJ,0
+,1902,Qidian,,[object Object],QD,,QDM,0
+,205,Shiboyuan,,[object Object],SBY,,ZWT,0
+,365,Shijiazhuangbei,,[object Object],SJZB,,VVP,0
+,365,Shijiazhuangdong,,[object Object],SJZD,,SXP,0
+,2102,Shaojiatang,,[object Object],SJT,,SJJ,0
+,365,Shijiazhuang,,[object Object],SJZ,,SJP,0
+,1902,Shijiazui,,[object Object],SJZ,,SHM,0
+,205,Shenyang,,[object Object],SY,,SYT,0
+,205,Shenyangbei,,[object Object],SYB,,SBT,0
+,205,Shenyangdong,,[object Object],SYD,,SDT,0
+,205,Shenyangnan,,[object Object],SYN,,SOT,0
+,2102,Shuiyuan,,[object Object],SY,,OYJ,0
+,205,Shenyangxi,,[object Object],SYX,,OOT,0
+,2102,Sangyuanzi,,[object Object],SYZ,,SAJ,0
+,405,Taiyuandong,,[object Object],TYD,,TDV,0
+,405,Taiyuannan,,[object Object],TYN,,TNV,0
+,405,Taiyuan,,[object Object],TY,,TYV,0
+,1314,Wuhan,,[object Object],WH,,WHN,0
+,1314,Wuhandong,,[object Object],WHD,,LFN,0
+,2102,Wangjiawan,,[object Object],WJW,,WJJ,0
+,2403,Wulumuqinan,,[object Object],WLMQN,,WMR,0
+,2403,Wulumuqi,,[object Object],WLMQ,,WAR,0
+,1607,Wuxujichang,,[object Object],WXJC,,WJZ,0
+,2003,Xianbei,,[object Object],XAB,,EAY,0
+,2003,Xian,,[object Object],XA,,XAY,0
+,2102,Xigucheng,,[object Object],XGC,,XUJ,0
+,1902,Xijiekou,,[object Object],XJK,,EKM,0
+,2102,Xujiatai,,[object Object],XJT,,XTJ,0
+,2201,Xining,,[object Object],XN,,XNO,0
+,1902,Xiaoshao,,[object Object],XS,,XAM,0
+,602,Xueye,,[object Object],XY,,XYK,0
+,2302,Yinchuan,,[object Object],YC,,YIJ,0
+,1902,Yongfengying,,[object Object],YFY,,YYM,0
+,1902,Yinai,,[object Object],YN,,YVM,0
+,205,Yushutai,,[object Object],YST,,YUT,0
+,2003,Yinzhen,,[object Object],YZ,,CAY,0
+,2102,Zhujiayao,,[object Object],ZJY,,ZUJ,0
+,602,Zhangqiunan,,[object Object],ZQN,,VQK,0
+,1222,Zhengzhoudong,,[object Object],ZZD,,ZAF,0
+,1222,Zhengzhouhangkonggang,,[object Object],ZZHKG,,ZIF,0
+,1222,Zhengzhou,,[object Object],ZZ,,ZZF,0
+,1222,Zhengzhouxi,,[object Object],ZZX,,XPF,0
+,7,Angangxi,,[object Object],AAX,,AAX,0
+,34,Achengbei,,[object Object],ACB,,ABB,0
+,34,Acheng,,[object Object],AC,,ACB,0
+,358,Anci,,[object Object],AC,,ACI,0
+,15,Anda,,[object Object],AD,,ADX,0
+,1707,Ande,,[object Object],AD,,ARW,0
+,1646,Aershanbei,,[object Object],AESB,,ARX,0
+,1646,Aershan,,[object Object],AES,,ART,0
+,901,Anji,,[object Object],AJ,,AJU,0
+,1707,Anjing,,[object Object],AJ,,PYW,0
+,34,Anjia,,[object Object],AJ,,AJB,0
+,2006,Ankang,,[object Object],AK,,AKY,0
+,2409,Akesu,,[object Object],AKS,,ASR,0
+,2411,Aketao,,[object Object],AKT,,AER,0
+,2409,Alaer,,[object Object],ALE,,AOR,0
+,9096,Alihe,,[object Object],ALH,,AHX,0
+,2407,Alashankou,,[object Object],ALSK,,AKR,0
+,2424,Aletai,,[object Object],ALT,,AUR,0
+,1313,Anlu,,[object Object],AL,,ALN,0
+,1313,Anluxi,,[object Object],ALX,,AXN,0
+,816,Anqing,,[object Object],AQ,,AQH,0
+,816,Anqingxi,,[object Object],AQX,,AIU,0
+,1805,Anshun,,[object Object],AS,,ASW,0
+,213,Anshan,,[object Object],AS,,AST,0
+,1805,Anshunxi,,[object Object],ASX,,ASE,0
+,213,Anshanxi,,[object Object],ASX,,AXT,0
+,712,Antingbei,,[object Object],ATB,,ASH,0
+,712,Antingxi,,[object Object],ATX,,AXU,0
+,1201,Anyang,,[object Object],AY,,AYF,0
+,1201,Anyangdong,,[object Object],AYD,,ADF,0
+,9,Beian,,[object Object],BA,,BAB,0
+,1606,Bobai,,[object Object],BB,,BBZ,0
+,807,Bengbunan,,[object Object],BBN,,BMH,0
+,807,Bengbu,,[object Object],BB,,BBH,0
+,2410,Bachu,,[object Object],BC,,BCR,0
+,102,Baicheng,,[object Object],BC,,BCT,0
+,359,Beichen,,[object Object],BC,,BII,0
+,359,Baodibei,,[object Object],BDB,,BPP,0
+,357,Badalingchangcheng,,[object Object],BDLCC,,VLP,0
+,326,Baodingdong,,[object Object],BDD,,BMP,0
+,301,Beidaihe,,[object Object],BDH,,BEP,0
+,326,Baoding,,[object Object],BD,,BDP,0
+,357,Badaling,,[object Object],BDL,,ILP,0
+,1361,Badong,,[object Object],BD,,BBN,0
+,1407,Bafangshan,,[object Object],BFS,,FGQ,0
+,1806,Baiguo,,[object Object],BG,,BGM,0
+,1611,Beihai,,[object Object],BH,,BHZ,0
+,359,Binhai,,[object Object],BH,,YKP,0
+,359,Binhaibei,,[object Object],BHB,,FCP,0
+,9097,Baihe,,[object Object],BH,,BEL,0
+,359,Binhaixi,,[object Object],BHX,,FHP,0
+,1848,Bijie,,[object Object],BJ,,BOE,0
+,2005,Baoji,,[object Object],BJ,,BJY,0
+,326,Baijian,,[object Object],BJ,,BAP,0
+,2005,Baojinan,,[object Object],BJN,,BBY,0
+,357,Beijingfengtai,,[object Object],BJFT,,FTP,0
+,34,Baikuipu,,[object Object],BKP,,BKB,0
+,9096,Boketu,,[object Object],BKT,,BKX,0
+,2407,Bole,,[object Object],BL,,BER,0
+,9096,Balin,,[object Object],BL,,BLX,0
+,23,Boli,,[object Object],BL,,BLB,0
+,2515,Baimajing,,[object Object],BMJ,,BFQ,0
+,44,Bamiantong,,[object Object],BMT,,BMB,0
+,233,Beipiao,,[object Object],BP,,BPT,0
+,20,Baoqing,,[object Object],BQ,,BUB,0
+,18,Baoquanling,,[object Object],BQL,,BQB,0
+,1610,Baise,,[object Object],BS,,BIZ,0
+,136,Baishanshi,,[object Object],BSS,,HJL,0
+,512,Baotoudong,,[object Object],BTD,,BDC,0
+,512,Baotou,,[object Object],BT,,BTC,0
+,2424,Beitunshi,,[object Object],BTS,,BXR,0
+,34,Binxibei,,[object Object],BXB,,BBB,0
+,208,Benxi,,[object Object],BX,,BXT,0
+,1707,Buxingjie,,[object Object],BXJ,,BWW,0
+,1607,Binyang,,[object Object],BY,,UKZ,0
+,512,Baiyunebo,,[object Object],BYEB,,BEC,0
+,1803,Baiyunbei,,[object Object],BYB,,BVE,0
+,1502,Baiyunjichangbei,,[object Object],BYJCB,,BBA,0
+,326,Baiyangdian,,[object Object],BYD,,FWP,0
+,9034,Bayannaoer,,[object Object],BYNE,,FMC,0
+,34,Beiyinhe,,[object Object],BYH,,BYB,0
+,1803,Baiyi,,[object Object],BY,,FHW,0
+,9034,Bayangaole,,[object Object],BYGL,,BAC,0
+,216,Bayuquan,,[object Object],BYQ,,BYT,0
+,2103,Baiyinxi,,[object Object],BYX,,BXJ,0
+,1803,Baiyunxi,,[object Object],BYX,,BXE,0
+,9014,Bazhongdong,,[object Object],BZD,,BDE,0
+,2004,Binzhoudong,,[object Object],BZD,,BFY,0
+,9014,Bazhong,,[object Object],BZ,,IEW,0
+,690,Binzhou,,[object Object],BZ,,BIK,0
+,802,Bozhou,,[object Object],BZ,,BZH,0
+,34,Binzhou,,[object Object],BZ,,BZB,0
+,802,Bozhounan,,[object Object],BZN,,BNU,0
+,508,Chabuga,,[object Object],CBG,,CBC,0
+,1317,Chibi,,[object Object],CB,,CBN,0
+,9097,Changbaishan,,[object Object],CBS,,CUL,0
+,136,Changbaishanxi,,[object Object],CBSX,,SJL,0
+,1422,Changde,,[object Object],CD,,VGQ,0
+,309,Chengde,,[object Object],CD,,CDP,0
+,309,Chengdenan,,[object Object],CDN,,IVP,0
+,304,Caofeidiandong,,[object Object],CFDD,,POP,0
+,508,Chifeng,,[object Object],CF,,CID,0
+,304,Caofeidiangang,,[object Object],CFDG,,PGP,0
+,508,Chifengnan,,[object Object],CFN,,CFD,0
+,9096,Cuogang,,[object Object],CG,,CAX,0
+,110,Chaigang,,[object Object],CG,,CGT,0
+,315,Chaigoubu,,[object Object],CGP,,CGV,0
+,1214,Changgebei,,[object Object],CGB,,CGF,0
+,2007,Chenggu,,[object Object],CG,,CGY,0
+,34,Chenggaozi,,[object Object],CGZ,,CZB,0
+,1848,Caohai,,[object Object],CH,,WBW,0
+,809,Chaohudong,,[object Object],CHD,,GUH,0
+,44,Chaihe,,[object Object],CH,,CHB,0
+,809,Chaohu,,[object Object],CH,,CIH,0
+,1801,Congjiang,,[object Object],CJ,,KNW,0
+,9010,Caijiaya,,[object Object],CJY,,EBV,0
+,1004,Changledong,,[object Object],CLD,,CIS,0
+,1004,Changle,,[object Object],CL,,CAS,0
+,809,Changlinhe,,[object Object],CLH,,FVH,0
+,1421,Cili,,[object Object],CL,,CUQ,0
+,1408,Chaling,,[object Object],CL,,CDG,0
+,315,Chongli,,[object Object],CL,,KOP,0
+,301,Changli,,[object Object],CL,,CLP,0
+,2501,Changliu,,[object Object],CL,,CLA,0
+,1004,Changlenan,,[object Object],CLN,,CVS,0
+,16,Chenming,,[object Object],CM,,CMB,0
+,920,Cangnan,,[object Object],CN,,CEH,0
+,357,Changpingbei,,[object Object],CPB,,VBP,0
+,1504,Changpingdong,,[object Object],CPD,,FQQ,0
+,1714,Cuiping,,[object Object],CP,,YBW,0
+,357,Changping,,[object Object],CP,,CPP,0
+,2141,Changqingqiao,,[object Object],CQQ,,CQJ,0
+,1147,Chongren,,[object Object],CR,,CRG,0
+,3127,Changshoubei,,[object Object],CSB,,COW,0
+,1515,Chaoshan,,[object Object],CS,,CBQ,0
+,511,Chasuqi,,[object Object],CSQ,,CSC,0
+,1701,Chaotian,,[object Object],CT,,CTE,0
+,1053,Changtingnan,,[object Object],CTN,,CNS,0
+,1701,Chaotiannan,,[object Object],CTN,,CTY,0
+,204,Changtu,,[object Object],CT,,CTT,0
+,204,Changtuxi,,[object Object],CTX,,CPT,0
+,44,Changtingzhen,,[object Object],CTZ,,CDB,0
+,2004,Changwu,,[object Object],CW,,CWY,0
+,1701,Cangxi,,[object Object],CX,,CXE,0
+,1403,Chenxi,,[object Object],CX,,CXQ,0
+,349,Cixian,,[object Object],CX,,CIP,0
+,1905,Chuxiong,,[object Object],CX,,CUM,0
+,621,Caoxian,,[object Object],CX,,CXK,0
+,2501,Chengxi,,[object Object],CX,,CIA,0
+,901,Changxingnan,,[object Object],CXN,,CFH,0
+,205,Chenxiangtun,,[object Object],CXT,,CXT,0
+,1516,Chaoyang,,[object Object],CY,,CNQ,0
+,1707,Chaoyanghu,,[object Object],CYH,,CYE,0
+,808,Chuzhoubei,,[object Object],CZB,,CUH,0
+,708,Changzhoubei,,[object Object],CZB,,ESH,0
+,414,Changzhibei,,[object Object],CZB,,CBF,0
+,414,Changzhidong,,[object Object],CZD,,CUF,0
+,2103,Changzheng,,[object Object],CZ,,CZJ,0
+,878,Chizhou,,[object Object],CZ,,IYH,0
+,808,Chuzhou,,[object Object],CZ,,CXH,0
+,1419,Chenzhou,,[object Object],CZ,,CZQ,0
+,334,Cangzhou,,[object Object],CZ,,COP,0
+,708,Changzhou,,[object Object],CZ,,CZH,0
+,414,Changzhi,,[object Object],CZ,,CZF,0
+,1707,Chongzhou,,[object Object],CZ,,CZE,0
+,1615,Chongzuonan,,[object Object],CZN,,COZ,0
+,1615,Chongzuo,,[object Object],CZ,,CZZ,0
+,1419,Chenzhouxi,,[object Object],CZX,,ICQ,0
+,334,Cangzhouxi,,[object Object],CZX,,CBP,0
+,102,Daanbei,,[object Object],DAB,,RNT,0
+,1426,Dongandong,,[object Object],DAD,,DCZ,0
+,2403,Dabancheng,,[object Object],DBC,,DCR,0
+,2015,Dingbian,,[object Object],DB,,DYJ,0
+,2101,Dongcha,,[object Object],DC,,DCJ,0
+,210,Dandong,,[object Object],DD,,DUT,0
+,2518,Dongfang,,[object Object],DF,,UFQ,0
+,2016,Danfeng,,[object Object],DF,,DGY,0
+,1408,Dafeng,,[object Object],DF,,KRQ,0
+,26,Dongfanghong,,[object Object],DFH,,DFB,0
+,1848,Dafangnan,,[object Object],DFN,,DNE,0
+,2107,Dongfengnan,,[object Object],DFN,,DPJ,0
+,210,Donggangbei,,[object Object],DGB,,RGT,0
+,1504,Dongguandong,,[object Object],DGD,,DMQ,0
+,1504,Dongguannan,,[object Object],DGN,,DNA,0
+,210,Dagushan,,[object Object],DGS,,RMT,0
+,1504,Dongguan,,[object Object],DG,,RTQ,0
+,1504,Dongguanxi,,[object Object],DGX,,WGQ,0
+,228,Dahushan,,[object Object],DHS,,DHD,0
+,9097,Dunhua,,[object Object],DH,,DHL,0
+,2107,Dunhuang,,[object Object],DH,,DHJ,0
+,110,Dehui,,[object Object],DH,,DHT,0
+,110,Dehuixi,,[object Object],DHX,,DXT,0
+,44,Dongjingcheng,,[object Object],DJC,,DJB,0
+,3131,Dianjiang,,[object Object],DJ,,DJE,0
+,1504,Daojiao,,[object Object],DJ,,RRQ,0
+,401,Dajian,,[object Object],DJ,,DFP,0
+,1407,Dongjing,,[object Object],DJ,,FWQ,0
+,1707,Dujiangyan,,[object Object],DJY,,DDW,0
+,1415,Dongkou,,[object Object],DK,,DKA,0
+,220,Dalianbei,,[object Object],DLB,,DFT,0
+,2202,Delingha,,[object Object],DLH,,DHO,0
+,34,Dalianhe,,[object Object],DLH,,DCB,0
+,2002,Dali,,[object Object],DL,,DNY,0
+,1906,Dali,,[object Object],DL,,DKM,0
+,220,Dalian,,[object Object],DL,,DLT,0
+,602,Daminghu,,[object Object],DMH,,JAK,0
+,34,Demoli,,[object Object],DML,,DTB,0
+,621,Dongmingxian,,[object Object],DMX,,DNF,0
+,1116,Dingnan,,[object Object],DN,,DNG,0
+,1116,Dingnannan,,[object Object],DNN,,DIG,0
+,1513,Dapu,,[object Object],DP,,DPI,0
+,37,Daqingdong,,[object Object],DQD,,LFX,0
+,37,Daqing,,[object Object],DQ,,DZX,0
+,34,Duiqingshan,,[object Object],DQS,,DQB,0
+,37,Daqingxi,,[object Object],DQX,,RHX,0
+,517,Dongsheng,,[object Object],DS,,DOC,0
+,1802,Dushan,,[object Object],DS,,RWW,0
+,806,Dangshannan,,[object Object],DSN,,PRH,0
+,216,Dashiqiao,,[object Object],DSQ,,DQT,0
+,517,Dongshengxi,,[object Object],DSX,,DYC,0
+,401,Datongnan,,[object Object],DTN,,DMV,0
+,401,Datong,,[object Object],DT,,DTV,0
+,2201,Datongxi,,[object Object],DTX,,DTO,0
+,2301,Dawukou,,[object Object],DWK,,DFJ,0
+,1803,Dangwu,,[object Object],DW,,DWE,0
+,2124,Dingxibei,,[object Object],DXB,,DNJ,0
+,357,Daxingjichang,,[object Object],DXJC,,IWP,0
+,2124,Dingxi,,[object Object],DX,,DSJ,0
+,1121,Dongxiang,,[object Object],DX,,DXG,0
+,7,Daxing,,[object Object],DX,,DXX,0
+,1612,Dongxingshi,,[object Object],DXS,,RIZ,0
+,1704,Deyang,,[object Object],DY,,DYW,0
+,1307,Dangyang,,[object Object],DY,,DYN,0
+,706,Danyang,,[object Object],DY,,DYH,0
+,1316,Dayebei,,[object Object],DYB,,DBN,0
+,1719,Dayingdong,,[object Object],DYD,,IAW,0
+,1802,Duyundong,,[object Object],DYD,,KJW,0
+,697,Dongying,,[object Object],DY,,DPK,0
+,1707,Dayi,,[object Object],DY,,DEE,0
+,697,Dongyingnan,,[object Object],DYN,,DOK,0
+,9096,Dayangshu,,[object Object],DYS,,DUX,0
+,1802,Duyun,,[object Object],DY,,RYW,0
+,601,Dezhoudong,,[object Object],DZD,,DIP,0
+,326,Dingzhoudong,,[object Object],DZD,,DOP,0
+,1216,Dengzhoudong,,[object Object],DZD,,DDF,0
+,878,Dongzhi,,[object Object],DZ,,DCH,0
+,1715,Dazhou,,[object Object],DZ,,RXW,0
+,601,Dezhou,,[object Object],DZ,,DZP,0
+,326,Dingzhou,,[object Object],DZ,,DXP,0
+,1216,Dengzhou,,[object Object],DZ,,DOF,0
+,1708,Ebiannan,,[object Object],EBN,,ENE,0
+,517,Eerduosi,,[object Object],EEDS,,EEC,0
+,9099,Ejina,,[object Object],EJN,,EJC,0
+,509,Erlian,,[object Object],EL,,RLC,0
+,1708,Emei,,[object Object],EM,,EMW,0
+,1708,Emeishan,,[object Object],EMS,,IXW,0
+,1361,Enshi,,[object Object],ES,,ESN,0
+,1315,Ezhou,,[object Object],EZ,,ECN,0
+,1612,Fangchenggangbei,,[object Object],FCGB,,FBZ,0
+,1023,Fuding,,[object Object],FD,,FES,0
+,809,Feidong,,[object Object],FD,,FIH,0
+,3109,Fengdu,,[object Object],FD,,FUW,0
+,1806,Faer,,[object Object],FE,,FEM,0
+,2015,Fugu,,[object Object],FG,,FUV,0
+,2424,Fuhai,,[object Object],FH,,FHR,0
+,2509,Fenghuangjichang,,[object Object],FHJC,,FJQ,0
+,210,Fenghuangcheng,,[object Object],FHC,,FHT,0
+,405,Fenhe,,[object Object],FH,,FEV,0
+,910,Fenghua,,[object Object],FH,,FHH,0
+,52,Fujin,,[object Object],FJ,,FIB,0
+,3107,Fulingbei,,[object Object],FLB,,FEW,0
+,413,Fenglingdu,,[object Object],FLD,,FLV,0
+,1107,Fuliangdong,,[object Object],FLD,,FVG,0
+,3107,Fuling,,[object Object],FL,,FLW,0
+,7,Fulaerji,,[object Object],FLEJ,,FRX,0
+,2102,Fuliqu,,[object Object],FLQ,,FLJ,0
+,739,Funingdong,,[object Object],FND,,FDU,0
+,1979,Funing,,[object Object],FN,,FNM,0
+,1004,Fuqing,,[object Object],FQ,,FQS,0
+,1802,Fuquan,,[object Object],FQ,,VMW,0
+,1407,Furongnan,,[object Object],FRN,,KCQ,0
+,1713,Fushun,,[object Object],FS,,FSE,0
+,206,Fushun,,[object Object],FS,,FET,0
+,1506,Foshan,,[object Object],FS,,FSQ,0
+,1615,Fusui,,[object Object],FS,,FSZ,0
+,1506,Foshanxi,,[object Object],FSX,,FOQ,0
+,1505,Futian,,[object Object],FT,,NZQ,0
+,1503,Feixia,,[object Object],FX,,FEA,0
+,2005,Fengxian,,[object Object],FX,,FXY,0
+,226,Fuxin,,[object Object],FX,,FOT,0
+,809,Feixi,,[object Object],FX,,FAH,0
+,226,Fuxinnan,,[object Object],FXN,,FXD,0
+,804,Fuyang,,[object Object],FY,,FYH,0
+,904,Fuyang,,[object Object],FY,,FYU,0
+,138,Fuyubei,,[object Object],FYB,,FBT,0
+,1111,Fenyi,,[object Object],FY,,FYG,0
+,2424,Fuyun,,[object Object],FYU,,FYR,0
+,1901,Fuyuan,,[object Object],FY,,FYM,0
+,52,Fuyuan,,[object Object],FY,,FYB,0
+,7,Fuyu,,[object Object],FY,,FYX,0
+,804,Fuyangxi,,[object Object],FYX,,FXU,0
+,9011,Fengzhen,,[object Object],FZ,,FZC,0
+,2005,Fengzhou,,[object Object],FZ,,FZY,0
+,1121,Fuzhou,,[object Object],FZ,,FZG,0
+,34,Fangzheng,,[object Object],FZ,,FNB,0
+,1759,Guangannan,,[object Object],GAN,,VUW,0
+,1759,Guangan,,[object Object],GA,,VJW,0
+,1112,Gaoan,,[object Object],GA,,GCG,0
+,1803,Guian,,[object Object],GA,,GAE,0
+,357,Gubeikou,,[object Object],GBK,,GKP,0
+,365,Gaocheng,,[object Object],GC,,GEP,0
+,365,Gaochengnan,,[object Object],GCN,,GUP,0
+,405,Gaocun,,[object Object],GC,,GCV,0
+,405,Gudong,,[object Object],GD,,GDV,0
+,2203,Geermu,,[object Object],GEM,,GRO,0
+,1605,Guigang,,[object Object],GG,,GGZ,0
+,2101,Gangu,,[object Object],GG,,GGJ,0
+,9096,Genhe,,[object Object],GH,,GEX,0
+,205,Gaohua,,[object Object],GH,,HGD,0
+,405,Gujiao,,[object Object],GJ,,GJV,0
+,2102,Gaolan,,[object Object],GL,,GEJ,0
+,1603,Guilinbei,,[object Object],GLB,,GBZ,0
+,34,Gaoleng,,[object Object],GL,,GLB,0
+,1603,Guilin,,[object Object],GL,,GLZ,0
+,3,Gulian,,[object Object],GL,,GRX,0
+,9034,Gongmiaozi,,[object Object],GMZ,,GMC,0
+,1979,Guangnanxian,,[object Object],GNX,,GXM,0
+,1605,Guiping,,[object Object],GP,,GAZ,0
+,1101,Gongqingcheng,,[object Object],GQC,,GAG,0
+,1220,Gushi,,[object Object],GS,,GXN,0
+,1310,Guangshui,,[object Object],GS,,GSN,0
+,1407,Gushan,,[object Object],GS,,FFQ,0
+,1407,Guanshaling,,[object Object],GSL,,FKQ,0
+,2304,Gantang,,[object Object],GT,,GNJ,0
+,1905,Guangtongbei,,[object Object],GTB,,GPM,0
+,1008,Gutianhuizhi,,[object Object],GTHZ,,STS,0
+,1759,Gaoxing,,[object Object],GX,,VWW,0
+,603,Guanxian,,[object Object],GX,,GHP,0
+,358,Guangyang,,[object Object],GY,,LFP,0
+,365,Gaoyi,,[object Object],GY,,GIP,0
+,1222,Gongyi,,[object Object],GY,,GXF,0
+,1222,Gongyinan,,[object Object],GYN,,GYF,0
+,2315,Guyuan,,[object Object],GY,,GUJ,0
+,1701,Guangyuan,,[object Object],GY,,GYW,0
+,704,Ganyu,,[object Object],GY,,GYU,0
+,365,Gaoyixi,,[object Object],GYX,,GNP,0
+,1509,Gaozhou,,[object Object],GZ,,GSQ,0
+,1116,Ganzhou,,[object Object],GZ,,GZG,0
+,110,Gongzhuling,,[object Object],GZL,,GLT,0
+,110,Gongzhulingnan,,[object Object],GZLN,,GBT,0
+,1008,Guanzhaishan,,[object Object],GZS,,GPS,0
+,216,Gaizhouxi,,[object Object],GZX,,GAT,0
+,1116,Ganzhouxi,,[object Object],GZX,,GOG,0
+,752,Huaiandong,,[object Object],HAD,,HAU,0
+,752,Huaian,,[object Object],HA,,AUH,0
+,801,Huaibei,,[object Object],HB,,HRH,0
+,52,Hebei,,[object Object],HB,,HMB,0
+,1220,Huaibin,,[object Object],HB,,HVN,0
+,403,Hebian,,[object Object],HB,,HBV,0
+,1803,Huchaodong,,[object Object],HCD,,HCE,0
+,2002,Hancheng,,[object Object],HC,,HCY,0
+,3123,Hechuan,,[object Object],HC,,WKW,0
+,9097,Hunchun,,[object Object],HC,,HUL,0
+,1220,Huangchuan,,[object Object],HC,,KCN,0
+,213,Haicheng,,[object Object],HC,,HCT,0
+,1502,Huachengjie,,[object Object],HCJ,,HCA,0
+,357,Huangcun,,[object Object],HC,,HCP,0
+,1601,Hechixi,,[object Object],HCX,,HIZ,0
+,213,Haichengxi,,[object Object],HCX,,HXT,0
+,349,Handan,,[object Object],HD,,HDP,0
+,2302,Hedongjichang,,[object Object],HDJC,,HFJ,0
+,349,Handandong,,[object Object],HDD,,HPP,0
+,913,Hengdian,,[object Object],HD,,HJU,0
+,1512,Huidongnan,,[object Object],HDN,,KDQ,0
+,9057,Hadapu,,[object Object],HDP,,HDJ,0
+,1502,Huadu,,[object Object],HD,,HAA,0
+,411,Hongtongxi,,[object Object],HDX,,HTV,0
+,44,Hengdaohezi,,[object Object],HDHZ,,HDB,0
+,2482,Huoerguosi,,[object Object],HEGS,,HFR,0
+,18,Hegang,,[object Object],HG,,HGB,0
+,9026,Huanggangdong,,[object Object],HGD,,KAN,0
+,1806,Hongguo,,[object Object],HG,,HEM,0
+,359,Hangu,,[object Object],HG,,HGP,0
+,1707,Hongguangzhen,,[object Object],HGZ,,IGW,0
+,1955,Honghe,,[object Object],HH,,HHM,0
+,9,Heihe,,[object Object],HH,,HJB,0
+,1403,Huaihuanan,,[object Object],HHN,,KAQ,0
+,1222,Huanghejingqu,,[object Object],HHJQ,,HCF,0
+,1403,Huaihua,,[object Object],HH,,HHQ,0
+,1314,Houhu,,[object Object],HH,,IHN,0
+,1601,Huanjiang,,[object Object],HJ,,HFZ,0
+,2408,Hejing,,[object Object],HJ,,HJR,0
+,413,Hejin,,[object Object],HJ,,HJV,0
+,1507,Huaiji,,[object Object],HJ,,FAQ,0
+,110,Huajia,,[object Object],HJ,,HJT,0
+,1955,Hekoubei,,[object Object],HKB,,HBM,0
+,34,Hongkeli,,[object Object],HKL,,OKB,0
+,2102,Hekounan,,[object Object],HKN,,HKJ,0
+,1314,Hankou,,[object Object],HK,,HKN,0
+,34,Hulan,,[object Object],HL,,HUB,0
+,237,Huludaobei,,[object Object],HLDB,,HPD,0
+,237,Huludao,,[object Object],HLD,,HLD,0
+,9096,Hailaer,,[object Object],HLE,,HRX,0
+,110,Halahai,,[object Object],HLH,,HIT,0
+,44,Hailin,,[object Object],HL,,HRB,0
+,26,Hulin,,[object Object],HL,,VLB,0
+,507,Huolinguole,,[object Object],HLGL,,HWD,0
+,2010,Huanglingnan,,[object Object],HLN,,VLY,0
+,15,Hailun,,[object Object],HL,,HLB,0
+,411,Houma,,[object Object],HM,,HMV,0
+,9026,Huangmeidong,,[object Object],HMD,,HDU,0
+,1525,Houmen,,[object Object],HM,,KMQ,0
+,727,Haimen,,[object Object],HM,,HMU,0
+,2401,Hami,,[object Object],HM,,HMR,0
+,411,Houmaxi,,[object Object],HMX,,HPV,0
+,805,Huainan,,[object Object],HN,,HAH,0
+,28,Huanan,,[object Object],HN,,HNB,0
+,805,Huainandong,,[object Object],HND,,HOH,0
+,805,Huainannan,,[object Object],HNN,,HNU,0
+,902,Hainingxi,,[object Object],HNX,,EUH,0
+,1906,Heqing,,[object Object],HQ,,HQM,0
+,357,Huairoubei,,[object Object],HRB,,HBP,0
+,402,Huairendong,,[object Object],HRD,,HFV,0
+,357,Huairounan,,[object Object],HRN,,IMP,0
+,357,Huairou,,[object Object],HR,,HRP,0
+,2001,Huashanbei,,[object Object],HSB,,HDY,0
+,339,Hengshuibei,,[object Object],HSB,,IHP,0
+,815,Huangshanbei,,[object Object],HSB,,NYH,0
+,1316,Huangshidong,,[object Object],HSD,,OSN,0
+,2413,Heshituoluogai,,[object Object],HSTLG,,VSR,0
+,2001,Huashan,,[object Object],HS,,HGY,0
+,2408,Heshuo,,[object Object],HS,,VUR,0
+,102,Heishui,,[object Object],HS,,HOT,0
+,339,Hengshui,,[object Object],HS,,HSP,0
+,1316,Huangshi,,[object Object],HS,,HSN,0
+,815,Huangshan,,[object Object],HS,,HKH,0
+,1314,Huashannan,,[object Object],HSN,,KNN,0
+,357,Heishansi,,[object Object],HSS,,HVP,0
+,2102,Haishiwan,,[object Object],HSW,,HSO,0
+,5409,Heshunxian,,[object Object],HSX,,HOP,0
+,815,Huangshanxi,,[object Object],HSX,,HWU,0
+,1502,Huashanzhen,,[object Object],HSZ,,HZA,0
+,357,Huangtudian,,[object Object],HTD,,HKP,0
+,2419,Hetian,,[object Object],HT,,VTR,0
+,1403,Huitong,,[object Object],HT,,VTQ,0
+,712,Haiwan,,[object Object],HW,,RWH,0
+,1803,Huaxidaxuecheng,,[object Object],HXDXC,,HDE,0
+,2141,Huanxian,,[object Object],HX,,KXJ,0
+,1803,Huaxinan,,[object Object],HXN,,HNE,0
+,1803,Huaxixi,,[object Object],HXX,,HUE,0
+,1512,Huiyang,,[object Object],HY,,KNQ,0
+,1416,Hengyang,,[object Object],HY,,HYQ,0
+,611,Haiyang,,[object Object],HY,,KYK,0
+,1511,Heyuandong,,[object Object],HYD,,HEA,0
+,1416,Hengyangdong,,[object Object],HYD,,HVQ,0
+,1759,Huaying,,[object Object],HY,,HUW,0
+,2003,Huyi,,[object Object],HYI,,KXY,0
+,6740,Hanyuan,,[object Object],HY,,WHW,0
+,1511,Heyuan,,[object Object],HY,,VIQ,0
+,2201,Huangyuan,,[object Object],HY,,HNO,0
+,1512,Huizhoubei,,[object Object],HZB,,HUA,0
+,621,Hezedong,,[object Object],HZD,,KDK,0
+,621,Heze,,[object Object],HZ,,HIK,0
+,6618,Hezhou,,[object Object],HZ,,HXZ,0
+,2002,Huazhou,,[object Object],HZ,,HXY,0
+,901,Huzhou,,[object Object],HZ,,VZH,0
+,2007,Hanzhong,,[object Object],HZ,,HOY,0
+,1512,Huizhou,,[object Object],HZ,,HCQ,0
+,1114,Jian,,[object Object],JA,,VAG,0
+,135,Jian,,[object Object],JA,,JAL,0
+,122,Jianan,,[object Object],JA,,JUL,0
+,1114,Jianxi,,[object Object],JAX,,JIG,0
+,6107,Jiangbiancun,,[object Object],JBC,,JBG,0
+,415,Jinchengdong,,[object Object],JCD,,JGF,0
+,2105,Jinchang,,[object Object],JC,,JCJ,0
+,415,Jincheng,,[object Object],JC,,JCF,0
+,1601,Jinchengjiang,,[object Object],JCJ,,JJZ,0
+,1107,Jingdezhenbei,,[object Object],JDZB,,JDG,0
+,904,Jiande,,[object Object],JD,,JDU,0
+,26,Jidong,,[object Object],JD,,JOB,0
+,1107,Jingdezhen,,[object Object],JDZ,,JCG,0
+,415,Jiafeng,,[object Object],JF,,JFF,0
+,3,Jiagedaqi,,[object Object],JGDQ,,JGX,0
+,1114,Jinggangshan,,[object Object],JGS,,JGG,0
+,205,Jinhai,,[object Object],JH,,JHD,0
+,359,Jinghai,,[object Object],JH,,JHP,0
+,117,Jiaohe,,[object Object],JH,,JHL,0
+,2407,Jinghenan,,[object Object],JHN,,JIR,0
+,913,Jinhuanan,,[object Object],JHN,,RNH,0
+,913,Jinhua,,[object Object],JH,,JBH,0
+,117,Jiaohexi,,[object Object],JHX,,JOL,0
+,1803,Jinhuazhen,,[object Object],JHZ,,JZE,0
+,1014,Jinjiang,,[object Object],JJ,,JJS,0
+,1101,Jiujiang,,[object Object],JJ,,JJG,0
+,359,Junliangchengbei,,[object Object],JLCB,,JMP,0
+,1222,Jialuhe,,[object Object],JLH,,JLF,0
+,117,Jilin,,[object Object],JL,,JLL,0
+,614,Jimobei,,[object Object],JMB,,JVK,0
+,1541,Jiangmen,,[object Object],JM,,JOQ,0
+,1305,Jingmen,,[object Object],JM,,JMN,0
+,1701,Jianmenguan,,[object Object],JMG,,JME,0
+,52,Jiamusi,,[object Object],JMS,,JMB,0
+,1305,Jingmenxi,,[object Object],JMX,,MXN,0
+,365,Jingnan,,[object Object],JN,,JNP,0
+,1061,Jianningxianbei,,[object Object],JNXB,,JCS,0
+,620,Jining,,[object Object],JN,,JIK,0
+,705,Jiangning,,[object Object],JN,,JJH,0
+,9011,Jiningnan,,[object Object],JNN,,JAC,0
+,705,Jiangningxi,,[object Object],JNX,,OKH,0
+,508,Jingpeng,,[object Object],JP,,JPC,0
+,233,Jianping,,[object Object],JP,,JAD,0
+,2107,Jiuquannan,,[object Object],JQN,,JNJ,0
+,2107,Jiuquan,,[object Object],JQ,,JQJ,0
+,712,Jinshanbei,,[object Object],JSB,,EGH,0
+,1402,Jishoudong,,[object Object],JSD,,JDA,0
+,1402,Jishou,,[object Object],JS,,JIQ,0
+,916,Jiangshan,,[object Object],JS,,JUH,0
+,1407,Jianshan,,[object Object],JS,,JPQ,0
+,52,Jiansanjiang,,[object Object],JSJ,,JIB,0
+,804,Jieshounan,,[object Object],JSN,,JKU,0
+,110,Jiutai,,[object Object],JT,,JTL,0
+,110,Jiutainan,,[object Object],JTN,,JNL,0
+,2108,Jingtieshan,,[object Object],JTS,,JVJ,0
+,814,Jixibei,,[object Object],JXB,,NRH,0
+,5409,Jiexiudong,,[object Object],JXD,,JDV,0
+,5409,Jiexiu,,[object Object],JX,,JXV,0
+,1610,Jingxi,,[object Object],JX,,JMZ,0
+,902,Jiaxing,,[object Object],JX,,JXH,0
+,26,Jixi,,[object Object],JX,,JXB,0
+,365,Jingxing,,[object Object],JX,,JJP,0
+,1104,Jinxian,,[object Object],JX,,JUG,0
+,902,Jiaxingnan,,[object Object],JXN,,EPH,0
+,1104,Jinxiannan,,[object Object],JXN,,JXG,0
+,814,Jixixian,,[object Object],JXX,,JRH,0
+,26,Jixixi,,[object Object],JXX,,JAB,0
+,1803,Jinyang,,[object Object],JY,,JYE,0
+,621,Juye,,[object Object],JY,,JYK,0
+,2108,Jiayuguan,,[object Object],JYG,,JGJ,0
+,2108,Jiayuguannan,,[object Object],JYGN,,JBJ,0
+,1803,Jinyangnan,,[object Object],JYN,,JNE,0
+,1707,Jianyangnan,,[object Object],JYN,,JOW,0
+,1703,Jiangyou,,[object Object],JY,,JFW,0
+,1314,Jinyintan,,[object Object],JYT,,JTN,0
+,136,Jingyu,,[object Object],JY,,JYL,0
+,228,Jinzhoubei,,[object Object],JZB,,JFT,0
+,359,Jizhoubei,,[object Object],JZB,,JKP,0
+,1388,Jingzhou,,[object Object],JZ,,JBN,0
+,819,Jinzhai,,[object Object],JZ,,JZH,0
+,228,Jinzhou,,[object Object],JZ,,JZD,0
+,220,Jinzhou,,[object Object],JZ,,JZT,0
+,365,Jinzhou,,[object Object],JZ,,JXP,0
+,359,Jizhou,,[object Object],JZ,,JIP,0
+,228,Jinzhounan,,[object Object],JZN,,JOD,0
+,1205,Jiaozuo,,[object Object],JZ,,JOF,0
+,1205,Jiaozuoxi,,[object Object],JZX,,JIF,0
+,110,Kaian,,[object Object],KA,,KAT,0
+,2409,Kuche,,[object Object],KC,,KCR,0
+,9096,Kuduer,,[object Object],KDE,,KDX,0
+,2408,Kuerle,,[object Object],KEL,,KLR,0
+,1211,Kaifengbei,,[object Object],KFB,,KBF,0
+,1211,Kaifeng,,[object Object],KF,,KFF,0
+,1407,Kaifusi,,[object Object],KFS,,FLQ,0
+,916,Kaihua,,[object Object],KH,,KHU,0
+,34,Kangjinjing,,[object Object],KJJ,,KJB,0
+,403,Kelan,,[object Object],KL,,KLV,0
+,1801,Kaili,,[object Object],KL,,KLW,0
+,1801,Kailinan,,[object Object],KLN,,QKW,0
+,507,Kulun,,[object Object],KL,,KLD,0
+,507,Kailu,,[object Object],KL,,KLC,0
+,2436,Kelamayi,,[object Object],KLMY,,KHR,0
+,2410,Kashi,,[object Object],KS,,KSR,0
+,710,Kunshan,,[object Object],KS,,KSH,0
+,7,Keshan,,[object Object],KS,,KSB,0
+,710,Kunshannan,,[object Object],KSN,,KNH,0
+,2482,Kuitun,,[object Object],KT,,KTR,0
+,1803,Kaiyang,,[object Object],KY,,KVW,0
+,1902,Kunyang,,[object Object],KY,,KAM,0
+,204,Kaiyuan,,[object Object],KY,,KYT,0
+,204,Kaiyuanxi,,[object Object],KYX,,KXT,0
+,357,Kangzhuang,,[object Object],KZ,,KZP,0
+,233,Kazuo,,[object Object],KZ,,KZT,0
+,1607,Longandong,,[object Object],LAD,,IDZ,0
+,819,Luan,,[object Object],LA,,UAH,0
+,1207,Lingbao,,[object Object],LB,,LBF,0
+,1628,Laibinbei,,[object Object],LBB,,UCZ,0
+,1207,Lingbaoxi,,[object Object],LBX,,LPF,0
+,1222,Lvboyuan,,[object Object],LBY,,LCF,0
+,6913,Lincang,,[object Object],LC,,LXM,0
+,1712,Longchangbei,,[object Object],LCB,,NWW,0
+,1501,Lechangdong,,[object Object],LCD,,ILQ,0
+,712,Luchaogang,,[object Object],LCG,,UCH,0
+,1606,Luchuan,,[object Object],LC,,LKZ,0
+,1511,Longchuan,,[object Object],LC,,LUQ,0
+,1361,Lichuan,,[object Object],LC,,LCN,0
+,1117,Linchuan,,[object Object],LC,,LCG,0
+,1712,Longchang,,[object Object],LC,,LCW,0
+,414,Lucheng,,[object Object],LC,,UTP,0
+,603,Liaocheng,,[object Object],LC,,UCK,0
+,601,Lingcheng,,[object Object],LC,,LGK,0
+,1511,Longchuanxi,,[object Object],LCX,,LCA,0
+,603,Liaochengxi,,[object Object],LCX,,VXK,0
+,2502,Laochengzhen,,[object Object],LCZ,,ACQ,0
+,9057,Liangdang,,[object Object],LD,,LDY,0
+,44,Ludao,,[object Object],LD,,LDL,0
+,1803,Longdongbao,,[object Object],LDB,,FVW,0
+,1412,Loudi,,[object Object],LD,,LDQ,0
+,1412,Loudinan,,[object Object],LDN,,UOQ,0
+,1707,Liduigongyuan,,[object Object],LDGY,,INW,0
+,358,Langfang,,[object Object],LF,,LJP,0
+,405,Loufan,,[object Object],LF,,USV,0
+,358,Langfangbei,,[object Object],LFB,,LBI,0
+,1525,Lufeng,,[object Object],LF,,LLQ,0
+,411,Linfen,,[object Object],LF,,LFV,0
+,411,Linfenxi,,[object Object],LFX,,LXV,0
+,358,Langfangxi,,[object Object],LFX,,LFI,0
+,44,Lagu,,[object Object],LG,,LGB,0
+,1803,Luguan,,[object Object],LG,,LAE,0
+,1407,Lugu,,[object Object],LG,,BNQ,0
+,357,Lianggezhuang,,[object Object],LGZ,,LGP,0
+,9034,Linhe,,[object Object],LH,,LHC,0
+,135,Liuhe,,[object Object],LH,,LNL,0
+,1218,Luohe,,[object Object],LH,,LON,0
+,705,Liuhe,,[object Object],LH,,KLH,0
+,3124,Luohuangnan,,[object Object],LHN,,LNE,0
+,1415,Longhui,,[object Object],LH,,LHA,0
+,309,Longhua,,[object Object],LH,,UHP,0
+,2108,Lvhua,,[object Object],LH,,LWJ,0
+,1218,Luohexi,,[object Object],LHX,,LBN,0
+,9097,Longjing,,[object Object],LJ,,LJL,0
+,136,Linjiang,,[object Object],LJ,,LQL,0
+,6927,Lijiang,,[object Object],LJ,,LHM,0
+,110,Longjia,,[object Object],LJ,,UJL,0
+,809,Lujiang,,[object Object],LJ,,UJH,0
+,1004,Lianjiang,,[object Object],LJ,,LKS,0
+,809,Lujiangxi,,[object Object],LJX,,LUU,0
+,1211,Lankao,,[object Object],LK,,LKF,0
+,1211,Lankaonan,,[object Object],LKN,,LUF,0
+,30,Linkou,,[object Object],LK,,LKB,0
+,611,Longkoushi,,[object Object],LKS,,UKK,0
+,9010,Lvliang,,[object Object],LL,,LHV,0
+,1408,Liling,,[object Object],LL,,LLG,0
+,34,Lanling,,[object Object],LL,,LLB,0
+,34,Lalin,,[object Object],LL,,LAB,0
+,9010,Liulinnan,,[object Object],LLN,,LKV,0
+,9057,Longnan,,[object Object],LN,,INJ,0
+,233,Liaoningchaoyang,,[object Object],LNCY,,VET,0
+,3116,Liangping,,[object Object],LP,,UQW,0
+,309,Luanping,,[object Object],LP,,UPP,0
+,1901,Luoping,,[object Object],LP,,LPM,0
+,3116,Liangpingnan,,[object Object],LPN,,LPE,0
+,904,Linpingnan,,[object Object],LPN,,EVH,0
+,1806,Liupanshui,,[object Object],LPS,,UMW,0
+,401,Lingqiu,,[object Object],LQ,,LVV,0
+,809,Longqiao,,[object Object],LQ,,LQU,0
+,1402,Longshanbei,,[object Object],LSB,,LBA,0
+,5409,Lingshidong,,[object Object],LSD,,UDV,0
+,1708,Leshan,,[object Object],LS,,IVW,0
+,2513,Lingshui,,[object Object],LS,,LIQ,0
+,919,Lishui,,[object Object],LS,,USH,0
+,220,Lvshun,,[object Object],LS,,LST,0
+,1101,Lushan,,[object Object],LS,,LSG,0
+,705,Lishui,,[object Object],LS,,LDH,0
+,623,Lanshanxi,,[object Object],LSX,,UWK,0
+,1607,Litang,,[object Object],LT,,LTZ,0
+,359,Lutai,,[object Object],LT,,LTP,0
+,2003,Lintong,,[object Object],LT,,LIY,0
+,1502,Letong,,[object Object],LT,,LEA,0
+,2302,Lingwubei,,[object Object],LWB,,UWJ,0
+,602,Laiwudong,,[object Object],LWD,,LWK,0
+,1803,Luowansanjiang,,[object Object],LWSJ,,KRW,0
+,1422,Lixianbei,,[object Object],LXB,,LEQ,0
+,1787,Luxian,,[object Object],LX,,LXE,0
+,2124,Longxi,,[object Object],LX,,LXJ,0
+,2005,Longxian,,[object Object],LX,,LXY,0
+,346,Linxi,,[object Object],LX,,UEP,0
+,614,Laixi,,[object Object],LX,,LBK,0
+,913,Lanxi,,[object Object],LX,,LWH,0
+,357,Liangxiang,,[object Object],LX,,LAP,0
+,2007,Lueyang,,[object Object],LY,,LYY,0
+,212,Liaoyang,,[object Object],LY,,LYT,0
+,1416,Leiyang,,[object Object],LY,,LYQ,0
+,708,Liyang,,[object Object],LY,,LEH,0
+,1008,Longyan,,[object Object],LY,,LYS,0
+,1209,Luoyang,,[object Object],LY,,LYF,0
+,622,Linyibei,,[object Object],LYB,,UMK,0
+,704,Lianyungangdong,,[object Object],LYGD,,UKH,0
+,1209,Luoyangdong,,[object Object],LYD,,LDF,0
+,704,Lianyungang,,[object Object],LYG,,UIH,0
+,622,Linyi,,[object Object],LY,,LVK,0
+,1209,Luoyanglongmen,,[object Object],LYLM,,LLF,0
+,2107,Liuyuannan,,[object Object],LYN,,LNR,0
+,233,Lingyuan,,[object Object],LY,,LYD,0
+,122,Liaoyuan,,[object Object],LY,,LYL,0
+,2107,Liuyuan,,[object Object],LY,,DHR,0
+,1412,Lianyuan,,[object Object],LY,,LAQ,0
+,326,Laiyuan,,[object Object],LY,,LYP,0
+,1004,Luoyuan,,[object Object],LY,,LVS,0
+,1416,Leiyangxi,,[object Object],LYX,,LPQ,0
+,1787,Luzhou,,[object Object],LZ,,LUE,0
+,2754,Linzhi,,[object Object],LZ,,LZO,0
+,1602,Liuzhou,,[object Object],LZ,,LZZ,0
+,1806,Liuzhi,,[object Object],LZ,,LIW,0
+,1720,Langzhong,,[object Object],LZ,,LZE,0
+,9,Longzhen,,[object Object],LZ,,LZA,0
+,205,Liaozhong,,[object Object],LZ,,LZD,0
+,810,Maanshandong,,[object Object],MASD,,OMH,0
+,9026,Machengbei,,[object Object],MCB,,MBN,0
+,9026,Macheng,,[object Object],MC,,MCN,0
+,1207,Mianchinan,,[object Object],MCN,,MNF,0
+,9096,Mianduhe,,[object Object],MDH,,MDX,0
+,9203,Moding,,[object Object],MD,,VBM,0
+,9096,Moerdaoga,,[object Object],MEDG,,MRX,0
+,34,Maoershan,,[object Object],MES,,MRB,0
+,34,Mershanxi,,[object Object],MESX,,MUB,0
+,808,Mingguang,,[object Object],MG,,MGH,0
+,9096,Mangui,,[object Object],MG,,MHX,0
+,1803,Mengguan,,[object Object],MG,,MGE,0
+,1912,Mohan,,[object Object],MH,,MHM,0
+,3,Mohe,,[object Object],MH,,MVX,0
+,135,Meihekou,,[object Object],MHK,,MHL,0
+,2206,Minhenan,,[object Object],MHN,,MNO,0
+,52,Mengjiagang,,[object Object],MJG,,MGB,0
+,2408,Milan,,[object Object],ML,,MIR,0
+,1912,Mengla,,[object Object],ML,,MWM,0
+,2501,Meilan,,[object Object],ML,,MHQ,0
+,1955,Mile,,[object Object],ML,,MLM,0
+,44,Muling,,[object Object],ML,,MLB,0
+,1509,Maoming,,[object Object],MM,,MDQ,0
+,1509,Maomingnan,,[object Object],MMN,,MRQ,0
+,1509,Maomingxi,,[object Object],MMX,,MMZ,0
+,1710,Mianning,,[object Object],MN,,UGW,0
+,2404,Manasi,,[object Object],MNS,,MSR,0
+,1004,Minqingbei,,[object Object],MQB,,MBS,0
+,1212,Minquan,,[object Object],MQ,,MQF,0
+,6711,Meishandong,,[object Object],MSD,,IUW,0
+,6740,Mingshan,,[object Object],MS,,MSE,0
+,26,Mishan,,[object Object],MS,,MSB,0
+,1314,Miaoshan,,[object Object],MS,,MSN,0
+,205,Masanjia,,[object Object],MSJ,,MJT,0
+,1802,Mawei,,[object Object],MW,,VAW,0
+,2124,Minxian,,[object Object],MX,,MXJ,0
+,2007,Mianxian,,[object Object],MX,,MVY,0
+,2234,Mangya,,[object Object],MY,,HTO,0
+,1703,Mianyang,,[object Object],MY,,MYW,0
+,357,Miyunbei,,[object Object],MYB,,MUP,0
+,2002,Mengyuan,,[object Object],MY,,HSY,0
+,2419,Moyu,,[object Object],MY,,MUR,0
+,2248,Menyuan,,[object Object],MY,,MYO,0
+,1407,Muyun,,[object Object],MY,,KIQ,0
+,357,Miyun,,[object Object],MY,,MYP,0
+,1513,Meizhou,,[object Object],MZ,,MOQ,0
+,1222,Mengzhuang,,[object Object],MZ,,MZF,0
+,1955,Mengzi,,[object Object],MZ,,MZM,0
+,9096,Manzhouli,,[object Object],MZL,,MLX,0
+,1513,Meizhouxi,,[object Object],MZX,,MXA,0
+,44,Ningan,,[object Object],NA,,NAB,0
+,110,Nongan,,[object Object],NA,,NAT,0
+,910,Ningbodong,,[object Object],NBD,,NVH,0
+,910,Ningbo,,[object Object],NB,,NGH,0
+,1720,Nanbu,,[object Object],NB,,NBE,0
+,1222,Nancao,,[object Object],NC,,NEF,0
+,1720,Nanchongbei,,[object Object],NCB,,NCE,0
+,1720,Nanchong,,[object Object],NC,,NCW,0
+,1121,Nancheng,,[object Object],NC,,NDG,0
+,16,Nancha,,[object Object],NC,,NCB,0
+,1601,Nandan,,[object Object],ND,,NDZ,0
+,1023,Ningde,,[object Object],ND,,NES,0
+,309,Nandamiao,,[object Object],NDM,,NMP,0
+,2302,Ningdongnan,,[object Object],NDN,,NDJ,0
+,2302,Ningdong,,[object Object],ND,,NOJ,0
+,208,Nanfen,,[object Object],NF,,NFT,0
+,1121,Nanfeng,,[object Object],NF,,NFG,0
+,910,Ninghai,,[object Object],NH,,NHH,0
+,1314,Nanhudong,,[object Object],NHD,,NDN,0
+,7,Nehe,,[object Object],NH,,NHX,0
+,233,Niuheliang,,[object Object],NHL,,LKT,0
+,1712,Neijiangbei,,[object Object],NJB,,NKW,0
+,1712,Neijiang,,[object Object],NJ,,NJW,0
+,9,Nenjiang,,[object Object],NJ,,NGX,0
+,1803,Nanjiang,,[object Object],NJ,,FIW,0
+,34,Niujia,,[object Object],NJ,,NJB,0
+,357,Nankou,,[object Object],NK,,NKP,0
+,357,Niulanshan,,[object Object],NLS,,NLP,0
+,1212,Ninglingxian,,[object Object],NLX,,NLF,0
+,507,Naiman,,[object Object],NM,,NMD,0
+,2751,Nimu,,[object Object],NM,,NMO,0
+,1002,Nanpingshi,,[object Object],NPS,,NOS,0
+,2007,Ningqiangnan,,[object Object],NQN,,NOY,0
+,2756,Naqu,,[object Object],NQ,,NQO,0
+,1502,Nanshabei,,[object Object],NSB,,QSQ,0
+,727,Nantong,,[object Object],NT,,NUH,0
+,727,Nantongxi,,[object Object],NTX,,NXU,0
+,403,Ningwu,,[object Object],NW,,NWV,0
+,712,Nanxiangbei,,[object Object],NXB,,NEH,0
+,1501,Nanxiong,,[object Object],NX,,NCQ,0
+,1407,Ningxiang,,[object Object],NX,,NXQ,0
+,1216,Nanyang,,[object Object],NY,,NFF,0
+,1216,Nanyangdong,,[object Object],NYD,,NOF,0
+,1848,Nayong,,[object Object],NY,,NYE,0
+,365,Nanyu,,[object Object],NY,,NUP,0
+,1222,Nanyangzhai,,[object Object],NYZ,,NYF,0
+,7,Nianzishan,,[object Object],NZS,,NZX,0
+,1314,Puan,,[object Object],PA,,PAN,0
+,2002,Puchengdong,,[object Object],PCD,,PEY,0
+,9014,Pingchang,,[object Object],PC,,PCE,0
+,404,Pingding,,[object Object],PD,,PIP,0
+,1215,Pingdingshan,,[object Object],PDS,,PEN,0
+,614,Pingdu,,[object Object],PD,,PNK,0
+,614,Pingduxi,,[object Object],PDX,,PAK,0
+,1215,Pingdingshanxi,,[object Object],PDSX,,PDF,0
+,6906,Puer,,[object Object],PE,,PEM,0
+,34,Pingfang,,[object Object],PF,,PFB,0
+,222,Panjinbei,,[object Object],PJB,,PBD,0
+,222,Panjin,,[object Object],PJ,,PVD,0
+,1707,Pujiang,,[object Object],PJ,,PJE,0
+,611,Penglai,,[object Object],PL,,POK,0
+,1314,Panlongcheng,,[object Object],PLC,,PNN,0
+,220,Pulandian,,[object Object],PLD,,PLT,0
+,2111,Pingliang,,[object Object],PL,,PIJ,0
+,2111,Pingliangnan,,[object Object],PLN,,POJ,0
+,1514,Puning,,[object Object],PN,,PEQ,0
+,1969,Pupiao,,[object Object],PP,,PUM,0
+,309,Pingquanbei,,[object Object],PQB,,PBP,0
+,309,Pingquan,,[object Object],PQ,,PQP,0
+,2419,Pishan,,[object Object],PS,,PSR,0
+,117,Panshi,,[object Object],PS,,PSL,0
+,1501,Pingshi,,[object Object],PS,,PSQ,0
+,34,Pingshan,,[object Object],PS,,PSB,0
+,1782,Pengshuixi,,[object Object],PSX,,PEE,0
+,1004,Pingtan,,[object Object],PT,,PIS,0
+,1032,Putian,,[object Object],PT,,PTS,0
+,1113,Pingxiangbei,,[object Object],PXB,,PBG,0
+,1615,Pingxiang,,[object Object],PX,,PXZ,0
+,1113,Pingxiang,,[object Object],PX,,PXG,0
+,1710,Puxiong,,[object Object],PX,,POW,0
+,1707,Pixian,,[object Object],PX,,PWW,0
+,1707,Pixianxi,,[object Object],PXX,,PCW,0
+,1294,Puyang,,[object Object],PY,,PYF,0
+,920,Pingyang,,[object Object],PY,,ARH,0
+,5409,Pingyaogucheng,,[object Object],PYGC,,PDV,0
+,1294,Puyangdong,,[object Object],PYD,,PUF,0
+,601,Pingyuandong,,[object Object],PYD,,PUK,0
+,1101,Pengze,,[object Object],PZ,,PZG,0
+,1979,Puzhehei,,[object Object],PZH,,PZM,0
+,1806,Panzhou,,[object Object],PZ,,PAE,0
+,1711,Panzhihua,,[object Object],PZH,,PRW,0
+,1707,Pengzhou,,[object Object],PZ,,PMW,0
+,1711,Panzhihuanan,,[object Object],PZHN,,PNE,0
+,1707,Pengzhounan,,[object Object],PZN,,PKW,0
+,15,Qingan,,[object Object],QA,,QAB,0
+,1707,Qingbaijiangdong,,[object Object],QBJD,,QFW,0
+,1503,Qingcheng,,[object Object],QC,,QCA,0
+,1340,Qichun,,[object Object],QC,,QRN,0
+,1701,Qingchuan,,[object Object],QC,,QCE,0
+,1403,Qiancheng,,[object Object],QC,,QEQ,0
+,1707,Qingchengshan,,[object Object],QCS,,QSW,0
+,614,Qingdao,,[object Object],QD,,QDK,0
+,614,Qingdaobei,,[object Object],QDB,,QHK,0
+,904,Qiandaohu,,[object Object],QDH,,QDU,0
+,727,Qidong,,[object Object],QD,,QOU,0
+,614,Qingdaoxi,,[object Object],QDX,,QUK,0
+,620,Qufudong,,[object Object],QFD,,QAK,0
+,52,Qianfeng,,[object Object],QF,,QFB,0
+,620,Qufu,,[object Object],QF,,QFK,0
+,2506,Qionghai,,[object Object],QH,,QYQ,0
+,346,Qinghecheng,,[object Object],QHC,,QYP,0
+,301,Qinhuangdao,,[object Object],QHD,,QTP,0
+,357,Qinghe,,[object Object],QH,,QIP,0
+,357,Qinghuayuan,,[object Object],QHY,,QHP,0
+,1901,Qujingbei,,[object Object],QJB,,QBM,0
+,3128,Qijiangdong,,[object Object],QJD,,QDE,0
+,3129,Qianjiang,,[object Object],QJ,,QNW,0
+,1901,Qujing,,[object Object],QJ,,QJM,0
+,52,Qianjinzhen,,[object Object],QJZ,,QEB,0
+,1707,Qionglai,,[object Object],QL,,QLE,0
+,1005,Qingliu,,[object Object],QL,,QLS,0
+,7,Qiqihaer,,[object Object],QQHE,,QHX,0
+,7,Qiqihaernan,,[object Object],QQHEN,,QNB,0
+,816,Qianshan,,[object Object],QS,,QSU,0
+,2751,Qushuixian,,[object Object],QSX,,QSO,0
+,23,Qitaihe,,[object Object],QTH,,QTB,0
+,2313,Qingtongxia,,[object Object],QTX,,QTJ,0
+,23,Qitaihexi,,[object Object],QTHX,,QXB,0
+,1715,Quxian,,[object Object],QX,,QRW,0
+,414,Qinxian,,[object Object],QX,,QVV,0
+,405,Qingxu,,[object Object],QX,,QUV,0
+,2141,Qingyang,,[object Object],QY,,QOJ,0
+,1503,Qingyuan,,[object Object],QY,,QBQ,0
+,919,Qingyuan,,[object Object],QY,,QYU,0
+,1608,Qinzhoudong,,[object Object],QZD,,QDZ,0
+,357,Qiaozhuangdong,,[object Object],QZD,,QEP,0
+,916,Quzhou,,[object Object],QZ,,QEH,0
+,1014,Quanzhou,,[object Object],QZ,,QYS,0
+,1603,Quanzhounan,,[object Object],QZN,,QNZ,0
+,916,Quzhouxi,,[object Object],QZX,,QXU,0
+,1803,Qingzhenxi,,[object Object],QZX,,QUE,0
+,1602,Rongan,,[object Object],RA,,RAZ,0
+,920,Ruian,,[object Object],RA,,RAH,0
+,6756,Rongchangbei,,[object Object],RCB,,RQW,0
+,612,Rongcheng,,[object Object],RC,,RCK,0
+,727,Rudong,,[object Object],RD,,RIH,0
+,2301,Rujigou,,[object Object],RJG,,RQJ,0
+,1116,Ruijin,,[object Object],RJ,,RJG,0
+,2752,Rikaze,,[object Object],RKZ,,RKO,0
+,1515,Raoping,,[object Object],RP,,RVQ,0
+,2408,Ruoqiang,,[object Object],RQ,,RQR,0
+,612,Rushannan,,[object Object],RSN,,REK,0
+,623,Rizhao,,[object Object],RZ,,RZK,0
+,623,Rizhaoxi,,[object Object],RZX,,KZK,0
+,2107,Subei,,[object Object],SB,,SBJ,0
+,34,Shuangchengbei,,[object Object],SCB,,SBB,0
+,819,Shuchengdong,,[object Object],SCD,,SDU,0
+,2410,Shache,,[object Object],SC,,SCR,0
+,315,Shacheng,,[object Object],SC,,SCP,0
+,1211,Songchenglu,,[object Object],SCL,,SFF,0
+,34,Shuangchengpu,,[object Object],SCP,,SCB,0
+,1415,Shaodong,,[object Object],SD,,FIQ,0
+,357,Shidu,,[object Object],SD,,SEP,0
+,1412,Shuangfengbei,,[object Object],SFB,,NFQ,0
+,16,Shuangfeng,,[object Object],SF,,OFB,0
+,44,Suifenhe,,[object Object],SFH,,SFB,0
+,1501,Shaoguandong,,[object Object],SGD,,SGQ,0
+,1501,Shaoguan,,[object Object],SG,,SNQ,0
+,602,Shanghebei,,[object Object],SHB,,SOK,0
+,357,Shahe,,[object Object],SH,,SHP,0
+,301,Shanhaiguan,,[object Object],SHG,,SHD,0
+,712,Shanghaisongjiang,,[object Object],SHSJ,,IMH,0
+,346,Shaheshi,,[object Object],SHS,,VOP,0
+,15,Suihua,,[object Object],SH,,SHB,0
+,2405,Shihezi,,[object Object],SHZ,,SZR,0
+,712,Songjiangbei,,[object Object],SJB,,SAH,0
+,357,Sanjiadian,,[object Object],SJD,,ODP,0
+,7,Sanjianfang,,[object Object],SJF,,SFX,0
+,809,Shuijiahu,,[object Object],SJH,,SQH,0
+,34,Sunjia,,[object Object],SJ,,SUB,0
+,34,Shenjia,,[object Object],SJ,,OJB,0
+,1602,Sanjiangnan,,[object Object],SJN,,SWZ,0
+,357,Shijingshannan,,[object Object],SJSN,,SRP,0
+,205,Sujiatun,,[object Object],SJT,,SXT,0
+,1602,Sanjiangxian,,[object Object],SJX,,SOZ,0
+,205,Shenjingzi,,[object Object],SJZ,,SWT,0
+,2413,Sikeshu,,[object Object],SKS,,SIR,0
+,117,Shulan,,[object Object],SL,,SLL,0
+,1707,Shuangliujichang,,[object Object],SLJC,,IPW,0
+,34,Shuanglonghu,,[object Object],SLH,,OHB,0
+,15,Suiling,,[object Object],SL,,SIB,0
+,1502,Shiling,,[object Object],SL,,SLA,0
+,1902,Shilin,,[object Object],SL,,SLM,0
+,1803,Shuanglongnan,,[object Object],SLN,,SNE,0
+,2016,Shangluo,,[object Object],SL,,OLY,0
+,1707,Shuangliuxi,,[object Object],SLX,,IQW,0
+,1902,Shilinxi,,[object Object],SLX,,SYM,0
+,34,Shenglizhen,,[object Object],SLZ,,OLB,0
+,1422,Shimenxianbei,,[object Object],SMXB,,VFQ,0
+,2015,Shenmubei,,[object Object],SMB,,OMV,0
+,1005,Sanmingbei,,[object Object],SMB,,SHS,0
+,1005,Sanming,,[object Object],SM,,SVS,0
+,1902,Songming,,[object Object],SM,,SVM,0
+,1407,Shumuling,,[object Object],SML,,FMQ,0
+,2015,Shenmunan,,[object Object],SMN,,OMY,0
+,1207,Sanmenxianan,,[object Object],SMXN,,SCF,0
+,2015,Shenmu,,[object Object],SM,,HMY,0
+,946,Sanmenxian,,[object Object],SMX,,OQH,0
+,1207,Sanmenxiaxi,,[object Object],SMXX,,SXF,0
+,1207,Sanmenxia,,[object Object],SMX,,SMF,0
+,2016,Shangnan,,[object Object],SN,,ONY,0
+,1719,Suining,,[object Object],SN,,NIW,0
+,701,Suining,,[object Object],SN,,SNU,0
+,15,Song,,[object Object],SON,,SOB,0
+,1502,Shipai,,[object Object],SP,,SPQ,0
+,1717,Shapingba,,[object Object],SPB,,CYW,0
+,112,Sipingdong,,[object Object],SPD,,PPT,0
+,1314,Shanpodong,,[object Object],SPD,,SBN,0
+,112,Siping,,[object Object],SP,,SPT,0
+,1221,Shenqiubei,,[object Object],SQB,,SKF,0
+,773,Suqian,,[object Object],SQ,,SQU,0
+,1212,Shangqiu,,[object Object],SQ,,SQF,0
+,2006,Shiquanxian,,[object Object],SQX,,SXY,0
+,208,Shiqiaozi,,[object Object],SQZ,,SQT,0
+,1106,Shangrao,,[object Object],SR,,SRG,0
+,34,Shirencheng,,[object Object],SRC,,SRB,0
+,2402,Shanshanbei,,[object Object],SSB,,SMR,0
+,816,Susongdong,,[object Object],SSD,,SSU,0
+,809,Shushandong,,[object Object],SSD,,HTH,0
+,1410,Shaoshan,,[object Object],SS,,SSQ,0
+,16,Shenshu,,[object Object],SS,,SWB,0
+,1410,Shaoshannan,,[object Object],SSN,,INQ,0
+,816,Susong,,[object Object],SS,,OAH,0
+,1801,Sansui,,[object Object],SS,,QHW,0
+,1843,Songtao,,[object Object],ST,,MZQ,0
+,1516,Shantounan,,[object Object],STN,,SNA,0
+,1516,Shantou,,[object Object],ST,,OTQ,0
+,1525,Shanwei,,[object Object],SW,,OGQ,0
+,1002,Shaowu,,[object Object],SW,,SWS,0
+,906,Shaoxingbei,,[object Object],SXB,,SLH,0
+,906,Shaoxingdong,,[object Object],SXD,,SSH,0
+,806,Sixiandong,,[object Object],SXD,,ODU,0
+,1002,Songxi,,[object Object],SX,,SIS,0
+,349,Shexian,,[object Object],SX,,OEP,0
+,603,Shenxian,,[object Object],SX,,SNK,0
+,906,Shaoxing,,[object Object],SX,,SOH,0
+,2509,Sanya,,[object Object],SY,,SEQ,0
+,1415,Shaoyang,,[object Object],SY,,SYQ,0
+,1301,Shiyan,,[object Object],SY,,SNN,0
+,110,Shuangyang,,[object Object],SY,,OYT,0
+,1301,Shiyandong,,[object Object],SYD,,OUN,0
+,357,Shunyi,,[object Object],SY,,SOP,0
+,1005,Sanyuanqu,,[object Object],SYQ,,SMS,0
+,20,Shuangyashan,,[object Object],SYS,,SSB,0
+,138,Songyuan,,[object Object],SY,,VYT,0
+,20,Shuangyashanxi,,[object Object],SYSX,,OXB,0
+,357,Shunyixi,,[object Object],SYX,,IKP,0
+,1505,Shenzhenbei,,[object Object],SZB,,IOQ,0
+,710,Suzhoubei,,[object Object],SZB,,OHH,0
+,1505,Shenzhenjichang,,[object Object],SZJC,,SCA,0
+,906,Shengzhouxinchang,,[object Object],SZXC,,SKU,0
+,1505,Shenzhendong,,[object Object],SZD,,BJQ,0
+,806,Suzhoudong,,[object Object],SZD,,SRH,0
+,237,Suizhong,,[object Object],SZ,,SZD,0
+,402,Shuozhou,,[object Object],SZ,,SUV,0
+,1505,Shenzhen,,[object Object],SZ,,SZQ,0
+,1310,Suizhou,,[object Object],SZ,,SZN,0
+,806,Suzhou,,[object Object],SZ,,OXH,0
+,710,Suzhou,,[object Object],SZ,,SZH,0
+,34,Shangzhi,,[object Object],SZ,,SZB,0
+,1310,Suizhounan,,[object Object],SZN,,ONN,0
+,2301,Shizuishannan,,[object Object],SZSN,,QQJ,0
+,34,Shangzhinan,,[object Object],SZN,,OZB,0
+,1505,Shenzhenpingshan,,[object Object],SZPS,,IFQ,0
+,3108,Shizhuxian,,[object Object],SZX,,OSW,0
+,1505,Shenzhenxi,,[object Object],SZX,,OSQ,0
+,616,Taian,,[object Object],TA,,TMK,0
+,9,Tongbei,,[object Object],TB,,TBB,0
+,2008,Tongchuandong,,[object Object],TCD,,TCY,0
+,2413,Tacheng,,[object Object],TC,,TZR,0
+,2008,Tongchuan,,[object Object],TC,,TBY,0
+,7,Tangchi,,[object Object],TC,,TCX,0
+,1403,Tongdao,,[object Object],TD,,TRQ,0
+,1314,Tuditangdong,,[object Object],TDTD,,TTN,0
+,9096,Taerqi,,[object Object],TEQ,,TVX,0
+,2002,Tongguan,,[object Object],TG,,TGY,0
+,5409,Taigu,,[object Object],TG,,TGV,0
+,359,Tanggu,,[object Object],TG,,TGP,0
+,2402,Tuha,,[object Object],TH,,THR,0
+,1904,Tonghai,,[object Object],TH,,TAM,0
+,7,Taha,,[object Object],TH,,THX,0
+,1314,Tianhejichang,,[object Object],THJC,,TJN,0
+,1114,Taihe,,[object Object],TH,,THG,0
+,3,Tahe,,[object Object],TH,,TXX,0
+,1314,Tianhejie,,[object Object],THJ,,TEN,0
+,816,Taihunan,,[object Object],THN,,TAU,0
+,1803,Tianhetan,,[object Object],THT,,TTE,0
+,135,Tonghua,,[object Object],TH,,THL,0
+,816,Taihu,,[object Object],TH,,TKH,0
+,52,Tongjiang,,[object Object],TJ,,TJB,0
+,511,Tuoketuodong,,[object Object],TKTD,,TVC,0
+,7,Tailai,,[object Object],TL,,TLX,0
+,2402,Tulufanbei,,[object Object],TLFB,,TAR,0
+,2402,Tulufan,,[object Object],TLF,,TFR,0
+,507,Tongliao,,[object Object],TL,,TLD,0
+,813,Tongling,,[object Object],TL,,TJH,0
+,204,Tieling,,[object Object],TL,,TLT,0
+,16,Tieli,,[object Object],TL,,TLB,0
+,904,Tonglu,,[object Object],TL,,TLU,0
+,204,Tielingxi,,[object Object],TLX,,PXT,0
+,138,Taolaizhao,,[object Object],TLZ,,TPT,0
+,9097,Tumenbei,,[object Object],TMB,,QSL,0
+,9097,Tumen,,[object Object],TM,,TML,0
+,1378,Tianmen,,[object Object],TM,,TKN,0
+,946,Toumengang,,[object Object],TMG,,TMU,0
+,2410,Tumushuke,,[object Object],TMSK,,TMR,0
+,1378,Tianmennan,,[object Object],TMN,,TNN,0
+,3122,Tongnan,,[object Object],TN,,TVW,0
+,1005,Taining,,[object Object],TN,,TNS,0
+,1843,Tongren,,[object Object],TR,,RDQ,0
+,1843,Tongrennan,,[object Object],TRN,,TNW,0
+,304,Tangshanbei,,[object Object],TSB,,FUP,0
+,208,Tianshifu,,[object Object],TSF,,TFT,0
+,616,Taishan,,[object Object],TS,,TAK,0
+,304,Tangshan,,[object Object],TS,,TSP,0
+,2101,Tianshui,,[object Object],TS,,TSJ,0
+,2101,Tianshuinan,,[object Object],TSN,,TIJ,0
+,16,Tangwanghe,,[object Object],TWH,,THB,0
+,1314,Tangxunhu,,[object Object],TXH,,THN,0
+,1715,Tuxi,,[object Object],TX,,TSW,0
+,210,Tongyuanpu,,[object Object],TYP,,TYT,0
+,37,Taiyangsheng,,[object Object],TYS,,TQT,0
+,102,Tongyu,,[object Object],TY,,KTT,0
+,1807,Tongzibei,,[object Object],TZB,,TBE,0
+,315,Taizicheng,,[object Object],TZC,,IZP,0
+,628,Tengzhoudong,,[object Object],TZD,,TEK,0
+,1807,Tongzidong,,[object Object],TZD,,TDE,0
+,946,Taizhou,,[object Object],TZ,,TEU,0
+,767,Taizhou,,[object Object],TZ,,UTH,0
+,946,Taizhouxi,,[object Object],TZX,,TZH,0
+,357,Tongzhouxi,,[object Object],TZX,,TAP,0
+,2504,Wenchang,,[object Object],WC,,WEQ,0
+,1314,Wuchang,,[object Object],WC,,WCN,0
+,34,Wuchang,,[object Object],WC,,WCB,0
+,1301,Wudangshan,,[object Object],WDS,,WRN,0
+,607,Weifang,,[object Object],WF,,WFK,0
+,220,Wafangdian,,[object Object],WFD,,WDT,0
+,34,Wanfatun,,[object Object],WFT,,WFB,0
+,220,Wafangdianxi,,[object Object],WFDX,,WXT,0
+,34,Wanggang,,[object Object],WG,,WGB,0
+,2004,Wugong,,[object Object],WG,,WGY,0
+,612,Weihai,,[object Object],WH,,WKK,0
+,515,Wuhai,,[object Object],WH,,IAC,0
+,807,Wuhe,,[object Object],WH,,WHU,0
+,34,Weihe,,[object Object],WH,,WHB,0
+,515,Wuhainan,,[object Object],WHN,,VNC,0
+,812,Wuhu,,[object Object],WH,,WHH,0
+,515,Wuhaixi,,[object Object],WHX,,WXC,0
+,34,Weihexi,,[object Object],WHX,,WIB,0
+,1707,Wenjiang,,[object Object],WJ,,WJE,0
+,34,Wujia,,[object Object],WJ,,WUB,0
+,110,Wukeshu,,[object Object],WKS,,WKT,0
+,9011,Wulanchabu,,[object Object],WLCB,,WPC,0
+,34,Wanle,,[object Object],WL,,WEB,0
+,946,Wenling,,[object Object],WL,,VHH,0
+,1314,Wulongquannan,,[object Object],WLQN,,WFN,0
+,3130,Wulong,,[object Object],WL,,WLW,0
+,1646,Wulanhaote,,[object Object],WLHT,,WWT,0
+,9034,Wulashanxi,,[object Object],WLSX,,WQC,0
+,2002,Weinan,,[object Object],WN,,WNY,0
+,2002,Weinanbei,,[object Object],WNB,,WBY,0
+,208,Wunvshan,,[object Object],WNS,,WET,0
+,2002,Weinanxi,,[object Object],WNX,,WXY,0
+,9097,Wangqing,,[object Object],WQ,,WQL,0
+,359,Wuqing,,[object Object],WQ,,WWP,0
+,1759,Wusheng,,[object Object],WS,,WSE,0
+,1808,Weishe,,[object Object],WS,,WSM,0
+,517,Wushenqi,,[object Object],WSQ,,WGC,0
+,2413,Wusu,,[object Object],WS,,WSR,0
+,2104,Wuweidong,,[object Object],WWD,,WDJ,0
+,2104,Wuwei,,[object Object],WW,,WUJ,0
+,2104,Wuweinan,,[object Object],WWN,,WWJ,0
+,812,Wuweinan,,[object Object],WWN,,WWU,0
+,1320,Wuxuebei,,[object Object],WXB,,WJN,0
+,709,Wuxidong,,[object Object],WXD,,WGH,0
+,709,Wuxi,,[object Object],WX,,WXH,0
+,2403,Wuxi,,[object Object],WX,,WXR,0
+,1320,Wuxue,,[object Object],WX,,WXN,0
+,1607,Wuxu,,[object Object],WX,,WYZ,0
+,413,Wenxixi,,[object Object],WXX,,WOV,0
+,1002,Wuyishanbei,,[object Object],WYSB,,WBS,0
+,16,Wuying,,[object Object],WY,,WWB,0
+,16,Wuyiling,,[object Object],WYL,,WPB,0
+,1002,Wuyishan,,[object Object],WYS,,WAS,0
+,2124,Weiyuan,,[object Object],WY,,WEJ,0
+,1106,Wuyuan,,[object Object],WY,,WYG,0
+,1715,Wanyuan,,[object Object],WY,,WYY,0
+,3102,Wanzhoubei,,[object Object],WZB,,WZE,0
+,1655,Wuzhou,,[object Object],WZ,,WZZ,0
+,3102,Wanzhou,,[object Object],WZ,,WYW,0
+,2313,Wuzhong,,[object Object],WZ,,WVJ,0
+,920,Wenzhou,,[object Object],WZ,,RZH,0
+,1655,Wuzhounan,,[object Object],WZN,,WBZ,0
+,920,Wenzhounan,,[object Object],WZN,,VRH,0
+,1603,Xinganbei,,[object Object],XAB,,XDZ,0
+,326,Xiongan,,[object Object],XA,,IQP,0
+,2003,Xianxi,,[object Object],XAX,,EGY,0
+,1214,Xuchangdong,,[object Object],XCD,,XVF,0
+,237,Xingcheng,,[object Object],XC,,XCD,0
+,814,Xuancheng,,[object Object],XC,,ECH,0
+,1710,Xichang,,[object Object],XC,,ECW,0
+,1214,Xuchang,,[object Object],XC,,XCF,0
+,1710,Xichangxi,,[object Object],XCX,,XCE,0
+,1707,Xindudong,,[object Object],XDD,,EWW,0
+,34,Xiangfang,,[object Object],XF,,XFB,0
+,1361,Xianfeng,,[object Object],XF,,XFA,0
+,204,Xifeng,,[object Object],XF,,XFT,0
+,1803,Xifeng,,[object Object],XF,,XFW,0
+,1407,Xianfeng,,[object Object],XF,,NQQ,0
+,1407,Xiangfulu,,[object Object],XFL,,FVQ,0
+,403,Xuangang,,[object Object],XG,,XGV,0
+,1313,Xiaoganbei,,[object Object],XGB,,XJN,0
+,1313,Xiaogandong,,[object Object],XGD,,GDN,0
+,3201,Hkwestkowloon,,[object Object],XGXJL,,XJA,0
+,1116,Xingguo,,[object Object],XG,,EUG,0
+,2102,Xigu,,[object Object],XG,,XIJ,0
+,2102,Xiaguanying,,[object Object],XGY,,XGJ,0
+,1715,Xuanhan,,[object Object],XH,,XHY,0
+,9011,Xinghebei,,[object Object],XHB,,EBC,0
+,315,Xiahuayuanbei,,[object Object],XHYB,,OKP,0
+,1412,Xinhuanan,,[object Object],XHN,,EJQ,0
+,1541,Xinhui,,[object Object],XH,,EFQ,0
+,1403,Xinhuang,,[object Object],XH,,XLQ,0
+,9011,Xinghexi,,[object Object],XHX,,XEC,0
+,1403,Xinhuangxi,,[object Object],XHX,,EWQ,0
+,1707,Xinjin,,[object Object],XJ,,IRW,0
+,365,Xinji,,[object Object],XJ,,ENP,0
+,34,Xujia,,[object Object],XJ,,XJB,0
+,1512,Xiaojinkou,,[object Object],XJK,,NKQ,0
+,1707,Xinjinnan,,[object Object],XJN,,ITW,0
+,365,Xinjinan,,[object Object],XJN,,IJP,0
+,1707,Xilai,,[object Object],XL,,XLE,0
+,365,Xinle,,[object Object],XL,,ELP,0
+,705,Xianlin,,[object Object],XL,,XPH,0
+,9098,Xilinhaote,,[object Object],XLHT,,XTC,0
+,309,Xinglongxian,,[object Object],XLX,,EXP,0
+,34,Xinglongzhen,,[object Object],XLZ,,XZB,0
+,1010,Xiamenbei,,[object Object],XMB,,XKS,0
+,205,Xinminbei,,[object Object],XMB,,XOT,0
+,1010,Xiamen,,[object Object],XM,,XMS,0
+,205,Xinmin,,[object Object],XM,,XMD,0
+,1010,Xiamengaoqi,,[object Object],XMGQ,,XBS,0
+,1317,Xianningnan,,[object Object],XNN,,UNN,0
+,1707,Xipudong,,[object Object],XPD,,XAW,0
+,1403,Xupunan,,[object Object],XPN,,EMQ,0
+,1023,Xiapu,,[object Object],XP,,XOS,0
+,1403,Xupu,,[object Object],XP,,EPQ,0
+,1707,Xipu,,[object Object],XP,,XIW,0
+,1780,Xiushan,,[object Object],XS,,ETW,0
+,208,Xiaoshi,,[object Object],XS,,XST,0
+,1307,Xingshan,,[object Object],XS,,EMN,0
+,1909,Xishuangbanna,,[object Object],XSBN,,ENM,0
+,34,Xinsongpu,,[object Object],XSP,,XOB,0
+,1379,Xiantao,,[object Object],XT,,VTN,0
+,1410,Xiangtan,,[object Object],XT,,XTQ,0
+,1104,Xiangtang,,[object Object],XT,,XTG,0
+,346,Xingtaidong,,[object Object],XTD,,EDP,0
+,1502,Xintangnan,,[object Object],XTN,,NUQ,0
+,1714,Xingwen,,[object Object],XW,,XNE,0
+,1901,Xuanwei,,[object Object],XW,,XWM,0
+,1803,Xiuwenxian,,[object Object],XWX,,XWE,0
+,806,Xiaoxianbei,,[object Object],XXB,,QSH,0
+,34,Xinxiangfangbei,,[object Object],XXFB,,RHB,0
+,1204,Xinxiangdong,,[object Object],XXD,,EGF,0
+,9010,Xiaoxi,,[object Object],XX,,XOV,0
+,2007,Xixiang,,[object Object],XX,,XQY,0
+,1216,Xixia,,[object Object],XX,,XIF,0
+,1204,Xinxiang,,[object Object],XX,,XXF,0
+,1902,Xiaoxinjie,,[object Object],XXJ,,XXM,0
+,5409,Xiyang,,[object Object],XY,,XEP,0
+,1220,Xinyang,,[object Object],XY,,XUN,0
+,2006,Xunyang,,[object Object],XY,,XUY,0
+,2004,Xianyang,,[object Object],XY,,XYY,0
+,213,Xiuyan,,[object Object],XY,,XXT,0
+,1304,Xiangyang,,[object Object],XY,,XFN,0
+,1787,Xuyongbei,,[object Object],XYB,,XEE,0
+,1111,Xinyubei,,[object Object],XYB,,XBG,0
+,216,Xiongyuecheng,,[object Object],XYC,,XYT,0
+,1220,Xinyangdong,,[object Object],XYD,,OYN,0
+,1304,Xiangyangdong,,[object Object],XYD,,EKN,0
+,1808,Xingyi,,[object Object],XY,,XRZ,0
+,1509,Xinyi,,[object Object],XY,,EEQ,0
+,2501,Xiuying,,[object Object],XY,,XYA,0
+,1808,Xingyinan,,[object Object],XYN,,XVE,0
+,1906,Xiangyun,,[object Object],XY,,XQM,0
+,1111,Xinyu,,[object Object],XY,,XUG,0
+,2004,Xianyangxi,,[object Object],XYX,,XOY,0
+,1222,Xinzhengjichang,,[object Object],XZJC,,EZF,0
+,701,Xuzhoudong,,[object Object],XZD,,UUH,0
+,403,Xinzhou,,[object Object],XZ,,XXV,0
+,37,Xinzhao,,[object Object],XZ,,XZT,0
+,1304,Xiangzhou,,[object Object],XZ,,XWN,0
+,701,Xuzhou,,[object Object],XZ,,XCH,0
+,1222,Xinzheng,,[object Object],XZ,,XNF,0
+,1407,Xiangzhanglu,,[object Object],XZL,,FNQ,0
+,403,Xinzhouxi,,[object Object],XZX,,IXV,0
+,6740,Yaan,,[object Object],YA,,YAE,0
+,2010,Yanan,,[object Object],YA,,YWY,0
+,1005,Yongannan,,[object Object],YAN,,YQS,0
+,7,Yian,,[object Object],YA,,YAX,0
+,1707,Yingbinlu,,[object Object],YBL,,YFW,0
+,34,Yabuli,,[object Object],YBL,,YBB,0
+,34,Yabulinan,,[object Object],YBLN,,YWB,0
+,233,Yebaishou,,[object Object],YBS,,YBD,0
+,1714,Yibinxi,,[object Object],YBX,,YXE,0
+,34,Yabulixi,,[object Object],YBLX,,YSB,0
+,413,Yunchengbei,,[object Object],YCB,,ABV,0
+,1307,Yichangbei,,[object Object],YCB,,ABN,0
+,739,Yanchengbei,,[object Object],YCB,,AEH,0
+,1718,Yongchuandong,,[object Object],YCD,,WMW,0
+,1307,Yichangdong,,[object Object],YCD,,HAN,0
+,1759,Yuechi,,[object Object],YC,,AWW,0
+,2410,Yecheng,,[object Object],YC,,YER,0
+,1529,Yangchun,,[object Object],YC,,YQQ,0
+,1112,Yichun,,[object Object],YC,,YEG,0
+,413,Yuncheng,,[object Object],YC,,YNV,0
+,1307,Yichang,,[object Object],YC,,YCN,0
+,739,Yancheng,,[object Object],YC,,AFH,0
+,16,Yichun,,[object Object],YC,,YCB,0
+,5409,Yuci,,[object Object],YC,,YCV,0
+,359,Yangcun,,[object Object],YC,,YBP,0
+,2102,Yongdeng,,[object Object],YD,,YDJ,0
+,920,Yandangshan,,[object Object],YDS,,YGH,0
+,1169,Yudu,,[object Object],YD,,YDG,0
+,1701,Yaodu,,[object Object],YD,,AOJ,0
+,1503,Yingdexi,,[object Object],YDX,,IIQ,0
+,1508,Yunfudong,,[object Object],YFD,,IXQ,0
+,1708,Yangang,,[object Object],YG,,YGW,0
+,413,Yongjibei,,[object Object],YJB,,AJV,0
+,9097,Yanji,,[object Object],YJ,,YJL,0
+,1529,Yangjiang,,[object Object],YJ,,WRQ,0
+,413,Yongji,,[object Object],YJ,,YIV,0
+,358,Yanjiao,,[object Object],YJ,,AJP,0
+,2410,Yingjisha,,[object Object],YJS,,YIR,0
+,9097,Yanjixi,,[object Object],YJX,,YXL,0
+,216,Yingkoudong,,[object Object],YKD,,YGT,0
+,913,Yongkangnan,,[object Object],YKN,,QUH,0
+,216,Yingkou,,[object Object],YK,,YKT,0
+,9096,Yakeshi,,[object Object],YKS,,YKX,0
+,34,Yilan,,[object Object],YL,,YEB,0
+,1606,Yulinbei,,[object Object],YLB,,ABZ,0
+,1902,Yiliangbei,,[object Object],YLB,,YSM,0
+,2003,Yongledian,,[object Object],YLD,,YDY,0
+,1606,Yulin,,[object Object],YL,,YLZ,0
+,2015,Yulin,,[object Object],YL,,ALY,0
+,2004,Yangling,,[object Object],YL,,YSY,0
+,1408,Yanling,,[object Object],YL,,YAG,0
+,2003,Yanliang,,[object Object],YL,,YNY,0
+,1902,Yanglin,,[object Object],YL,,YLM,0
+,2004,Yanglingnan,,[object Object],YLN,,YEY,0
+,359,Yangliuqing,,[object Object],YLQ,,YQP,0
+,2509,Yalongwan,,[object Object],YLW,,TWQ,0
+,1707,Yangma,,[object Object],YM,,YME,0
+,34,Yimianpobei,,[object Object],YMPB,,YXB,0
+,1313,Yunmengdong,,[object Object],YMD,,YRN,0
+,2107,Yumen,,[object Object],YM,,YXJ,0
+,34,Yimianpo,,[object Object],YMP,,YPB,0
+,1905,Yuanmouxi,,[object Object],YMX,,AMM,0
+,1508,Yunan,,[object Object],YN,,YKQ,0
+,2482,Yiningdong,,[object Object],YND,,YNR,0
+,2482,Yining,,[object Object],YN,,YMR,0
+,1002,Yanpingdong,,[object Object],YPD,,ADS,0
+,2007,Yangpingguan,,[object Object],YPG,,YAY,0
+,1843,Yuping,,[object Object],YP,,YZW,0
+,1002,Yanping,,[object Object],YP,,YPS,0
+,403,Yuanping,,[object Object],YP,,YPV,0
+,1002,Yanpingxi,,[object Object],YPX,,YWS,0
+,403,Yuanpingxi,,[object Object],YPX,,IPV,0
+,404,Yangquanbei,,[object Object],YQB,,YPP,0
+,404,Yangquandong,,[object Object],YQD,,AYP,0
+,358,Yongqingdong,,[object Object],YQD,,YDI,0
+,357,Yanqihu,,[object Object],YQH,,FGP,0
+,2408,Yanqi,,[object Object],YQ,,YSR,0
+,920,Yueqing,,[object Object],YQ,,UPH,0
+,357,Yanqing,,[object Object],YQ,,YNP,0
+,9010,Yangquanqu,,[object Object],YQQ,,YYV,0
+,404,Yangquan,,[object Object],YQ,,AQP,0
+,405,Yangqu,,[object Object],YQ,,YQV,0
+,34,Yuquan,,[object Object],YQ,,YQB,0
+,405,Yangquxi,,[object Object],YQX,,IQV,0
+,5409,Yushe,,[object Object],YS,,YSV,0
+,1106,Yushan,,[object Object],YS,,YNG,0
+,1720,Yingshan,,[object Object],YS,,NUW,0
+,110,Yushu,,[object Object],YS,,YRT,0
+,365,Yuanshi,,[object Object],YS,,YSP,0
+,357,Yanshan,,[object Object],YS,,AOP,0
+,1106,Yushannan,,[object Object],YSN,,YGG,0
+,7,Yushutun,,[object Object],YST,,YSX,0
+,2515,Yintan,,[object Object],YT,,CTQ,0
+,611,Yantai,,[object Object],YT,,YAK,0
+,1105,Yingtan,,[object Object],YT,,YTG,0
+,1004,Yongtai,,[object Object],YT,,YTS,0
+,1105,Yingtanbei,,[object Object],YTB,,YKG,0
+,9096,Yitulihe,,[object Object],YTLH,,YEX,0
+,2408,Yitunbulake,,[object Object],YTBLK,,YVR,0
+,611,Yantainan,,[object Object],YTN,,YLK,0
+,117,Yantongshan,,[object Object],YTS,,YSL,0
+,304,Yutianxian,,[object Object],YTX,,ATP,0
+,913,Yiwu,,[object Object],YW,,YWH,0
+,1904,Yuxi,,[object Object],YX,,AXM,0
+,1009,Yunxiao,,[object Object],YX,,YBS,0
+,228,Yixian,,[object Object],YX,,YXD,0
+,1316,Yangxin,,[object Object],YX,,YON,0
+,709,Yixing,,[object Object],YX,,YUH,0
+,1005,Youxi,,[object Object],YX,,YXS,0
+,1423,Yiyang,,[object Object],YY,,AEQ,0
+,1404,Yueyang,,[object Object],YY,,YYQ,0
+,1404,Yueyangdong,,[object Object],YYD,,YIQ,0
+,1423,Yiyangnan,,[object Object],YYN,,YAA,0
+,713,Yangzhoudong,,[object Object],YZD,,YDU,0
+,2509,Yazhou,,[object Object],YZ,,YUQ,0
+,1426,Yongzhou,,[object Object],YZ,,AOQ,0
+,620,Yanzhou,,[object Object],YZ,,YZK,0
+,713,Yangzhou,,[object Object],YZ,,YLH,0
+,357,Yizhuang,,[object Object],YZ,,YUP,0
+,2102,Yuzhong,,[object Object],YZ,,IZJ,0
+,1904,Yangzong,,[object Object],YZ,,AOM,0
+,1009,Zhaoan,,[object Object],ZA,,ZDS,0
+,605,Zibobei,,[object Object],ZBB,,ZRK,0
+,605,Zibo,,[object Object],ZB,,ZBK,0
+,357,Zhongcang,,[object Object],ZC,,TOP,0
+,405,Zhenchengdi,,[object Object],ZCD,,ZDV,0
+,365,Zhengdingjichang,,[object Object],ZDJC,,ZHP,0
+,365,Zhengding,,[object Object],ZD,,ZDP,0
+,1314,Zhifangdong,,[object Object],ZFD,,ZMN,0
+,809,Zhegao,,[object Object],ZG,,ZGU,0
+,1713,Zigongbei,,[object Object],ZGB,,ZGW,0
+,1713,Zigong,,[object Object],ZG,,ZGE,0
+,1567,Zhuhai,,[object Object],ZH,,ZHQ,0
+,220,Zhuanghebei,,[object Object],ZHB,,ZUT,0
+,1567,Zhuhaibei,,[object Object],ZHB,,ZIQ,0
+,1567,Zhuhaijichang,,[object Object],ZHJC,,ZJA,0
+,1567,Zhuhaichanglong,,[object Object],ZHCL,,ZLA,0
+,705,Zhonghuamen,,[object Object],ZHM,,VNH,0
+,1510,Zhanjiangbei,,[object Object],ZJB,,ZMQ,0
+,2101,Zhangjiachuan,,[object Object],ZJC,,ZIJ,0
+,710,Zhangjiagang,,[object Object],ZJG,,ZAU,0
+,1510,Zhanjiang,,[object Object],ZJ,,ZJZ,0
+,1848,Zhijin,,[object Object],ZJ,,IZW,0
+,2007,Zhijiang,,[object Object],ZJ,,ZIY,0
+,1403,Zhijiang,,[object Object],ZJ,,ZPQ,0
+,906,Zhuji,,[object Object],ZJ,,ZDH,0
+,706,Zhenjiang,,[object Object],ZJ,,ZJH,0
+,34,Zhoujia,,[object Object],ZJ,,ZOB,0
+,1421,Zhangjiajie,,[object Object],ZJJ,,DIQ,0
+,315,Zhangjiakou,,[object Object],ZJK,,ZMP,0
+,315,Zhangjiakounan,,[object Object],ZJKN,,IXP,0
+,706,Zhenjiangnan,,[object Object],ZJN,,ZEH,0
+,1510,Zhanjiangxi,,[object Object],ZJX,,ZWQ,0
+,1421,Zhangjiajiexi,,[object Object],ZJJX,,JXA,0
+,1221,Zhoukoudong,,[object Object],ZKD,,ZKF,0
+,1221,Zhoukou,,[object Object],ZK,,ZKN,0
+,102,Zhenlai,,[object Object],ZL,,ZLT,0
+,2050,Zhuangli,,[object Object],ZL,,ZLY,0
+,1314,Zuoling,,[object Object],ZL,,ZSN,0
+,9096,Zhalantun,,[object Object],ZLT,,ZTX,0
+,9096,Zhalainuoerxi,,[object Object],ZLNEX,,ZXX,0
+,1219,Zhumadian,,[object Object],ZMD,,ZDN,0
+,1222,Zhongmu,,[object Object],ZM,,ZGF,0
+,1219,Zhumadianxi,,[object Object],ZMDX,,ZLN,0
+,1008,Zhangping,,[object Object],ZP,,ZPS,0
+,2410,Zepu,,[object Object],ZP,,ZPR,0
+,1008,Zhangpingxi,,[object Object],ZPX,,ZXG,0
+,602,Zhangqiubei,,[object Object],ZQB,,ZVK,0
+,1507,Zhaoqingdong,,[object Object],ZQD,,FCQ,0
+,1507,Zhaoqing,,[object Object],ZQ,,ZVQ,0
+,602,Zhangqiu,,[object Object],ZQ,,ZTK,0
+,5409,Zuoquan,,[object Object],ZQ,,ZNP,0
+,2016,Zhashui,,[object Object],ZS,,ZSY,0
+,507,Zhusihua,,[object Object],ZSH,,ZHD,0
+,1581,Zhongshan,,[object Object],ZS,,ZSQ,0
+,1112,Zhangshu,,[object Object],ZS,,ZSG,0
+,1843,Zhushaguzhen,,[object Object],ZSGZ,,ZSE,0
+,220,Zhoushuizi,,[object Object],ZSZ,,ZIT,0
+,1504,Zhongtang,,[object Object],ZT,,ZTA,0
+,1908,Zhaotong,,[object Object],ZT,,ZDW,0
+,2304,Zhongwei,,[object Object],ZW,,ZWJ,0
+,2304,Zhongweinan,,[object Object],ZWN,,ZTJ,0
+,1908,Zhenxiong,,[object Object],ZX,,ZXE,0
+,2006,Ziyang,,[object Object],ZY,,ZVY,0
+,1304,Zaoyang,,[object Object],ZY,,ZYN,0
+,6702,Ziyangbei,,[object Object],ZYB,,FYW,0
+,2106,Zhangye,,[object Object],ZY,,ZYJ,0
+,1807,Zunyi,,[object Object],ZY,,ZYE,0
+,1801,Zhenyuan,,[object Object],ZY,,ZUW,0
+,1807,Zunyixi,,[object Object],ZYX,,ZIW,0
+,2106,Zhangyexi,,[object Object],ZYX,,ZEJ,0
+,1712,Zizhongbei,,[object Object],ZZB,,WZW,0
+,1009,Zhangzhoudong,,[object Object],ZZD,,GOS,0
+,326,Zhuozhoudong,,[object Object],ZZD,,ZAP,0
+,628,Zaozhuang,,[object Object],ZZ,,ZEK,0
+,1009,Zhangzhou,,[object Object],ZZ,,ZUS,0
+,1408,Zhuzhou,,[object Object],ZZ,,ZZQ,0
+,621,Zhuangzhai,,[object Object],ZZ,,VOK,0
+,1408,Zhuzhounan,,[object Object],ZZN,,KVQ,0
+,628,Zaozhuangxi,,[object Object],ZZX,,ZFK,0
+,1408,Zhuzhouxi,,[object Object],ZZX,,ZAQ,0
+,9098,Abagaqi,,[object Object],ABGQ,,AQC,0
+,357,Anding,,[object Object],AD,,ADP,0
+,2756,Anduo,,[object Object],AD,,ADO,0
+,102,Anguang,,[object Object],AG,,AGT,0
+,508,Aohan,,[object Object],AH,,YED,0
+,326,Aihe,,[object Object],AH,,AHP,0
+,1423,Anhua,,[object Object],AH,,PKQ,0
+,2313,Aijiacun,,[object Object],AJC,,AJJ,0
+,1403,Anjiangdong,,[object Object],AJD,,ADA,0
+,309,Anjiang,,[object Object],AJ,,MJP,0
+,2107,Akesai,,[object Object],AKS,,AKJ,0
+,2005,Ankouyao,,[object Object],AKY,,AYY,0
+,507,Aolibugao,,[object Object],ALBG,,ALD,0
+,1808,Anlong,,[object Object],AL,,AUZ,0
+,9096,Alongshan,,[object Object],ALS,,ASX,0
+,3,Amuer,,[object Object],AME,,JTX,0
+,1905,Ananzhuang,,[object Object],ANZ,,AZM,0
+,1419,Anren,,[object Object],AR,,ARG,0
+,403,Antang,,[object Object],AT,,ATV,0
+,2411,Atushi,,[object Object],ATS,,ATR,0
+,9097,Antu,,[object Object],AT,,ATL,0
+,9097,Antuxi,,[object Object],ATX,,AXL,0
+,2409,Awati,,[object Object],AWT,,AWR,0
+,1036,Anxi,,[object Object],AX,,AXS,0
+,2506,Boao,,[object Object],BA,,BWQ,0
+,9010,Baibiguan,,[object Object],BBG,,BGV,0
+,1848,Babu,,[object Object],BB,,BBE,0
+,727,Bencha,,[object Object],BC,,FWH,0
+,326,Bancheng,,[object Object],BC,,BUP,0
+,359,Baodi,,[object Object],BD,,BZI,0
+,359,Baodinan,,[object Object],BDN,,BOI,0
+,1215,Baofeng,,[object Object],BF,,BFF,0
+,326,Baigou,,[object Object],BG,,FEP,0
+,2006,Baihedong,,[object Object],BHD,,BIY,0
+,739,Binhaigang,,[object Object],BHG,,BGU,0
+,706,Baohuashan,,[object Object],BHS,,BWH,0
+,2006,Baihexian,,[object Object],BHX,,BEY,0
+,2301,Baijigou,,[object Object],BJG,,BJJ,0
+,1506,Beijiao,,[object Object],BJ,,IBQ,0
+,1506,Bijiang,,[object Object],BJ,,BLQ,0
+,1806,Baijipo,,[object Object],BJP,,BBM,0
+,20,Bijiashan,,[object Object],BJS,,BSB,0
+,228,Bajiaotai,,[object Object],BJT,,BTD,0
+,1506,Beijiaoxi,,[object Object],BJX,,BJA,0
+,210,Beijingzi,,[object Object],BJZ,,BRT,0
+,507,Baokang,,[object Object],BK,,BKD,0
+,1304,Baokangxian,,[object Object],BKX,,BKN,0
+,1646,Bailang,,[object Object],BL,,BAT,0
+,1512,Boluobei,,[object Object],BLB,,BLA,0
+,2407,Boledong,,[object Object],BLD,,BOR,0
+,1606,Beiliu,,[object Object],BL,,BOZ,0
+,44,Baolin,,[object Object],BL,,BNB,0
+,2482,Buliekai,,[object Object],BLK,,BLR,0
+,507,Baolongshan,,[object Object],BLS,,BND,0
+,326,Bailixia,,[object Object],BLX,,AAP,0
+,208,Balidianzi,,[object Object],BLDZ,,BLT,0
+,1712,Baimabei,,[object Object],BMB,,BME,0
+,204,Bamiancheng,,[object Object],BMC,,BMD,0
+,309,Beimajuanzi,,[object Object],BMQZ,,BRP,0
+,309,Baiqi,,[object Object],BQ,,BQP,0
+,122,Baiquan,,[object Object],BQ,,BQL,0
+,9040,Bishan,,[object Object],BS,,FZW,0
+,2007,Bashan,,[object Object],BS,,BAY,0
+,2007,Baishuijiang,,[object Object],BSJ,,BSY,0
+,1316,Baishapu,,[object Object],BSP,,BSN,0
+,1901,Baishapo,,[object Object],BSP,,BPM,0
+,2002,Baishuixian,,[object Object],BSX,,BGY,0
+,1901,Baishuizhen,,[object Object],BSZ,,BUM,0
+,1410,Bantang,,[object Object],BT,,NGQ,0
+,1806,Baotian,,[object Object],BT,,BTE,0
+,1505,Bantian,,[object Object],BT,,BTQ,0
+,334,Botou,,[object Object],BT,,BZP,0
+,326,Beitun,,[object Object],BT,,BYP,0
+,233,Batuying,,[object Object],BTY,,BWT,0
+,9010,Baiwendong,,[object Object],BWD,,BCV,0
+,208,Benxixincheng,,[object Object],BXXC,,BVT,0
+,690,Boxing,,[object Object],BX,,BXK,0
+,507,Baxiantong,,[object Object],BXT,,VXD,0
+,1502,Baiyunjichangdong,,[object Object],BYJCD,,BDA,0
+,9011,Baiyinchagan,,[object Object],BYCG,,BYC,0
+,1502,Baiyunhu,,[object Object],BYH,,BHA,0
+,713,Baoying,,[object Object],BY,,BAU,0
+,507,Baiyintala,,[object Object],BYTL,,BID,0
+,1646,Baiyinhuanan,,[object Object],BYHN,,BOD,0
+,1502,Baiyunjichangnan,,[object Object],BYJCN,,BNA,0
+,1646,Baiyinhushuo,,[object Object],BYHS,,BCD,0
+,2103,Baiyinshi,,[object Object],BYS,,BNJ,0
+,9034,Baiyanhuaxi,,[object Object],BYHX,,FPC,0
+,358,Bazhoubei,,[object Object],BZB,,VPP,0
+,2004,Binzhou,,[object Object],BZ,,BXY,0
+,358,Bazhou,,[object Object],BZ,,RMP,0
+,357,Beizhai,,[object Object],BZ,,BVP,0
+,9014,Bazhongxi,,[object Object],BZX,,BZE,0
+,358,Bazhouxi,,[object Object],BZX,,FOP,0
+,1504,Changan,,[object Object],CA,,CAA,0
+,1515,Chaoan,,[object Object],CA,,CMQ,0
+,1504,Changanxi,,[object Object],CAX,,CXA,0
+,1317,Chibibei,,[object Object],CBB,,CIN,0
+,2002,Chengcheng,,[object Object],CC,,CUY,0
+,2103,Changcheng,,[object Object],CC,,CEJ,0
+,1506,Chencun,,[object Object],CC,,CVA,0
+,1502,Cencun,,[object Object],CC,,CPQ,0
+,309,Chengdexianbei,,[object Object],CDXB,,IYP,0
+,309,Chengdedong,,[object Object],CDD,,CCP,0
+,2007,Chenggubei,,[object Object],CGB,,CBY,0
+,1214,Changge,,[object Object],CG,,CEF,0
+,138,Chaganhu,,[object Object],CGH,,VAT,0
+,1808,Ceheng,,[object Object],CH,,CHZ,0
+,1581,Cuiheng,,[object Object],CH,,IHQ,0
+,208,Caohekou,,[object Object],CHK,,CKT,0
+,359,Cuihuangkou,,[object Object],CHK,,CHP,0
+,138,Caijiagou,,[object Object],CJG,,CJT,0
+,9096,Chengjisihan,,[object Object],CJSH,,CJX,0
+,1808,Chajiang,,[object Object],CJ,,CAM,0
+,1512,Chenjiangnan,,[object Object],CJN,,KKQ,0
+,2005,Caijiapo,,[object Object],CJP,,CJY,0
+,2419,Cele,,[object Object],CL,,CLR,0
+,607,Changle,,[object Object],CL,,CLK,0
+,309,Chaolianggou,,[object Object],CLG,,CYP,0
+,1408,Chalingnan,,[object Object],CLN,,CNG,0
+,220,Changlingzi,,[object Object],CLZ,,CLT,0
+,1516,Chaonan,,[object Object],CN,,CHA,0
+,1714,Changning,,[object Object],CN,,CNE,0
+,2304,Changnong,,[object Object],CN,,CNJ,0
+,1504,Changping,,[object Object],CP,,DAQ,0
+,1901,Changpoling,,[object Object],CPL,,CPM,0
+,1504,Changpingnan,,[object Object],CPN,,FPQ,0
+,603,Chipingnan,,[object Object],CPN,,CPK,0
+,1806,Changqing,,[object Object],CQ,,CQE,0
+,9,Chenqing,,[object Object],CQ,,CQB,0
+,3127,Changshou,,[object Object],CS,,EFW,0
+,3127,Changshouhu,,[object Object],CSH,,CSE,0
+,9026,Caishan,,[object Object],CS,,CON,0
+,349,Cishan,,[object Object],CS,,CSP,0
+,916,Changshan,,[object Object],CS,,CSU,0
+,710,Changshu,,[object Object],CS,,CAU,0
+,44,Chushan,,[object Object],CS,,CSB,0
+,138,Changshantun,,[object Object],CST,,CVT,0
+,1053,Changting,,[object Object],CT,,CES,0
+,1529,Chunwan,,[object Object],CW,,CQQ,0
+,1655,Cenxi,,[object Object],CX,,CNZ,0
+,901,Changxing,,[object Object],CX,,CBH,0
+,349,Cixi,,[object Object],CX,,CRP,0
+,616,Ciyao,,[object Object],CY,,CYK,0
+,1307,Changyang,,[object Object],CY,,CYN,0
+,614,Chengyang,,[object Object],CY,,CEK,0
+,37,Chuangyecun,,[object Object],CYC,,CEX,0
+,607,Changyi,,[object Object],CY,,CRK,0
+,233,Chaoyangnan,,[object Object],CYN,,CYD,0
+,1204,Changyuan,,[object Object],CY,,CYF,0
+,135,Chaoyangzhen,,[object Object],CYZ,,CZL,0
+,2053,Chenzhuang,,[object Object],CZ,,CZY,0
+,1515,Chaozhou,,[object Object],CZ,,CKQ,0
+,359,Caozili,,[object Object],CZL,,CFP,0
+,414,Changzhinan,,[object Object],CZN,,CAF,0
+,220,Chengzitan,,[object Object],CZT,,CWT,0
+,1901,Chezhuanwan,,[object Object],CZW,,CWM,0
+,1601,Duan,,[object Object],DA,,RUZ,0
+,102,Daan,,[object Object],DA,,RAT,0
+,1101,Dean,,[object Object],DA,,DAG,0
+,2303,Daba,,[object Object],DB,,DBJ,0
+,1610,Debao,,[object Object],DB,,RBZ,0
+,102,Daobao,,[object Object],DB,,RBT,0
+,226,Daba,,[object Object],DB,,DBD,0
+,1509,Dianbai,,[object Object],DB,,NWQ,0
+,508,Daban,,[object Object],DB,,DBC,0
+,15,Dongbianjing,,[object Object],DBJ,,DBB,0
+,1646,Debosi,,[object Object],DBS,,RDT,0
+,2104,Dachaigou,,[object Object],DCG,,DGJ,0
+,1710,Dechang,,[object Object],DC,,DVW,0
+,358,Dachang,,[object Object],DC,,DCI,0
+,1101,Duchang,,[object Object],DC,,DCG,0
+,1504,Dongchengnan,,[object Object],DCN,,IYQ,0
+,1710,Dechangxi,,[object Object],DCX,,DXE,0
+,26,Didao,,[object Object],DD,,DDB,0
+,2301,Dadenggou,,[object Object],DDG,,DKJ,0
+,237,Dongdaihe,,[object Object],DDH,,RDD,0
+,210,Dandongxi,,[object Object],DDX,,RWT,0
+,9096,Deerbuer,,[object Object],DEBE,,DRX,0
+,52,Dongerdaohe,,[object Object],DEDH,,DRB,0
+,37,Duerbote,,[object Object],DEBT,,TKX,0
+,1848,Dafang,,[object Object],DF,,DFE,0
+,122,Dongfeng,,[object Object],DF,,DIL,0
+,1806,Duge,,[object Object],DG,,DMM,0
+,1504,Dongguangang,,[object Object],DGG,,DGA,0
+,706,Dagangnan,,[object Object],DGN,,DNU,0
+,206,Daguantun,,[object Object],DGT,,DTT,0
+,334,Dongguang,,[object Object],DG,,DGP,0
+,26,Donghai,,[object Object],DH,,DHB,0
+,315,Donghuayuanbei,,[object Object],DHYB,,QBP,0
+,357,Dahuichang,,[object Object],DHC,,DHP,0
+,1507,Dinghudong,,[object Object],DHD,,UWQ,0
+,1507,Dinghushan,,[object Object],DHS,,NVQ,0
+,1467,Shaodong,,[object Object],DH,,SOQ,0
+,1502,Donghuan,,[object Object],DH,,DHA,0
+,704,Donghaixian,,[object Object],DHX,,DQH,0
+,15,Dongjin,,[object Object],DJ,,DKB,0
+,1301,Danjiangkou,,[object Object],DJK,,DON,0
+,614,Dongjiakou,,[object Object],DJK,,DTK,0
+,9034,Dengkou,,[object Object],DK,,RKC,0
+,359,Dakoutun,,[object Object],DKT,,DKP,0
+,507,Donglai,,[object Object],DL,,RVD,0
+,507,Dalin,,[object Object],DL,,DLD,0
+,16,Dailing,,[object Object],DL,,DLB,0
+,517,Dalateqi,,[object Object],DLTQ,,DIC,0
+,403,Douluo,,[object Object],DL,,DLV,0
+,517,Dalatexi,,[object Object],DLTX,,DNC,0
+,220,Dalianxi,,[object Object],DLX,,GZT,0
+,1504,Dalangzhen,,[object Object],DLZ,,KOQ,0
+,507,Dongmingcun,,[object Object],DMC,,DMD,0
+,309,Dongmiaohe,,[object Object],DMH,,DEP,0
+,233,Dapingfang,,[object Object],DPF,,DPD,0
+,326,Dapanshi,,[object Object],DPS,,RPP,0
+,9096,Daqilaha,,[object Object],DQLH,,DQX,0
+,901,Deqing,,[object Object],DQ,,DRH,0
+,946,Duqiao,,[object Object],DQ,,DQU,0
+,901,Deqingxi,,[object Object],DQX,,MOH,0
+,517,Dongshengdong,,[object Object],DSD,,RSC,0
+,1502,Dashidong,,[object Object],DSD,,RHQ,0
+,1581,Dongsheng,,[object Object],DS,,DRQ,0
+,220,Dengshahe,,[object Object],DSH,,DWT,0
+,806,Dangshan,,[object Object],DS,,DKH,0
+,9097,Dashitounan,,[object Object],DSTN,,DAL,0
+,1646,Dashizhai,,[object Object],DSZ,,RZT,0
+,212,Dengta,,[object Object],DT,,DGT,0
+,621,Dingtao,,[object Object],DT,,DQK,0
+,739,Dongtai,,[object Object],DT,,DBH,0
+,1901,Datianbian,,[object Object],DTB,,DBM,0
+,810,Dangtudong,,[object Object],DTD,,OWH,0
+,706,Dantu,,[object Object],DT,,RUH,0
+,2103,Dongwan,,[object Object],DW,,DRJ,0
+,1507,Dawang,,[object Object],DW,,WWQ,0
+,2109,Diwopu,,[object Object],DWP,,DWJ,0
+,1106,Dexingdong,,[object Object],DXD,,DDG,0
+,1106,Dexing,,[object Object],DX,,DWG,0
+,403,Dingxiang,,[object Object],DX,,DXV,0
+,403,Daixian,,[object Object],DX,,DKV,0
+,1905,Dianxin,,[object Object],DX,,DXM,0
+,1501,Danxiashan,,[object Object],DXS,,IRQ,0
+,349,Dongxu,,[object Object],DX,,RXP,0
+,914,Dayang,,[object Object],DY,,DUU,0
+,9096,Dayan,,[object Object],DY,,DYX,0
+,208,Dayang,,[object Object],DY,,RET,0
+,706,Danyangbei,,[object Object],DYB,,EXH,0
+,913,Dongyangbei,,[object Object],DYB,,DIU,0
+,808,Dingyuandong,,[object Object],DYD,,DEU,0
+,403,Dongyudi,,[object Object],DYD,,DBV,0
+,403,Daying,,[object Object],DY,,DYV,0
+,808,Dingyuan,,[object Object],DY,,EWH,0
+,402,Daiyue,,[object Object],DY,,RYV,0
+,1116,Dayu,,[object Object],DY,,DYG,0
+,1502,Dayuan,,[object Object],DY,,DFQ,0
+,1306,Dangyangxi,,[object Object],DYX,,DXN,0
+,339,Dayingzhen,,[object Object],DYZ,,DJP,0
+,2304,Dazhanchang,,[object Object],DZC,,DTJ,0
+,9010,Duizhen,,[object Object],DZ,,DWV,0
+,1426,Daozhou,,[object Object],DZ,,DFZ,0
+,413,Dongzhen,,[object Object],DZ,,DNV,0
+,403,Dongzhuang,,[object Object],DZ,,DZV,0
+,1507,Duanzhou,,[object Object],DZ,,WZQ,0
+,1403,Dizhuang,,[object Object],DZ,,DVQ,0
+,349,Douzhuang,,[object Object],DZ,,ROP,0
+,3118,Dazunan,,[object Object],DZN,,FQW,0
+,2006,Dazhuyuan,,[object Object],DZY,,DZY,0
+,309,Dazhangzi,,[object Object],DZZ,,DAP,0
+,309,Erdaogoumen,,[object Object],EDGM,,RDP,0
+,7,Erdaowan,,[object Object],EDW,,RDX,0
+,9,Erlongshantun,,[object Object],ELST,,ELA,0
+,135,Ermihe,,[object Object],EMH,,RML,0
+,2413,Emin,,[object Object],EM,,EMR,0
+,1541,Enping,,[object Object],EP,,PXQ,0
+,1983,Eshan,,[object Object],ES,,EVM,0
+,2315,Erying,,[object Object],EY,,RYJ,0
+,1315,Ezhoudong,,[object Object],EZD,,EFN,0
+,1023,Fuan,,[object Object],FA,,FAS,0
+,1112,Fengchengdong,,[object Object],FCD,,FIG,0
+,210,Fengchengdong,,[object Object],FCD,,FDT,0
+,6618,Fuchuan,,[object Object],FC,,FDZ,0
+,1112,Fengcheng,,[object Object],FC,,FCG,0
+,1216,Fangcheng,,[object Object],FC,,FNF,0
+,1112,Fengchengnan,,[object Object],FCN,,FNG,0
+,812,Fanchangxi,,[object Object],FCX,,PUH,0
+,1221,Fugounan,,[object Object],FGN,,FGF,0
+,7,Fuhai,,[object Object],FH,,FHX,0
+,1402,Fenghuanggucheng,,[object Object],FHGC,,FCA,0
+,1505,Fuhaixi,,[object Object],FHX,,FHA,0
+,3113,Fengjie,,[object Object],FJ,,FJE,0
+,1316,Fenglin,,[object Object],FL,,FLN,0
+,20,Fulitun,,[object Object],FLT,,FTB,0
+,20,Fenglezhen,,[object Object],FLZ,,FZB,0
+,804,Funan,,[object Object],FN,,FNH,0
+,301,Funing,,[object Object],FN,,FNP,0
+,739,Funing,,[object Object],FN,,AKH,0
+,739,Funingnan,,[object Object],FNN,,FNU,0
+,2050,Fuping,,[object Object],FP,,FPY,0
+,2007,Foping,,[object Object],FP,,FUY,0
+,2002,Fupingnan,,[object Object],FPN,,FBY,0
+,1848,Faqi,,[object Object],FQ,,FQE,0
+,1004,Fuqingxi,,[object Object],FQX,,FVS,0
+,1402,Furongzhen,,[object Object],FRZ,,FRA,0
+,611,Fushanbei,,[object Object],FSB,,YTK,0
+,1513,Fengshundong,,[object Object],FSD,,FDA,0
+,1513,Fengshun,,[object Object],FS,,FUQ,0
+,403,Fanshi,,[object Object],FS,,FSV,0
+,611,Fushan,,[object Object],FS,,FUK,0
+,1717,Fusheng,,[object Object],FS,,FAW,0
+,326,Fushankou,,[object Object],FSK,,FKP,0
+,1615,Fusuinan,,[object Object],FSN,,FNZ,0
+,136,Fusong,,[object Object],FS,,FSL,0
+,2502,Fushanzhen,,[object Object],FSZ,,FZQ,0
+,805,Fengtainan,,[object Object],FTN,,FTU,0
+,7,Fengtun,,[object Object],FT,,FTX,0
+,326,Futuyu,,[object Object],FTY,,FYP,0
+,2010,Fuxianbei,,[object Object],FXB,,FSY,0
+,622,Feixianbei,,[object Object],FXB,,FBK,0
+,2010,Fuxiandong,,[object Object],FXD,,FDY,0
+,2010,Fuxian,,[object Object],FX,,FEY,0
+,622,Feixian,,[object Object],FX,,FXK,0
+,9010,Fenyang,,[object Object],FY,,FAV,0
+,864,Fengyang,,[object Object],FY,,FUH,0
+,1901,Fuyuanbei,,[object Object],FYB,,FBM,0
+,138,Fuyu,,[object Object],FY,,FYT,0
+,9011,Fengzhenbei,,[object Object],FZB,,FFC,0
+,1121,Fuzhoubei,,[object Object],FZB,,FBG,0
+,1121,Fuzhoudong,,[object Object],FZD,,FDG,0
+,616,Fanzhen,,[object Object],FZ,,VZK,0
+,358,Guandong,,[object Object],GAD,,GQP,0
+,358,Guan,,[object Object],GA,,GFP,0
+,326,Gaobeidiandong,,[object Object],GBDD,,GMP,0
+,326,Gaobeidian,,[object Object],GBD,,GBP,0
+,228,Goubangzi,,[object Object],GBZ,,GBD,0
+,1304,Guchengbei,,[object Object],GCB,,GBN,0
+,802,Guchengdong,,[object Object],GCD,,GUU,0
+,1603,Gongcheng,,[object Object],GC,,GCZ,0
+,1304,Gucheng,,[object Object],GC,,GCN,0
+,44,Guchengzhen,,[object Object],GCZ,,GZB,0
+,1802,Guidingbei,,[object Object],GDB,,FMW,0
+,814,Guangde,,[object Object],GD,,GRH,0
+,1802,Guiding,,[object Object],GD,,GTW,0
+,814,Guangdenan,,[object Object],GDN,,GNU,0
+,1315,Gediannan,,[object Object],GDN,,GNN,0
+,1802,Guidingxian,,[object Object],GDX,,KIW,0
+,9104,Gangga,,[object Object],GG,,GAO,0
+,2723,Gongga,,[object Object],GG,,GGO,0
+,357,Guangao,,[object Object],GG,,GVP,0
+,1646,Gegenmiao,,[object Object],GGM,,GGT,0
+,1704,Guanghanbei,,[object Object],GHB,,GVW,0
+,9096,Ganhe,,[object Object],GH,,GAX,0
+,1949,Gejiu,,[object Object],GJ,,JJM,0
+,2104,Gulang,,[object Object],GL,,GLJ,0
+,1909,Ganlanba,,[object Object],GLB,,GVM,0
+,2104,Gulangbei,,[object Object],GLB,,GBJ,0
+,1805,Guanling,,[object Object],GL,,GLE,0
+,1209,Guanlin,,[object Object],GL,,GLF,0
+,2003,Gaoling,,[object Object],GL,,GGY,0
+,1710,Ganluonan,,[object Object],GLN,,GNE,0
+,1603,Guilinxi,,[object Object],GLX,,GEZ,0
+,315,Guoleizhuang,,[object Object],GLZ,,GLP,0
+,607,Gaomibei,,[object Object],GMB,,GVK,0
+,1505,Guangmingcheng,,[object Object],GMC,,IMQ,0
+,607,Gaomi,,[object Object],GM,,GMK,0
+,704,Guannan,,[object Object],GN,,GIU,0
+,1507,Guangning,,[object Object],GN,,FBQ,0
+,220,Guangningsinan,,[object Object],GNN,,GNT,0
+,220,Guangningsi,,[object Object],GNS,,GQT,0
+,415,Gaopingdong,,[object Object],GPD,,GVF,0
+,1361,Gaoping,,[object Object],GP,,GGN,0
+,349,Guangping,,[object Object],GP,,GPP,0
+,415,Gaoping,,[object Object],GP,,GPF,0
+,2010,Ganquanbei,,[object Object],GQB,,GEY,0
+,1502,Guanqiaobei,,[object Object],GQB,,GQA,0
+,507,Ganqika,,[object Object],GQK,,GQD,0
+,2010,Ganquan,,[object Object],GQ,,GQY,0
+,3128,Ganshuidong,,[object Object],GSD,,GDE,0
+,1220,Guangshan,,[object Object],GS,,GUN,0
+,210,Guanshui,,[object Object],GS,,GST,0
+,357,Gushankou,,[object Object],GSK,,GSP,0
+,2006,Gaotan,,[object Object],GT,,GAY,0
+,2106,Gaotai,,[object Object],GT,,GTJ,0
+,1023,Gutianbei,,[object Object],GTB,,GBS,0
+,1023,Gutian,,[object Object],GT,,GTS,0
+,315,Guanting,,[object Object],GT,,GTP,0
+,2106,Gaotainan,,[object Object],GTN,,GAJ,0
+,315,Guantingxi,,[object Object],GTX,,KEP,0
+,1116,Ganxianbei,,[object Object],GXB,,GIG,0
+,1105,Guixi,,[object Object],GX,,GXG,0
+,802,Guoyang,,[object Object],GY,,GYH,0
+,713,Gaoyoubei,,[object Object],GYB,,GEU,0
+,701,Guanyinjichang,,[object Object],GYJC,,GCU,0
+,713,Gaoyou,,[object Object],GY,,GAU,0
+,704,Guanyun,,[object Object],GY,,GOU,0
+,233,Gongyingzi,,[object Object],GYZ,,GYD,0
+,1502,Guangzhoudaxuecheng,,[object Object],GZDXC,,GCQ,0
+,1002,Guangze,,[object Object],GZ,,GZS,0
+,1908,Guozhu,,[object Object],GZ,,GZE,0
+,1581,Guzhen,,[object Object],GZ,,GNQ,0
+,2005,Guozhen,,[object Object],GZ,,GZY,0
+,216,Gaizhou,,[object Object],GZ,,GXT,0
+,2107,Guazhou,,[object Object],GZ,,GZJ,0
+,807,Guzhen,,[object Object],GZ,,GEH,0
+,138,Guanzijing,,[object Object],GZJ,,GOT,0
+,1502,Guangzhouchanglong,,[object Object],GZCL,,GCA,0
+,1008,Guanzhaishannan,,[object Object],GZN,,GSS,0
+,1502,Guangzhoulianhuashan,,[object Object],GZLHS,,GLA,0
+,1402,Guzhangxi,,[object Object],GZX,,GXA,0
+,9026,Hongan,,[object Object],HA,,HWN,0
+,727,Haian,,[object Object],HA,,HIH,0
+,752,Huaiannan,,[object Object],HAN,,AMH,0
+,315,Huaian,,[object Object],HA,,QAP,0
+,1014,Huian,,[object Object],HA,,HNS,0
+,2313,Huianpu,,[object Object],HAP,,KBJ,0
+,801,Huaibeibei,,[object Object],HBB,,PLH,0
+,1202,Hebidong,,[object Object],HBD,,HFF,0
+,15,Haibei,,[object Object],HB,,HEB,0
+,1202,Hebi,,[object Object],HB,,HAF,0
+,614,Huibu,,[object Object],HB,,KBK,0
+,1333,Hanchuanbei,,[object Object],HCB,,KFN,0
+,1116,Huichangbei,,[object Object],HCB,,XEG,0
+,52,Hanconggou,,[object Object],HCG,,HKB,0
+,1510,Hechun,,[object Object],HC,,HCZ,0
+,1513,Huacheng,,[object Object],HC,,VCQ,0
+,2482,Huocheng,,[object Object],HC,,SER,0
+,1313,Hanchuan,,[object Object],HC,,HCN,0
+,2104,Heichongtan,,[object Object],HCT,,HCJ,0
+,614,Hongdao,,[object Object],HD,,HQK,0
+,44,Hengdaohezidong,,[object Object],HDHZD,,KUX,0
+,9011,Huade,,[object Object],HD,,HGC,0
+,2107,Hedongli,,[object Object],HDL,,KLJ,0
+,2206,Haidong,,[object Object],HD,,LVO,0
+,411,Hongtong,,[object Object],HD,,HDV,0
+,2206,Haidongxi,,[object Object],HDX,,HDO,0
+,1106,Hengfeng,,[object Object],HF,,HFG,0
+,2304,Hanfuwan,,[object Object],HFW,,HXJ,0
+,9026,Huanggang,,[object Object],HG,,KGN,0
+,1317,Henggouqiaodong,,[object Object],HGQD,,HNN,0
+,9026,Huanggangxi,,[object Object],HGX,,KXN,0
+,52,Honghe,,[object Object],HH,,HPB,0
+,507,Huanghuatong,,[object Object],HHT,,HUD,0
+,1512,Huihuan,,[object Object],HH,,KHQ,0
+,1316,Huahu,,[object Object],HH,,KHN,0
+,2101,Hejiadian,,[object Object],HJD,,HJJ,0
+,1504,Houjie,,[object Object],HJ,,HJA,0
+,1905,Heijing,,[object Object],HJ,,HIM,0
+,1032,Hanjiang,,[object Object],HJ,,HJS,0
+,1204,Huojia,,[object Object],HJ,,HJF,0
+,9034,Hangjinhouqi,,[object Object],HJHQ,,HDC,0
+,334,Hejianxi,,[object Object],HJX,,HXP,0
+,1806,Huajiazhuang,,[object Object],HJZ,,HJM,0
+,1707,Huaikounan,,[object Object],HKN,,HKE,0
+,806,Huangkou,,[object Object],HK,,KOH,0
+,1101,Hukou,,[object Object],HK,,HKG,0
+,1514,Huilai,,[object Object],HL,,HGA,0
+,315,Huailai,,[object Object],HL,,VQP,0
+,44,Hailinbei,,[object Object],HLB,,KBX,0
+,2010,Huanglingdong,,[object Object],HLD,,ULY,0
+,2507,Hele,,[object Object],HL,,HLA,0
+,16,Haolianghe,,[object Object],HLH,,HHB,0
+,2511,Huangliu,,[object Object],HL,,KLQ,0
+,2010,Huangling,,[object Object],HL,,KLY,0
+,52,Heli,,[object Object],HL,,HOB,0
+,44,Hualin,,[object Object],HL,,HIB,0
+,1502,Hualongnan,,[object Object],HLN,,HDQ,0
+,9097,Helong,,[object Object],HL,,HLL,0
+,9096,Halasu,,[object Object],HLS,,HAX,0
+,9099,Hulusitai,,[object Object],HLST,,VTJ,0
+,1504,Humenbei,,[object Object],HMB,,HBA,0
+,1504,Humendong,,[object Object],HMD,,HDA,0
+,9026,Huangmei,,[object Object],HM,,VEH,0
+,1504,Hongmei,,[object Object],HM,,HMA,0
+,1504,Humen,,[object Object],HM,,IUQ,0
+,309,Hanmaying,,[object Object],HMY,,HYP,0
+,1416,Hengnan,,[object Object],HN,,HNG,0
+,28,Huanandong,,[object Object],HND,,KNB,0
+,1983,Huanian,,[object Object],HN,,HDM,0
+,902,Haining,,[object Object],HN,,HNH,0
+,816,Huaining,,[object Object],HN,,APH,0
+,2301,Huinongnan,,[object Object],HNN,,KNJ,0
+,2301,Huinong,,[object Object],HN,,HMJ,0
+,1511,Hepingbei,,[object Object],HPB,,HPA,0
+,1511,Heping,,[object Object],HP,,VAQ,0
+,1611,Hepu,,[object Object],HP,,HVZ,0
+,1711,Huapengzi,,[object Object],HPZ,,HZM,0
+,1567,Hengqinbei,,[object Object],HQB,,HOA,0
+,819,Huoqiu,,[object Object],HQ,,FBH,0
+,9057,Hongqing,,[object Object],HQ,,HEY,0
+,1567,Hengqin,,[object Object],HQ,,HQA,0
+,710,Huaqiao,,[object Object],HQ,,VQH,0
+,1201,Hongqiqu,,[object Object],HQQ,,HQF,0
+,1315,Huarongdong,,[object Object],HRD,,HPN,0
+,402,Huairen,,[object Object],HR,,HRV,0
+,1315,Huarongnan,,[object Object],HRN,,KRN,0
+,1315,Huarong,,[object Object],HR,,HRN,0
+,2313,Hongsibu,,[object Object],HSP,,HSJ,0
+,2313,Hongsibubei,,[object Object],HSBB,,HEJ,0
+,228,Heishanbei,,[object Object],HSB,,HQT,0
+,1316,Huangshibei,,[object Object],HSB,,KSN,0
+,1317,Heshengqiaodong,,[object Object],HSQD,,HLN,0
+,1422,Hanshou,,[object Object],HS,,HHA,0
+,1416,Hengshan,,[object Object],HS,,HSQ,0
+,309,Hushiha,,[object Object],HSH,,HHP,0
+,709,Huishan,,[object Object],HS,,VCH,0
+,16,Hongshan,,[object Object],HS,,VSB,0
+,1422,Hanshounan,,[object Object],HSN,,VSQ,0
+,810,Hanshannan,,[object Object],HSN,,HSU,0
+,2103,Hongshaxian,,[object Object],HSX,,VSJ,0
+,1416,Hengshanxi,,[object Object],HSX,,HEQ,0
+,1410,Hetang,,[object Object],HT,,KXQ,0
+,605,Huantai,,[object Object],HT,,VTK,0
+,26,Heitai,,[object Object],HT,,HQB,0
+,1805,Huangtongbei,,[object Object],HTB,,HBE,0
+,605,Heiwang,,[object Object],HW,,HWK,0
+,9057,Huixian,,[object Object],HX,,HYY,0
+,16,Hongxing,,[object Object],HX,,VXB,0
+,20,Hongxinglong,,[object Object],HXL,,VHB,0
+,2103,Hongxiantai,,[object Object],HXT,,HTJ,0
+,52,Huanxintian,,[object Object],HXT,,VTB,0
+,1201,Huaxun,,[object Object],HX,,HWF,0
+,2002,Heyang,,[object Object],HY,,HAY,0
+,2248,Haiyan,,[object Object],HY,,HFO,0
+,9096,Hongyan,,[object Object],HY,,VIX,0
+,2002,Heyangbei,,[object Object],HYB,,HTY,0
+,1511,Heyuanbei,,[object Object],HYB,,HYA,0
+,611,Haiyangbei,,[object Object],HYB,,HEK,0
+,2006,Hanyin,,[object Object],HY,,HQY,0
+,1313,Huaiyin,,[object Object],HY,,IYN,0
+,220,Huayuankou,,[object Object],HYK,,HYT,0
+,1221,Huaiyangnan,,[object Object],HYN,,HVF,0
+,2304,Huangyangtan,,[object Object],HYT,,HGJ,0
+,1313,Huayuan,,[object Object],HY,,HUN,0
+,2104,Huangyangzhen,,[object Object],HYZ,,HYJ,0
+,901,Huzhoudong,,[object Object],HZD,,HKU,0
+,411,Huozhoudong,,[object Object],HZD,,HWV,0
+,9026,Huangzhou,,[object Object],HZ,,VON,0
+,919,Huzhen,,[object Object],HZ,,HUU,0
+,1509,Huazhou,,[object Object],HZ,,HZZ,0
+,411,Huozhou,,[object Object],HZ,,HZV,0
+,1607,Hengzhou,,[object Object],HZ,,HGZ,0
+,901,Huzhounanxun,,[object Object],HZNX,,KIU,0
+,1512,Huizhouxi,,[object Object],HZX,,VXQ,0
+,2015,Jingbian,,[object Object],JB,,JIY,0
+,507,Jinbaotun,,[object Object],JBT,,JBD,0
+,415,Jinchengbei,,[object Object],JCB,,JEF,0
+,9010,Jiaocheng,,[object Object],JC,,JNV,0
+,237,Jianchang,,[object Object],JC,,JFD,0
+,9102,Jiacha,,[object Object],JC,,JIO,0
+,2111,Jingchuan,,[object Object],JC,,JAJ,0
+,208,Jianchang,,[object Object],JC,,JUT,0
+,621,Juancheng,,[object Object],JC,,JCK,0
+,814,Jingde,,[object Object],JD,,NSH,0
+,349,Jingdian,,[object Object],JD,,JFP,0
+,914,Jiandenan,,[object Object],JDN,,JAU,0
+,713,Jiangdu,,[object Object],JD,,UDH,0
+,2511,Jianfeng,,[object Object],JF,,PFQ,0
+,1502,Jianggao,,[object Object],JG,,JGA,0
+,309,Jingoutun,,[object Object],JGT,,VGP,0
+,517,Jiangui,,[object Object],JG,,JGC,0
+,1541,Jianghai,,[object Object],JH,,JNQ,0
+,2407,Jinghe,,[object Object],JH,,JHR,0
+,9096,Jinhe,,[object Object],JH,,JHX,0
+,9,Jinhe,,[object Object],JH,,JHB,0
+,878,Jiuhuashan,,[object Object],JHS,,JSU,0
+,1426,Jianghua,,[object Object],JH,,JHZ,0
+,739,Jianhu,,[object Object],JH,,AJH,0
+,1717,Jiangjinbei,,[object Object],JJB,,JAE,0
+,309,Jijiagou,,[object Object],JJG,,VJD,0
+,1708,Jiajiang,,[object Object],JJ,,UTW,0
+,2015,Jinjie,,[object Object],JJ,,JEY,0
+,1708,Jinkouhenan,,[object Object],JKGN,,JHE,0
+,1005,Jiangle,,[object Object],JL,,JLS,0
+,2105,Jiling,,[object Object],JL,,JLJ,0
+,1408,Jiulangshan,,[object Object],JLS,,KJQ,0
+,1541,Jiangmendong,,[object Object],JMD,,JWQ,0
+,1009,Jiaomei,,[object Object],JM,,JES,0
+,52,Jiamusixi,,[object Object],JMSX,,JUB,0
+,622,Junan,,[object Object],JN,,JOK,0
+,622,Junanbei,,[object Object],JNB,,VNK,0
+,620,Jiningbei,,[object Object],JNB,,MIK,0
+,620,Jiningdong,,[object Object],JND,,MNK,0
+,1061,Jianningnan,,[object Object],JNN,,JQS,0
+,1002,Jianoudong,,[object Object],JOD,,JZS,0
+,1002,Jianou,,[object Object],JO,,JVS,0
+,1002,Jianouxi,,[object Object],JOX,,JUS,0
+,220,Jinpu,,[object Object],JP,,PWT,0
+,1513,Jianqiao,,[object Object],JQ,,JQA,0
+,7,Jiangqiao,,[object Object],JQ,,JQX,0
+,706,Jurongxi,,[object Object],JRX,,JWH,0
+,9,Jiusan,,[object Object],JS,,SSX,0
+,164,Jinshan,,[object Object],JS,,JSR,0
+,1361,Jianshi,,[object Object],JS,,JRN,0
+,1955,Jianshui,,[object Object],JS,,JSM,0
+,413,Jishan,,[object Object],JS,,JVV,0
+,117,Jishu,,[object Object],JS,,JSL,0
+,102,Jianshe,,[object Object],JS,,JET,0
+,309,Jiashan,,[object Object],JS,,JOP,0
+,1305,Jingshan,,[object Object],JS,,JCN,0
+,902,Jiashan,,[object Object],JS,,JSH,0
+,1374,Jingshannan,,[object Object],JSN,,MIN,0
+,902,Jiashannan,,[object Object],JSN,,EAH,0
+,804,Jieshoushi,,[object Object],JSS,,JUN,0
+,1901,Jiangsuotian,,[object Object],JST,,JOM,0
+,16,Jinshantun,,[object Object],JST,,JTB,0
+,1114,Jishuixi,,[object Object],JSX,,JSG,0
+,2103,Jingtai,,[object Object],JT,,JTJ,0
+,2107,Jinta,,[object Object],JT,,JIJ,0
+,1567,Jingwan,,[object Object],JW,,JWA,0
+,9096,Jiwen,,[object Object],JW,,JWX,0
+,620,Jiaxiangbei,,[object Object],JXB,,MXK,0
+,1104,Jinxianbei,,[object Object],JXB,,JHG,0
+,814,Jingxian,,[object Object],JX,,LOH,0
+,623,Juxian,,[object Object],JX,,JKK,0
+,620,Jiaxiang,,[object Object],JX,,JUK,0
+,1215,Jiaxian,,[object Object],JX,,JXF,0
+,220,Jiaxinzi,,[object Object],JXZ,,JXT,0
+,1514,Jieyang,,[object Object],JY,,JYA,0
+,1002,Jianyang,,[object Object],JY,,JYS,0
+,1051,Jiaoyang,,[object Object],JY,,JBS,0
+,767,Jiangyan,,[object Object],JY,,UEH,0
+,1703,Jiangyoubei,,[object Object],JYB,,JBE,0
+,621,Juyebei,,[object Object],JYB,,MYK,0
+,1514,Jieyangjichang,,[object Object],JYJC,,JUA,0
+,1514,Jieyangnan,,[object Object],JYN,,JRQ,0
+,1426,Jiangyong,,[object Object],JY,,JYZ,0
+,136,Jiangyuan,,[object Object],JY,,SZL,0
+,2103,Jingyuan,,[object Object],JY,,JYJ,0
+,919,Jinyun,,[object Object],JY,,JYH,0
+,1206,Jiyuan,,[object Object],JY,,JYF,0
+,2518,Jinyuewan,,[object Object],JYW,,PYQ,0
+,2103,Jingyuanxi,,[object Object],JYX,,JXJ,0
+,919,Jinyunxi,,[object Object],JYX,,PYH,0
+,614,Jiaozhoubei,,[object Object],JZB,,JZK,0
+,1205,Jiaozuodong,,[object Object],JZD,,WEF,0
+,5409,Jinzhong,,[object Object],JZ,,JZV,0
+,1403,Jingzhou,,[object Object],JZ,,JEQ,0
+,339,Jingzhou,,[object Object],JZ,,JEP,0
+,614,Jiaozhou,,[object Object],JZ,,JXK,0
+,315,Jiuzhuangwo,,[object Object],JZW,,JVP,0
+,349,Kangcheng,,[object Object],KC,,KCP,0
+,210,Kuandian,,[object Object],KD,,KDT,0
+,7,Kedong,,[object Object],KD,,KOB,0
+,512,Kundulunzhao,,[object Object],KDLZ,,KDC,0
+,2408,Kuermuyi,,[object Object],KEMY,,VPR,0
+,1715,Kaijiangnan,,[object Object],KJN,,KAW,0
+,9096,Kalaqi,,[object Object],KLQ,,KQX,0
+,1541,Kaipingnan,,[object Object],KPN,,PVQ,0
+,44,Kuishan,,[object Object],KS,,KAB,0
+,1514,Kuitan,,[object Object],KT,,KTQ,0
+,1608,Kangxiling,,[object Object],KXL,,KXZ,0
+,9096,Keyihe,,[object Object],KYH,,KHX,0
+,1502,Keyunlu,,[object Object],KYL,,KEA,0
+,1955,Kaiyuannan,,[object Object],KYN,,KUM,0
+,2419,Kunyu,,[object Object],KY,,ESR,0
+,1806,Lengba,,[object Object],LB,,LBE,0
+,9207,Langbolabang,,[object Object],LBLB,,VJM,0
+,806,Lingbi,,[object Object],LB,,GMH,0
+,1504,Liaobu,,[object Object],LB,,LTQ,0
+,2010,Luochuanbei,,[object Object],LCB,,LRY,0
+,1601,Luocheng,,[object Object],LC,,VCZ,0
+,2010,Luochuan,,[object Object],LC,,LTY,0
+,1501,Lechang,,[object Object],LC,,LCQ,0
+,414,Licheng,,[object Object],LC,,UCP,0
+,346,Lincheng,,[object Object],LC,,UUP,0
+,614,Lancun,,[object Object],LC,,LCK,0
+,2511,Ledong,,[object Object],LD,,UQQ,0
+,508,Lindong,,[object Object],LD,,LRC,0
+,1502,Longdong,,[object Object],LD,,UGQ,0
+,2206,Ledu,,[object Object],LD,,LDO,0
+,309,Liangdixia,,[object Object],LDX,,LDP,0
+,309,Liudaohezi,,[object Object],LDHZ,,LVP,0
+,1806,Lufan,,[object Object],LF,,LVM,0
+,1525,Lufengdong,,[object Object],LFD,,LDA,0
+,1361,Laifeng,,[object Object],LF,,LFA,0
+,1512,Longfeng,,[object Object],LF,,KFQ,0
+,1525,Lufengnan,,[object Object],LFN,,LAA,0
+,1905,Lufengnan,,[object Object],LFN,,LQM,0
+,44,Langang,,[object Object],LG,,LNB,0
+,1905,Longgudian,,[object Object],LGD,,LGM,0
+,2520,Lingaonan,,[object Object],LGN,,KGQ,0
+,1901,Lugou,,[object Object],LG,,LOM,0
+,2104,Longgou,,[object Object],LG,,LGJ,0
+,946,Linhai,,[object Object],LH,,UFH,0
+,228,Linghai,,[object Object],LH,,JID,0
+,7,Laha,,[object Object],LH,,LHX,0
+,3,Linhai,,[object Object],LH,,LXX,0
+,304,Luanhe,,[object Object],LH,,UDP,0
+,946,Linhainan,,[object Object],LHN,,LHU,0
+,228,Linghainan,,[object Object],LHN,,UNT,0
+,339,Longhua,,[object Object],LH,,LHP,0
+,309,Luanheyan,,[object Object],LHY,,UNP,0
+,7,Liuhezhen,,[object Object],LHZ,,LEX,0
+,1704,Luojiangdong,,[object Object],LJD,,IKW,0
+,220,Liangjiadian,,[object Object],LJD,,LRT,0
+,210,Liujiahe,,[object Object],LJH,,LVT,0
+,1510,Lianjiang,,[object Object],LJ,,LJZ,0
+,1704,Luojiang,,[object Object],LJ,,LJW,0
+,1602,Liujiang,,[object Object],LJ,,UQZ,0
+,102,Liangjia,,[object Object],LJ,,UJT,0
+,9,Lijia,,[object Object],LJ,,LJB,0
+,7,Longjiang,,[object Object],LJ,,LJX,0
+,52,Lianjiangkou,,[object Object],LJK,,LHB,0
+,697,Lijinnan,,[object Object],LJN,,LNK,0
+,2124,Lijiaping,,[object Object],LJP,,LIJ,0
+,622,Lijiazhai,,[object Object],LJZ,,UPK,0
+,30,Linkounan,,[object Object],LKN,,LRB,0
+,1404,Lukoupu,,[object Object],LKP,,LKQ,0
+,7,Laolai,,[object Object],LL,,LAX,0
+,1802,Longlibei,,[object Object],LLB,,KFW,0
+,1512,Lilinbei,,[object Object],LLB,,KBQ,0
+,622,Lanlingbei,,[object Object],LLB,,COK,0
+,1408,Lilingdong,,[object Object],LLD,,UKQ,0
+,1426,Lingling,,[object Object],LL,,UWZ,0
+,1901,Luliang,,[object Object],LL,,LRM,0
+,301,Lulong,,[object Object],LL,,UAP,0
+,1422,Linlixi,,[object Object],LLX,,LWQ,0
+,2101,Luomen,,[object Object],LM,,LMJ,0
+,802,Lumiao,,[object Object],LM,,LMU,0
+,1116,Longnan,,[object Object],LN,,UNG,0
+,1116,Longnandong,,[object Object],LND,,LBG,0
+,1107,Lepingbei,,[object Object],LPB,,LKG,0
+,1806,Liupanshuidong,,[object Object],LPSD,,LDE,0
+,357,Luopoling,,[object Object],LPL,,LPP,0
+,2315,Liupanshan,,[object Object],LPS,,UPJ,0
+,1107,Lepingshi,,[object Object],LPS,,LPG,0
+,2419,Luopu,,[object Object],LP,,LVR,0
+,603,Linqing,,[object Object],LQ,,UQK,0
+,2004,Liquannan,,[object Object],LQN,,UNY,0
+,919,Longquanshi,,[object Object],LQS,,LVU,0
+,2004,Liquan,,[object Object],LQ,,LGY,0
+,804,Linquan,,[object Object],LQ,,LOU,0
+,1412,Lengshuijiangdong,,[object Object],LSJD,,UDQ,0
+,208,Lianshanguan,,[object Object],LSG,,LGT,0
+,309,Liushuigou,,[object Object],LSG,,USP,0
+,5409,Lingshi,,[object Object],LS,,LSV,0
+,1220,Luoshan,,[object Object],LS,,LRN,0
+,752,Lianshui,,[object Object],LS,,LIU,0
+,1114,Longshi,,[object Object],LS,,LAG,0
+,620,Liangshan,,[object Object],LS,,LMK,0
+,1215,Lushan,,[object Object],LS,,LAF,0
+,1807,Loushanguannan,,[object Object],LSGN,,LSE,0
+,1009,Longshanzhen,,[object Object],LSZ,,LAS,0
+,206,Lishizhai,,[object Object],LSZ,,LET,0
+,26,Lishuzhen,,[object Object],LSZ,,LSB,0
+,2408,Luntai,,[object Object],LT,,LAR,0
+,1905,Longtangba,,[object Object],LTB,,LBM,0
+,1615,Laituan,,[object Object],LT,,LVZ,0
+,1503,Longtangzhen,,[object Object],LTZ,,LVB,0
+,2304,Liwang,,[object Object],LW,,VLJ,0
+,2106,Langweishan,,[object Object],LWS,,LRJ,0
+,2311,Lingwu,,[object Object],LW,,LNJ,0
+,615,Laiwuxi,,[object Object],LWX,,UXK,0
+,913,Lanxidong,,[object Object],LXD,,LZU,0
+,9010,Lanxian,,[object Object],LX,,UXV,0
+,9103,Langxian,,[object Object],LX,,LIO,0
+,1189,Luxi,,[object Object],LX,,LUG,0
+,1404,Linxiang,,[object Object],LX,,LXQ,0
+,304,Luanxian,,[object Object],LX,,UXP,0
+,508,Linxi,,[object Object],LX,,LXC,0
+,16,Langxiang,,[object Object],LX,,LXB,0
+,814,Langxinan,,[object Object],LXN,,LXU,0
+,614,Laixinan,,[object Object],LXN,,LXK,0
+,802,Lixinxi,,[object Object],LXX,,XBH,0
+,611,Laiyang,,[object Object],LY,,LYK,0
+,916,Longyoubei,,[object Object],LYB,,LKU,0
+,233,Lingyuandong,,[object Object],LYD,,LDD,0
+,622,Linyidong,,[object Object],LYD,,UYK,0
+,601,Linyi,,[object Object],LY,,LUK,0
+,1218,Linying,,[object Object],LY,,LNF,0
+,611,Laiyangnan,,[object Object],LYN,,VEK,0
+,916,Longyounan,,[object Object],LYN,,LYU,0
+,916,Longyou,,[object Object],LY,,LMH,0
+,1541,Liyue,,[object Object],LY,,UEQ,0
+,1602,Luzhaibei,,[object Object],LZB,,LSZ,0
+,605,Linzibei,,[object Object],LZB,,UEK,0
+,1787,Luzhoudong,,[object Object],LZD,,UDE,0
+,2106,Linze,,[object Object],LZ,,LEJ,0
+,1615,Longzhou,,[object Object],LZ,,VZZ,0
+,1510,Leizhou,,[object Object],LZ,,UAQ,0
+,1193,Laizhou,,[object Object],LZ,,LZS,0
+,9034,Liuzhao,,[object Object],LZ,,WYC,0
+,1602,Luzhai,,[object Object],LZ,,LIZ,0
+,1711,Lazha,,[object Object],LZ,,LEM,0
+,611,Laizhou,,[object Object],LZ,,VPK,0
+,1806,Liuzhinan,,[object Object],LZN,,LOE,0
+,2106,Linzenan,,[object Object],LZN,,LDJ,0
+,1720,Maan,,[object Object],MA,,MAE,0
+,810,Maanshan,,[object Object],MAS,,MAH,0
+,1715,Maoba,,[object Object],MB,,MBY,0
+,2006,Maobaguan,,[object Object],MBG,,MGY,0
+,1504,Machong,,[object Object],MC,,MIA,0
+,117,Mingcheng,,[object Object],MC,,MCL,0
+,1313,Maochen,,[object Object],MC,,MHN,0
+,1207,Mianchi,,[object Object],MC,,MCF,0
+,357,Miaocheng,,[object Object],MC,,MAP,0
+,1806,Maocaoping,,[object Object],MCP,,KPM,0
+,1402,Mengdonghe,,[object Object],MDH,,MUQ,0
+,44,Modaoshi,,[object Object],MDS,,MOB,0
+,2419,Minfeng,,[object Object],MF,,MFR,0
+,1502,Maofengshan,,[object Object],MFS,,MTQ,0
+,1220,Minggang,,[object Object],MG,,MGN,0
+,1220,Minggangdong,,[object Object],MGD,,MDN,0
+,808,Mingguangxi,,[object Object],MGX,,MXU,0
+,1608,Mahuang,,[object Object],MH,,MHZ,0
+,6905,Mojiang,,[object Object],MJ,,MJM,0
+,1313,Minji,,[object Object],MJ,,MJN,0
+,2408,Malan,,[object Object],ML,,MLR,0
+,1404,Miluodong,,[object Object],MLD,,MQQ,0
+,2106,Minle,,[object Object],ML,,MBJ,0
+,44,Malianhe,,[object Object],MLH,,MHB,0
+,1612,Maoling,,[object Object],ML,,MLZ,0
+,9105,Milin,,[object Object],ML,,MIO,0
+,2006,Maliu,,[object Object],ML,,MLY,0
+,112,Maolin,,[object Object],ML,,MLD,0
+,1901,Malong,,[object Object],ML,,MGM,0
+,507,Mulitu,,[object Object],MLT,,MUD,0
+,1404,Miluo,,[object Object],ML,,MLQ,0
+,2413,Manasihu,,[object Object],MNSH,,MNR,0
+,611,Muping,,[object Object],MP,,MBK,0
+,1212,Minquanbei,,[object Object],MQB,,MIF,0
+,7081,Maqiaohe,,[object Object],MQH,,MQB,0
+,1004,Minqing,,[object Object],MQ,,MQS,0
+,9200,Mengsai,,[object Object],MS,,VFM,0
+,1646,Mingshuihe,,[object Object],MSH,,MUT,0
+,622,Mengshan,,[object Object],MS,,MOK,0
+,26,Mashan,,[object Object],MS,,MAB,0
+,1607,Mashanxian,,[object Object],MSX,,MAZ,0
+,1509,Mata,,[object Object],MT,,PWQ,0
+,2005,Meixiandong,,[object Object],MXD,,CXY,0
+,16,Meixi,,[object Object],MX,,MEB,0
+,1403,Mayang,,[object Object],MY,,MVQ,0
+,1711,Miyidong,,[object Object],MYD,,MDE,0
+,6108,Maiyuan,,[object Object],MY,,MYS,0
+,1403,Mayangxi,,[object Object],MYX,,MYA,0
+,2111,Miaozhuang,,[object Object],MZ,,MZJ,0
+,2015,Mizhi,,[object Object],MZ,,MEY,0
+,1567,Mingzhu,,[object Object],MZ,,MFQ,0
+,605,Nanboshan,,[object Object],NBS,,NBK,0
+,1422,Niuchehe,,[object Object],NCH,,NHA,0
+,508,Ningcheng,,[object Object],NC,,NCD,0
+,605,Nanqiu,,[object Object],NC,,NCK,0
+,326,Nanchengsi,,[object Object],NCS,,NSP,0
+,9204,Nadui,,[object Object],ND,,VCM,0
+,9107,Ninger,,[object Object],NE,,NEM,0
+,208,Nanfenbei,,[object Object],NFB,,NUT,0
+,357,Nanguancun,,[object Object],NGC,,NGP,0
+,346,Nangongdong,,[object Object],NGD,,NFP,0
+,814,Ningguonan,,[object Object],NGN,,NIU,0
+,814,Ningguo,,[object Object],NG,,NNH,0
+,2101,Nanhechuan,,[object Object],NHC,,NHJ,0
+,1905,Nanhua,,[object Object],NH,,NAM,0
+,1005,Ninghua,,[object Object],NH,,NHS,0
+,1201,Neihuang,,[object Object],NH,,NUF,0
+,228,Nihezi,,[object Object],NHZ,,NHD,0
+,1712,Neijiangdong,,[object Object],NJD,,NDE,0
+,1646,Ningjia,,[object Object],NJ,,NVT,0
+,233,Nengjia,,[object Object],NJ,,NJD,0
+,1009,Nanjing,,[object Object],NJ,,NJS,0
+,1508,Nanjiangkou,,[object Object],NJK,,NDQ,0
+,206,Nankouqian,,[object Object],NKQ,,NKT,0
+,1581,Nanlang,,[object Object],NL,,NNQ,0
+,1294,Nanle,,[object Object],NL,,NWF,0
+,233,Nailingao,,[object Object],NLG,,NGT,0
+,508,Nailin,,[object Object],NL,,NLD,0
+,812,Nanling,,[object Object],NL,,LLH,0
+,2482,Nileke,,[object Object],NLK,,NIR,0
+,1615,Ningmingdong,,[object Object],NMD,,NQZ,0
+,1615,Ningming,,[object Object],NM,,NMZ,0
+,9096,Nanmu,,[object Object],NM,,NMX,0
+,304,Nanpubei,,[object Object],NPB,,TLP,0
+,2509,Nanshanbei,,[object Object],NSB,,NEQ,0
+,1581,Nantou,,[object Object],NT,,NOQ,0
+,164,Nantun,,[object Object],NT,,NTR,0
+,309,Nanwanzi,,[object Object],NWZ,,NWP,0
+,1714,Nixi,,[object Object],NXI,,NIE,0
+,1714,Nanxi,,[object Object],NX,,NEE,0
+,2141,Ningxian,,[object Object],NX,,AXJ,0
+,1216,Neixiang,,[object Object],NX,,NXF,0
+,920,Nanxijiang,,[object Object],NXJ,,NJU,0
+,1407,Ningxiangxi,,[object Object],NXX,,NXA,0
+,404,Niangziguan,,[object Object],NZG,,NIP,0
+,1304,Nanzhang,,[object Object],NZ,,NZN,0
+,1216,Nanzhao,,[object Object],NZ,,NAF,0
+,206,Nanzamu,,[object Object],NZM,,NZT,0
+,1720,Pengan,,[object Object],PA,,PAW,0
+,913,Panan,,[object Object],PA,,PAU,0
+,913,Panannan,,[object Object],PAN,,PNU,0
+,1808,Puanxian,,[object Object],PAX,,PUE,0
+,1720,Penganxi,,[object Object],PAX,,PXE,0
+,2206,Pinganyi,,[object Object],PAY,,PNO,0
+,102,Pinganzhen,,[object Object],PAZ,,PZT,0
+,2101,Pananzhen,,[object Object],PAZ,,PAJ,0
+,1955,Pingbian,,[object Object],PB,,PBM,0
+,1805,Pingbanan,,[object Object],PBN,,PBE,0
+,2002,Pucheng,,[object Object],PC,,PCY,0
+,26,Peide,,[object Object],PD,,PDB,0
+,1805,Puding,,[object Object],PD,,PGW,0
+,349,Piandian,,[object Object],PD,,PRP,0
+,1610,Pingguo,,[object Object],PG,,PGZ,0
+,1806,Pingguan,,[object Object],PG,,PGM,0
+,1806,Panguan,,[object Object],PG,,PAM,0
+,349,Paihuaibei,,[object Object],PHB,,PHP,0
+,1901,Pinghekou,,[object Object],PHK,,PHM,0
+,1505,Pinghu,,[object Object],PH,,PHQ,0
+,309,Panjiadian,,[object Object],PJD,,PDP,0
+,913,Pujiang,,[object Object],PJ,,PJU,0
+,220,Pikounan,,[object Object],PK,,PKT,0
+,220,Pikou,,[object Object],PK,,PUT,0
+,1023,Pingnan,,[object Object],PN,,PNS,0
+,1605,Pingnannan,,[object Object],PNN,,PAZ,0
+,1955,Pengpu,,[object Object],PP,,PRM,0
+,6711,Pengshanbei,,[object Object],PSB,,PPW,0
+,2053,Pushi,,[object Object],PS,,PSY,0
+,6711,Pengshan,,[object Object],PS,,PSW,0
+,1782,Pengshui,,[object Object],PS,,PHW,0
+,1714,Pingshan,,[object Object],PSH,,PSE,0
+,403,Pingshe,,[object Object],PS,,PSV,0
+,222,Panshan,,[object Object],PS,,PUD,0
+,622,Pingshang,,[object Object],PS,,PSK,0
+,102,Pingtai,,[object Object],PT,,PVT,0
+,1806,Pingtian,,[object Object],PT,,PTM,0
+,1806,Putaojing,,[object Object],PTQ,,PTW,0
+,401,Pingwang,,[object Object],PW,,PWV,0
+,1615,Pingxiangdong,,[object Object],PXD,,PIZ,0
+,401,Pingxingguan,,[object Object],PXG,,PGV,0
+,1719,Pengxi,,[object Object],PX,,KZW,0
+,5409,Pingyao,,[object Object],PY,,PYV,0
+,2315,Pengyang,,[object Object],PY,,PYJ,0
+,1106,Poyang,,[object Object],PY,,POG,0
+,7,Pingyang,,[object Object],PY,,PYX,0
+,1106,Poyangbei,,[object Object],PYB,,PYG,0
+,622,Pingyi,,[object Object],PY,,PIK,0
+,2106,Pingyuanpu,,[object Object],PYP,,PPJ,0
+,601,Pingyuan,,[object Object],PY,,PYK,0
+,1502,Panyu,,[object Object],PY,,PYA,0
+,357,Pingyu,,[object Object],PY,,PYP,0
+,508,Pingzhuangbei,,[object Object],PZB,,PZD,0
+,701,Pizhoudong,,[object Object],PZD,,PIU,0
+,508,Pingzhuang,,[object Object],PZ,,PAD,0
+,701,Pizhou,,[object Object],PZ,,PJH,0
+,1502,Pazhou,,[object Object],PZ,,PTQ,0
+,226,Paozi,,[object Object],PZ,,POD,0
+,508,Pingzhuangnan,,[object Object],PZN,,PND,0
+,138,Qianan,,[object Object],QA,,QOT,0
+,304,Qianan,,[object Object],QA,,QQP,0
+,2101,Qinan,,[object Object],QA,,QGJ,0
+,2141,Qingcheng,,[object Object],QC,,QHJ,0
+,1340,Qichunnan,,[object Object],QCN,,QCN,0
+,1416,Qidongbei,,[object Object],QD,,QRQ,0
+,614,Qingdaojichang,,[object Object],QDJC,,QJK,0
+,1416,Qidong,,[object Object],QD,,QMQ,0
+,220,Qingdui,,[object Object],QD,,QET,0
+,620,Qufunan,,[object Object],QFN,,QQK,0
+,326,Qifengta,,[object Object],QFT,,QVP,0
+,1014,Quangang,,[object Object],QG,,QGS,0
+,226,Qinghemenbei,,[object Object],QHMB,,QBD,0
+,2005,Qianhe,,[object Object],QH,,QUY,0
+,601,Qihe,,[object Object],QH,,QIK,0
+,1615,Qujiu,,[object Object],QJ,,QJZ,0
+,1377,Qianjiang,,[object Object],QJ,,QJN,0
+,1955,Qujiang,,[object Object],QJ,,QIM,0
+,808,Quanjiao,,[object Object],QJ,,INH,0
+,15,Qinjia,,[object Object],QJ,,QJB,0
+,208,Qijiapu,,[object Object],QJP,,QBT,0
+,2015,Qingjianxian,,[object Object],QJX,,QNY,0
+,403,Qinjiazhuang,,[object Object],QJZ,,QZV,0
+,228,Qilihe,,[object Object],QLH,,QLD,0
+,1615,Quli,,[object Object],QL,,QLZ,0
+,2005,Qinling,,[object Object],QL,,QLY,0
+,1703,Qinglian,,[object Object],QL,,QEW,0
+,26,Qinglong,,[object Object],QL,,QIB,0
+,801,Qinglongshan,,[object Object],QLS,,QGH,0
+,815,Qimen,,[object Object],QM,,QIH,0
+,815,Qimennan,,[object Object],QMN,,QNU,0
+,164,Qiemo,,[object Object],QM,,QMR,0
+,2107,Qingshuibei,,[object Object],QSB,,QEJ,0
+,6711,Qingshen,,[object Object],QS,,QVW,0
+,2005,Qishan,,[object Object],QS,,QAY,0
+,1567,Qianshan,,[object Object],QS,,QXQ,0
+,1219,Queshan,,[object Object],QS,,QSN,0
+,2107,Qingshui,,[object Object],QS,,QUJ,0
+,44,Qingshan,,[object Object],QS,,QSB,0
+,2101,Qingshuixian,,[object Object],QSX,,QIJ,0
+,708,Qishuyan,,[object Object],QSY,,QYH,0
+,919,Qingtian,,[object Object],QT,,QVH,0
+,1708,Qianwei,,[object Object],QWE,,JWE,0
+,309,Qianweitang,,[object Object],QWT,,QWP,0
+,5409,Qixiandong,,[object Object],QXD,,QGV,0
+,1848,Qianxi,,[object Object],QX,,QXE,0
+,5409,Qixian,,[object Object],QX,,QXV,0
+,2004,Qianxian,,[object Object],QX,,QBY,0
+,334,Qingxian,,[object Object],QX,,QXP,0
+,2108,Qiaoxi,,[object Object],QX,,QXJ,0
+,9011,Qixiayingnan,,[object Object],QXYN,,QNC,0
+,9011,Qixiaying,,[object Object],QXY,,QXC,0
+,2005,Qianyang,,[object Object],QY,,QOY,0
+,1426,Qiyang,,[object Object],QY,,QWQ,0
+,1205,Qinyang,,[object Object],QY,,QYF,0
+,1426,Qiyangbei,,[object Object],QY,,QVQ,0
+,2315,Qiying,,[object Object],QY,,QYJ,0
+,2103,Qingyangshan,,[object Object],QYS,,QSJ,0
+,206,Qingyuan,,[object Object],QY,,QYT,0
+,607,Qingzhoushibei,,[object Object],QZSB,,QOK,0
+,1014,Quanzhoudong,,[object Object],QZD,,QRS,0
+,1608,Qinzhou,,[object Object],QZ,,QRZ,0
+,2141,Quzi,,[object Object],QZ,,QJJ,0
+,1014,Quanzhounan,,[object Object],QZN,,QNS,0
+,607,Qingzhoushi,,[object Object],QZS,,QZK,0
+,2519,Qiziwan,,[object Object],QZW,,QZQ,0
+,2752,Renbu,,[object Object],RB,,RUO,0
+,1101,Ruichang,,[object Object],RC,,RCG,0
+,1101,Ruichangxi,,[object Object],RCX,,RXG,0
+,727,Rugao,,[object Object],RG,,RBH,0
+,727,Rugaonan,,[object Object],RGN,,RNU,0
+,1506,Ronggui,,[object Object],RG,,RUQ,0
+,1801,Rongjiang,,[object Object],RJ,,RVW,0
+,334,Renqiu,,[object Object],RQ,,RQP,0
+,1602,Rongshui,,[object Object],RS,,RSZ,0
+,612,Rushan,,[object Object],RS,,ROK,0
+,1606,Rongxian,,[object Object],RX,,RXZ,0
+,339,Raoyang,,[object Object],RY,,RVP,0
+,1209,Ruyang,,[object Object],RY,,RYF,0
+,1215,Ruzhou,,[object Object],RZ,,ROF,0
+,2313,Shiba,,[object Object],SB,,OBJ,0
+,309,Shangbancheng,,[object Object],SBC,,SBP,0
+,1801,Shibing,,[object Object],SB,,AQW,0
+,309,Shangbanchengnan,,[object Object],SBCN,,OBP,0
+,1116,Shichengdong,,[object Object],SCD,,SDG,0
+,1220,Shangcheng,,[object Object],SC,,SWN,0
+,819,Shucheng,,[object Object],SC,,OCH,0
+,919,Suichang,,[object Object],SC,,SCU,0
+,1002,Shunchang,,[object Object],SC,,SCS,0
+,403,Shenchi,,[object Object],SC,,SMV,0
+,135,Shanchengzhen,,[object Object],SCZ,,SCL,0
+,2106,Shandan,,[object Object],SD,,SDJ,0
+,1506,Shundebei,,[object Object],SDB,,SVA,0
+,2106,Shandanmachang,,[object Object],SDMC,,JEJ,0
+,2015,Suide,,[object Object],SD,,ODY,0
+,1506,Shunde,,[object Object],SD,,ORQ,0
+,9011,Shangdu,,[object Object],SD,,SXC,0
+,508,Sidaowan,,[object Object],SDW,,OUD,0
+,1802,Sanduxian,,[object Object],SDX,,KKW,0
+,1506,Shundexueyuan,,[object Object],SDXY,,OJQ,0
+,358,Shengfang,,[object Object],SF,,SUP,0
+,15,Sifangtai,,[object Object],SFT,,STB,0
+,1908,Shuifu,,[object Object],SF,,OTW,0
+,2315,Sanguankou,,[object Object],SGK,,OKJ,0
+,9098,Sanggendalai,,[object Object],SGDL,,OGC,0
+,616,Shanggaozhen,,[object Object],SGZ,,SVK,0
+,1008,Shanghang,,[object Object],SH,,SNS,0
+,2006,Shuhe,,[object Object],SH,,SHY,0
+,1806,Songhe,,[object Object],SH,,SBM,0
+,220,Shahekou,,[object Object],SHK,,SKT,0
+,9098,Saihantala,,[object Object],SHTL,,SHC,0
+,773,Sihong,,[object Object],SH,,GQH,0
+,2407,Shuangheshi,,[object Object],SHS,,OHR,0
+,1507,Sihui,,[object Object],SH,,AHQ,0
+,2301,Shahu,,[object Object],SH,,OHJ,0
+,358,Sanhexian,,[object Object],SHX,,OXP,0
+,309,Siheyong,,[object Object],SHY,,OHD,0
+,357,Sanhezhuang,,[object Object],SHZ,,SVP,0
+,1513,Shejiangbei,,[object Object],SJB,,SOA,0
+,2315,Shenjiahe,,[object Object],SJH,,OJJ,0
+,117,Shuangji,,[object Object],SJ,,SML,0
+,15,Shangjia,,[object Object],SJ,,SJB,0
+,1502,Shenjing,,[object Object],SJ,,SHQ,0
+,204,Sanjiangkou,,[object Object],SJK,,SKD,0
+,605,Sijialing,,[object Object],SJL,,OLK,0
+,1505,Shajingxi,,[object Object],SJX,,SJA,0
+,226,Shijiazi,,[object Object],SJZ,,SJD,0
+,1806,Sanjiazhai,,[object Object],SJZ,,SMM,0
+,349,Shilidian,,[object Object],SLD,,OMP,0
+,2410,Shule,,[object Object],SL,,SUR,0
+,507,Shelihu,,[object Object],SLH,,VLD,0
+,2107,Shulehe,,[object Object],SLH,,SHJ,0
+,112,Shuangliao,,[object Object],SL,,ZJD,0
+,26,Shilin,,[object Object],SL,,SPB,0
+,1504,Shilong,,[object Object],SL,,SLQ,0
+,512,Salaqi,,[object Object],SLQ,,SLC,0
+,1646,Suolun,,[object Object],SL,,SNT,0
+,315,Shalingzi,,[object Object],SLZ,,SLP,0
+,1422,Shimenxian,,[object Object],SMX,,OMQ,0
+,2015,Shenmuxi,,[object Object],SMX,,OUY,0
+,2753,Shannan,,[object Object],SNA,,SAO,0
+,334,Suning,,[object Object],SN,,SYP,0
+,1369,Shennongjia,,[object Object],SNJ,,SMN,0
+,9098,Sunitezuoqi,,[object Object],SNTZQ,,ONC,0
+,1426,Shuangpai,,[object Object],SP,,SBZ,0
+,1219,Suiping,,[object Object],SP,,SON,0
+,2304,Shapotou,,[object Object],SPT,,SFJ,0
+,1212,Shangqiudong,,[object Object],SQD,,SIF,0
+,1715,Shiqiao,,[object Object],SQ,,SQE,0
+,1221,Shenqiu,,[object Object],SQ,,SQN,0
+,1212,Shangqiunan,,[object Object],SQN,,SPF,0
+,233,Shuiquan,,[object Object],SQ,,SID,0
+,9101,Sangri,,[object Object],SRI,,SRO,0
+,1506,Shishanbei,,[object Object],SSB,,NSQ,0
+,1506,Sanshuibei,,[object Object],SSB,,ARQ,0
+,1504,Songshanhubei,,[object Object],SSHB,,KUQ,0
+,2402,Shanshan,,[object Object],SS,,SSR,0
+,1506,Shishan,,[object Object],SS,,KSQ,0
+,1506,Sanshui,,[object Object],SS,,SJQ,0
+,620,Sishui,,[object Object],SS,,OSK,0
+,44,Shanshi,,[object Object],SS,,SQB,0
+,1502,Shenshan,,[object Object],SS,,SRA,0
+,233,Sanshijia,,[object Object],SSJ,,SRD,0
+,1506,Sanshuinan,,[object Object],SSN,,RNQ,0
+,620,Sishuinan,,[object Object],SSN,,ONK,0
+,1541,Shuangshuizhen,,[object Object],SSZ,,PQQ,0
+,9096,Suotuhan,,[object Object],STH,,SHX,0
+,1715,Shiti,,[object Object],ST,,STE,0
+,804,Santangji,,[object Object],STJ,,SDH,0
+,402,Shentou,,[object Object],ST,,SEV,0
+,44,Shitou,,[object Object],ST,,OTB,0
+,1806,Shatuo,,[object Object],ST,,SFM,0
+,357,Shangwan,,[object Object],SW,,SWP,0
+,1708,Shawannan,,[object Object],SWN,,SWE,0
+,2413,Shawanshi,,[object Object],SWS,,SXR,0
+,9,Sunwu,,[object Object],SW,,SKB,0
+,815,Shexianbei,,[object Object],SXB,,NPH,0
+,1510,Suixi,,[object Object],SX,,SXZ,0
+,9097,Shixian,,[object Object],SX,,SXL,0
+,805,Shouxian,,[object Object],SX,,SOU,0
+,1069,Shaxian,,[object Object],SX,,SAS,0
+,1501,Shixing,,[object Object],SX,,IPQ,0
+,1310,Suixian,,[object Object],SX,,OVN,0
+,815,Shexian,,[object Object],SX,,OVH,0
+,806,Sixian,,[object Object],SX,,GPH,0
+,1005,Shuixi,,[object Object],SX,,SSS,0
+,1806,Shangxipu,,[object Object],SXP,,SXM,0
+,2104,Shixiazi,,[object Object],SXZ,,SXJ,0
+,5409,Shouyang,,[object Object],SY,,SYV,0
+,773,Siyang,,[object Object],SY,,MPH,0
+,773,Shuyang,,[object Object],SY,,FMH,0
+,919,Songyang,,[object Object],SY,,SUU,0
+,414,Shuiyang,,[object Object],SY,,OYP,0
+,815,Sanyang,,[object Object],SY,,SYU,0
+,739,Sheyang,,[object Object],SY,,SAU,0
+,1008,Shuangyang,,[object Object],SY,,SQS,0
+,44,Suiyang,,[object Object],SY,,SYB,0
+,1415,Shaoyangbei,,[object Object],SYB,,OVQ,0
+,2101,Sanyangchuan,,[object Object],SYC,,SYJ,0
+,2104,Shangyaodun,,[object Object],SYD,,SPJ,0
+,2315,Sanying,,[object Object],SY,,OEJ,0
+,402,Shanyin,,[object Object],SY,,SNV,0
+,906,Shangyunan,,[object Object],SYN,,SVU,0
+,135,Sanyuanpu,,[object Object],SYP,,SYL,0
+,233,Shangyuan,,[object Object],SY,,SUD,0
+,2004,Sanyuan,,[object Object],SY,,SAY,0
+,906,Shangyu,,[object Object],SY,,BDH,0
+,1415,Shaoyangxi,,[object Object],SYX,,SXA,0
+,1305,Shayangxi,,[object Object],SYX,,OJN,0
+,237,Suizhongbei,,[object Object],SZB,,SND,0
+,1505,Shenzhenjichangbei,,[object Object],SZJCB,,SBA,0
+,906,Shengzhoubei,,[object Object],SZB,,SEU,0
+,1567,Sanzaodong,,[object Object],SZD,,SAA,0
+,710,Shengze,,[object Object],SZ,,SJU,0
+,2002,Sunzhen,,[object Object],SZ,,OZY,0
+,2507,Shenzhou,,[object Object],SZ,,SRQ,0
+,1421,Sangzhi,,[object Object],SZ,,SZA,0
+,339,Shenzhou,,[object Object],SZ,,OZP,0
+,2107,Suzhou,,[object Object],SZ,,SRJ,0
+,1567,Shizimen,,[object Object],SZM,,SIA,0
+,710,Suzhounan,,[object Object],SZN,,SMU,0
+,1901,Shizong,,[object Object],SZ,,SEM,0
+,710,Suzhouyuanqu,,[object Object],SZYQ,,KAH,0
+,710,Suzhouxinqu,,[object Object],SZXQ,,ITH,0
+,2301,Shizuishan,,[object Object],SZS,,OZJ,0
+,1388,Songzixi,,[object Object],SZX,,SIN,0
+,213,Taian,,[object Object],TA,,TID,0
+,213,Taiannan,,[object Object],TAN,,TAD,0
+,2124,Tonganyi,,[object Object],TAY,,TAJ,0
+,1216,Tongbai,,[object Object],TB,,TBF,0
+,710,Taicang,,[object Object],TC,,TCU,0
+,2008,Tongchuanbei,,[object Object],TCB,,TDY,0
+,611,Taocunbei,,[object Object],TCB,,TOK,0
+,816,Tongchengdong,,[object Object],TCD,,TOU,0
+,2413,Tiechanggou,,[object Object],TCG,,TJR,0
+,622,Tancheng,,[object Object],TC,,TZK,0
+,816,Tongcheng,,[object Object],TC,,TTH,0
+,816,Tongchengnan,,[object Object],TCN,,TUU,0
+,710,Taicangnan,,[object Object],TCN,,TNU,0
+,208,Tiechashan,,[object Object],TCS,,PST,0
+,611,Taocun,,[object Object],TC,,TCK,0
+,1610,Tiandongbei,,[object Object],TDB,,TBZ,0
+,1610,Tiandong,,[object Object],TD,,TDZ,0
+,5409,Taigudong,,[object Object],TGD,,TEV,0
+,2408,Tieganlike,,[object Object],TGLK,,VAR,0
+,9011,Tuguiwula,,[object Object],TGWL,,TGC,0
+,5409,Taiguxi,,[object Object],TGX,,TIV,0
+,804,Taihebei,,[object Object],THB,,JYN,0
+,804,Taihedong,,[object Object],THD,,TDU,0
+,1216,Tanghe,,[object Object],TH,,THF,0
+,304,Tanghainan,,[object Object],THN,,IEP,0
+,135,Tonghuaxian,,[object Object],THX,,TXL,0
+,7,Tuanjie,,[object Object],TJ,,TIX,0
+,2104,Tanjiajing,,[object Object],TJJ,,TNJ,0
+,1567,Tangjiawan,,[object Object],TJW,,PDQ,0
+,357,Tongjunzhuang,,[object Object],TJZ,,TZP,0
+,813,Tonglingbei,,[object Object],TLB,,KXH,0
+,1646,Tuliemaodu,,[object Object],TLMD,,TMD,0
+,9096,Tulihe,,[object Object],TLH,,TEX,0
+,1615,Tingliang,,[object Object],TL,,TIZ,0
+,1610,Tianlin,,[object Object],TL,,TFZ,0
+,1378,Tianmenbei,,[object Object],TMB,,TMN,0
+,1023,Taimushan,,[object Object],TMS,,TLS,0
+,9011,Tumuertai,,[object Object],TMET,,TRC,0
+,2104,Tumenzi,,[object Object],TMZ,,TCJ,0
+,102,Taonan,,[object Object],TN,,TVT,0
+,138,Taipingchuan,,[object Object],TPC,,TIT,0
+,20,Taipingzhen,,[object Object],TPZ,,TEB,0
+,1294,Taiqian,,[object Object],TQ,,TTK,0
+,3,Tuqiang,,[object Object],TQ,,TQX,0
+,2304,Tuqiaozi,,[object Object],TQZ,,TQJ,0
+,2141,Tianshuibu,,[object Object],TSB,,TUJ,0
+,210,Tangshancheng,,[object Object],TSC,,TCT,0
+,1541,Taishan,,[object Object],TS,,PUQ,0
+,16,Taoshan,,[object Object],TS,,TAB,0
+,304,Tangshanxi,,[object Object],TSX,,TSI,0
+,946,Tiantaishan,,[object Object],TTS,,TIU,0
+,138,Tongtu,,[object Object],TT,,TUT,0
+,2124,Tongwei,,[object Object],TW,,TWJ,0
+,1408,Tianxindong,,[object Object],TXD,,KQQ,0
+,1655,Tengxian,,[object Object],TX,,TAZ,0
+,2313,Tongxin,,[object Object],TX,,TXJ,0
+,902,Tongxiang,,[object Object],TX,,TCH,0
+,1610,Tianyang,,[object Object],TY,,TRZ,0
+,508,Tianyi,,[object Object],TY,,TND,0
+,1201,Tangyin,,[object Object],TY,,TYF,0
+,2509,Tianyahaijiao,,[object Object],TYHJ,,THA,0
+,2313,Taiyangshan,,[object Object],TYS,,TYJ,0
+,1422,Taoyuan,,[object Object],TY,,TYA,0
+,52,Tangyuan,,[object Object],TY,,TYB,0
+,210,Tongyuanpuxi,,[object Object],TYPX,,TST,0
+,326,Tayayi,,[object Object],TYY,,TYP,0
+,628,Tengzhou,,[object Object],TZ,,TXK,0
+,401,Tianzhen,,[object Object],TZ,,TZV,0
+,2104,Tianzhu,,[object Object],TZ,,TZJ,0
+,816,Tianzhushan,,[object Object],TZS,,QWH,0
+,2104,Tianzhuxi,,[object Object],TZX,,TRJ,0
+,349,Wuan,,[object Object],WA,,WAP,0
+,358,Wenan,,[object Object],WA,,WBP,0
+,1114,Wananxian,,[object Object],WAX,,WAG,0
+,326,Wanganzhen,,[object Object],WAZ,,WVP,0
+,2015,Wubu,,[object Object],WB,,WUY,0
+,1646,Wuchagou,,[object Object],WCG,,WCT,0
+,1510,Wuchuan,,[object Object],WC,,WAQ,0
+,44,Wenchun,,[object Object],WC,,WDB,0
+,508,Wudan,,[object Object],WD,,IDC,0
+,9,Wudalianchi,,[object Object],WDLC,,WRB,0
+,612,Wendengdong,,[object Object],WDD,,WGK,0
+,612,Wendeng,,[object Object],WD,,WBK,0
+,309,Wudaohe,,[object Object],WDH,,WHP,0
+,1606,Wendi,,[object Object],WD,,WNZ,0
+,612,Wendengnan,,[object Object],WDN,,WWK,0
+,1646,Weidong,,[object Object],WD,,WVT,0
+,326,Wangdu,,[object Object],WD,,WDP,0
+,1301,Wudangshanxi,,[object Object],WDSX,,WWN,0
+,9096,Wuerqihan,,[object Object],WEQH,,WHX,0
+,607,Weifangbei,,[object Object],WFB,,WJK,0
+,1106,Wufushan,,[object Object],WFS,,WFG,0
+,138,Wangfu,,[object Object],WF,,WUT,0
+,1901,Wuguantian,,[object Object],WGT,,WGM,0
+,9097,Weihulingbei,,[object Object],WHLB,,WBL,0
+,612,Weihaibei,,[object Object],WHB,,WHK,0
+,812,Wuhubei,,[object Object],WHB,,WBU,0
+,612,Weihainanhai,,[object Object],WHNH,,WRK,0
+,812,Wuhunan,,[object Object],WHN,,RVH,0
+,1204,Weihuinan,,[object Object],WHN,,WVF,0
+,1513,Wuhua,,[object Object],WH,,WHA,0
+,1204,Weihui,,[object Object],WH,,WHF,0
+,2103,Wujiachuan,,[object Object],WJC,,WCJ,0
+,349,Wuji,,[object Object],WJ,,WJP,0
+,1806,Weiqing,,[object Object],WJ,,WAM,0
+,2404,Weijiaquan,,[object Object],WJQ,,WJR,0
+,1807,Wujiangzhai,,[object Object],WJZ,,ZNE,0
+,23,Woken,,[object Object],WK,,WQB,0
+,9041,Wulan,,[object Object],WL,,WIO,0
+,210,Wulongbei,,[object Object],WLB,,WBT,0
+,210,Wulongbeidong,,[object Object],WLBD,,WMT,0
+,3,Walagan,,[object Object],WLG,,WVX,0
+,623,Wulian,,[object Object],WL,,WLK,0
+,3130,Wulongnan,,[object Object],WLN,,WLE,0
+,9034,Wulateqianqi,,[object Object],WLTQQ,,IQC,0
+,2005,Wolongsi,,[object Object],WLS,,WLY,0
+,226,Wulanmutu,,[object Object],WLMT,,VLT,0
+,1504,Wangniudun,,[object Object],WND,,WNA,0
+,9096,Wunuer,,[object Object],WNE,,WRX,0
+,2507,Wanning,,[object Object],WN,,WNQ,0
+,1107,Wannian,,[object Object],WN,,WWG,0
+,2002,Weinannan,,[object Object],WNN,,WVY,0
+,2101,Weinanzhen,,[object Object],WNZ,,WNJ,0
+,1008,Wuping,,[object Object],WP,,WPS,0
+,334,Wuqiao,,[object Object],WQ,,WUP,0
+,9202,Wanrong,,[object Object],WR,,VOM,0
+,9010,Wenshui,,[object Object],WS,,WEV,0
+,1906,Weishan,,[object Object],WS,,WOM,0
+,2101,Wushan,,[object Object],WS,,WSJ,0
+,164,Washixia,,[object Object],WSX,,WHR,0
+,1603,Wutong,,[object Object],WT,,WTZ,0
+,339,Wangtong,,[object Object],WT,,WTP,0
+,403,Wutaishan,,[object Object],WTS,,WSV,0
+,2313,Wangtuanzhuang,,[object Object],WTZ,,WZJ,0
+,812,Wuwei,,[object Object],WW,,IIH,0
+,708,Wawushan,,[object Object],WWS,,WAH,0
+,2436,Wuwu,,[object Object],WW,,WVR,0
+,414,Wuxiangdong,,[object Object],WXD,,WVV,0
+,1908,Weixin,,[object Object],WX,,WXE,0
+,414,Wuxiang,,[object Object],WX,,WUV,0
+,413,Wenxi,,[object Object],WX,,WXV,0
+,26,Weixing,,[object Object],WX,,WVB,0
+,709,Wuxixinqu,,[object Object],WXXQ,,IFH,0
+,913,Wuyibei,,[object Object],WYB,,WDH,0
+,913,Wuyi,,[object Object],WY,,RYH,0
+,1806,Wayaotian,,[object Object],WYT,,WIM,0
+,9034,Wuyuan,,[object Object],WY,,IYC,0
+,1567,Wanzai,,[object Object],WZ,,WZA,0
+,1567,Wanzaibei,,[object Object],WZB,,WBA,0
+,920,Wenzhoubei,,[object Object],WZB,,URH,0
+,9097,Weizigou,,[object Object],WZG,,WZL,0
+,2002,Weizhuang,,[object Object],WZ,,WZY,0
+,403,Wuzhai,,[object Object],WZ,,WZV,0
+,1205,Wuzhi,,[object Object],WZ,,WIF,0
+,812,Wanzhinan,,[object Object],WZN,,WNU,0
+,233,Weizhangzi,,[object Object],WZZ,,WKD,0
+,414,Weizizhen,,[object Object],WZZ,,WQP,0
+,1603,Xingan,,[object Object],XA,,XAZ,0
+,1901,Xinan,,[object Object],XA,,EAM,0
+,1209,Xinanxian,,[object Object],XAX,,XAF,0
+,315,Xinbaoan,,[object Object],XBA,,XAP,0
+,309,Xiabancheng,,[object Object],XBC,,EBP,0
+,315,Xibali,,[object Object],XBL,,XLP,0
+,906,Xinchangbei,,[object Object],XCB,,XBU,0
+,1214,Xuchangbei,,[object Object],XCB,,EBF,0
+,1221,Xiangcheng,,[object Object],XC,,ERN,0
+,1905,Xiaocun,,[object Object],XC,,XEM,0
+,237,Xingchengxi,,[object Object],XCX,,XXD,0
+,9096,Xinchuoyuan,,[object Object],XCY,,XRX,0
+,44,Xiachengzi,,[object Object],XCZ,,XCB,0
+,1710,Xide,,[object Object],XD,,EDW,0
+,1901,Xiaodejiang,,[object Object],XDJ,,EJM,0
+,309,Xidamiao,,[object Object],XDM,,XMP,0
+,1608,Xiaodong,,[object Object],XD,,XEZ,0
+,228,Xiaodong,,[object Object],XD,,XOD,0
+,1416,Xidu,,[object Object],XD,,XDA,0
+,1710,Xidexi,,[object Object],XDX,,XXE,0
+,411,Xiangfen,,[object Object],XF,,XFV,0
+,1116,Xinfeng,,[object Object],XF,,EFG,0
+,411,Xiangfenxi,,[object Object],XFX,,XTV,0
+,1116,Xinfengxi,,[object Object],XFX,,XFG,0
+,1114,Xingan,,[object Object],XG,,EGG,0
+,1313,Xiaogan,,[object Object],XG,,XGN,0
+,1114,Xingandong,,[object Object],XGD,,XGG,0
+,1116,Xingguoxi,,[object Object],XGX,,XIG,0
+,614,Xiagezhuang,,[object Object],XGZ,,XZK,0
+,9,Xigangzi,,[object Object],XGZ,,NBB,0
+,315,Xuanhuabei,,[object Object],XHB,,VJP,0
+,1512,Xihudong,,[object Object],XHD,,WDQ,0
+,2409,Xinhe,,[object Object],XH,,XIR,0
+,2304,Xuanhe,,[object Object],XH,,XWJ,0
+,358,Xianghe,,[object Object],XH,,XHI,0
+,9,Xianghe,,[object Object],XH,,XXB,0
+,357,Xiehejian,,[object Object],XHJ,,EEP,0
+,1412,Xinhua,,[object Object],XH,,EHQ,0
+,315,Xuanhua,,[object Object],XH,,XHP,0
+,1221,Xihua,,[object Object],XH,,EHF,0
+,315,Xiahuayuan,,[object Object],XHY,,XYP,0
+,2006,Xiaohezhen,,[object Object],XHZ,,EKY,0
+,611,Xujiadian,,[object Object],XJD,,HYK,0
+,1114,Xiajiang,,[object Object],XJ,,EJG,0
+,413,Xinjiang,,[object Object],XJ,,XJV,0
+,946,Xianjunan,,[object Object],XJN,,XNU,0
+,946,Xianju,,[object Object],XJ,,XJU,0
+,26,Xingkai,,[object Object],XK,,EKB,0
+,910,Xikou,,[object Object],XK,,XKU,0
+,1581,Xiaolan,,[object Object],XL,,EAQ,0
+,52,Xianglan,,[object Object],XL,,XNB,0
+,2111,Xinli,,[object Object],XL,,XLJ,0
+,213,Xiliu,,[object Object],XL,,GCT,0
+,16,Xilin,,[object Object],XL,,XYB,0
+,3,Xinlin,,[object Object],XL,,XPX,0
+,228,Xinlitun,,[object Object],XLT,,XLD,0
+,309,Xinglongxianxi,,[object Object],XLXX,,IRP,0
+,26,Ximashan,,[object Object],XMS,,XMB,0
+,208,Xiamatang,,[object Object],XMT,,XAT,0
+,9010,Xiaonan,,[object Object],XN,,XNV,0
+,1317,Xianningbei,,[object Object],XNB,,XRN,0
+,1317,Xianningdong,,[object Object],XND,,XKN,0
+,1513,Xingning,,[object Object],XN,,ENQ,0
+,1317,Xianning,,[object Object],XN,,XNN,0
+,1513,Xingningnan,,[object Object],XNN,,XNA,0
+,2004,Xingping,,[object Object],XP,,XPY,0
+,1219,Xiping,,[object Object],XP,,XPN,0
+,1806,Xinpingtian,,[object Object],XPT,,XPM,0
+,1504,Xipingxi,,[object Object],XPX,,EGQ,0
+,226,Xinqiu,,[object Object],XQ,,XQD,0
+,16,Xinqing,,[object Object],XQ,,XQB,0
+,2103,Xingquanbu,,[object Object],XQP,,XQJ,0
+,309,Xiaosigou,,[object Object],XSG,,ESP,0
+,1615,Xiashi,,[object Object],XS,,XIZ,0
+,1341,Xishui,,[object Object],XS,,XZN,0
+,23,Xingshu,,[object Object],XS,,XSB,0
+,403,Xiashe,,[object Object],XS,,XSV,0
+,326,Xushui,,[object Object],XS,,XSP,0
+,1341,Xishuinan,,[object Object],XSN,,VNN,0
+,220,Xingshutun,,[object Object],XST,,XDT,0
+,2106,Xusanwan,,[object Object],XSW,,XSJ,0
+,739,Xiangshuixian,,[object Object],XSX,,XSU,0
+,346,Xingtai,,[object Object],XT,,XTP,0
+,1410,Xiangtanbei,,[object Object],XTB,,EDQ,0
+,1379,Xiantaoxi,,[object Object],XTX,,XAN,0
+,309,Xiataizi,,[object Object],XTZ,,EIP,0
+,1943,Xiaowandong,,[object Object],XWD,,XNM,0
+,1510,Xuwen,,[object Object],XW,,XJQ,0
+,1714,Xingwennan,,[object Object],XWN,,XAE,0
+,508,Xinwopu,,[object Object],XWP,,EPD,0
+,1646,Xiwuqi,,[object Object],XWQ,,XWD,0
+,1205,Xiuwu,,[object Object],XW,,XWF,0
+,1205,Xiuwuxi,,[object Object],XWX,,EXF,0
+,1220,Xinxian,,[object Object],XX,,XSN,0
+,1220,Xixian,,[object Object],XX,,ENN,0
+,1410,Xiangxiang,,[object Object],XX,,XXQ,0
+,806,Xiaoxian,,[object Object],XX,,EOH,0
+,1508,Xinxingnan,,[object Object],XXN,,XPQ,0
+,1204,Xinxiangnan,,[object Object],XXN,,ENF,0
+,1508,Xinxingxian,,[object Object],XXX,,XGQ,0
+,9034,Xixiaozhao,,[object Object],XXZ,,XZC,0
+,326,Xiaoxizhuang,,[object Object],XXZ,,XXP,0
+,44,Xiangyang,,[object Object],XY,,XDB,0
+,2006,Xunyangbei,,[object Object],XYB,,XBY,0
+,2004,Xianyangbei,,[object Object],XYB,,EBY,0
+,414,Xiangyuandong,,[object Object],XYD,,EAF,0
+,1606,Xingye,,[object Object],XY,,SNZ,0
+,1806,Xiaoyugu,,[object Object],XYG,,XHM,0
+,701,Xinyi,,[object Object],XY,,VIH,0
+,1905,Xiaoyuejiu,,[object Object],XYJ,,XFM,0
+,1606,Xingyenan,,[object Object],XYN,,XKZ,0
+,701,Xinyinan,,[object Object],XYN,,XYU,0
+,1032,Xianyou,,[object Object],XY,,XWS,0
+,3,Xiaoyangqi,,[object Object],XYQ,,XYX,0
+,414,Xiangyuan,,[object Object],XY,,EIF,0
+,1212,Xiayixian,,[object Object],XYX,,EJH,0
+,20,Xinyouyi,,[object Object],XYY,,EYB,0
+,2101,Xinyangzhen,,[object Object],XYZ,,XZJ,0
+,9096,Xinzhangfang,,[object Object],XZF,,XZX,0
+,349,Xuanzhong,,[object Object],XZ,,XRP,0
+,1646,Xizhelimu,,[object Object],XZLM,,XRD,0
+,309,Xinzhangzi,,[object Object],XZZ,,ERP,0
+,1005,Yongan,,[object Object],YA,,YAS,0
+,26,Yonganxiang,,[object Object],YAX,,YNB,0
+,1601,Yonganzhen,,[object Object],YAZ,,YQZ,0
+,1711,Yanbian,,[object Object],YB,,YBE,0
+,1212,Yongchengbei,,[object Object],YCB,,RGH,0
+,1529,Yangchundong,,[object Object],YCD,,YBQ,0
+,1901,Yangcaodi,,[object Object],YCD,,YKM,0
+,601,Yuchengdong,,[object Object],YCD,,YSK,0
+,739,Yanchengdafeng,,[object Object],YCDF,,YFU,0
+,2016,Yanchuan,,[object Object],YC,,YYY,0
+,1330,Yicheng,,[object Object],YC,,YYN,0
+,2313,Yanchi,,[object Object],YC,,YKJ,0
+,1313,Yingcheng,,[object Object],YC,,YHN,0
+,621,Yuncheng,,[object Object],YC,,YPK,0
+,601,Yancheng,,[object Object],YC,,YEK,0
+,601,Yucheng,,[object Object],YC,,YCK,0
+,710,Yangchenghu,,[object Object],YCH,,AIH,0
+,415,Yangcheng,,[object Object],YC,,YNF,0
+,26,Yingchun,,[object Object],YC,,YYB,0
+,357,Yanchi,,[object Object],YC,,YAP,0
+,401,Yuncailing,,[object Object],YCL,,ACP,0
+,1304,Yichengnan,,[object Object],YCN,,YIN,0
+,1717,Yongchuannan,,[object Object],YCN,,YNE,0
+,1212,Yuchengxian,,[object Object],YCX,,IXH,0
+,220,Yingchengzi,,[object Object],YCZ,,YCT,0
+,1169,Yudubei,,[object Object],YDB,,YYG,0
+,2102,Yongdengbei,,[object Object],YDB,,ABJ,0
+,1503,Yingde,,[object Object],YD,,YDQ,0
+,1506,Yundonghai,,[object Object],YDH,,NAQ,0
+,1905,Yindi,,[object Object],YD,,YDM,0
+,1008,Yongding,,[object Object],YD,,YGS,0
+,1529,Yangdong,,[object Object],YD,,WLQ,0
+,2104,Yuandun,,[object Object],YD,,YAJ,0
+,1603,Yongfunan,,[object Object],YFN,,YBZ,0
+,1106,Yugan,,[object Object],YG,,YFG,0
+,401,Yanggao,,[object Object],YG,,YOV,0
+,26,Yanggang,,[object Object],YG,,YRB,0
+,1806,Yuge,,[object Object],YG,,VTM,0
+,401,Yanggaonan,,[object Object],YGN,,AGV,0
+,603,Yanggu,,[object Object],YG,,YIK,0
+,16,Youhao,,[object Object],YH,,YOB,0
+,357,Yanhecheng,,[object Object],YHC,,YHP,0
+,773,Yanghe,,[object Object],YH,,GTH,0
+,1503,Yanhu,,[object Object],YH,,YHA,0
+,1710,Yuehua,,[object Object],YH,,YQW,0
+,404,Yanhui,,[object Object],YH,,AEP,0
+,1529,Yangjiangbei,,[object Object],YJB,,YLQ,0
+,1905,Yangjiuhe,,[object Object],YJH,,YHM,0
+,1989,Yuanjiang,,[object Object],YJ,,AJM,0
+,819,Yeji,,[object Object],YJ,,YCH,0
+,1806,Yingjie,,[object Object],YJ,,YAM,0
+,1105,Yujiang,,[object Object],YJ,,YHG,0
+,9099,Yuejiajing,,[object Object],YJJ,,YGJ,0
+,357,Yunjusi,,[object Object],YJS,,AFP,0
+,2008,Yijun,,[object Object],YJ,,YRY,0
+,616,Yanjiazhuang,,[object Object],YJZ,,AZK,0
+,913,Yongkang,,[object Object],YK,,RFH,0
+,2408,Yinfkule,,[object Object],YKL,,YLR,0
+,37,Yinlang,,[object Object],YL,,YJX,0
+,1908,Yile,,[object Object],YL,,YPE,0
+,1211,Yunlianghe,,[object Object],YLH,,YEF,0
+,9,Yilaha,,[object Object],YLH,,YLX,0
+,2408,Yuli,,[object Object],YL,,WRR,0
+,1214,Yanling,,[object Object],YL,,YIF,0
+,44,Yilin,,[object Object],YL,,YLB,0
+,1720,Yilong,,[object Object],YL,,YCE,0
+,1806,Yueliangtian,,[object Object],YLT,,YUM,0
+,1207,Yima,,[object Object],YM,,YMF,0
+,403,Yangmingbu,,[object Object],YMB,,YVV,0
+,1313,Yunmeng,,[object Object],YM,,YMN,0
+,9096,Yimin,,[object Object],YM,,YMX,0
+,210,Yimianshan,,[object Object],YMS,,YST,0
+,622,Yinan,,[object Object],YN,,YNK,0
+,1906,Yunnanyi,,[object Object],YNY,,ANM,0
+,1504,Yinping,,[object Object],YP,,KPQ,0
+,2304,Yingpanshui,,[object Object],YPS,,YZJ,0
+,920,Yueqingdong,,[object Object],YQD,,OLH,0
+,9097,Yongqing,,[object Object],YQ,,YQL,0
+,1415,Yangqiao,,[object Object],YQ,,YQA,0
+,605,Yuanqian,,[object Object],YQ,,AQK,0
+,2419,Yuquanzhen,,[object Object],YQZ,,YFR,0
+,1905,Yongren,,[object Object],YR,,ARM,0
+,804,Yingshangbei,,[object Object],YSB,,YBU,0
+,1361,Yesanguan,,[object Object],YSG,,BNN,0
+,309,Yushugou,,[object Object],YSG,,YGP,0
+,2105,Yushi,,[object Object],YS,,YSJ,0
+,1603,Yangshuo,,[object Object],YS,,YCZ,0
+,2004,Yongshou,,[object Object],YS,,ASY,0
+,1512,Yunshan,,[object Object],YS,,KZQ,0
+,1806,Yushe,,[object Object],YS,,AUM,0
+,622,Yishui,,[object Object],YS,,YUK,0
+,804,Yingshang,,[object Object],YS,,YVH,0
+,1209,Yanshi,,[object Object],YS,,YSF,0
+,1205,Yueshan,,[object Object],YS,,YBF,0
+,309,Yangshuling,,[object Object],YSL,,YAD,0
+,1008,Yanshinan,,[object Object],YSN,,YMS,0
+,326,Yesanpo,,[object Object],YSP,,AIP,0
+,5409,Yushexi,,[object Object],YSX,,AXV,0
+,2004,Yongshouxi,,[object Object],YSX,,AUY,0
+,309,Yingshouyingzi,,[object Object],YSYZ,,YIP,0
+,1503,Yuantan,,[object Object],YT,,YTQ,0
+,2419,Yutian,,[object Object],YT,,YWR,0
+,304,Yutiannan,,[object Object],YTN,,YTI,0
+,112,Yitong,,[object Object],YT,,YTL,0
+,1403,Yatunpu,,[object Object],YTP,,YTZ,0
+,37,Yantongtun,,[object Object],YTT,,YUX,0
+,611,Yantaixi,,[object Object],YTX,,DCK,0
+,1901,Yangweishao,,[object Object],YWS,,YWM,0
+,815,Yixiandong,,[object Object],YXD,,YIU,0
+,1909,Yexianggu,,[object Object],YXG,,AGM,0
+,1529,Yangxi,,[object Object],YX,,WMQ,0
+,6913,Yunxian,,[object Object],YX,,AIM,0
+,690,Yangxin,,[object Object],YX,,YVK,0
+,402,Yingxian,,[object Object],YX,,YZV,0
+,1408,Youxian,,[object Object],YX,,YOG,0
+,1101,Yongxiu,,[object Object],YX,,ACG,0
+,1408,Youxiannan,,[object Object],YXN,,YXG,0
+,2007,Yangxianxi,,[object Object],YXX,,YXY,0
+,228,Yixianxi,,[object Object],YXX,,YSD,0
+,3114,Yunyang,,[object Object],YY,,YUE,0
+,1779,Youyang,,[object Object],YY,,AFW,0
+,1106,Yiyang,,[object Object],YY,,YIG,0
+,910,Yuyao,,[object Object],YY,,YYH,0
+,910,Yuyaobei,,[object Object],YYB,,CTH,0
+,349,Yangyi,,[object Object],YY,,ARP,0
+,1404,Yueyangnan,,[object Object],YYN,,RWQ,0
+,1005,Yangyuan,,[object Object],YY,,AYS,0
+,2101,Yuanyangzhen,,[object Object],YYZ,,YYJ,0
+,2007,Yanzibian,,[object Object],YZB,,YZY,0
+,1601,Yizhou,,[object Object],YZ,,YSZ,0
+,1503,Yinzhan,,[object Object],YZ,,YZA,0
+,736,Yizheng,,[object Object],YZ,,UZH,0
+,2008,Yaozhou,,[object Object],YZ,,YOY,0
+,1214,Yuzhou,,[object Object],YZ,,YZF,0
+,1711,Yizi,,[object Object],YZ,,YQM,0
+,2509,Yazhouwan,,[object Object],YZW,,YWA,0
+,1901,Yangzhewo,,[object Object],YZW,,AEM,0
+,2016,Zhenan,,[object Object],ZA,,ZEY,0
+,507,Zhian,,[object Object],ZA,,ZAD,0
+,401,Zhaobai,,[object Object],ZB,,ZBP,0
+,309,Zhangbaiwan,,[object Object],ZBW,,ZUP,0
+,2102,Zhongchuanjichangdong,,[object Object],ZCJCD,,ZRJ,0
+,2010,Zichang,,[object Object],ZC,,ZHY,0
+,411,Zhaocheng,,[object Object],ZC,,ZCV,0
+,1506,Zhangcha,,[object Object],ZC,,ZAA,0
+,1307,Zhicheng,,[object Object],ZC,,ZCN,0
+,620,Zoucheng,,[object Object],ZC,,ZIK,0
+,607,Zhucheng,,[object Object],ZC,,ZQK,0
+,2404,Zhundong,,[object Object],ZD,,ZER,0
+,15,Zhaodong,,[object Object],ZD,,ZDB,0
+,1901,Zhaofupu,,[object Object],ZFP,,ZFM,0
+,611,Zhifu,,[object Object],ZF,,GZK,0
+,517,Zhungeer,,[object Object],ZGE,,ZEC,0
+,226,Zhanggutai,,[object Object],ZGT,,ZGD,0
+,9,Zhaoguang,,[object Object],ZG,,ZGB,0
+,1002,Zhenghe,,[object Object],ZH,,ZES,0
+,7,Zhonghe,,[object Object],ZH,,ZHX,0
+,1848,Zhijinbei,,[object Object],ZJB,,ZJE,0
+,1307,Zhijiangbei,,[object Object],ZJB,,ZIN,0
+,2002,Zhongjiacun,,[object Object],ZJC,,ZJY,0
+,326,Zijingguan,,[object Object],ZJG,,ZYP,0
+,44,Zhujiagou,,[object Object],ZJG,,ZUB,0
+,228,Zhoujiatun,,[object Object],ZJT,,ZOD,0
+,2315,Zhujiawan,,[object Object],ZJW,,CWJ,0
+,1512,Zhongkai,,[object Object],ZK,,ZKA,0
+,9014,Zengkou,,[object Object],ZK,,ZKE,0
+,5409,Zhanglan,,[object Object],ZL,,ZLV,0
+,1979,Zhulin,,[object Object],ZL,,ZOM,0
+,403,Zaolin,,[object Object],ZL,,ZIV,0
+,1502,Zhuliao,,[object Object],ZL,,ZUA,0
+,507,Zhalute,,[object Object],ZLT,,ZLD,0
+,1504,Zhangmutoudong,,[object Object],ZMTD,,ZRQ,0
+,1504,Zhangmutou,,[object Object],ZMT,,ZOQ,0
+,2719,Zhanang,,[object Object],ZN,,ZNO,0
+,2304,Zhongningdong,,[object Object],ZND,,ZDJ,0
+,2304,Zhongning,,[object Object],ZN,,VNJ,0
+,1023,Zhouning,,[object Object],ZN,,ZNS,0
+,2304,Zhongningnan,,[object Object],ZNN,,ZNJ,0
+,690,Zouping,,[object Object],ZP,,ZLK,0
+,1216,Zhenping,,[object Object],ZP,,ZPF,0
+,1009,Zhangpu,,[object Object],ZP,,ZCS,0
+,2002,Zhangqiao,,[object Object],ZQ,,ZQY,0
+,339,Zaoqiang,,[object Object],ZQ,,ZVP,0
+,910,Zhuangqiao,,[object Object],ZQ,,ZQH,0
+,9098,Zhurihe,,[object Object],ZRH,,ZRC,0
+,1581,Zhongshanbei,,[object Object],ZSB,,ZGQ,0
+,1112,Zhangshudong,,[object Object],ZSD,,ZOG,0
+,6618,Zhongshan,,[object Object],ZS,,ZSZ,0
+,1410,Zhaoshan,,[object Object],ZS,,KWQ,0
+,6618,Zhongshanxi,,[object Object],ZSX,,ZAZ,0
+,1023,Zhitishan,,[object Object],ZTS,,ZIS,0
+,357,Zhuwo,,[object Object],ZW,,ZOP,0
+,15,Zhangweitun,,[object Object],ZWT,,ZWB,0
+,226,Zhangwu,,[object Object],ZW,,ZWD,0
+,1503,Zhouxin,,[object Object],ZX,,ZIA,0
+,2124,Zhangxian,,[object Object],ZX,,ZXJ,0
+,1143,Zixi,,[object Object],ZX,,ZXS,0
+,2006,Zongxi,,[object Object],ZX,,ZOY,0
+,102,Zhenxi,,[object Object],ZX,,ZVT,0
+,1305,Zhongxiang,,[object Object],ZX,,ZTN,0
+,357,Zhangxin,,[object Object],ZX,,ZIP,0
+,1375,Zhongxiangnan,,[object Object],ZXN,,VKN,0
+,9098,Zhengxiangbaiqi,,[object Object],ZXBQ,,ZXC,0
+,1955,Zhuyuan,,[object Object],ZY,,ZUM,0
+,611,Zhaoyuan,,[object Object],ZY,,VDK,0
+,628,Zaozhuangdong,,[object Object],ZZD,,ZNK,0
+,9011,Zhuozidong,,[object Object],ZZD,,ZDC,0
+,2015,Zizhou,,[object Object],ZZ,,ZZY,0
+,326,Zhuozhou,,[object Object],ZZ,,ZXP,0
+,1901,Zhongzhai,,[object Object],ZZ,,ZZM,0
+,136,Zhazi,,[object Object],ZZ,,ZAL,0
+,9011,Zhuozishan,,[object Object],ZZS,,ZZC,0
+,1014,Anxidong,,[object Object],AXD,,ANS,0
+,411,Anze,,[object Object],AZ,,AEV,0
+,1703,Anzhou,,[object Object],AZ,,AZE,0
+,205,Boguan,,[object Object],BG,,BGT,0
+,1512,Boluo,,[object Object],BL,,BOA,0
+,1717,Banan,,[object Object],BN,,BNE,0
+,136,Baishandong,,[object Object],BSD,,BDL,0
+,1969,Baoshan,,[object Object],BS,,BAM,0
+,2103,Beitan,,[object Object],BT,,BEJ,0
+,2103,Baiyinnan,,[object Object],BYN,,BVJ,0
+,9041,Chaka,,[object Object],CK,,CVO,0
+,603,Chiping,,[object Object],CP,,CHK,0
+,1014,Dehua,,[object Object],DH,,DKS,0
+,1802,Dushandong,,[object Object],DSD,,DDE,0
+,1005,Datianbei,,[object Object],DTB,,DTS,0
+,411,Fushan,,[object Object],FS,,FOV,0
+,904,Fuyangxi,,[object Object],FYX,,FUU,0
+,1703,Gaochuan,,[object Object],GC,,GCE,0
+,1808,Geju,,[object Object],GJ,,GEM,0
+,1717,Gulu,,[object Object],GL,,GOE,0
+,210,Huaboshan,,[object Object],HBS,,KBT,0
+,411,Hongtongbei,,[object Object],HDB,,HLV,0
+,1512,Huidong,,[object Object],HD,,KDA,0
+,9210,Huanglongjiuzhai,,[object Object],HLJZ,,HIE,0
+,9210,Huangshengguan,,[object Object],HSG,,HGE,0
+,9024,Huangshui,,[object Object],HS,,SZE,0
+,2515,Haitou,,[object Object],HT,,FTQ,0
+,1512,Huizhounan,,[object Object],HZN,,KNA,0
+,904,Hangzhouxi,,[object Object],HZX,,HVU,0
+,1717,Jiangbeijichang,,[object Object],JBJC,,JCE,0
+,706,Jurong,,[object Object],JR,,JRU,0
+,708,Jintan,,[object Object],JT,,JTU,0
+,2103,Jingyuanbei,,[object Object],JYB,,JOJ,0
+,136,Jiangyuandong,,[object Object],JYD,,JDL,0
+,709,Jiangyin,,[object Object],JY,,KYH,0
+,2005,Jiangzhang,,[object Object],JZ,,JZY,0
+,1802,Libo,,[object Object],LB,,UBE,0
+,1512,Luofushan,,[object Object],LFS,,LVA,0
+,1717,Luohuangdong,,[object Object],LHD,,LHE,0
+,9010,Linxian,,[object Object],LX,,LUV,0
+,1717,Longxing,,[object Object],LX,,LIE,0
+,9210,Maoxian,,[object Object],MX,,MXE,0
+,1005,Mingxi,,[object Object],MX,,MOS,0
+,1704,Mianzhunan,,[object Object],MZN,,MNE,0
+,1014,Nananbei,,[object Object],NAB,,NUS,0
+,3110,Nanchuanbei,,[object Object],NCB,,NUE,0
+,1717,Nanpeng,,[object Object],NP,,NAE,0
+,2007,Ningqiang,,[object Object],NQ,,NQY,0
+,1714,Nanxibei,,[object Object],NXB,,NOE,0
+,2103,Pingchuanxi,,[object Object],PCX,,PCJ,0
+,411,Puxian,,[object Object],PX,,PXV,0
+,2102,Qinwangchuan,,[object Object],QWC,,QWJ,0
+,1707,Sanchahu,,[object Object],SCH,,SCE,0
+,1704,Shifangxi,,[object Object],SFX,,SFE,0
+,3110,Shuijiangxi,,[object Object],SJX,,SVE,0
+,2016,Shangluobei,,[object Object],SLB,,SBY,0
+,9010,Shilouxian,,[object Object],SLX,,STV,0
+,9210,Songpan,,[object Object],SP,,SOE,0
+,1717,Shuitu,,[object Object],ST,,SUE,0
+,1704,Sanxingdui,,[object Object],SXD,,SDE,0
+,402,Shanyinnan,,[object Object],SYN,,OYV,0
+,1005,Sanyuanxi,,[object Object],SYX,,SRS,0
+,402,Shuozhoudong,,[object Object],SZD,,OZV,0
+,1707,Tianfujichang,,[object Object],TFJC,,TIE,0
+,1717,Tongjing,,[object Object],TJ,,TOE,0
+,904,Tongludong,,[object Object],TLD,,TBU,0
+,9089,Tiemenguan,,[object Object],TMG,,XAR,0
+,708,Wujin,,[object Object],WJ,,WJU,0
+,1712,Weiyuan,,[object Object],WY,,WYE,0
+,206,Xinbin,,[object Object],XB,,XBD,0
+,6930,Xianggelila,,[object Object],XGLL,,EUM,0
+,411,Xixian,,[object Object],XX,,EAV,0
+,415,Xiyangcun,,[object Object],XYC,,XQF,0
+,6930,Xiaozhongdian,,[object Object],XZD,,EDM,0
+,1714,Yibindong,,[object Object],YBD,,EDE,0
+,1714,Yibin,,[object Object],YB,,YKE,0
+,1946,Yangbi,,[object Object],YB,,AVM,0
+,1014,Yongchun,,[object Object],YC,,ACS,0
+,1717,Yinhua,,[object Object],YH,,YWE,0
+,1717,Yinglong,,[object Object],YL,,YVE,0
+,403,Yanmenguan,,[object Object],YMG,,RDV,0
+,1947,Yongpingxian,,[object Object],YPX,,APM,0
+,1713,Yantan,,[object Object],YT,,YTE,0
+,1710,Yuexi,,[object Object],YX,,YIE,0
+,402,Yingxianxi,,[object Object],YXX,,AAV,0
+,1502,Zengcheng,,[object Object],ZC,,ZCA,0
+,9210,Zhenjiangguan,,[object Object],ZJG,,ZEE,0
+,6702,Ziyangxi,,[object Object],ZYX,,ZIE,0
+,1712,Zizhongxi,,[object Object],ZZX,,ZZE,0
+,,"<?xml version=""1.0"" encoding=""UTF-8"" standalone=""no""?>
+<geonames>
+    <status message=""Please add a username to each call in order for geonames to be able to identify the calling application and count the credits usage."" value=""10""/>
+</geonames>
+",,[object Object],,,,0
