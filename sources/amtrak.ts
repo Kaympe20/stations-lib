@@ -1,6 +1,6 @@
 import type { Station } from "../types/station";
 
-export async function getUsStations() {
+export async function getAmtrakStations() {
     let data: apiResponse = await (await fetch(`https://services.arcgis.com/xOi1kZaI0eWDREZv/arcgis/rest/services/NTAD_Amtrak_Stations/FeatureServer/0/query?${new URLSearchParams({
             where: "1=1",
             outFields: "StaType,StnType,Name,Code,StationName,StationFacilityName,StationAliases,City",
@@ -29,8 +29,6 @@ export async function getUsStations() {
 
     return stations;
 }
-
-console.log(await getUsStations()) // testing
 
 interface apiResponse {
     features: Array<{
