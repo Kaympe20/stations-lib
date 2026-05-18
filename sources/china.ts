@@ -20,17 +20,28 @@ export async function getChinaStations(): Promise<Station[]> {
         }
     },).data as response[]
 
-    const stations: Station[] = formattedData.map((row) => ({
+   const stations: Station[] = await Promise.all(
+    formattedData.map(async (row) => ({
         stationID: row.Otherid,
-        stationName: row.englishName,
+
+        stationName: row.englishName
+            ? row.englishName.charAt(0).toUpperCase() + row.englishName.slice(1)
+            : await (await fetch("http://api.geonames.org/search?" + row.chineseStationName)).text(),
+
         translations: [{
             langCode: "zh",
             cityName: row.chineseCityName,
             stationName: row.chineseStationName,
         }],
-        stationCode: row.english3LetterCode,
+
+        altCodes: [row.chinese3LetterCode],
+
+        stationCode: row.englishName
+            ? row.english3LetterCode.toUpperCase()
+            : row.chinese3LetterCode,
+
         priority: 0,
-    }));
+    })));
 
     return stations;
 }
