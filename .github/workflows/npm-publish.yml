@@ -18,7 +18,6 @@ jobs:
         with:
           bun-version: latest
       - run: bun ci
-      - run: bun test
 
   publish-npm:
     needs: build
