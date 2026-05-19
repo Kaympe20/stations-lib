@@ -4,7 +4,7 @@ import type { Station } from "./types/station";
 
 let fuse: Fuse<Station>;
 
-export async function makeDB() {
+export async function makeDB(): Promise<Fuse<Station>> {
     fuse = new Fuse(
         await Bun.file("./stations.json").json(),
         {
@@ -21,11 +21,21 @@ export async function makeDB() {
             ignoreDiacritics: true,
         }
     )
+
+    return fuse;
 }
 
 export async function getStation(searchTerm: string, numResults: number = 1) {
     if (fuse === undefined) {
-        console.error("Error calling getStation(): fuse not defined")
+        console.log("Fuse not defined, creating a new one" )
+        return await makeDB().then(
+            () => {
+                if (numResults > 1) {
+                    fuse.options.findAllMatches = true
+                }
+                return fuse.search(searchTerm).slice(0, numResults)
+            }
+        )
     } else {
         if (numResults > 1) {
             fuse.options.findAllMatches = true
@@ -34,4 +44,4 @@ export async function getStation(searchTerm: string, numResults: number = 1) {
     }
 }
 
-console.log(await makeDB().then(() => getStation("Shanghai",5)))
+console.log(await getStation("Shanghai",5))
