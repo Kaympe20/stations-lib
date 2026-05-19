@@ -3,26 +3,39 @@ import { getChinaStations } from "./sources/china";
 import type { Station } from "./types/station";
 import papaparse = require('papaparse')
 
-let data: Station[] = Array.prototype.concat(...await Promise.all([
-    getAmtrakStations(),
-    getChinaStations(),
-]))
+export async function agregateData(): Promise<Station[]> {
+    let data: Station[] = Array.prototype.concat(...await Promise.all([
+        getAmtrakStations(),
+        getChinaStations(),
+    ]))
 
-Bun.write('./stations.json', JSON.stringify(data, null, 2))
-Bun.write('./stations.csv', papaparse.unparse({
-    fields: [
-        "city",
-        "stationID",
-        "stationName",
-        "aliases",
-        "translations",
-        "stationCode",
-        "longerStationCode",
-        "altCodes",
-        "priority",
-    ],
-    data: convertAllTranslationsToJSON(data),
-}))
+    return data;
+}
+
+export async function writeData() {
+    let data: Station[] = await agregateData();
+
+    try {
+        Bun.write('./stations.json', JSON.stringify(data, null, 2))
+        Bun.write('./stations.csv', papaparse.unparse({
+            fields: [
+                "city",
+                "stationID",
+                "stationName",
+                "aliases",
+                "translations",
+                "stationCode",
+                "longerStationCode",
+                "altCodes",
+                "priority",
+            ],
+            data: convertAllTranslationsToJSON(data),
+        }))
+    } catch (error) {
+        console.error(error)
+    }
+    
+}
 
 function convertAllTranslationsToJSON(dataToConvert: Station[]): object[] {
     let newStationsArray: object[] = [];
@@ -34,7 +47,6 @@ function convertAllTranslationsToJSON(dataToConvert: Station[]): object[] {
             newStation.translations = papaparse.unparse(station.translations, {
                 header: false,
             });
-            isFirst = false;
         }
 
         newStationsArray.push(newStation as object)
@@ -42,3 +54,5 @@ function convertAllTranslationsToJSON(dataToConvert: Station[]): object[] {
 
     return newStationsArray
 }
+
+writeData()
