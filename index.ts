@@ -1,12 +1,18 @@
-import Fuse, { FuseIndex } from "fuse.js";
+import Fuse, { FuseIndex, type FuseResult } from "fuse.js";
 import { agregateData, writeData } from "./assembleJSON";
 import type { Station } from "./types/station";
+const stationsDB: Station[] = require("./stations.json")
 
 let fuse: Fuse<Station>;
-
-export async function makeDB(): Promise<Fuse<Station>> {
+/**
+ * @param {boolean} [useLocalFile=true] A boolean indicating whether to use an online index or to use a local file
+ * @return {Promise<Fuse<Station>>}
+ */
+export async function makeDB(usePrebuiltIndex: boolean = true): Promise<Fuse<Station>> {
     fuse = new Fuse(
-        await Bun.file("./stations.json").json(),
+        usePrebuiltIndex
+            ? stationsDB
+            : await (await fetch("https://raw.githubusercontent.com/Kaympe20/stations-lib/refs/heads/main/stations.json")).json() as Station[],
         {
             keys:
             [
@@ -25,23 +31,23 @@ export async function makeDB(): Promise<Fuse<Station>> {
     return fuse;
 }
 
-export async function getStation(searchTerm: string, numResults: number = 1) {
+export async function getStation(searchTerm: string, numResults: number = 1): Promise<FuseResult<Station>[]> {
     if (fuse === undefined) {
         console.log("Fuse not defined, creating a new one" )
-        return await makeDB().then(
-            () => {
-                if (numResults > 1) {
-                    fuse.options.findAllMatches = true
-                }
-                return fuse.search(searchTerm).slice(0, numResults)
+        await makeDB()
+    }
+    if (numResults > 1) {
+        fuse.options.findAllMatches = true
+    }
+
+    
+
+    return fuse.search(searchTerm).slice(0, numResults).sort(
+        (a: FuseResult<Station>, b: FuseResult<Station>) => 
+            {
+                return a.item.priority - b.item.priority
             }
         )
-    } else {
-        if (numResults > 1) {
-            fuse.options.findAllMatches = true
-        }
-        return fuse.search(searchTerm).slice(0, numResults)
-    }
 }
 
 console.log(await getStation("Shanghai",5))
