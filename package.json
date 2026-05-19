@@ -2,7 +2,7 @@
   "name": "stations-lib",
   "module": "index.ts",
   "type": "module",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "devDependencies": {
     "@types/bun": "^1.3.14",
     "@types/papaparse": "^5.5.2"
