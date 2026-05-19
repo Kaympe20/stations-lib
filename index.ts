@@ -1,5 +1,6 @@
 import Fuse, { FuseIndex, type FuseResult } from "fuse.js";
-import { agregateData, writeData } from "./assembleJSON";
+import papaparse from "papaparse";
+
 import type { Station } from "./types/station";
 const stationsDB: Station[] = require("./stations.json")
 
@@ -12,7 +13,14 @@ export async function makeDB(usePrebuiltIndex: boolean = true): Promise<Fuse<Sta
     fuse = new Fuse(
         usePrebuiltIndex
             ? stationsDB
-            : await (await fetch("https://raw.githubusercontent.com/Kaympe20/stations-lib/refs/heads/main/stations.json")).json() as Station[],
+            : papaparse.parse(await ((await fetch("https://raw.githubusercontent.com/Kaympe20/stations-lib/refs/heads/main/stations.csv")).text()), {
+                dynamicTyping: {
+                    "stationID": true,
+                    "translations": true,
+                    "priority": true,
+                },
+                header: true,
+            }).data as Station[],
         {
             keys:
             [
