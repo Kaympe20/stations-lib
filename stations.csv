@@ -1,0 +1,4391 @@
+city,stationID,stationName,aliases,translations,stationCode,longerStationCode,altCodes,priority
+"Alma, MI",,Alma,,,AAM,,,0
+"Albany, NY",,Albany Intl Airport,,,ABA,,,0
+"Abbotsford-Colby, WI",,Colby,Colby,,ABB,,,0
+"Aberdeen, MD",,Aberdeen,,,ABE,,,0
+"Absecon, NJ",,Absecon,,,ABN,,,0
+"Albuquerque, NM",,Albuquerque,,,ABQ,,,0
+"Antioch-Pittsburg, CA",,Antioch,Pittsburg,,ACA,,,0
+"Atlantic City, NJ",,Atlantic City,,,ACB,,,0
+"Arcadia, MO",,Arcadia,,,ACD,,,0
+"Atlantic City, NJ",,Atlantic City,,,ACY,,,0
+"Ardmore, OK",,Ardmore,,,ADM,,,0
+"Augusta, ME",,Augusta,,,AGM,,,0
+"Ashland, OR",,Southern Oregon University,,,AHL,,,0
+"Atwater, CA",,Castle Air Museum,,,AIR,,,0
+"Ashland, KY",,Ashland,,,AKY,,,0
+"Alanson, MI",,Alanson,,,ALA,,,0
+"Albany-Rensselaer, NY",,Rensselaer,,,ALB,,,0
+"Alliance, OH",,Alliance,,,ALC,,,0
+"Alderson, WV",,Alderson,,,ALD,,,0
+"Albion, MI",,Albion,,,ALI,,,0
+"Alpena, MI",,Alpena,,,ALM,,,0
+"Alton, IL",,Alton,,,ALN,,,0
+"Alpine, TX",,Alpine,,,ALP,,,0
+"Altoona, PA",,Altoona,,,ALT,,,0
+"Alexandria, VA",,Alexandria,,,ALX,,,0
+"Albany, OR",,Albany,,,ALY,,,0
+"Amsterdam, NY",,Amsterdam,,,AMS,,,0
+"Anaheim, CA",,Anaheim,,,ANA,,,0
+"Almont, CO",,Almont,,,ANT,,,0
+"Appleton, WI",,Appleton,,,APP,,,0
+"Ann Arbor, MI",,Ann Arbor,,,ARB,,,0
+"Arcata, CA",,Transit Center,"Humboldt State University,McKinleyville",,ARC,,,0
+"Ardmore, PA",,Ardmore,,,ARD,,,0
+"Arkadelphia, AR",,Arkadelphia,,,ARK,,,0
+"Auburn, CA",,Auburn,,,ARN,,,0
+"Astoria, OR",,Astoria,,,ART,,,0
+"Ashland, VA",,Ashland,,,ASD,,,0
+"Aldershot, ON",,Aldershot,,,AST,,,0
+"Atascadero, CA",,Atascadero,,,ATA,,,0
+"Atlanta, GA",,Atlanta,Peachtree,,ATL,,,0
+"Anniston, AL",,Anniston,,,ATN,,,0
+"Atco, NJ",,Atco,,,ATO,,,0
+"Auburn, ME",,Auburn,Lewiston,,AUR,,,0
+"Austin, TX",,Austin,,,AUS,,,0
+"Allentown, PA",,Allentown,Lehigh University,,AWN,,,0
+"Baker City, OR",,Baker City,,,BAK,,,0
+"Baltimore, MD",,Penn Station,Penn Station,,BAL,,,0
+"Bangor, MI",,Bangor,,,BAM,,,0
+"Bangor, ME",,Bangor,,,BAN,,,0
+"Barstow, CA",,Harvey House Rail Depot,,,BAR,,,0
+"Bay Saint Louis, MS",,Bay St. Louis,,,BAS,,,0
+"Burbank, CA",,Downtown,,,BBK,,,0
+"Barstow, CA",,McDonald's restaurant,,,BBS,,,0
+"Boston, MA",,Back Bay Station,"Boston,Back Bay,westwood",,BBY,,,0
+"Buchanan, OR",,Buchanan,,,BCH,,,0
+"Burke Centre, VA",,Burke,,,BCV,,,0
+"Bay City, MI",,Bay City,,,BCY,,,0
+"Brandon, VT",,Brandon,,,BDN,,,0
+"Bradenton, FL",,Bradenton,Ellenton,,BDT,,,0
+"Bonduel, WI",,Bonduel,,,BDU,,,0
+"Bellingham, WA",,Bellingham,,,BEL,,,0
+"Benson, AZ",,Benson,,,BEN,,,0
+"Berlin, CT",,Berlin,,,BER,,,0
+"South Beloit, IL",,South Beloit,,,BET,,,0
+"Bakersfield, CA",,Bakersfield,,,BFD,,,0
+"Belfast, ME",,Belfast,,,BFT,,,0
+"Buffalo, NY",,Exchange Street Station,Exchange,,BFX,,,0
+"Big Rapids, MI",,Big Rapids,,,BGP,,,0
+"Birmingham, AL",,Birmingham,,,BHM,,,0
+"Brothers, OR",,Brothers,,,BHS,,,0
+"Berlin, NH",,Berlin,,,BIN,,,0
+"Big Run, PA",,Big Run,,,BIR,,,0
+"Biloxi, MS",,Biloxi,,,BIX,,,0
+"Brookings, OR",,Brookings,,,BKO,,,0
+"Banks, OR",,Banks,,,BKS,,,0
+"Berkeley, CA",,Berkeley,,,BKY,,,0
+"Bellows Falls, VT",,Bellows Falls,,,BLF,,,0
+"Blacksburg, VA",,Virginia Tech,Virginia Tech,,BLK,,,0
+"Blairsville, PA",,Blairsville,,,BLS,,,0
+"Burlington, VT",,Downtown Transit Center,,,BLT,,,0
+"Beaumont, TX",,Beaumont,,,BMT,,,0
+"Burlington, NC",,Burlington,,,BNC,,,0
+"Bend, OR",,Bend,,,BND,,,0
+"Branford, CT",,Branford,,,BNF,,,0
+"Bingen-White Salmon, WA",,Bingen,"White Salmon,Hood River,Dalles,The Dalles",,BNG,,,0
+"Bennington, VT",,Green Mountain Express Bus Term,,,BNI,,,0
+"Bloomington-Normal, IL",,Normal,,,BNL,,,0
+"Burns, OR",,Burns,,,BNS,,,0
+"Boston, MA",,North Station,North Station,,BON,,,0
+"Boston, MA",,South Station,South Station,,BOS,,,0
+"Brattleboro, VT",,Brattleboro,,,BRA,,,0
+"Baraboo, WI",,Baraboo,,,BRB,,,0
+"Brookhaven, MS",,Brookhaven,,,BRH,,,0
+"Brunswick, ME",,Brunswick,,,BRK,,,0
+"Burlington, IA",,Burlington,,,BRL,,,0
+"Browning, MT",,Browning,"glacier,east glacier",,BRO,,,0
+"Bridgeport, CT",,Bridgeport,,,BRP,,,0
+"Battle Creek, MI",,Battle Creek,,,BTL,,,0
+"Burlington, VT",,Union Station,,,BTN,,,0
+"Baton Rouge, LA",,Baton Rouge,,,BTR,,,0
+"South Burlington, VT",,Burlington International Airport,Burlington,,BTV,,,0
+"Buffalo, NY",,Depew Station,Depew,,BUF,,,0
+"Buellton, CA",,Buellton,,,BUL,,,0
+"Burbank, CA",,Hollywood Burbank Airport,Hollywood,,BUR,,,0
+"Buena Vista, CO",,Buena Vista,,,BUV,,,0
+"Beaver Marsh, OR",,Beaver Marsh,,,BVM,,,0
+"Beaverton, OR",,Beaverton,,,BVT,,,0
+"BWI Marshall Airport, MD",,Baltimore,"Baltimore,bwi airport",,BWI,,,0
+"Bryan, OH",,Bryan,,,BYN,,,0
+"Camden, SC",,Camden,,,CAM,,,0
+"Conway, NH",,Conway,,,CAY,,,0
+"Crested Butte, CO",,Crested Butte,,,CBC,,,0
+"Cannon Beach, OR",,Cannon Beach,,,CBO,,,0
+"Cleburne, TX",,Cleburne,,,CBR,,,0
+"Columbus, WI",,Columbus,,,CBS,,,0
+"Coos Bay, OR",,Coos Bay,,,CBY,,,0
+"Cabazon, CA",,Cabazon,,,CBZ,,,0
+"Cambridge, MD",,Cambridge,,,CDE,,,0
+"Carbondale, IL",,Carbondale,,,CDL,,,0
+"Camden-Rockport, ME",,Rockport,,,CDN,,,0
+"Cedar Springs, MI",,Cedar Springs,,,CDS,,,0
+"Centralia, IL",,Centralia,,,CEN,,,0
+"Clearfield, PA",,Clearfield,,,CFD,,,0
+"Colfax, WA",,Colfax,,,CFX,,,0
+"Coarsegold, CA",,Coarsegold,,,CGD,,,0
+"Cheboygan, MI",,Cheboygan,,,CHB,,,0
+"Chicago, IL",,Union Station,Union Station,,CHI,,,0
+"Charlevoix, MI",,Charlevoix,,,CHL,,,0
+"Champaign-Urbana, IL",,Champaign,Urbana,,CHM,,,0
+"Chiloquin, OR",,Chiloquin,"Kla-Mo-Ya Casino,Kla Mo Ya Casino,Klamoya Casino",,CHN,,,0
+"Chippewa Falls, WI",,Chippewa Falls,,,CHP,,,0
+"Charleston, SC",,North Charleston,,,CHS,,,0
+"Charleston, WV",,Charleston,,,CHW,,,0
+"Chico, CA",,Chico,,,CIC,,,0
+"Cincinnati, OH",,Union Terminal,Union Terminal,,CIN,,,0
+"Claremont, NH",,Claremont,,,CLA,,,0
+"Columbia, SC",,Columbia,,,CLB,,,0
+"Cadillac, MI",,Cadillac,,,CLC,,,0
+"Cleveland, OH",,Cleveland,,,CLE,,,0
+"Clifton Forge, VA",,Clifton Forge,,,CLF,,,0
+"Claremont, CA",,Claremont,,,CLM,,,0
+"Clinton, CT",,Clinton,,,CLN,,,0
+"Culpeper, VA",,Culpeper,,,CLP,,,0
+"Clare, MI",,Clare,,,CLR,,,0
+"Charlotte, NC",,Charlotte,,,CLT,,,0
+"Cloverdale, CA",,Cloverdale,,,CLV,,,0
+"Camarillo, CA",,Camarillo,,,CML,,,0
+"Chemult, OR",,Chemult,,,CMO,,,0
+"Col Allensworth State Park, CA",,Allensworth,"Allensworth,Colonel Allensworth,cnl",,CNL,,,0
+"Castleton, VT",,Castleton,,,CNV,,,0
+"Corcoran, CA",,Corcoran,,,COC,,,0
+"Connersville, IN",,Connersville,,,COI,,,0
+"Coatesville, PA",,Coatesville,,,COT,,,0
+"Connellsville, PA",,Connellsville,,,COV,,,0
+"Colfax, CA",,Colfax,,,COX,,,0
+"Cameron Park, CA",,Cameron Park,"Cambridge Road,Cambridge Rd.",,CPC,,,0
+"Carpinteria, CA",,Carpinteria,,,CPN,,,0
+"Crescent City, CA",,Crescent City,,,CRC,,,0
+"Crawfordsville, IN",,Crawfordsville,,,CRF,,,0
+"Cherry Hill, NJ",,Cherry Hill,,,CRH,,,0
+"Carmel, CA",,Carmel,,,CRM,,,0
+"Creston, IA",,Creston,,,CRN,,,0
+"Croton-Harmon, NY",,Croton-on-Hudson,,,CRT,,,0
+"Carlinville, IL",,Carlinville,,,CRV,,,0
+"Clemson, SC",,Clemson,,,CSN,,,0
+"Crescent, OR",,Crescent,,,CSO,,,0
+"Centralia, WA",,Centralia,,,CTL,,,0
+"Canton, NY",,Downtown,,,CTO,,,0
+"Canton, NY",,State University of New York,,,CTS,,,0
+"Cumberland, MD",,Allegany College of Maryland,,,CUA,,,0
+"Cumberland, MD",,Amtrak Station,,,CUM,,,0
+"Cut Bank, MT",,Cut Bank,,,CUT,,,0
+"Corvallis, OR",,Downtown Transit Center,,,CVI,,,0
+"Cave Junction, OR",,Cave Junction,,,CVJ,,,0
+"Corvallis, OR",,Oregon State University,,,CVO,,,0
+"Charlottesville, VA",,Charlottesville,,,CVS,,,0
+"Colchester, VT",,Colchester,,,CVT,,,0
+"Cornwells Heights, PA",,Cornwells Heights,,,CWH,,,0
+"Chatsworth, CA",,Chatsworth,,,CWT,,,0
+"Cary, NC",,Cary,,,CYN,,,0
+"Dallas, TX",,Greyhound Station,,,DAG,,,0
+"Dallas, TX",,Eddie Bernice Johnson Union Sta,Union Station,,DAL,,,0
+"Damariscotta, ME",,Damariscotta,,,DAM,,,0
+"Danville, VA",,Danville,,,DAN,,,0
+"Dayton-Trotwood, OH",,Trotwood,Trotwood,,DAT,,,0
+"Davis, CA",,Davis,,,DAV,,,0
+"Du Bois, PA",,Du Bois,,,DBI,,,0
+"Dublin-Pleasanton, CA",,Pleasanton,Pleasanton,,DBP,,,0
+"Discovery Bay, WA",,Discovery Bay,,,DBY,,,0
+"Dade City, FL",,Dade City,,,DDE,,,0
+"Dodge City, KS",,Dodge City,,,DDG,,,0
+"Deming, NM",,Deming,,,DEM,,,0
+"Denver, CO",,Union Station,Union Station,,DEN,,,0
+"Dearborn, MI",,Dearborn,,,DER,,,0
+"Detroit, MI",,Detroit,,,DET,,,0
+"Deerfield Beach, FL",,Deerfield Beach,,,DFB,,,0
+"Durham, NH",,University of New Hampshire,,,DHM,,,0
+"Dillon, SC",,Dillon,,,DIL,,,0
+"De Kalb Junction, NY",,De Kalb Junction,,,DKJ,,,0
+"Delray Beach, FL",,Delray Beach,,,DLB,,,0
+"DeLand, FL",,DeLand,,,DLD,,,0
+"Detroit Lakes, MN",,Detroit Lakes,,,DLK,,,0
+"Delmont, PA",,Delmont,,,DLT,,,0
+"Durham, NC",,Durham,,,DNC,,,0
+"Denmark, SC",,Denmark,,,DNK,,,0
+"Dowagiac, MI",,Dowagiac,,,DOA,,,0
+"Dover, NH",,Dover,,,DOV,,,0
+"Downingtown, PA",,Downingtown,,,DOW,,,0
+"Green Bay, WI",,De Pere Park and Ride,,,DPE,,,0
+"Du Quoin, IL",,Du Quoin,,,DQN,,,0
+"Durand, MI",,Durand,,,DRD,,,0
+"Del Rio, TX",,Del Rio,,,DRT,,,0
+"Drewsey, OR",,Drewsey,,,DRW,,,0
+"Duluth, MN",,Transportation Center,,,DUL,,,0
+"Dunsmuir, CA",,Dunsmuir,,,DUN,,,0
+"Duluth, MN",,University of Minnesota,,,DUU,,,0
+"Danville, IL",,Danville,,,DVI,,,0
+"Devils Lake, ND",,Devils Lake,,,DVL,,,0
+"Davenport, IA",,Davenport,,,DVP,,,0
+"Dwight, IL",,Dwight,,,DWT,,,0
+"Daytona Beach, FL",,Daytona Beach,,,DYA,,,0
+"Dyer, IN",,Dyer,,,DYE,,,0
+"Ebensburg, PA",,Ebensburg,,,EBN,,,0
+"Edmonds, WA",,Edmonds,,,EDM,,,0
+"Effingham, IL",,Effingham,,,EFG,,,0
+"Egg Harbor City, NJ",,Egg Harbor City,,,EGH,,,0
+"Eureka, CA",,Eureka,,,EKA,,,0
+"Elk Grove, CA",,Elk Grove,,,EKG,,,0
+"Elkhart, IN",,Elkhart,,,EKH,,,0
+"Elko, NV",,Elko,,,ELK,,,0
+"El Paso, TX",,Union Depot,Union Depot,,ELP,,,0
+"Elsie, OR",,Elsie,,,ELS,,,0
+"Elizabethtown, PA",,Elizabethtown,,,ELT,,,0
+"Elyria, OH",,Elyria,,,ELY,,,0
+"Escanaba, MI",,Escanaba,,,EMI,,,0
+"Emeryville, CA",,Emeryville,,,EMY,,,0
+"Ephrata, WA",,Ephrata,,,EPH,,,0
+"El Portal, CA",,El Portal,,,EPL,,,0
+"Erie, PA",,Erie,,,ERI,,,0
+"El Segundo, CA",,El Segundo,,,ESG,,,0
+"Essex, MT",,Essex,,,ESM,,,0
+"Easton, MD",,Easton,,,ESN,,,0
+"Essex Junction, VT",,Amtrak Station,Burlington,,ESX,,,0
+"Eugene-Springfield, OR",,Chase Bank,Springfield,,EUB,,,0
+"Eau Claire, WI",,University of Wisconsin,,,EUC,,,0
+"Eugene, OR",,Amtrak Station,,,EUG,,,0
+"Eugene, OR",,University of Oregon,,,EUO,,,0
+"Evans Mills, NY",,Evans Mills,,,EVM,,,0
+"Everett, WA",,Everett,,,EVR,,,0
+"Evanston, WY",,Evanston,,,EVY,,,0
+"Newark, NJ",,Liberty International Airport,"Liberty International,Liberty Airport,Liberty Intl",,EWR,,,0
+"Exeter, NH",,Exeter,,,EXR,,,0
+"Exton, PA",,Exton,,,EXT,,,0
+"Fargo, ND",,Fargo,,,FAR,,,0
+"Fayetteville, NC",,Fayetteville,,,FAY,,,0
+"Fredericksburg, VA",,Fredericksburg,,,FBG,,,0
+"Fort Collins, CO",,Fort Collins,"Ft Collins,Ft. Collins,Collins",,FCC,,,0
+"Fond du Lac, WI",,Fond du Lac,,,FDL,,,0
+"Fort Edward-Glens Falls, NY",,Fort Edward,"Ft Edward,Ft. Edward,Edward,Glens Falls, Glenns Falls,Hudson Falls",,FED,,,0
+"Fairfield-Vacaville, CA",,Fairfield,Vacaville,,FFV,,,0
+"Flagstaff, AZ",,Greyhound Station,,,FGG,,,0
+"Fort Hood, TX",,Fort Hood,"Ft Hood,Ft. Hood,Hood,Cavazos,Ft Cavazos,Ft. Cavazos",,FHD,,,0
+"Fillmore, CA",,Fillmore,,,FIL,,,0
+"Flagstaff, AZ",,Amtrak Station,,,FLG,,,0
+"Flint, MI",,Flint,,,FLN,,,0
+"Florence, SC",,Florence,,,FLO,,,0
+"Fort Madison, IA",,Historic Santa Fe Station,"Ft Madison,Ft. Madison,Madison",,FMD,,,0
+"Fort Morgan, CO",,Fort Morgan,"Ft Morgan,Ft. Morgan,Morgan",,FMG,,,0
+"Fremont, CA",,Amtrak/ACE Station,,,FMT,,,0
+"Fresno, CA",,Fresno,,,FNO,,,0
+"Framingham, MA",,Framingham,,,FRA,,,0
+"Frederick, MD",,Transit Center/MARC Station,,,FRC,,,0
+"Freeport, ME",,Freeport,,,FRE,,,0
+"Fairplay, CO",,Fairplay,,,FRP,,,0
+"Frederick, MD",,Frederick Municipal Airport,,,FRR,,,0
+"Fremont, CA",,VTA Transit Bus Stop,,,FRT,,,0
+"Frostburg, MD",,Frostburg State University,,,FSB,,,0
+"Fish Camp, CA",,Fish Camp,,,FSH,,,0
+"Florence, OR",,Carl G. Washburne State Park,"Washburne State Park,Carl Washburne State Park",,FSP,,,0
+"Fortuna, CA",,Fortuna,,,FTA,,,0
+"Ticonderoga, NY",,Ticonderoga,,,FTC,,,0
+"Fort Lauderdale, FL",,Fort Lauderdale,"Ft Lauderdale,Ft. Lauderdale,Lauderdale",,FTL,,,0
+"North Fort Myers, FL",,Fort Myers,"Ft Myers,Ft. Myers,Myers",,FTM,,,0
+"Fulton, KY",,Fulton,,,FTN,,,0
+"Fort Worth, TX",,Central Station,"Ft Worth,Ft. Worth,Worth",,FTW,,,0
+"Fullerton, CA",,Fullerton,,,FUL,,,0
+"Santa Clara, CA",,Great America,,,GAC,,,0
+"Gastonia, NC",,Gastonia,,,GAS,,,0
+"Galesburg, IL",,Galesburg,,,GBB,,,0
+"Goldsboro, NC",,Goldsboro,,,GBO,,,0
+"Garberville, CA",,Garberville,,,GBV,,,0
+"Green Bay, WI",,Transportation Center,,,GBY,,,0
+"Grand Canyon Village, AZ",,Maswik Lodge,,,GCB,,,0
+"Garden City, KS",,Garden City,,,GCK,,,0
+"Glendale, CA",,Glendale,,,GDL,,,0
+"Spokane, WA",,Spokane Airport,,,GEG,,,0
+"Greenfield, MA",,Greenfield,,,GFD,,,0
+"Grand Forks, ND",,Grand Forks,,,GFK,,,0
+"Glens Falls, NY",,Glens Falls,"Glenns Falls,Hudson Falls",,GFS,,,0
+"Glasgow, MT",,Glasgow,,,GGW,,,0
+"Gearhart - Northbound, OR",,Dollar General Store,,,GHN,,,0
+"Gearhart - Southbound, OR",,Gearhart Bowl & Fultano's Pizza,,,GHT,,,0
+"Gilchrist, OR",,Gilchrist,,,GIL,,,0
+"Grand Junction, CO",,Grand Junction,,,GJT,,,0
+"Gainesville, TX",,Gainesville,,,GLE,,,0
+"Gilman, IL",,Gilman,,,GLM,,,0
+"Glenview, IL",,Glenview,,,GLN,,,0
+"Gallup, NM",,Gallup,,,GLP,,,0
+"Gilroy, CA",,Gilroy,,,GLY,,,0
+"Grimsby, ON",,Grimsby,,,GMS,,,0
+"Greensburg, PA",,Amtrak Station,,,GNB,,,0
+"Gainesville, FL",,Gainesville,,,GNF,,,0
+"Greensburg, PA",,Westmoreland Transit Center,,,GNG,,,0
+"Gainesville, GA",,Gainesville,,,GNS,,,0
+"Florence, OR",,Grocery Outlet Florence,,,GOF,,,0
+"Government Camp, OR",,Government Camp,,,GOV,,,0
+"East Glacier Park, MT",,East Glacier Park,"glacier,browning",,GPK,,,0
+"Granby, CO",,Granby,,,GRA,,,0
+"Grand Ronde, OR",,Community Center,,,GRC,,,0
+"Gresham, OR",,Gresham,,,GRH,,,0
+"Green River, UT",,Green River,,,GRI,,,0
+"Grand Ronde, OR",,Spirit Mountain Casino,Spirit Mountain Casino,,GRM,,,0
+"Greenville, NC",,Greenville,"East Carolina University,Shaw University,Kinston",,GRN,,,0
+"Greensboro, NC",,Greensboro,,,GRO,,,0
+"Grand Rapids, MI",,Grand Rapids,,,GRR,,,0
+"Greenville, SC",,Greenville,,,GRV,,,0
+"Gary, IN",,Gary,,,GRY,,,0
+"Glenwood Springs, CO",,Glenwood Springs,,,GSC,,,0
+"Gasquet, CA",,Gasquet,,,GSQ,,,0
+"Goleta, CA",,Goleta,,,GTA,,,0
+"Grants Pass, OR",,Grants Pass,,,GTP,,,0
+"Grantsville, MD",,Grantsville,,,GTV,,,0
+"Guadalupe, CA",,Guadalupe,santa maria,,GUA,,,0
+"Gulfport, MS",,Gulfport,,,GUF,,,0
+"Guilford, CT",,Guilford,,,GUI,,,0
+"Gunnison, CO",,Gunnison,,,GUN,,,0
+"Grover Beach, CA",,Grover Beach,,,GVB,,,0
+"Gouverneur, NY",,Gouverneur,,,GVR,,,0
+"Greenwood, MS",,Greenwood,,,GWD,,,0
+"Grayling, MI",,Grayling,,,GYG,,,0
+"Gaylord, MI",,Gaylord,,,GYL,,,0
+"Hagerstown, MD",,Hagerstown,,,HAG,,,0
+"Hamlet, NC",,Hamlet,,,HAM,,,0
+"Harrisburg, PA",,Harrisburg,,,HAR,,,0
+"Hastings, NE",,Hastings,,,HAS,,,0
+"Havre, MT",,Havre,,,HAV,,,0
+"Hayward, CA",,Hayward,,,HAY,,,0
+"Hazlehurst, MS",,Hazlehurst,,,HAZ,,,0
+"Hattiesburg, MS",,Hattiesburg,,,HBG,,,0
+"Healdsburg, CA",,Healdsburg,,,HEA,,,0
+"Hermann, MO",,Hermann,,,HEM,,,0
+"Helper, UT",,Helper,,,HER,,,0
+"Hartford, CT",,Hartford,,,HFD,,,0
+"Harpers Ferry, WV",,Harpers Ferry,,,HFY,,,0
+"Huntingdon, PA",,Huntingdon,,,HGD,,,0
+"Houghton, MI",,Michigan Tech University,,,HGH,,,0
+"Houghton Lake, MI",,Houghton Lake,,,HGL,,,0
+"Hogansburg, NY",,Hogansburg,,,HGS,,,0
+"Haverhill, MA",,Haverhill,,,HHL,,,0
+"Hinton, WV",,Hinton,,,HIN,,,0
+"Hiouchi, CA",,Crescent City,Crescent City,,HIO,,,0
+"Hancock, MI",,Hancock,,,HKM,,,0
+"Hillsboro, OR",,Hillsboro,,,HLB,,,0
+"Holdrege, NE",,Holdrege,,,HLD,,,0
+"Holyoke, MA",,Holyoke,,,HLK,,,0
+"Hammond, LA",,Hammond,,,HMD,,,0
+"Hammond-Whiting, IN",,Hammond,Whiting,,HMI,,,0
+"Homewood, IL",,Homewood,,,HMW,,,0
+"Hanford, CA",,Hanford,,,HNF,,,0
+"Hancock, MD",,Hancock,,,HNK,,,0
+"Houston, TX",,Greyhound Terminal,,,HOG,,,0
+"Hollywood, FL",,Hollywood,,,HOL,,,0
+"Holland, MI",,Holland,,,HOM,,,0
+"Hood River, OR",,Hood River,"Bingen-White Salmon,White Salmon",,HOO,,,0
+"Hope, AR",,Hope,,,HOP,,,0
+"Houston, TX",,Amtrak Station,,,HOS,,,0
+"High Point, NC",,High Point,,,HPT,,,0
+"Harper, OR",,Harper,,,HRP,,,0
+"Arcata, CA",,Cal Poly Humboldt,Humboldt State University,,HSU,,,0
+"Hammonton, NJ",,Hammonton,,,HTN,,,0
+"Hudson, NY",,Hudson,,,HUD,,,0
+"Huntington, WV",,Huntington,,,HUN,,,0
+"Hutchinson, KS",,Hutchinson,,,HUT,,,0
+"Havelock, NC",,Havelock,,,HVL,,,0
+"Howard City, MI",,Howard City,,,HWC,,,0
+"Indio, CA",,Indio,,,IDO,,,0
+"Independence, MO",,Independence,,,IDP,,,0
+"Indiana, PA",,Indiana University of Penn,,,INA,,,0
+"Indianapolis, IN",,Indianapolis,,,IND,,,0
+"Irvine, CA",,Irvine,,,IRV,,,0
+"Jackson, MS",,Jackson,,,JAN,,,0
+"Jacksonville, FL",,Jacksonville,,,JAX,,,0
+"Jefferson City, MO",,Jefferson City,,,JEF,,,0
+"Jacksonville, NC",,Jacksonville,Swansboro,,JNC,,,0
+"June Lake, CA",,June Lake,,,JNL,,,0
+"Johnson Creek, WI",,Johnson Creek,,,JOC,,,0
+"Joliet, IL",,Joliet,,,JOL,,,0
+"Jesup, GA",,Jesup,,,JSP,,,0
+"Johnstown, PA",,Johnstown,,,JST,,,0
+"Juntura, OR",,Juntura,,,JTR,,,0
+"Janesville, WI",,Janesville,,,JVL,,,0
+"Jackson, MI",,Jackson,,,JXN,,,0
+"Kalamazoo, MI",,Kalamazoo,,,KAL,,,0
+"Kannapolis, NC",,Kannapolis,,,KAN,,,0
+"Kansas City, MO",,Union Station,Union Station,,KCY,,,0
+"Kewanee, IL",,Kewanee,,,KEE,,,0
+"Kelso-Longview, WA",,Kelso,Longview,,KEL,,,0
+"Klamath Falls, OR",,Klamath Falls,,,KFS,,,0
+"King City, CA",,King City,,,KGC,,,0
+"Kingston - Eastbound, WA",,Washington State Ferry dock,,,KGE,,,0
+"Kingsley, MI",,Kingsley,,,KGS,,,0
+"Kingston - Westbound, WA",,Henery Hardware,,,KGW,,,0
+"Killeen, TX",,Killeen,,,KIL,,,0
+"Kingston, RI",,West Kingston,,,KIN,,,0
+"Kissimmee, FL",,Kissimmee,,,KIS,,,0
+"Kankakee, IL",,Kankakee,,,KKI,,,0
+"Killington, VT",,Killington,,,KLT,,,0
+"Kinston, NC",,Kinston,,,KNC,,,0
+"Kingman, AZ",,Kingman,,,KNG,,,0
+"Kinross Charter Twp, MI",,Kinross Charter Twp,,,KNS,,,0
+"Kent Island-Grasonville, MD",,Grasonville,Grasonville,,KNT,,,0
+"Kingstree, SC",,Kingstree,,,KTR,,,0
+"Keene Valley, NY",,Keene Valley,,,KVL,,,0
+"Kirkwood, MO",,Kirkwood,,,KWD,,,0
+"Latrobe, PA",,Amtrak Station,,,LAB,,,0
+"La Grande, OR",,La Grande,,,LAE,,,0
+"Lafayette, IN",,Amtrak Station,,,LAF,,,0
+"La Grange, IL",,La Grange,,,LAG,,,0
+"La Junta, CO",,La Junta,,,LAJ,,,0
+"Lakeland, FL",,To/from points north,,,LAK,,,0
+"L'Anse, MI",,L'Anse,Lanse,,LAN,,,0
+"La Plata, MO",,La Plata,,,LAP,,,0
+"Las Vegas, NV",,McCarran International Airport,"McCarran International,McCarran Intl,McCarran Airport",,LAS,,,0
+"Lafayette, IN",,CityBus Center,,,LAT,,,0
+"Laurel, MS",,Laurel,,,LAU,,,0
+"Los Angeles, CA",,Union Station,Union Station,,LAX,,,0
+"Los Banos, CA",,Los Banos,,,LBO,,,0
+"La Crescenta, CA",,La Crescenta,,,LCA,,,0
+"Lake Charles, LA",,Lake Charles,,,LCH,,,0
+"Lincoln, IL",,Lincoln,,,LCN,,,0
+"Lincoln City, OR",,Lincoln City,,,LCO,,,0
+"Las Cruces, NM",,Las Cruces,,,LCR,,,0
+"Lancaster, CA",,Lancaster,,,LCS,,,0
+"Lincolnville, ME",,Lincolnville,,,LCV,,,0
+"Lordsburg, NM",,Lordsburg,,,LDB,,,0
+"Lindenwold, NJ",,Somerdale,,,LDW,,,0
+"Lee's Summit, MO",,Lee's Summit,,,LEE,,,0
+"Leggett, CA",,Leggett,,,LEG,,,0
+"Leavenworth, WA",,Wilkommen Park and Ride,,,LEV,,,0
+"Lewistown, PA",,Amtrak Station,,,LEW,,,0
+"Lexington Barbeque Festival, NC",,Lexington,,,LEX,,,0
+"Lafayette, LA",,Lafayette,,,LFT,,,0
+"Longueuil, QC",,Longueuil,,,LGU,,,0
+"Libby, MT",,Libby,,,LIB,,,0
+"Livermore, CA",,Livermore Transit Center,,,LIV,,,0
+"Lakeland, FL",,To/from points south,,,LKL,,,0
+"Lemoore, CA",,Lemoore,,,LMC,,,0
+"Lamar, CO",,Lamar,,,LMR,,,0
+"Lamy, NM",,Lamy,,,LMY,,,0
+"Lancaster, PA",,Lancaster,,,LNC,,,0
+"Lincoln, NE",,Lincoln,,,LNK,,,0
+"East Lansing, MI",,East Lansing,Lansing,,LNS,,,0
+"Laughlin, NV",,Laughlin,,,LNV,,,0
+"London, ON",,London,,,LOB,,,0
+"Lodi, CA",,Lodi,,,LOD,,,0
+"Los Alamos, NM",,White Rock Area,,,LOH,,,0
+"Lompoc, CA",,Lompoc,,,LOM,,,0
+"Lorton, VA",,Auto Train Station,Washington,,LOR,,,0
+"Los Alamos, NM",,Central Area,,,LOS,,,0
+"Lapeer, MI",,Lapeer,,,LPE,,,0
+"La Pine, OR",,La Pine,LaPine,,LPN,,,0
+"Lompoc-Surf, CA",,Surf,Surf,,LPS,,,0
+"La Quinta, CA",,La Quinta,,,LQT,,,0
+"Lawrence, KS",,Lawrence,,,LRC,,,0
+"Little Rock, AR",,Union Station,Union Station,,LRK,,,0
+"Laramie, WY",,Laramie,,,LRY,,,0
+"Lewisburg, PA",,Lewisburg,Bucknell University,,LSB,,,0
+"La Crosse, WI",,Amtrak Station,,,LSE,,,0
+"Las Vegas, NM",,Las Vegas,,,LSV,,,0
+"La Crosse, WI",,University of Wisconsin,,,LSW,,,0
+"Latrobe, PA",,Arnold Palmer Regional Airport,,,LTB,,,0
+"Lathrop-Manteca, CA",,Manteca,Manteca,,LTM,,,0
+"Littlerock, CA",,Littlerock,,,LTR,,,0
+"Laytonville, CA",,Laytonville,,,LTV,,,0
+"Louisville, KY",,Louisville,,,LVL,,,0
+"Lee Vining, CA",,Lee Vining,,,LVN,,,0
+"Liverpool, PA",,Park & Ride Lot,,,LVP,,,0
+"Liverpool, PA",,Lowes restaurant,,,LVR,,,0
+"Las Vegas, NV",,Las Vegas,,,LVS,,,0
+"Las Vegas, NV",,South Strip Transfer Terminal,,,LVT,,,0
+"Longview, TX",,Longview,,,LVW,,,0
+"Leavenworth, WA",,Icicle Station,,,LWA,,,0
+"Lewistown, PA",,Laskaris restaurant,,,LWB,,,0
+"Lewiston, ID",,Lewiston,,,LWN,,,0
+"Lynchburg, VA",,Lynchburg,,,LYH,,,0
+"Macomb, IL",,Thomas C. Carper Station,,,MAC,,,0
+"Madras, OR",,Madras,,,MAD,,,0
+"Marion, IL",,Marion,,,MAI,,,0
+"Mackinaw City, MI",,Mackinaw City,,,MAK,,,0
+"Malta, MT",,Malta,,,MAL,,,0
+"Mattoon, IL",,Mattoon,,,MAT,,,0
+"Maysville, KY",,Maysville,,,MAY,,,0
+"Middlebury, VT",,Amtrak Station,,,MBY,,,0
+"McComb, MS",,McComb,,,MCB,,,0
+"Merced, CA",,Merced,,,MCD,,,0
+"McGregor, TX",,McGregor,,,MCG,,,0
+"McCook, NE",,McCook,,,MCK,,,0
+"Montreal, QC",,Gare d'autocars / Bus Terminal,,,MCT,,,0
+"Manchester Center, VT",,Tour Bus Parking Area,,,MCV,,,0
+"Meriden, CT",,Meriden,,,MDN,,,0
+"Midpines, CA",,Midpines,,,MDP,,,0
+"Madera, CA",,Madera,,,MDR,,,0
+"Madison, CT",,Madison,,,MDS,,,0
+"Mendota, IL",,Mendota,,,MDT,,,0
+"Madisonville, KY",,Madisonville,,,MDV,,,0
+"Monroe - Eastbound, WA",,Grocery Outlet,,,MEE,,,0
+"Meridian, MS",,Union Station,Union Station,,MEI,,,0
+"Memphis, TN",,Central Station,,,MEM,,,0
+"Metropark, NJ",,Iselin,iselin,,MET,,,0
+"Monroe - Westbound, WA",,Shell gas station,,,MEW,,,0
+"Medford, OR",,Rogue Valley Int'l Airport,,,MFA,,,0
+"Medford, OR",,Front Street Station,,,MFR,,,0
+"Morgan Hill, CA",,Morgan Hill,,,MHC,,,0
+"Morehead City, NC",,Morehead City,,,MHD,,,0
+"Marshall, TX",,Marshall,,,MHL,,,0
+"Manchester, NH",,Manchester,,,MHT,,,0
+"Miami, FL",,Miami,,,MIA,,,0
+"Middletown, PA",,Middletown,,,MID,,,0
+"Mifflintown, PA",,Mifflintown,,,MIF,,,0
+"Mineola, TX",,Mineola,,,MIN,,,0
+"Middlebury, VT",,Middlebury College,,,MIY,,,0
+"Mount Joy, PA",,Mount Joy,,,MJY,,,0
+"Milwaukee Airport-Trains, WI",,General Mitchell Int'l Airport,"General Mitchell,Mitchell",,MKA,,,0
+"Milwaukee Airport-Buses, WI",,General Mitchell Int'l Airport,,,MKB,,,0
+"Milwaukee-Downtown, WI",,Intermodal Station,,,MKE,,,0
+"Marks, MS",,Marks,,,MKS,,,0
+"Moline, IL",,Moline,,,MLI,,,0
+"Moses Lake, WA",,Moses Lake,,,MLK,,,0
+"Mammoth Lakes, CA",,Mammoth Lakes,,,MMK,,,0
+"Montgomery, WV",,Montgomery,,,MNG,,,0
+"Menomonie, WI",,University of Wisconsin Stout,,,MNM,,,0
+"Monroeville, PA",,Monroeville,,,MNR,,,0
+"Massena, NY",,Massena,,,MNY,,,0
+"Moscow, ID",,Moscow,,,MOC,,,0
+"Modesto, CA",,Modesto,,,MOD,,,0
+"Mobile, AL",,Mobile,,,MOE,,,0
+"Monarch Mountain, CO",,Salida,Salida,,MOH,,,0
+"Mojave, CA",,Mojave,,,MOJ,,,0
+"Morley, MI",,Morley,,,MOR,,,0
+"Minot, ND",,Minot,,,MOT,,,0
+"Moreno Valley, CA",,Riverside,,,MOV,,,0
+"Moorpark, CA",,Moorpark,,,MPK,,,0
+"Mapleton, OR",,Mapleton,,,MPL,,,0
+"Montpelier-Berlin, VT",,Montpelier,Berlin,,MPR,,,0
+"Mt. Pleasant, MI",,Central Michigan University,,,MPT,,,0
+"Marquette, MI",,Marquette,,,MQT,,,0
+"Martinsburg, WV",,Martinsburg,,,MRB,,,0
+"Maricopa, AZ",,Maricopa,Phoenix,,MRC,,,0
+"Mariposa, CA",,Midtown YARTS bus stop,,,MRM,,,0
+"Mariposa, CA",,Mariposa Park and Ride,,,MRP,,,0
+"Marysville, CA",,Marysville,,,MRV,,,0
+"Monterey, CA",,Transit Plaza,,,MRY,,,0
+"St. Paul-Minneapolis, MN",,Minneapolis-St Paul Intl Airport,"St Paul,Saint Paul,Minneapolis",,MSL,,,0
+"Madison, WI",,Univ of Wisc - Gordon Center,,,MSN,,,0
+"St. Paul-Minneapolis, MN",,Union Depot,"Minneapolis,St Paul,Saint Paul,Union Depot",,MSP,,,0
+"Manassas, VA",,Manassas,,,MSS,,,0
+"Manitowoc, WI",,Manitowoc,,,MTC,,,0
+"Manton, MI",,Manton,,,MTO,,,0
+"Mount Pleasant, IA",,Mount Pleasant,,,MTP,,,0
+"Montreal, QC",,Gare Centrale / Central Station,"Central,Centrale,Gare,Quebec",,MTR,,,0
+"Martinez, CA",,Martinez,,,MTZ,,,0
+"Malvern, AR",,Malvern,,,MVN,,,0
+"Mount Vernon, WA",,Mount Vernon,,,MVW,,,0
+"Marinette, WI",,Marinette,,,MWI,,,0
+"Monterey, CA",,Monterey Bay Aquarium,,,MYA,,,0
+"Monterey, CA",,Hyatt Regency Hotel,,,MYH,,,0
+"Monterey, CA",,Calle Principal Parking Garage,,,MYM,,,0
+"Mystic, CT",,Mystic,,,MYS,,,0
+"Monterey, CA",,Chevron gas station,,,MYT,,,0
+"Seaside-Marina, CA",,CSU-Monterey Bay,,,MYU,,,0
+"Nampa, ID",,Nampa,,,NAM,,,0
+"Napa, CA",,Napa,,,NAP,,,0
+"New Brunswick, NJ",,New Brunswick,,,NBK,,,0
+"Newbern-Dyersburg, TN",,Newbern,Dyersburg,,NBN,,,0
+"New Bern, NC",,New Bern,"Havelock,Morehead City",,NBR,,,0
+"New Buffalo, MI",,New Buffalo,,,NBU,,,0
+"Nacogdoches, TX",,Nacogdoches,,,NCG,,,0
+"New Carrollton, MD",,New Carrollton,,,NCR,,,0
+"North Conway, NH",,North Conway,,,NCW,,,0
+"Needles, CA",,Needles,,,NDL,,,0
+"Newton, KS",,Newton,,,NEW,,,0
+"New Buffalo, PA",,New Buffalo,,,NFF,,,0
+"Norfolk, VA",,Norfolk,,,NFK,,,0
+"Niagara Falls, NY",,Niagara Falls,,,NFL,,,0
+"Niagara Falls, ON",,Niagara Falls,,,NFS,,,0
+"Santa Clarita-Newhall, CA",,Santa Clarita,Newhall,,NHL,,,0
+"Northampton, MA",,Northampton,,,NHT,,,0
+"New Haven, CT",,Union Station,Union Station,,NHV,,,0
+"New Iberia, LA",,New Iberia,,,NIB,,,0
+"New London, CT",,Union Station,Union Station,,NLC,,,0
+"Niles, MI",,Niles,,,NLS,,,0
+"New Orleans, LA",,Union Passenger Terminal,Union Passenger Depot,,NOL,,,0
+"Norman, OK",,Norman,,,NOR,,,0
+"North Plains, OR",,North Plains,,,NPL,,,0
+"Newport News, VA",,Newport News,,,NPN,,,0
+"Newport, OR",,Newport,,,NPO,,,0
+"Naperville, IL",,Naperville,,,NPV,,,0
+"Northridge, CA",,Los Angeles,,,NRG,,,0
+"Newark, DE",,Thomas R. Carper Station,,,NRK,,,0
+"New Rochelle, NY",,New Rochelle,,,NRO,,,0
+"North Carolina State Fair, NC",,Raleigh,"raleigh,fair,state fair,nc state fair",,NSF,,,0
+"Nashua, NH",,Nashua,,,NSH,,,0
+"Nashville, TN",,Nashville,,,NVL,,,0
+"Newark, NJ",,Penn Station,Penn Station,,NWK,,,0
+"Newport, RI",,Newport,,,NWP,,,0
+"New York State Fair, NY",,Syracuse,,,NYF,,,0
+"New York, NY",,Moynihan Train Hall at Penn Sta.,"nyc,Penn Station,Moynihan Train Hall,new york city,newyork",,NYP,,,0
+"Oakland, CA",,Coliseum/Airport Station,,,OAC,,,0
+"Oakhurst, CA",,Oakhurst,,,OAH,,,0
+"O'Brien, CA",,O'Brien,"OBrien,O'Brian,OBrian",,OBR,,,0
+"Ocala, FL",,Ocala,,,OCA,,,0
+"Ocean City, MD",,Ocean City,,,OCM,,,0
+"Oconto, WI",,Oconto,,,OCO,,,0
+"Ocean Pines-Berlin, MD",,Berlin,,,OCP,,,0
+"Ogden, UT",,Ogden,,,OGD,,,0
+"Oklahoma City, OK",,Oklahoma City,,,OKC,,,0
+"Okeechobee, FL",,Okeechobee,,,OKE,,,0
+"Oakland, CA",,Jack London Square Station,,,OKJ,,,0
+"Oakville, ON",,Oakville,,,OKL,,,0
+"Oakridge, OR",,Oakridge,,,OKR,,,0
+"Orland, CA",,Orland,,,OLD,,,0
+"San Diego, CA",,Old Town Transportation Center,,,OLT,,,0
+"Olympia-Lacey, WA",,Lacey,Lacey,,OLW,,,0
+"Omaha, NE",,Omaha,,,OMA,,,0
+"Ontario, CA",,Ontario,,,ONA,,,0
+"Ontario, OR",,Ontario,,,ONT,,,0
+"Old Orchard Beach, ME",,Old Orchard Beach,,,ORB,,,0
+"Oregon City, OR",,Oregon City,,,ORC,,,0
+"Orlando, FL",,Orlando,Disney,,ORL,,,0
+"Orono, ME",,University of Maine,,,ORO,,,0
+"Oroville, CA",,Oroville,,,ORV,,,0
+"Old Saybrook, CT",,Old Saybrook,,,OSB,,,0
+"Osceola, IA",,Osceola,,,OSC,,,0
+"Oceanside, CA",,Oceanside,,,OSD,,,0
+"Oshkosh, WI",,Special Stop at EAA Air Show,"Wittman,EAA Air Show",,OSH,,,0
+"Oshkosh, WI",,University of Wisconsin,,,OSU,,,0
+"Otis, OR - Eastbound",,Otis,Rosewood Lodge,,OTE,,,0
+"Ottumwa, IA",,Ottumwa,,,OTM,,,0
+"Otis, OR - Westbound",,Otis,,,OTW,,,0
+"Owosso, MI",,Owosso,,,OWO,,,0
+"Oxnard, CA",,Oxnard,,,OXN,,,0
+"Paducah, KY",,Paducah,,,PAD,,,0
+"Pascagoula, MS",,Pascagoula,,,PAG,,,0
+"Palatka, FL",,Palatka,,,PAK,,,0
+"Paoli, PA",,Paoli,,,PAO,,,0
+"Parkesburg, PA",,Parkesburg,,,PAR,,,0
+"Pasadena, CA",,Pasadena,,,PAS,,,0
+"Poplar Bluff, MO",,Poplar Bluff,,,PBF,,,0
+"Port Charlotte, FL",,Port Charlotte,,,PCH,,,0
+"Princeton, IL",,Princeton,,,PCT,,,0
+"Placerville, CA",,Placerville,,,PCV,,,0
+"Portland, OR",,Portland International Airport,,,PDA,,,0
+"Palm Desert, CA",,Palm Desert,,,PDC,,,0
+"Prunedale, CA",,Prunedale,,,PDL,,,0
+"Portland, OR",,Union Station,Union Station,,PDX,,,0
+"Pendleton, OR",,Pendleton,,,PEN,,,0
+"Pittsburgh, PA",,Grant Street Transportation Ctr,,,PGB,,,0
+"Pittsburgh, PA",,Union Station,Union Station,,PGH,,,0
+"Phoenix, AZ",,Sky Harbor Airport,,,PHA,,,0
+"Phoenix, AZ",,Greyhound Station,,,PHG,,,0
+"Philadelphia, PA",,William H Gray III 30th St. Sta.,"30th,Gray,Grey",,PHL,,,0
+"North Philadelphia, PA",,Philadelphia,Philadelphia,,PHN,,,0
+"Peoria, IL",,City Link Transit Center,,,PIA,,,0
+"Picayune, MS",,Picayune,,,PIC,,,0
+"Pinehurst, NC",,Pinehurst,,,PIH,,,0
+"Pittsfield, MA",,Pittsfield,,,PIT,,,0
+"Peoria, IL",,Bradley University,,,PIU,,,0
+"Princeton Junction, NJ",,Princeton Junction,,,PJC,,,0
+"Pine Junction, CO",,Pine,,,PJT,,,0
+"Plattsburgh, NY",,Plattsburgh,,,PLB,,,0
+"Pulaski, NY",,Pulaski,,,PLK,,,0
+"Plano, IL",,Plano,,,PLO,,,0
+"Philipsburg, PA",,Philipsburg,,,PLP,,,0
+"Pleasanton, CA",,Pleasanton,dublin,,PLS,,,0
+"Palmdale, CA",,Palmdale,,,PMD,,,0
+"Pennsauken, NJ",,Pennsauken,,,PNK,,,0
+"Pontiac, MI",,Pontiac,,,PNT,,,0
+"Portage, WI",,Portage,,,POG,,,0
+"Port Henry, NY",,Port Henry,,,POH,,,0
+"Pontiac, IL",,Pontiac,,,PON,,,0
+"Portland, ME",,Portland,,,POR,,,0
+"Pomona, CA",,Pomona,,,POS,,,0
+"Poughkeepsie, NY",,Poughkeepsie,,,POU,,,0
+"Paso Robles, CA",,Paso Robles,,,PRB,,,0
+"Prince, WV",,Prince,,,PRC,,,0
+"Port Trevorton, PA",,Port Trevorton,,,PRE,,,0
+"Perris, CA",,Perris,,,PRI,,,0
+"Port Kent, NY",,Port Kent,,,PRK,,,0
+"Provo, UT",,Provo,,,PRO,,,0
+"Pasco, WA",,Pasco,Walla Walla,,PSC,,,0
+"Petoskey, MI",,Petsoskey,Bay View,,PSK,,,0
+"Palm Springs, CA",,Amtrak Station,,,PSN,,,0
+"Palm Springs, CA",,Palm Springs Airport,,,PSP,,,0
+"Palm Springs, CA",,Spa Resort Casino,,,PSS,,,0
+"Pellston, MI",,Pellston,,,PST,,,0
+"Port Angeles, WA",,Port Angeles,,,PTA,,,0
+"Petersburg, VA",,Petersburg,,,PTB,,,0
+"Petaluma, CA",,Petaluma,,,PTC,,,0
+"Potsdam, NY",,Potsdam,,,PTD,,,0
+"Port Huron, MI",,Port Huron,,,PTH,,,0
+"Port Townsend, WA",,Port Townsend,,,PTO,,,0
+"Portsmouth, NH",,Portsmouth,,,PTS,,,0
+"Potsdam, NY",,Clarkson University,,,PTU,,,0
+"Pullman, WA",,Pullman,,,PUL,,,0
+"Punxsutawney, PA",,Punxsutawney,,,PUN,,,0
+"Purcell, OK",,Purcell,,,PUR,,,0
+"Providence, RI",,Amtrak/MBTA Station,,,PVD,,,0
+"Providence, RI",,Seastreak Ferry Terminal,,,PVF,,,0
+"Pauls Valley, OK",,Pauls Valley,,,PVL,,,0
+"Pottstown, PA",,Pottstown,,,PWN,,,0
+"Phoenix - North, AZ",,Denny's Restaurant,,,PXN,,,0
+"Quantico, VA",,Quantico,,,QAN,,,0
+"Quincy, IL",,Quincy,,,QCY,,,0
+"Quincy, WA",,Quincy,,,QUC,,,0
+"Raton, NM",,Raton,,,RAT,,,0
+"Richmond, BC",,Richmond,,,RBC,,,0
+"Red Bluff, CA",,Red Bluff,,,RBF,,,0
+"Rockford, IL",,Rockford,,,RCK,,,0
+"Redding, CA",,Amtrak Station,Shasta College,,RDD,,,0
+"Reading, PA",,Reading,,,RDI,,,0
+"Redmond, OR",,Roberts Field Airport,,,RDM,,,0
+"Redmond, OR",,Transit Hub,,,RDT,,,0
+"Red Wing, MN",,Red Wing,,,RDW,,,0
+"Reed City, MI",,Reed City,,,REE,,,0
+"Rensselaer, IN",,Rensselaer,,,REN,,,0
+"Raleigh, NC",,Union Station,Union Station,,RGH,,,0
+"Rhinecliff, NY",,Rhinecliff,,,RHI,,,0
+"Richmond, CA",,Richmond,,,RIC,,,0
+"Riley, OR",,Riley,,,RIL,,,0
+"Riverside, CA",,Riverside,,,RIV,,,0
+"Rockford, MI",,Rockford,,,RKF,,,0
+"Rockingham, NC",,Rockingham Speedway,,,RKH,,,0
+"Rock Island, IL",,Augustana College,,,RKI,,,0
+"Rockville, MD",,Rockville,,,RKV,,,0
+"Rocklin, CA",,Rocklin,,,RLN,,,0
+"Rochester, MN",,Rochester,,,RMN,,,0
+"Rocky Mount, NC",,Rocky Mount,,,RMT,,,0
+"Roanoke, VA",,Roanoke,,,RNK,,,0
+"Reno, NV",,Reno,,,RNO,,,0
+"Running Y Ranch, OR",,Klamath Falls,Klamath Falls,,RNY,,,0
+"Rochester, NY",,Bus Terminal,,,ROB,,,0
+"Rochester, NY",,Louise M. Slaughter Station,,,ROC,,,0
+"Rockland, ME",,Rockland,,,ROD,,,0
+"Rome, NY",,Rome,,,ROM,,,0
+"Royal Oak, MI",,Royal Oak,,,ROY,,,0
+"Rohnert Park, CA",,Rohnert Park,Sonoma State University,,RPC,,,0
+"Randolph, VT",,Randolph,,,RPH,,,0
+"Reedsport, OR",,Reedsport,,,RPT,,,0
+"Rickreall, OR",,Rickreall,,,RRL,,,0
+"Rouses Point, NY",,Rouses Point,,,RSP,,,0
+"Roseville, CA",,Roseville,,,RSV,,,0
+"Rock Springs, WY",,Rock Springs,,,RSY,,,0
+"Rutland, VT",,MVRTD Transit Center,,,RTC,,,0
+"Route 128, MA",,Westwood,"Boston,128",,RTE,,,0
+"Rantoul, IL",,Rantoul,,,RTL,,,0
+"Ritzville, WA",,Ritzville,,,RTZ,,,0
+"Rutland, VT",,"James M Jeffords Station ",,,RUD,,,0
+"Rugby, ND",,Rugby,,,RUG,,,0
+"Richmond, VA",,Main Street Station,Main Street,,RVM,,,0
+"Richmond, VA",,Staples Mill Road Station,Staples Mills Road,,RVR,,,0
+"Rawlins, WY",,Rawlins,,,RWY,,,0
+"Sacramento Airport, CA",,Sacramento,,,SAA,,,0
+"St. Albans, VT",,St Albans,"St Albans,Saint Albans,Albans",,SAB,,,0
+"Sacramento, CA",,Sacramento Valley Station,,,SAC,,,0
+"Santa Fe, NM",,Four Seasons Area,,,SAE,,,0
+"Santa Fe, NM",,Central Area,,,SAF,,,0
+"Salisbury, NC",,Salisbury,,,SAL,,,0
+"San Diego, CA",,Santa Fe Depot,,,SAN,,,0
+"Saco, ME",,Saco,,,SAO,,,0
+"Santa Paula, CA",,Santa Paula,,,SAP,,,0
+"Saratoga Springs, NY",,Saratoga Springs,,,SAR,,,0
+"San Antonio, TX",,San Antonio,,,SAS,,,0
+"Santa Maria, CA",,Santa Maria,"guadalupe,Allan Hancock College",,SAT,,,0
+"Savannah, GA",,Savannah,,,SAV,,,0
+"Sandy, OR",,Sandy,,,SAY,,,0
+"Santa Barbara, CA",,Amtrak Station,,,SBA,,,0
+"Sebring, FL",,Sebring,,,SBG,,,0
+"Seabrook, NH",,Seabrook,,,SBK,,,0
+"Santa Barbara, CA",,"Univ of California, Snta Barbara",,,SBU,,,0
+"Shelby, MT",,Shelby,,,SBY,,,0
+"St. Catharines, ON",,St. Catharines,"St Catharines,Saint Catharines,Sainte Catharines,Catharines",,SCA,,,0
+"Santa Clara, CA",,Transit Center,,,SCC,,,0
+"St. Cloud, MN",,St. Cloud,"St Cloud,Saint Cloud,Cloud",,SCD,,,0
+"Schriever, LA",,Schriever,,,SCH,,,0
+"Sacramento, CA",,State Capitol (discharge-only),,,SCS,,,0
+"Santa Cruz, CA",,Santa Cruz,,,SCZ,,,0
+"Slidell, LA",,Slidell,,,SDL,,,0
+"Schenectady, NY",,Schenectady,,,SDY,,,0
+"Seattle, WA",,King Street Station,King Street,,SEA,,,0
+"Sedalia, MO",,Sedalia,,,SED,,,0
+"Seaside-Sand City, CA",,Sand City,Sand City,,SES,,,0
+"Sanford, FL",,Auto Train Station,"Orlando,Disney",,SFA,,,0
+"San Francisco, CA",,San Francisco,,,SFC,,,0
+"Saginaw, MI",,Saginaw,,,SGW,,,0
+"Sheboygan, WI",,Sheboygan,,,SHB,,,0
+"Shreveport, LA",,SporTran Intermodal Terminal,,,SHR,,,0
+"Shawano, WI",,Shawano,,,SHW,,,0
+"Simi Valley, CA",,Simi Valley,,,SIM,,,0
+"San Jose, CA",,Diridon Station,Diridon,,SJC,,,0
+"St. Joseph-Benton Harbor, MI",,St. Joseph,"St Joseph,Saint Joseph,Joseph,Benton Harbor",,SJM,,,0
+"Shamokin Dam, PA",,Shamokin Dam,,,SKD,,,0
+"Skykomish - Eastbound, WA",,Sky gas station,,,SKE,,,0
+"Stockton, CA",,San Joaquin Street Station,,,SKN,,,0
+"Stockton, CA",,Robert J. Cabral Station,,,SKT,,,0
+"Skykomish - Westbound, WA",,Big Bear Rest Stop restaurant,,,SKW,,,0
+"Sandusky, OH",,Sandusky,,,SKY,,,0
+"Salt Lake City, UT",,Salt Lake City,,,SLB,,,0
+"Salt Lake City, UT",,Amtrak Station,,,SLC,,,0
+"Salida, CO",,Salida,,,SLD,,,0
+"Salem, OR",,Bus Stop,,,SLE,,,0
+"South Lake Tahoe, CA",,Stateline Transit Center,"Lake Tahoe,Tahoe",,SLH,,,0
+"Salem, OR",,Amtrak Station,,,SLM,,,0
+"San Luis Obispo, CA",,Amtrak Station,Cuesta College,,SLO,,,0
+"San Luis Obispo, CA",,Cal Poly,Cuesta College,,SLP,,,0
+"St-Lambert, QC",,St-Lambert,"St Lambert,St. Lambert,Saint Lambert,Lambert,Quebec",,SLQ,,,0
+"Salisbury, MD",,BayRunner Shuttle Office,,,SLS,,,0
+"South Lake Tahoe, CA",,South Y Transit Center,"Lake Tahoe,Tahoe",,SLT,,,0
+"Solvang, CA",,Solvang,,,SLV,,,0
+"San Marcos, TX",,San Marcos,,,SMC,,,0
+"Madison, WI",,Dutch Mill Park and Ride,,,SMD,,,0
+"Sault Sainte Marie, MI",,Sault Sainte Marie,,,SMI,,,0
+"Santa Monica Pier, CA",,Santa Monica,,,SMN,,,0
+"Smith River, CA",,Smith River,,,SMR,,,0
+"Summit, IL",,Summit,,,SMT,,,0
+"Santa Ana, CA",,Santa Ana,,,SNA,,,0
+"San Bernardino, CA",,San Bernardino,,,SNB,,,0
+"San Juan Capistrano, CA",,San Juan Capistrano,,,SNC,,,0
+"Sanderson, TX",,Sanderson,,,SND,,,0
+"San Clemente Pier, CA",,San Clemente,,,SNP,,,0
+"Salinas, CA",,Transit Center,,,SNR,,,0
+"Salinas, CA",,Amtrak Station,,,SNS,,,0
+"Stanley, WI",,Stanley,,,SNY,,,0
+"South Bend, IN",,South Bend,,,SOB,,,0
+"Solana Beach, CA",,Solana Beach,,,SOL,,,0
+"Southern Pines, NC",,Southern Pines,,,SOP,,,0
+"Selma, OR",,Selma,,,SOR,,,0
+"Sparta, WI",,Sparta,,,SPA,,,0
+"Spartanburg, SC",,Spartanburg,,,SPB,,,0
+"San Pedro, CA",,Catalina Express Terminal,long beach,,SPD,,,0
+"Springfield, MA",,Springfield,,,SPG,,,0
+"Springfield, IL",,Springfield,,,SPI,,,0
+"Spokane, WA",,Amtrak Station,,,SPK,,,0
+"Staples, MN",,Staples,,,SPL,,,0
+"South Shore-South Portsmouth, KY",,South Shore,"Portsmouth,South Portsmouth",,SPM,,,0
+"San Pedro, CA",,Public Library,long beach,,SPO,,,0
+"Sandpoint, ID",,Sandpoint,,,SPT,,,0
+"Sparks, NV",,Sparks,,,SPX,,,0
+"Sequim, WA",,Sequim,,,SQM,,,0
+"Sarasota, FL",,Sarasota,,,SRA,,,0
+"Santa Rosa, CA",,Santa Rosa,,,SRC,,,0
+"Scranton, PA",,Scranton,,,SRN,,,0
+"Searsport, ME",,Searsport,,,SRT,,,0
+"Seaside, OR",,Seaside Cinema,,,SSD,,,0
+"Selinsgrove, PA",,Selinsgrove,Susquehanna University,,SSG,,,0
+"Seaside, OR",,Seaside Lodge & Int'l Hostel,,,SSH,,,0
+"Selma-Smithfield, NC",,Selma,Smithfield,,SSM,,,0
+"Stevens Pass, WA",,Stevens Pass,,,SSW,,,0
+"Staunton, VA",,Staunton,,,STA,,,0
+"State College, PA",,State College,"Penn State,Happy Valley",,STC,,,0
+"St. George, UT",,St. George,"St George,Saint George,George",,STG,,,0
+"St. Ignace, MI",,St. Ignace,"St Ignace,Saint Ignace,Ignace",,STI,,,0
+"St. Louis, MO",,Gateway Station,"St Louis,Saint Louis,Louis",,STL,,,0
+"Stamford, CT",,Stamford,,,STM,,,0
+"Stanley, ND",,Stanley,,,STN,,,0
+"Sisters, OR",,Sisters,,,STO,,,0
+"St. Petersburg, FL",,St. Petersburg,"St Petersburg,Saint Petersburg,Petersburg,Clearwater,Pinellas Park,Pinella's Park,Pinelas Park,Pinelas Park",,STP,,,0
+"New Haven, CT",,State Street Station,,,STS,,,0
+"Stanwood, WA",,Stanwood,,,STW,,,0
+"Suisun-Fairfield, CA",,Suisun City,Fairfield,,SUI,,,0
+"Sunriver, OR",,Sunriver,,,SUN,,,0
+"Sunbury, PA",,Sunbury,,,SUR,,,0
+"Sun City-Menifee, CA",,Sun City-Menifee,Menifee,,SUT,,,0
+"Seattle, WA",,Clipper Vacations Ferry Terminal,,,SVF,,,0
+"Stevens Point, WI",,Olympia Family Restaurant,,,SVP,,,0
+"Sturtevant, WI",,Sturtevant,,,SVT,,,0
+"Stevens Point, WI",,University of Wisconsin,,,SVU,,,0
+"Scotts Valley, CA",,Scotts Valley,,,SVY,,,0
+"Swansboro, NC",,Swansboro,,,SWB,,,0
+"Stanwood, MI",,Stanwood,,,SWD,,,0
+"Syracuse, NY",,Syracuse Hancock Airport,,,SYA,,,0
+"Sykesville, PA",,Sykesville,,,SYK,,,0
+"Syracuse, NY",,Regional Transportation Center,,,SYR,,,0
+"Tacoma, Washington",,Tacoma,,,TAB,,,0
+"Tacoma, WA",,Amtrak Station,,,TAC,,,0
+"Taylor, TX",,Taylor,,,TAY,,,0
+"Toccoa, GA",,Toccoa,,,TCA,,,0
+"Tuscaloosa, AL",,Tuscaloosa,,,TCL,,,0
+"Toledo, OR",,Toledo,,,TDO,,,0
+"Tehachapi, CA",,Tehachapi,,,TEH,,,0
+"Tempe, AZ",,Tempe,,,TEM,,,0
+"Twin Falls, ID",,Twin Falls,,,TFI,,,0
+"The Dalles, OR",,The Dalles,"Bingen-White Salmon,White Salmon,Dalles,Wishram",,THD,,,0
+"Thurmond, WV",,Thurmond,,,THN,,,0
+"Tomah, WI",,Tomah,,,TOH,,,0
+"Toledo, OH",,Toledo,,,TOL,,,0
+"Topeka, KS",,Topeka,,,TOP,,,0
+"Tampa, FL",,Union Station,Union Station,,TPA,,,0
+"Temple, TX",,Temple,,,TPL,,,0
+"Tillamook, OR",,Park & Ride,,,TPR,,,0
+"Tracy, CA",,Wendy's restaurant,,,TRA,,,0
+"Tracy, CA",,ACE Station,,,TRC,,,0
+"Trenton, NJ",,Trenton,,,TRE,,,0
+"Florence, OR",,Three Rivers Casino,,,TRF,,,0
+"Trinidad, CO",,Trinidad,,,TRI,,,0
+"Turlock-Denair, CA",,Denair,Denair,,TRK,,,0
+"Troy, MI",,Troy,,,TRM,,,0
+"Trout Run, PA",,Trout Run,,,TRR,,,0
+"Truckee, CA",,Truckee,,,TRU,,,0
+"Traverse City, MI",,Traverse City,,,TRV,,,0
+"Tillamook, OR",,Transit Center,,,TTC,,,0
+"Tualatin, OR",,Tualatin,,,TUA,,,0
+"Tukwila, WA",,Tukwila,,,TUK,,,0
+"Tucson, AZ",,Tucson,,,TUS,,,0
+"The Villages-Lady Lake, FL",,Lady Lake,"Lady Lake,Villages",,TVF,,,0
+"Tawas City, MI",,Tawas City,,,TWC,,,0
+"Toronto, ON",,Union Station,"Ontario,Union",,TWO,,,0
+"Texarkana, AR",,Texarkana,,,TXA,,,0
+"Tyler, TX",,Tyler,,,TYL,,,0
+"Tyrone, PA",,Tyrone,,,TYR,,,0
+"Utica, NY",,Utica,,,UCA,,,0
+"Ukiah, CA",,Ukiah,Mendocino College,,UKH,,,0
+"Winston-Salem, NC",,Winston-Salem State University,,,UWS,,,0
+"Virginia Beach, VA",,Hampton Road Transit bus stop,,,VAB,,,0
+"Vancouver, BC Canada",,Pacific Central Station,"Pacific Central,British Columbia",,VAC,,,0
+"Vale, OR",,Vale,,,VAE,,,0
+"Vallejo, CA",,Vallejo Transit Center,,,VAL,,,0
+"Vancouver, WA USA",,Vancouver,,,VAN,,,0
+"Livermore, CA",,Vasco Road ACE Station,,,VAS,,,0
+"Victoria, BC",,Capital City Station,,,VBC,,,0
+"Ventura, CA",,Ventura,,,VEC,,,0
+"Victoria, BC",,Clipper Vacations Ferry Terminal,,,VIF,,,0
+"Visalia, CA",,Visalia,,,VIS,,,0
+"Vicksburg, MS",,Vicksburg,,,VKS,,,0
+"Vienna, IL",,Vienna,,,VNA,,,0
+"Van Nuys, CA",,Van Nuys,,,VNC,,,0
+"Ferrisburgh-Vergennes, VT",,Ferrisburgh,vergennes,,VRN,,,0
+"Victorville, CA",,Amtrak Station,,,VRV,,,0
+"Veneta, OR",,Veneta,,,VTA,,,0
+"Waterbury-Stowe, VT",,Waterbury,Stowe,,WAB,,,0
+"Wasco, CA",,Wasco,,,WAC,,,0
+"Wallingford, VT",,Wallingford,,,WAG,,,0
+"Washington, MO",,Washington,,,WAH,,,0
+"Warrensburg, MO",,Warrensburg,,,WAR,,,0
+"Washington, DC",,Union Station,Union Station,,WAS,,,0
+"Waupaca, WI",,Waupaca,,,WAU,,,0
+"Williamsburg, VA",,Williamsburg,,,WBG,,,0
+"Woodburn, OR",,Woodburn,,,WBN,,,0
+"Westchester, CA",,Westchester,,,WCH,,,0
+"Waco, TX",,Waco,,,WCX,,,0
+"Woodbridge, VA",,Woodbridge,,,WDB,,,0
+"Wisconsin Dells, WI",,Wisconsin Dells,,,WDL,,,0
+"Waldo, FL",,Waldo,,,WDO,,,0
+"Waldoboro, ME",,Waldoboro,,,WDR,,,0
+"Wenatchee, WA",,Link Transit Columbia Station,,,WEC,,,0
+"Wellington, KS",,Wellington,,,WEL,,,0
+"Wells, ME",,Wells,,,WEM,,,0
+"Wenatchee, WA",,Amtrak Station,,,WEN,,,0
+"Westwood UCLA, CA",,Los Angeles,,,WES,,,0
+"Wallingford, CT",,Wallingford,,,WFD,,,0
+"Whitefish, MT",,Whitefish,,,WFH,,,0
+"Westfir, OR",,Westfir,,,WFR,,,0
+"West Glacier, MT",,West Glacier,glacier,,WGL,,,0
+"Whitehall, NY",,Whitehall,,,WHL,,,0
+"Wichita, KS",,Wichita,,,WIC,,,0
+"Wishram, WA",,Wishram,"Dalles,The Dalles",,WIH,,,0
+"Wilmington, DE",,Wilmington,,,WIL,,,0
+"Winona, MN",,Winona,,,WIN,,,0
+"Fraser-Winter Park, CO",,Fraser,Winter Park,,WIP,,,0
+"Wittenberg, WI",,Wittenberg,,,WIT,,,0
+"Wilkes-Barre, PA",,Wilkes-Barre,,,WKB,,,0
+"Welches, OR",,76 Gas Station,,,WLC,,,0
+"Williamsport, PA",,Williamsport,"Lockhaven University,Pennsylvania College,Lycoming College",,WLM,,,0
+"Wilson, NC",,Wilson,Goldsboro,,WLN,,,0
+"Winslow, AZ",,Winslow,,,WLO,,,0
+"Westerly, RI",,Westerly,,,WLY,,,0
+"Williams, CA",,Williams,,,WMD,,,0
+"Williams, AZ",,Holiday Inn Express,,,WMH,,,0
+"Wilmington, NC",,Wilmington,,,WMN,,,0
+"Warm Springs, OR",,Warm Springs,,,WMS,,,0
+"Windsor, CT",,Windsor,,,WND,,,0
+"Windsor Locks, CT",,Windsor Locks,,,WNL,,,0
+"Windsor-Mt. Ascutney, VT",,Windsor,"Mt. Ascutney,Mt Ascutney,mount ascutney",,WNM,,,0
+"Winnemucca, NV",,Winnemucca,,,WNN,,,0
+"Windsor, ON",,Windsor,,,WNO,,,0
+"Walnut Ridge, AR",,Walnut Ridge,,,WNR,,,0
+"Winston-Salem, NC",,Clark Campbell Transp Center,,,WNS,,,0
+"Warrenton, OR",,Warrenton,,,WNT,,,0
+"Woburn, MA",,Woburn,,,WOB,,,0
+"Worcester, MA",,Union Station,Union Station,,WOR,,,0
+"West Palm Beach, FL",,West Palm Beach,,,WPB,,,0
+"Winter Park, FL",,Winter Park,,,WPK,,,0
+"Winter Park, CO",,Winter Park Resort Trn Platform,ski train,,WPR,,,0
+"Winter Park, CO",,Winter Park Shuttle Bus Stop,,,WPS,,,0
+"Wolf Point, MT",,Wolf Point,,,WPT,,,0
+"White River Junction, VT",,White River Junction,,,WRJ,,,0
+"Watertown, NY",,Watertown,,,WRT,,,0
+"Westbrook, CT",,Westbrook,,,WSB,,,0
+"Wausau, WI",,Transit Center,,,WSJ,,,0
+"Westport, NY",,Westport,,,WSP,,,0
+"White Sulphur Springs, WV",,White Sulphur Springs,,,WSS,,,0
+"Wiscasset, ME",,Wiscasset,,,WST,,,0
+"Wausau-Rothschild, WI",,Lamers Connect bus station,Rothschild,,WSU,,,0
+"Winter Haven, FL",,Winter Haven,,,WTH,,,0
+"Waterloo, IN",,Waterloo,,,WTI,,,0
+"Williston, ND",,Williston,,,WTN,,,0
+"Willits, CA",,Calif Western Railroad Depot,,,WTS,,,0
+"Walla Walla, WA",,Walla Walla,Pasco,,WWA,,,0
+"Wildwood, FL",,Wildwood,,,WWD,,,0
+"Yazoo City, MS",,Yazoo City,,,YAZ,,,0
+"Yachats, OR",,Yachats,,,YCH,,,0
+"Yemassee, SC",,Yemassee,,,YEM,,,0
+"Yonkers, NY",,Yonkers,,,YNY,,,0
+"Yosemite National Park, CA",,Curry Village,,,YOC,,,0
+"Yosemite National Park, CA",,Crane Flat,,,YOF,,,0
+"Yosemite National Park, CA",,Wawona,,,YOH,,,0
+"Yosemite National Park, CA",,Mariposa Grove,,,YOM,,,0
+"Yosemite National Park, CA",,Yosemite Valley Lodge,,,YOS,,,0
+"Yosemite National Park, CA",,Tuolomne Meadows,,,YOT,,,0
+"Yosemite National Park, CA",,Yosemite Village,,,YOV,,,0
+"Yosemite National Park, CA",,White Wolf Lodge,,,YOW,,,0
+"Yuma, AZ",,Yuma,,,YUM,,,0
+,357,Beijingbei,,"langCode,cityName,stationName
+zh,北京,北京北",BJB,,VAP,0
+,357,Beijingdong,,"zh,北京,北京东",BJD,,BOP,0
+,357,Beijing,,"zh,北京,北京",BJ,,BJP,0
+,357,Beijingnan,,"zh,北京,北京南",BJN,,VNP,0
+,357,Beijingdaxing,,"zh,北京,北京大兴",BJDX,,IPP,0
+,357,Beijingxi,,"zh,北京,北京西",BJX,,BXP,0
+,357,Beijingchaoyang,,"zh,北京,北京朝阳",BJCY,,IFP,0
+,357,Beijingtongzhou,,"zh,北京,北京通州",BJTZ,,BUI,0
+,357,Lixian,,"zh,北京,礼贤",LX,,LXI,0
+,1717,Chongqingbei,,"zh,重庆,重庆北",CQB,,CUW,0
+,1717,Chongqingdong,,"zh,重庆,重庆东",CQD,,COE,0
+,1717,Chongqing,,"zh,重庆,重庆",CQ,,CQW,0
+,1717,Chongqingnan,,"zh,重庆,重庆南",CQN,,CRW,0
+,1717,Chongqingxi,,"zh,重庆,重庆西",CQX,,CXW,0
+,712,Liantang,,"zh,上海,练塘",LT,,LTU,0
+,712,Shanghai,,"zh,上海,上海",SH,,SHH,0
+,712,Shanghainan,,"zh,上海,上海南",SHN,,SNH,0
+,712,Shanghaihongqiao,,"zh,上海,上海虹桥",SHHQ,,AOH,0
+,712,Shanghaixi,,"zh,上海,上海西",SHX,,SXH,0
+,359,Tianjinbei,,"zh,天津,天津北",TJB,,TBP,0
+,359,Tianjin,,"zh,天津,天津",TJ,,TJP,0
+,359,Tianjinnan,,"zh,天津,天津南",TJN,,TIP,0
+,359,Tianjinxi,,"zh,天津,天津西",TJX,,TXP,0
+,9206,Wanxiang,,"zh,万象,万象",WX,,YTM,0
+,1902,Banmaoqing,,"zh,昆明,班猫箐",BMQ,,BNM,0
+,405,Beiying,,"zh,太原,北营",BY,,BIV,0
+,110,Changchun,,"zh,长春,长春",CC,,CCT,0
+,110,Changchunnan,,"zh,长春,长春南",CCN,,CET,0
+,110,Changchunxi,,"zh,长春,长春西",CCX,,CRT,0
+,1707,Chengdudong,,"zh,成都,成都东",CDD,,ICW,0
+,1707,Chengdunan,,"zh,成都,成都南",CDN,,CNW,0
+,1707,Chengdu,,"zh,成都,成都",CD,,CDW,0
+,1707,Chengduxi,,"zh,成都,成都西",CDX,,CMW,0
+,2102,Chenguanying,,"zh,兰州,陈官营",CGY,,CAJ,0
+,602,Changqing,,"zh,济南,长清",CQ,,CNK,0
+,1407,Changsha,,"zh,长沙,长沙",CS,,CSQ,0
+,1407,Changshanan,,"zh,长沙,长沙南",CSN,,CWQ,0
+,1407,Changshaxi,,"zh,长沙,长沙西",CSX,,RXQ,0
+,602,Changzhuang,,"zh,济南,常庄",CZ,,CVK,0
+,205,Dacheng,,"zh,沈阳,大成",DC,,DCT,0
+,1607,Dani,,"zh,南宁,大拟",DN,,DNZ,0
+,1607,Dawangtan,,"zh,南宁,大王滩",DWT,,DZZ,0
+,1607,Dayuan,,"zh,南宁,大元",DY,,DYZ,0
+,2102,Fengshuicun,,"zh,兰州,丰水村",FSC,,FSJ,0
+,1004,Fuzhou,,"zh,福州,福州",FZ,,FZS,0
+,1004,Fuzhounan,,"zh,福州,福州南",FZN,,FYS,0
+,2102,Gancaodian,,"zh,兰州,甘草店",GCD,,GDJ,0
+,602,Gangcheng,,"zh,济南,钢城",GC,,GAK,0
+,205,Gujiazi,,"zh,沈阳,孤家子",GJZ,,GKT,0
+,1902,Guangnanwei,,"zh,昆明,广南卫",GNW,,GNM,0
+,1803,Guiyang,,"zh,贵阳,贵阳",GY,,GIW,0
+,1803,Guiyangbei,,"zh,贵阳,贵阳北",GYB,,KQW,0
+,1803,Guiyangdong,,"zh,贵阳,贵阳东",GYD,,KEW,0
+,1502,Guangzhoubei,,"zh,广州,广州北",GZB,,GBQ,0
+,1502,Guangzhoudong,,"zh,广州,广州东",GZD,,GGQ,0
+,1502,Guangzhou,,"zh,广州,广州",GZ,,GZQ,0
+,1502,Guangzhounan,,"zh,广州,广州南",GZN,,IZQ,0
+,1502,Guangzhouxintang,,"zh,广州,广州新塘",GZXT,,XWQ,0
+,1502,Guangzhouxi,,"zh,广州,广州西",GZX,,GXQ,0
+,1502,Guangzhoubaiyun,,"zh,广州,广州白云",GZBY,,GBA,0
+,34,Haerbinbei,,"zh,哈尔滨,哈尔滨北",HEBB,,HTB,0
+,34,Haerbin,,"zh,哈尔滨,哈尔滨",HEB,,HBB,0
+,34,Haerbindong,,"zh,哈尔滨,哈尔滨东",HEBD,,VBB,0
+,34,Haerbinxi,,"zh,哈尔滨,哈尔滨西",HEBX,,VAB,0
+,809,Hefeibeicheng,,"zh,合肥,合肥北城",HFBC,,COH,0
+,809,Hefei,,"zh,合肥,合肥",HF,,HFH,0
+,809,Hefeinan,,"zh,合肥,合肥南",HFN,,ENH,0
+,809,Hefeixi,,"zh,合肥,合肥西",HFX,,HFU,0
+,205,Huanggutun,,"zh,沈阳,皇姑屯",HGT,,HTT,0
+,511,Huhehaotedong,,"zh,呼和浩特,呼和浩特东",HHHTD,,NDC,0
+,511,Huhehaote,,"zh,呼和浩特,呼和浩特",HHHT,,HHC,0
+,2501,Haikoudong,,"zh,海口,海口东",HKD,,HMQ,0
+,2501,Haikou,,"zh,海口,海口",HK,,VUQ,0
+,904,Hangzhoudong,,"zh,杭州,杭州东",HZD,,HGH,0
+,904,Hangzhou,,"zh,杭州,杭州",HZ,,HZH,0
+,904,Hangzhounan,,"zh,杭州,杭州南",HZN,,XHH,0
+,602,Jinan,,"zh,济南,济南",JN,,JNK,0
+,602,Jinandong,,"zh,济南,济南东",JND,,MDK,0
+,602,Jinanxi,,"zh,济南,济南西",JNX,,JGK,0
+,1902,Kunming,,"zh,昆明,昆明",KM,,KMM,0
+,1902,Kunmingnan,,"zh,昆明,昆明南",KMN,,KOM,0
+,602,Licheng,,"zh,济南,历城",LC,,VHK,0
+,602,Linjialou,,"zh,济南,蔺家楼",LJL,,ULK,0
+,2102,Longquansi,,"zh,兰州,龙泉寺",LQS,,UQJ,0
+,2751,Lasa,,"zh,拉萨,拉萨",LS,,LSO,0
+,1902,Leshancun,,"zh,昆明,乐善村",LSC,,LUM,0
+,205,Linshengpu,,"zh,沈阳,林盛堡",LSP,,LBT,0
+,2102,Luotuoxiang,,"zh,兰州,骆驼巷",LTX,,LTJ,0
+,602,Laiwubei,,"zh,济南,莱芜北",LWB,,VIK,0
+,2102,Lanzhoudong,,"zh,兰州,兰州东",LZD,,LVJ,0
+,2102,Lanzhou,,"zh,兰州,兰州",LZ,,LZJ,0
+,2102,Lanzhouxinqu,,"zh,兰州,兰州新区",LZXQ,,LQJ,0
+,2102,Lanzhouxi,,"zh,兰州,兰州西",LZX,,LAJ,0
+,1902,Maoshezu,,"zh,昆明,茂舍祖",MSZ,,MOM,0
+,1104,Nanchangdong,,"zh,南昌,南昌东",NCD,,NUG,0
+,1104,Nanchang,,"zh,南昌,南昌",NC,,NCG,0
+,1104,Nanchangnan,,"zh,南昌,南昌南",NCN,,HOG,0
+,1607,Ningcun,,"zh,南宁,宁村",NC,,NCZ,0
+,1104,Nanchangxi,,"zh,南昌,南昌西",NCX,,NXG,0
+,705,Nanjing,,"zh,南京,南京",NJ,,NJH,0
+,705,Nanjingnan,,"zh,南京,南京南",NJN,,NKH,0
+,1607,Naluo,,"zh,南宁,那罗",NL,,ULZ,0
+,1607,Nanningbei,,"zh,南宁,南宁北",NNB,,NRZ,0
+,1607,Nanningdong,,"zh,南宁,南宁东",NND,,NFZ,0
+,1607,Nanning,,"zh,南宁,南宁",NN,,NNZ,0
+,1607,Nanningxi,,"zh,南宁,南宁西",NNX,,NXZ,0
+,1607,Napu,,"zh,南宁,那铺",NP,,NPZ,0
+,2302,Nuanquan,,"zh,银川,暖泉",NQ,,NQJ,0
+,2102,Podixia,,"zh,兰州,坡底下",PDX,,PXJ,0
+,1902,Qidian,,"zh,昆明,七甸",QD,,QDM,0
+,205,Shiboyuan,,"zh,沈阳,世博园",SBY,,ZWT,0
+,365,Shijiazhuangbei,,"zh,石家庄,石家庄北",SJZB,,VVP,0
+,365,Shijiazhuangdong,,"zh,石家庄,石家庄东",SJZD,,SXP,0
+,2102,Shaojiatang,,"zh,兰州,邵家堂",SJT,,SJJ,0
+,365,Shijiazhuang,,"zh,石家庄,石家庄",SJZ,,SJP,0
+,1902,Shijiazui,,"zh,昆明,施家嘴",SJZ,,SHM,0
+,205,Shenyang,,"zh,沈阳,沈阳",SY,,SYT,0
+,205,Shenyangbei,,"zh,沈阳,沈阳北",SYB,,SBT,0
+,205,Shenyangdong,,"zh,沈阳,沈阳东",SYD,,SDT,0
+,205,Shenyangnan,,"zh,沈阳,沈阳南",SYN,,SOT,0
+,2102,Shuiyuan,,"zh,兰州,水源",SY,,OYJ,0
+,205,Shenyangxi,,"zh,沈阳,沈阳西",SYX,,OOT,0
+,2102,Sangyuanzi,,"zh,兰州,桑园子",SYZ,,SAJ,0
+,405,Taiyuandong,,"zh,太原,太原东",TYD,,TDV,0
+,405,Taiyuannan,,"zh,太原,太原南",TYN,,TNV,0
+,405,Taiyuan,,"zh,太原,太原",TY,,TYV,0
+,1314,Wuhan,,"zh,武汉,武汉",WH,,WHN,0
+,1314,Wuhandong,,"zh,武汉,武汉东",WHD,,LFN,0
+,2102,Wangjiawan,,"zh,兰州,王家湾",WJW,,WJJ,0
+,2403,Wulumuqinan,,"zh,乌鲁木齐,乌鲁木齐南",WLMQN,,WMR,0
+,2403,Wulumuqi,,"zh,乌鲁木齐,乌鲁木齐",WLMQ,,WAR,0
+,1607,Wuxujichang,,"zh,南宁,吴圩机场",WXJC,,WJZ,0
+,2003,Xianbei,,"zh,西安,西安北",XAB,,EAY,0
+,2003,Xian,,"zh,西安,西安",XA,,XAY,0
+,2102,Xigucheng,,"zh,兰州,西固城",XGC,,XUJ,0
+,1902,Xijiekou,,"zh,昆明,西街口",XJK,,EKM,0
+,2102,Xujiatai,,"zh,兰州,许家台",XJT,,XTJ,0
+,2201,Xining,,"zh,西宁,西宁",XN,,XNO,0
+,1902,Xiaoshao,,"zh,昆明,小哨",XS,,XAM,0
+,602,Xueye,,"zh,济南,雪野",XY,,XYK,0
+,2302,Yinchuan,,"zh,银川,银川",YC,,YIJ,0
+,1902,Yongfengying,,"zh,昆明,永丰营",YFY,,YYM,0
+,1902,Yinai,,"zh,昆明,宜耐",YN,,YVM,0
+,205,Yushutai,,"zh,沈阳,榆树台",YST,,YUT,0
+,2003,Yinzhen,,"zh,西安,引镇",YZ,,CAY,0
+,2102,Zhujiayao,,"zh,兰州,朱家窑",ZJY,,ZUJ,0
+,602,Zhangqiunan,,"zh,济南,章丘南",ZQN,,VQK,0
+,1222,Zhengzhoudong,,"zh,郑州,郑州东",ZZD,,ZAF,0
+,1222,Zhengzhouhangkonggang,,"zh,郑州,郑州航空港",ZZHKG,,ZIF,0
+,1222,Zhengzhou,,"zh,郑州,郑州",ZZ,,ZZF,0
+,1222,Zhengzhouxi,,"zh,郑州,郑州西",ZZX,,XPF,0
+,7,Angangxi,,"zh,齐齐哈尔,昂昂溪",AAX,,AAX,0
+,34,Achengbei,,"zh,哈尔滨,阿城北",ACB,,ABB,0
+,34,Acheng,,"zh,哈尔滨,阿城",AC,,ACB,0
+,358,Anci,,"zh,廊坊,安次",AC,,ACI,0
+,15,Anda,,"zh,绥化,安达",AD,,ADX,0
+,1707,Ande,,"zh,成都,安德",AD,,ARW,0
+,1646,Aershanbei,,"zh,兴安,阿尔山北",AESB,,ARX,0
+,1646,Aershan,,"zh,兴安,阿尔山",AES,,ART,0
+,901,Anji,,"zh,湖州,安吉",AJ,,AJU,0
+,1707,Anjing,,"zh,成都,安靖",AJ,,PYW,0
+,34,Anjia,,"zh,哈尔滨,安家",AJ,,AJB,0
+,2006,Ankang,,"zh,安康,安康",AK,,AKY,0
+,2409,Akesu,,"zh,阿克苏,阿克苏",AKS,,ASR,0
+,2411,Aketao,,"zh,阿图什,阿克陶",AKT,,AER,0
+,2409,Alaer,,"zh,阿克苏,阿拉尔",ALE,,AOR,0
+,9096,Alihe,,"zh,呼伦贝尔,阿里河",ALH,,AHX,0
+,2407,Alashankou,,"zh,博乐,阿拉山口",ALSK,,AKR,0
+,2424,Aletai,,"zh,阿勒泰,阿勒泰",ALT,,AUR,0
+,1313,Anlu,,"zh,孝感,安陆",AL,,ALN,0
+,1313,Anluxi,,"zh,孝感,安陆西",ALX,,AXN,0
+,816,Anqing,,"zh,安庆,安庆",AQ,,AQH,0
+,816,Anqingxi,,"zh,安庆,安庆西",AQX,,AIU,0
+,1805,Anshun,,"zh,安顺,安顺",AS,,ASW,0
+,213,Anshan,,"zh,鞍山,鞍山",AS,,AST,0
+,1805,Anshunxi,,"zh,安顺,安顺西",ASX,,ASE,0
+,213,Anshanxi,,"zh,鞍山,鞍山西",ASX,,AXT,0
+,712,Antingbei,,"zh,上海,安亭北",ATB,,ASH,0
+,712,Antingxi,,"zh,上海,安亭西",ATX,,AXU,0
+,1201,Anyang,,"zh,安阳,安阳",AY,,AYF,0
+,1201,Anyangdong,,"zh,安阳,安阳东",AYD,,ADF,0
+,9,Beian,,"zh,黑河,北安",BA,,BAB,0
+,1606,Bobai,,"zh,玉林,博白",BB,,BBZ,0
+,807,Bengbunan,,"zh,蚌埠,蚌埠南",BBN,,BMH,0
+,807,Bengbu,,"zh,蚌埠,蚌埠",BB,,BBH,0
+,2410,Bachu,,"zh,喀什,巴楚",BC,,BCR,0
+,102,Baicheng,,"zh,白城,白城",BC,,BCT,0
+,359,Beichen,,"zh,天津,北辰",BC,,BII,0
+,359,Baodibei,,"zh,天津,宝坻北",BDB,,BPP,0
+,357,Badalingchangcheng,,"zh,北京,八达岭长城",BDLCC,,VLP,0
+,326,Baodingdong,,"zh,保定,保定东",BDD,,BMP,0
+,301,Beidaihe,,"zh,秦皇岛,北戴河",BDH,,BEP,0
+,326,Baoding,,"zh,保定,保定",BD,,BDP,0
+,357,Badaling,,"zh,北京,八达岭",BDL,,ILP,0
+,1361,Badong,,"zh,恩施,巴东",BD,,BBN,0
+,1407,Bafangshan,,"zh,长沙,八方山",BFS,,FGQ,0
+,1806,Baiguo,,"zh,六盘水,柏果",BG,,BGM,0
+,1611,Beihai,,"zh,北海,北海",BH,,BHZ,0
+,359,Binhai,,"zh,天津,滨海",BH,,YKP,0
+,359,Binhaibei,,"zh,天津,滨海北",BHB,,FCP,0
+,9097,Baihe,,"zh,延边,白河",BH,,BEL,0
+,359,Binhaixi,,"zh,天津,滨海西",BHX,,FHP,0
+,1848,Bijie,,"zh,毕节,毕节",BJ,,BOE,0
+,2005,Baoji,,"zh,宝鸡,宝鸡",BJ,,BJY,0
+,326,Baijian,,"zh,保定,白涧",BJ,,BAP,0
+,2005,Baojinan,,"zh,宝鸡,宝鸡南",BJN,,BBY,0
+,357,Beijingfengtai,,"zh,北京,北京丰台",BJFT,,FTP,0
+,34,Baikuipu,,"zh,哈尔滨,白奎堡",BKP,,BKB,0
+,9096,Boketu,,"zh,呼伦贝尔,博克图",BKT,,BKX,0
+,2407,Bole,,"zh,博乐,博乐",BL,,BER,0
+,9096,Balin,,"zh,呼伦贝尔,巴林",BL,,BLX,0
+,23,Boli,,"zh,七台河,勃利",BL,,BLB,0
+,2515,Baimajing,,"zh,儋州,白马井",BMJ,,BFQ,0
+,44,Bamiantong,,"zh,牡丹江,八面通",BMT,,BMB,0
+,233,Beipiao,,"zh,朝阳,北票",BP,,BPT,0
+,20,Baoqing,,"zh,双鸭山,宝清",BQ,,BUB,0
+,18,Baoquanling,,"zh,鹤岗,宝泉岭",BQL,,BQB,0
+,1610,Baise,,"zh,百色,百色",BS,,BIZ,0
+,136,Baishanshi,,"zh,白山,白山市",BSS,,HJL,0
+,512,Baotoudong,,"zh,包头,包头东",BTD,,BDC,0
+,512,Baotou,,"zh,包头,包头",BT,,BTC,0
+,2424,Beitunshi,,"zh,阿勒泰,北屯市",BTS,,BXR,0
+,34,Binxibei,,"zh,哈尔滨,宾西北",BXB,,BBB,0
+,208,Benxi,,"zh,本溪,本溪",BX,,BXT,0
+,1707,Buxingjie,,"zh,成都,步行街",BXJ,,BWW,0
+,1607,Binyang,,"zh,南宁,宾阳",BY,,UKZ,0
+,512,Baiyunebo,,"zh,包头,白云鄂博",BYEB,,BEC,0
+,1803,Baiyunbei,,"zh,贵阳,白云北",BYB,,BVE,0
+,1502,Baiyunjichangbei,,"zh,广州,白云机场北",BYJCB,,BBA,0
+,326,Baiyangdian,,"zh,保定,白洋淀",BYD,,FWP,0
+,9034,Bayannaoer,,"zh,巴彦淖尔,巴彦淖尔",BYNE,,FMC,0
+,34,Beiyinhe,,"zh,哈尔滨,背荫河",BYH,,BYB,0
+,1803,Baiyi,,"zh,贵阳,百宜",BY,,FHW,0
+,9034,Bayangaole,,"zh,巴彦淖尔,巴彦高勒",BYGL,,BAC,0
+,216,Bayuquan,,"zh,营口,鲅鱼圈",BYQ,,BYT,0
+,2103,Baiyinxi,,"zh,白银,白银西",BYX,,BXJ,0
+,1803,Baiyunxi,,"zh,贵阳,白云西",BYX,,BXE,0
+,9014,Bazhongdong,,"zh,巴中,巴中东",BZD,,BDE,0
+,2004,Binzhoudong,,"zh,咸阳,彬州东",BZD,,BFY,0
+,9014,Bazhong,,"zh,巴中,巴中",BZ,,IEW,0
+,690,Binzhou,,"zh,滨州,滨州",BZ,,BIK,0
+,802,Bozhou,,"zh,亳州,亳州",BZ,,BZH,0
+,34,Binzhou,,"zh,哈尔滨,宾州",BZ,,BZB,0
+,802,Bozhounan,,"zh,亳州,亳州南",BZN,,BNU,0
+,508,Chabuga,,"zh,赤峰,查布嘎",CBG,,CBC,0
+,1317,Chibi,,"zh,咸宁,赤壁",CB,,CBN,0
+,9097,Changbaishan,,"zh,延边,长白山",CBS,,CUL,0
+,136,Changbaishanxi,,"zh,白山,长白山西",CBSX,,SJL,0
+,1422,Changde,,"zh,常德,常德",CD,,VGQ,0
+,309,Chengde,,"zh,承德,承德",CD,,CDP,0
+,309,Chengdenan,,"zh,承德,承德南",CDN,,IVP,0
+,304,Caofeidiandong,,"zh,唐山,曹妃甸东",CFDD,,POP,0
+,508,Chifeng,,"zh,赤峰,赤峰",CF,,CID,0
+,304,Caofeidiangang,,"zh,唐山,曹妃甸港",CFDG,,PGP,0
+,508,Chifengnan,,"zh,赤峰,赤峰南",CFN,,CFD,0
+,9096,Cuogang,,"zh,呼伦贝尔,嵯岗",CG,,CAX,0
+,110,Chaigang,,"zh,长春,柴岗",CG,,CGT,0
+,315,Chaigoubu,,"zh,张家口,柴沟堡",CGP,,CGV,0
+,1214,Changgebei,,"zh,许昌,长葛北",CGB,,CGF,0
+,2007,Chenggu,,"zh,汉中,城固",CG,,CGY,0
+,34,Chenggaozi,,"zh,哈尔滨,成高子",CGZ,,CZB,0
+,1848,Caohai,,"zh,毕节,草海",CH,,WBW,0
+,809,Chaohudong,,"zh,合肥,巢湖东",CHD,,GUH,0
+,44,Chaihe,,"zh,牡丹江,柴河",CH,,CHB,0
+,809,Chaohu,,"zh,合肥,巢湖",CH,,CIH,0
+,1801,Congjiang,,"zh,凯里,从江",CJ,,KNW,0
+,9010,Caijiaya,,"zh,吕梁,蔡家崖",CJY,,EBV,0
+,1004,Changledong,,"zh,福州,长乐东",CLD,,CIS,0
+,1004,Changle,,"zh,福州,长乐",CL,,CAS,0
+,809,Changlinhe,,"zh,合肥,长临河",CLH,,FVH,0
+,1421,Cili,,"zh,张家界,慈利",CL,,CUQ,0
+,1408,Chaling,,"zh,株洲,茶陵",CL,,CDG,0
+,315,Chongli,,"zh,张家口,崇礼",CL,,KOP,0
+,301,Changli,,"zh,秦皇岛,昌黎",CL,,CLP,0
+,2501,Changliu,,"zh,海口,长流",CL,,CLA,0
+,1004,Changlenan,,"zh,福州,长乐南",CLN,,CVS,0
+,16,Chenming,,"zh,伊春,晨明",CM,,CMB,0
+,920,Cangnan,,"zh,温州,苍南",CN,,CEH,0
+,357,Changpingbei,,"zh,北京,昌平北",CPB,,VBP,0
+,1504,Changpingdong,,"zh,东莞,常平东",CPD,,FQQ,0
+,1714,Cuiping,,"zh,宜宾,翠屏",CP,,YBW,0
+,357,Changping,,"zh,北京,昌平",CP,,CPP,0
+,2141,Changqingqiao,,"zh,庆阳,长庆桥",CQQ,,CQJ,0
+,1147,Chongren,,"zh,崇仁,崇仁",CR,,CRG,0
+,3127,Changshoubei,,"zh,长寿,长寿北",CSB,,COW,0
+,1515,Chaoshan,,"zh,潮州,潮汕",CS,,CBQ,0
+,511,Chasuqi,,"zh,呼和浩特,察素齐",CSQ,,CSC,0
+,1701,Chaotian,,"zh,广元,朝天",CT,,CTE,0
+,1053,Changtingnan,,"zh,长汀,长汀南",CTN,,CNS,0
+,1701,Chaotiannan,,"zh,广元,朝天南",CTN,,CTY,0
+,204,Changtu,,"zh,铁岭,昌图",CT,,CTT,0
+,204,Changtuxi,,"zh,铁岭,昌图西",CTX,,CPT,0
+,44,Changtingzhen,,"zh,牡丹江,长汀镇",CTZ,,CDB,0
+,2004,Changwu,,"zh,咸阳,长武",CW,,CWY,0
+,1701,Cangxi,,"zh,广元,苍溪",CX,,CXE,0
+,1403,Chenxi,,"zh,怀化,辰溪",CX,,CXQ,0
+,349,Cixian,,"zh,邯郸,磁县",CX,,CIP,0
+,1905,Chuxiong,,"zh,楚雄,楚雄",CX,,CUM,0
+,621,Caoxian,,"zh,菏泽,曹县",CX,,CXK,0
+,2501,Chengxi,,"zh,海口,城西",CX,,CIA,0
+,901,Changxingnan,,"zh,湖州,长兴南",CXN,,CFH,0
+,205,Chenxiangtun,,"zh,沈阳,陈相屯",CXT,,CXT,0
+,1516,Chaoyang,,"zh,汕头,潮阳",CY,,CNQ,0
+,1707,Chaoyanghu,,"zh,成都,朝阳湖",CYH,,CYE,0
+,808,Chuzhoubei,,"zh,滁州,滁州北",CZB,,CUH,0
+,708,Changzhoubei,,"zh,常州,常州北",CZB,,ESH,0
+,414,Changzhibei,,"zh,长治,长治北",CZB,,CBF,0
+,414,Changzhidong,,"zh,长治,长治东",CZD,,CUF,0
+,2103,Changzheng,,"zh,白银,长征",CZ,,CZJ,0
+,878,Chizhou,,"zh,池州,池州",CZ,,IYH,0
+,808,Chuzhou,,"zh,滁州,滁州",CZ,,CXH,0
+,1419,Chenzhou,,"zh,郴州,郴州",CZ,,CZQ,0
+,334,Cangzhou,,"zh,沧州,沧州",CZ,,COP,0
+,708,Changzhou,,"zh,常州,常州",CZ,,CZH,0
+,414,Changzhi,,"zh,长治,长治",CZ,,CZF,0
+,1707,Chongzhou,,"zh,成都,崇州",CZ,,CZE,0
+,1615,Chongzuonan,,"zh,崇左,崇左南",CZN,,COZ,0
+,1615,Chongzuo,,"zh,崇左,崇左",CZ,,CZZ,0
+,1419,Chenzhouxi,,"zh,郴州,郴州西",CZX,,ICQ,0
+,334,Cangzhouxi,,"zh,沧州,沧州西",CZX,,CBP,0
+,102,Daanbei,,"zh,白城,大安北",DAB,,RNT,0
+,1426,Dongandong,,"zh,永州,东安东",DAD,,DCZ,0
+,2403,Dabancheng,,"zh,乌鲁木齐,达坂城",DBC,,DCR,0
+,2015,Dingbian,,"zh,榆林,定边",DB,,DYJ,0
+,2101,Dongcha,,"zh,天水,东岔",DC,,DCJ,0
+,210,Dandong,,"zh,丹东,丹东",DD,,DUT,0
+,2518,Dongfang,,"zh,东方,东方",DF,,UFQ,0
+,2016,Danfeng,,"zh,商洛,丹凤",DF,,DGY,0
+,1408,Dafeng,,"zh,株洲,大丰",DF,,KRQ,0
+,26,Dongfanghong,,"zh,鸡西,东方红",DFH,,DFB,0
+,1848,Dafangnan,,"zh,毕节,大方南",DFN,,DNE,0
+,2107,Dongfengnan,,"zh,酒泉,东风南",DFN,,DPJ,0
+,210,Donggangbei,,"zh,丹东,东港北",DGB,,RGT,0
+,1504,Dongguandong,,"zh,东莞,东莞东",DGD,,DMQ,0
+,1504,Dongguannan,,"zh,东莞,东莞南",DGN,,DNA,0
+,210,Dagushan,,"zh,丹东,大孤山",DGS,,RMT,0
+,1504,Dongguan,,"zh,东莞,东莞",DG,,RTQ,0
+,1504,Dongguanxi,,"zh,东莞,东莞西",DGX,,WGQ,0
+,228,Dahushan,,"zh,锦州,大虎山",DHS,,DHD,0
+,9097,Dunhua,,"zh,延边,敦化",DH,,DHL,0
+,2107,Dunhuang,,"zh,酒泉,敦煌",DH,,DHJ,0
+,110,Dehui,,"zh,长春,德惠",DH,,DHT,0
+,110,Dehuixi,,"zh,长春,德惠西",DHX,,DXT,0
+,44,Dongjingcheng,,"zh,牡丹江,东京城",DJC,,DJB,0
+,3131,Dianjiang,,"zh,垫江,垫江",DJ,,DJE,0
+,1504,Daojiao,,"zh,东莞,道滘",DJ,,RRQ,0
+,401,Dajian,,"zh,大同,大涧",DJ,,DFP,0
+,1407,Dongjing,,"zh,长沙,洞井",DJ,,FWQ,0
+,1707,Dujiangyan,,"zh,成都,都江堰",DJY,,DDW,0
+,1415,Dongkou,,"zh,邵阳,洞口",DK,,DKA,0
+,220,Dalianbei,,"zh,大连,大连北",DLB,,DFT,0
+,2202,Delingha,,"zh,德令哈,德令哈",DLH,,DHO,0
+,34,Dalianhe,,"zh,哈尔滨,达连河",DLH,,DCB,0
+,2002,Dali,,"zh,渭南,大荔",DL,,DNY,0
+,1906,Dali,,"zh,大理,大理",DL,,DKM,0
+,220,Dalian,,"zh,大连,大连",DL,,DLT,0
+,602,Daminghu,,"zh,济南,大明湖",DMH,,JAK,0
+,34,Demoli,,"zh,哈尔滨,得莫利",DML,,DTB,0
+,621,Dongmingxian,,"zh,菏泽,东明县",DMX,,DNF,0
+,1116,Dingnan,,"zh,赣州,定南",DN,,DNG,0
+,1116,Dingnannan,,"zh,赣州,定南南",DNN,,DIG,0
+,1513,Dapu,,"zh,梅州,大埔",DP,,DPI,0
+,37,Daqingdong,,"zh,大庆,大庆东",DQD,,LFX,0
+,37,Daqing,,"zh,大庆,大庆",DQ,,DZX,0
+,34,Duiqingshan,,"zh,哈尔滨,对青山",DQS,,DQB,0
+,37,Daqingxi,,"zh,大庆,大庆西",DQX,,RHX,0
+,517,Dongsheng,,"zh,鄂尔多斯,东胜",DS,,DOC,0
+,1802,Dushan,,"zh,都匀,独山",DS,,RWW,0
+,806,Dangshannan,,"zh,宿州,砀山南",DSN,,PRH,0
+,216,Dashiqiao,,"zh,营口,大石桥",DSQ,,DQT,0
+,517,Dongshengxi,,"zh,鄂尔多斯,东胜西",DSX,,DYC,0
+,401,Datongnan,,"zh,大同,大同南",DTN,,DMV,0
+,401,Datong,,"zh,大同,大同",DT,,DTV,0
+,2201,Datongxi,,"zh,西宁,大通西",DTX,,DTO,0
+,2301,Dawukou,,"zh,石嘴山,大武口",DWK,,DFJ,0
+,1803,Dangwu,,"zh,贵阳,党武",DW,,DWE,0
+,2124,Dingxibei,,"zh,定西,定西北",DXB,,DNJ,0
+,357,Daxingjichang,,"zh,北京,大兴机场",DXJC,,IWP,0
+,2124,Dingxi,,"zh,定西,定西",DX,,DSJ,0
+,1121,Dongxiang,,"zh,抚州,东乡",DX,,DXG,0
+,7,Daxing,,"zh,齐齐哈尔,大兴",DX,,DXX,0
+,1612,Dongxingshi,,"zh,防城港,东兴市",DXS,,RIZ,0
+,1704,Deyang,,"zh,德阳,德阳",DY,,DYW,0
+,1307,Dangyang,,"zh,宜昌,当阳",DY,,DYN,0
+,706,Danyang,,"zh,镇江,丹阳",DY,,DYH,0
+,1316,Dayebei,,"zh,黄石,大冶北",DYB,,DBN,0
+,1719,Dayingdong,,"zh,遂宁,大英东",DYD,,IAW,0
+,1802,Duyundong,,"zh,都匀,都匀东",DYD,,KJW,0
+,697,Dongying,,"zh,东营,东营",DY,,DPK,0
+,1707,Dayi,,"zh,成都,大邑",DY,,DEE,0
+,697,Dongyingnan,,"zh,东营,东营南",DYN,,DOK,0
+,9096,Dayangshu,,"zh,呼伦贝尔,大杨树",DYS,,DUX,0
+,1802,Duyun,,"zh,都匀,都匀",DY,,RYW,0
+,601,Dezhoudong,,"zh,德州,德州东",DZD,,DIP,0
+,326,Dingzhoudong,,"zh,保定,定州东",DZD,,DOP,0
+,1216,Dengzhoudong,,"zh,南阳,邓州东",DZD,,DDF,0
+,878,Dongzhi,,"zh,池州,东至",DZ,,DCH,0
+,1715,Dazhou,,"zh,达州,达州",DZ,,RXW,0
+,601,Dezhou,,"zh,德州,德州",DZ,,DZP,0
+,326,Dingzhou,,"zh,保定,定州",DZ,,DXP,0
+,1216,Dengzhou,,"zh,南阳,邓州",DZ,,DOF,0
+,1708,Ebiannan,,"zh,乐山,峨边南",EBN,,ENE,0
+,517,Eerduosi,,"zh,鄂尔多斯,鄂尔多斯",EEDS,,EEC,0
+,9099,Ejina,,"zh,阿拉善,额济纳",EJN,,EJC,0
+,509,Erlian,,"zh,二连浩特,二连",EL,,RLC,0
+,1708,Emei,,"zh,乐山,峨眉",EM,,EMW,0
+,1708,Emeishan,,"zh,乐山,峨眉山",EMS,,IXW,0
+,1361,Enshi,,"zh,恩施,恩施",ES,,ESN,0
+,1315,Ezhou,,"zh,鄂州,鄂州",EZ,,ECN,0
+,1612,Fangchenggangbei,,"zh,防城港,防城港北",FCGB,,FBZ,0
+,1023,Fuding,,"zh,宁德,福鼎",FD,,FES,0
+,809,Feidong,,"zh,合肥,肥东",FD,,FIH,0
+,3109,Fengdu,,"zh,丰都,丰都",FD,,FUW,0
+,1806,Faer,,"zh,六盘水,发耳",FE,,FEM,0
+,2015,Fugu,,"zh,榆林,府谷",FG,,FUV,0
+,2424,Fuhai,,"zh,阿勒泰,福海",FH,,FHR,0
+,2509,Fenghuangjichang,,"zh,三亚,凤凰机场",FHJC,,FJQ,0
+,210,Fenghuangcheng,,"zh,丹东,凤凰城",FHC,,FHT,0
+,405,Fenhe,,"zh,太原,汾河",FH,,FEV,0
+,910,Fenghua,,"zh,宁波,奉化",FH,,FHH,0
+,52,Fujin,,"zh,佳木斯,富锦",FJ,,FIB,0
+,3107,Fulingbei,,"zh,涪陵,涪陵北",FLB,,FEW,0
+,413,Fenglingdu,,"zh,运城,风陵渡",FLD,,FLV,0
+,1107,Fuliangdong,,"zh,景德镇,浮梁东",FLD,,FVG,0
+,3107,Fuling,,"zh,涪陵,涪陵",FL,,FLW,0
+,7,Fulaerji,,"zh,齐齐哈尔,富拉尔基",FLEJ,,FRX,0
+,2102,Fuliqu,,"zh,兰州,福利区",FLQ,,FLJ,0
+,739,Funingdong,,"zh,盐城,阜宁东",FND,,FDU,0
+,1979,Funing,,"zh,文山,富宁",FN,,FNM,0
+,1004,Fuqing,,"zh,福州,福清",FQ,,FQS,0
+,1802,Fuquan,,"zh,都匀,福泉",FQ,,VMW,0
+,1407,Furongnan,,"zh,长沙,芙蓉南",FRN,,KCQ,0
+,1713,Fushun,,"zh,自贡,富顺",FS,,FSE,0
+,206,Fushun,,"zh,抚顺,抚顺",FS,,FET,0
+,1506,Foshan,,"zh,佛山,佛山",FS,,FSQ,0
+,1615,Fusui,,"zh,崇左,扶绥",FS,,FSZ,0
+,1506,Foshanxi,,"zh,佛山,佛山西",FSX,,FOQ,0
+,1505,Futian,,"zh,深圳,福田",FT,,NZQ,0
+,1503,Feixia,,"zh,清远,飞霞",FX,,FEA,0
+,2005,Fengxian,,"zh,宝鸡,凤县",FX,,FXY,0
+,226,Fuxin,,"zh,阜新,阜新",FX,,FOT,0
+,809,Feixi,,"zh,合肥,肥西",FX,,FAH,0
+,226,Fuxinnan,,"zh,阜新,阜新南",FXN,,FXD,0
+,804,Fuyang,,"zh,阜阳,阜阳",FY,,FYH,0
+,904,Fuyang,,"zh,杭州,富阳",FY,,FYU,0
+,138,Fuyubei,,"zh,松原,扶余北",FYB,,FBT,0
+,1111,Fenyi,,"zh,新余,分宜",FY,,FYG,0
+,2424,Fuyun,,"zh,阿勒泰,富蕴",FYU,,FYR,0
+,1901,Fuyuan,,"zh,曲靖,富源",FY,,FYM,0
+,52,Fuyuan,,"zh,佳木斯,抚远",FY,,FYB,0
+,7,Fuyu,,"zh,齐齐哈尔,富裕",FY,,FYX,0
+,804,Fuyangxi,,"zh,阜阳,阜阳西",FYX,,FXU,0
+,9011,Fengzhen,,"zh,乌兰察布,丰镇",FZ,,FZC,0
+,2005,Fengzhou,,"zh,宝鸡,凤州",FZ,,FZY,0
+,1121,Fuzhou,,"zh,抚州,抚州",FZ,,FZG,0
+,34,Fangzheng,,"zh,哈尔滨,方正",FZ,,FNB,0
+,1759,Guangannan,,"zh,广安,广安南",GAN,,VUW,0
+,1759,Guangan,,"zh,广安,广安",GA,,VJW,0
+,1112,Gaoan,,"zh,宜春,高安",GA,,GCG,0
+,1803,Guian,,"zh,贵阳,贵安",GA,,GAE,0
+,357,Gubeikou,,"zh,北京,古北口",GBK,,GKP,0
+,365,Gaocheng,,"zh,石家庄,藁城",GC,,GEP,0
+,365,Gaochengnan,,"zh,石家庄,藁城南",GCN,,GUP,0
+,405,Gaocun,,"zh,太原,高村",GC,,GCV,0
+,405,Gudong,,"zh,太原,古东",GD,,GDV,0
+,2203,Geermu,,"zh,格尔木,格尔木",GEM,,GRO,0
+,1605,Guigang,,"zh,贵港,贵港",GG,,GGZ,0
+,2101,Gangu,,"zh,天水,甘谷",GG,,GGJ,0
+,9096,Genhe,,"zh,呼伦贝尔,根河",GH,,GEX,0
+,205,Gaohua,,"zh,沈阳,高花",GH,,HGD,0
+,405,Gujiao,,"zh,太原,古交",GJ,,GJV,0
+,2102,Gaolan,,"zh,兰州,皋兰",GL,,GEJ,0
+,1603,Guilinbei,,"zh,桂林,桂林北",GLB,,GBZ,0
+,34,Gaoleng,,"zh,哈尔滨,高楞",GL,,GLB,0
+,1603,Guilin,,"zh,桂林,桂林",GL,,GLZ,0
+,3,Gulian,,"zh,加格达奇,古莲",GL,,GRX,0
+,9034,Gongmiaozi,,"zh,巴彦淖尔,公庙子",GMZ,,GMC,0
+,1979,Guangnanxian,,"zh,文山,广南县",GNX,,GXM,0
+,1605,Guiping,,"zh,贵港,桂平",GP,,GAZ,0
+,1101,Gongqingcheng,,"zh,九江,共青城",GQC,,GAG,0
+,1220,Gushi,,"zh,信阳,固始",GS,,GXN,0
+,1310,Guangshui,,"zh,随州,广水",GS,,GSN,0
+,1407,Gushan,,"zh,长沙,谷山",GS,,FFQ,0
+,1407,Guanshaling,,"zh,长沙,观沙岭",GSL,,FKQ,0
+,2304,Gantang,,"zh,中卫,干塘",GT,,GNJ,0
+,1905,Guangtongbei,,"zh,楚雄,广通北",GTB,,GPM,0
+,1008,Gutianhuizhi,,"zh,龙岩,古田会址",GTHZ,,STS,0
+,1759,Gaoxing,,"zh,广安,高兴",GX,,VWW,0
+,603,Guanxian,,"zh,聊城,冠县",GX,,GHP,0
+,358,Guangyang,,"zh,廊坊,广阳",GY,,LFP,0
+,365,Gaoyi,,"zh,石家庄,高邑",GY,,GIP,0
+,1222,Gongyi,,"zh,郑州,巩义",GY,,GXF,0
+,1222,Gongyinan,,"zh,郑州,巩义南",GYN,,GYF,0
+,2315,Guyuan,,"zh,固原,固原",GY,,GUJ,0
+,1701,Guangyuan,,"zh,广元,广元",GY,,GYW,0
+,704,Ganyu,,"zh,连云港,赣榆",GY,,GYU,0
+,365,Gaoyixi,,"zh,石家庄,高邑西",GYX,,GNP,0
+,1509,Gaozhou,,"zh,茂名,高州",GZ,,GSQ,0
+,1116,Ganzhou,,"zh,赣州,赣州",GZ,,GZG,0
+,110,Gongzhuling,,"zh,长春,公主岭",GZL,,GLT,0
+,110,Gongzhulingnan,,"zh,长春,公主岭南",GZLN,,GBT,0
+,1008,Guanzhaishan,,"zh,龙岩,冠豸山",GZS,,GPS,0
+,216,Gaizhouxi,,"zh,营口,盖州西",GZX,,GAT,0
+,1116,Ganzhouxi,,"zh,赣州,赣州西",GZX,,GOG,0
+,752,Huaiandong,,"zh,淮安,淮安东",HAD,,HAU,0
+,752,Huaian,,"zh,淮安,淮安",HA,,AUH,0
+,801,Huaibei,,"zh,淮北,淮北",HB,,HRH,0
+,52,Hebei,,"zh,佳木斯,鹤北",HB,,HMB,0
+,1220,Huaibin,,"zh,信阳,淮滨",HB,,HVN,0
+,403,Hebian,,"zh,忻州,河边",HB,,HBV,0
+,1803,Huchaodong,,"zh,贵阳,湖潮东",HCD,,HCE,0
+,2002,Hancheng,,"zh,渭南,韩城",HC,,HCY,0
+,3123,Hechuan,,"zh,合川,合川",HC,,WKW,0
+,9097,Hunchun,,"zh,延边,珲春",HC,,HUL,0
+,1220,Huangchuan,,"zh,信阳,潢川",HC,,KCN,0
+,213,Haicheng,,"zh,鞍山,海城",HC,,HCT,0
+,1502,Huachengjie,,"zh,广州,花城街",HCJ,,HCA,0
+,357,Huangcun,,"zh,北京,黄村",HC,,HCP,0
+,1601,Hechixi,,"zh,河池,河池西",HCX,,HIZ,0
+,213,Haichengxi,,"zh,鞍山,海城西",HCX,,HXT,0
+,349,Handan,,"zh,邯郸,邯郸",HD,,HDP,0
+,2302,Hedongjichang,,"zh,银川,河东机场",HDJC,,HFJ,0
+,349,Handandong,,"zh,邯郸,邯郸东",HDD,,HPP,0
+,913,Hengdian,,"zh,金华,横店",HD,,HJU,0
+,1512,Huidongnan,,"zh,惠州,惠东南",HDN,,KDQ,0
+,9057,Hadapu,,"zh,陇南,哈达铺",HDP,,HDJ,0
+,1502,Huadu,,"zh,广州,花都",HD,,HAA,0
+,411,Hongtongxi,,"zh,临汾,洪洞西",HDX,,HTV,0
+,44,Hengdaohezi,,"zh,牡丹江,横道河子",HDHZ,,HDB,0
+,2482,Huoerguosi,,"zh,伊宁,霍尔果斯",HEGS,,HFR,0
+,18,Hegang,,"zh,鹤岗,鹤岗",HG,,HGB,0
+,9026,Huanggangdong,,"zh,黄冈,黄冈东",HGD,,KAN,0
+,1806,Hongguo,,"zh,六盘水,红果",HG,,HEM,0
+,359,Hangu,,"zh,天津,汉沽",HG,,HGP,0
+,1707,Hongguangzhen,,"zh,成都,红光镇",HGZ,,IGW,0
+,1955,Honghe,,"zh,蒙自,红河",HH,,HHM,0
+,9,Heihe,,"zh,黑河,黑河",HH,,HJB,0
+,1403,Huaihuanan,,"zh,怀化,怀化南",HHN,,KAQ,0
+,1222,Huanghejingqu,,"zh,郑州,黄河景区",HHJQ,,HCF,0
+,1403,Huaihua,,"zh,怀化,怀化",HH,,HHQ,0
+,1314,Houhu,,"zh,武汉,后湖",HH,,IHN,0
+,1601,Huanjiang,,"zh,河池,环江",HJ,,HFZ,0
+,2408,Hejing,,"zh,库尔勒,和静",HJ,,HJR,0
+,413,Hejin,,"zh,运城,河津",HJ,,HJV,0
+,1507,Huaiji,,"zh,肇庆,怀集",HJ,,FAQ,0
+,110,Huajia,,"zh,长春,华家",HJ,,HJT,0
+,1955,Hekoubei,,"zh,蒙自,河口北",HKB,,HBM,0
+,34,Hongkeli,,"zh,哈尔滨,宏克力",HKL,,OKB,0
+,2102,Hekounan,,"zh,兰州,河口南",HKN,,HKJ,0
+,1314,Hankou,,"zh,武汉,汉口",HK,,HKN,0
+,34,Hulan,,"zh,哈尔滨,呼兰",HL,,HUB,0
+,237,Huludaobei,,"zh,葫芦岛,葫芦岛北",HLDB,,HPD,0
+,237,Huludao,,"zh,葫芦岛,葫芦岛",HLD,,HLD,0
+,9096,Hailaer,,"zh,呼伦贝尔,海拉尔",HLE,,HRX,0
+,110,Halahai,,"zh,长春,哈拉海",HLH,,HIT,0
+,44,Hailin,,"zh,牡丹江,海林",HL,,HRB,0
+,26,Hulin,,"zh,鸡西,虎林",HL,,VLB,0
+,507,Huolinguole,,"zh,通辽,霍林郭勒",HLGL,,HWD,0
+,2010,Huanglingnan,,"zh,延安,黄陵南",HLN,,VLY,0
+,15,Hailun,,"zh,绥化,海伦",HL,,HLB,0
+,411,Houma,,"zh,临汾,侯马",HM,,HMV,0
+,9026,Huangmeidong,,"zh,黄冈,黄梅东",HMD,,HDU,0
+,1525,Houmen,,"zh,汕尾,鲘门",HM,,KMQ,0
+,727,Haimen,,"zh,南通,海门",HM,,HMU,0
+,2401,Hami,,"zh,哈密,哈密",HM,,HMR,0
+,411,Houmaxi,,"zh,临汾,侯马西",HMX,,HPV,0
+,805,Huainan,,"zh,淮南,淮南",HN,,HAH,0
+,28,Huanan,,"zh,桦南,桦南",HN,,HNB,0
+,805,Huainandong,,"zh,淮南,淮南东",HND,,HOH,0
+,805,Huainannan,,"zh,淮南,淮南南",HNN,,HNU,0
+,902,Hainingxi,,"zh,嘉兴,海宁西",HNX,,EUH,0
+,1906,Heqing,,"zh,大理,鹤庆",HQ,,HQM,0
+,357,Huairoubei,,"zh,北京,怀柔北",HRB,,HBP,0
+,402,Huairendong,,"zh,朔州,怀仁东",HRD,,HFV,0
+,357,Huairounan,,"zh,北京,怀柔南",HRN,,IMP,0
+,357,Huairou,,"zh,北京,怀柔",HR,,HRP,0
+,2001,Huashanbei,,"zh,华阴,华山北",HSB,,HDY,0
+,339,Hengshuibei,,"zh,衡水,衡水北",HSB,,IHP,0
+,815,Huangshanbei,,"zh,黄山,黄山北",HSB,,NYH,0
+,1316,Huangshidong,,"zh,黄石,黄石东",HSD,,OSN,0
+,2413,Heshituoluogai,,"zh,塔城,和什托洛盖",HSTLG,,VSR,0
+,2001,Huashan,,"zh,华阴,华山",HS,,HGY,0
+,2408,Heshuo,,"zh,库尔勒,和硕",HS,,VUR,0
+,102,Heishui,,"zh,白城,黑水",HS,,HOT,0
+,339,Hengshui,,"zh,衡水,衡水",HS,,HSP,0
+,1316,Huangshi,,"zh,黄石,黄石",HS,,HSN,0
+,815,Huangshan,,"zh,黄山,黄山",HS,,HKH,0
+,1314,Huashannan,,"zh,武汉,花山南",HSN,,KNN,0
+,357,Heishansi,,"zh,北京,黑山寺",HSS,,HVP,0
+,2102,Haishiwan,,"zh,兰州,海石湾",HSW,,HSO,0
+,5409,Heshunxian,,"zh,晋中,和顺县",HSX,,HOP,0
+,815,Huangshanxi,,"zh,黄山,黄山西",HSX,,HWU,0
+,1502,Huashanzhen,,"zh,广州,花山镇",HSZ,,HZA,0
+,357,Huangtudian,,"zh,北京,黄土店",HTD,,HKP,0
+,2419,Hetian,,"zh,和田,和田",HT,,VTR,0
+,1403,Huitong,,"zh,怀化,会同",HT,,VTQ,0
+,712,Haiwan,,"zh,上海,海湾",HW,,RWH,0
+,1803,Huaxidaxuecheng,,"zh,贵阳,花溪大学城",HXDXC,,HDE,0
+,2141,Huanxian,,"zh,庆阳,环县",HX,,KXJ,0
+,1803,Huaxinan,,"zh,贵阳,花溪南",HXN,,HNE,0
+,1803,Huaxixi,,"zh,贵阳,花溪西",HXX,,HUE,0
+,1512,Huiyang,,"zh,惠州,惠阳",HY,,KNQ,0
+,1416,Hengyang,,"zh,衡阳,衡阳",HY,,HYQ,0
+,611,Haiyang,,"zh,烟台,海阳",HY,,KYK,0
+,1511,Heyuandong,,"zh,河源,河源东",HYD,,HEA,0
+,1416,Hengyangdong,,"zh,衡阳,衡阳东",HYD,,HVQ,0
+,1759,Huaying,,"zh,广安,华蓥",HY,,HUW,0
+,2003,Huyi,,"zh,西安,鄠邑",HYI,,KXY,0
+,6740,Hanyuan,,"zh,雅安,汉源",HY,,WHW,0
+,1511,Heyuan,,"zh,河源,河源",HY,,VIQ,0
+,2201,Huangyuan,,"zh,西宁,湟源",HY,,HNO,0
+,1512,Huizhoubei,,"zh,惠州,惠州北",HZB,,HUA,0
+,621,Hezedong,,"zh,菏泽,菏泽东",HZD,,KDK,0
+,621,Heze,,"zh,菏泽,菏泽",HZ,,HIK,0
+,6618,Hezhou,,"zh,贺州,贺州",HZ,,HXZ,0
+,2002,Huazhou,,"zh,渭南,华州",HZ,,HXY,0
+,901,Huzhou,,"zh,湖州,湖州",HZ,,VZH,0
+,2007,Hanzhong,,"zh,汉中,汉中",HZ,,HOY,0
+,1512,Huizhou,,"zh,惠州,惠州",HZ,,HCQ,0
+,1114,Jian,,"zh,吉安,吉安",JA,,VAG,0
+,135,Jian,,"zh,通化,集安",JA,,JAL,0
+,122,Jianan,,"zh,辽源,建安",JA,,JUL,0
+,1114,Jianxi,,"zh,吉安,吉安西",JAX,,JIG,0
+,6107,Jiangbiancun,,"zh,江边村,江边村",JBC,,JBG,0
+,415,Jinchengdong,,"zh,晋城,晋城东",JCD,,JGF,0
+,2105,Jinchang,,"zh,金昌,金昌",JC,,JCJ,0
+,415,Jincheng,,"zh,晋城,晋城",JC,,JCF,0
+,1601,Jinchengjiang,,"zh,河池,金城江",JCJ,,JJZ,0
+,1107,Jingdezhenbei,,"zh,景德镇,景德镇北",JDZB,,JDG,0
+,904,Jiande,,"zh,杭州,建德",JD,,JDU,0
+,26,Jidong,,"zh,鸡西,鸡东",JD,,JOB,0
+,1107,Jingdezhen,,"zh,景德镇,景德镇",JDZ,,JCG,0
+,415,Jiafeng,,"zh,晋城,嘉峰",JF,,JFF,0
+,3,Jiagedaqi,,"zh,加格达奇,加格达奇",JGDQ,,JGX,0
+,1114,Jinggangshan,,"zh,吉安,井冈山",JGS,,JGG,0
+,205,Jinhai,,"zh,沈阳,近海",JH,,JHD,0
+,359,Jinghai,,"zh,天津,静海",JH,,JHP,0
+,117,Jiaohe,,"zh,吉林,蛟河",JH,,JHL,0
+,2407,Jinghenan,,"zh,博乐,精河南",JHN,,JIR,0
+,913,Jinhuanan,,"zh,金华,金华南",JHN,,RNH,0
+,913,Jinhua,,"zh,金华,金华",JH,,JBH,0
+,117,Jiaohexi,,"zh,吉林,蛟河西",JHX,,JOL,0
+,1803,Jinhuazhen,,"zh,贵阳,金华镇",JHZ,,JZE,0
+,1014,Jinjiang,,"zh,泉州,晋江",JJ,,JJS,0
+,1101,Jiujiang,,"zh,九江,九江",JJ,,JJG,0
+,359,Junliangchengbei,,"zh,天津,军粮城北",JLCB,,JMP,0
+,1222,Jialuhe,,"zh,郑州,贾鲁河",JLH,,JLF,0
+,117,Jilin,,"zh,吉林,吉林",JL,,JLL,0
+,614,Jimobei,,"zh,青岛,即墨北",JMB,,JVK,0
+,1541,Jiangmen,,"zh,江门,江门",JM,,JOQ,0
+,1305,Jingmen,,"zh,荆门,荆门",JM,,JMN,0
+,1701,Jianmenguan,,"zh,广元,剑门关",JMG,,JME,0
+,52,Jiamusi,,"zh,佳木斯,佳木斯",JMS,,JMB,0
+,1305,Jingmenxi,,"zh,荆门,荆门西",JMX,,MXN,0
+,365,Jingnan,,"zh,石家庄,井南",JN,,JNP,0
+,1061,Jianningxianbei,,"zh,建宁,建宁县北",JNXB,,JCS,0
+,620,Jining,,"zh,济宁,济宁",JN,,JIK,0
+,705,Jiangning,,"zh,南京,江宁",JN,,JJH,0
+,9011,Jiningnan,,"zh,乌兰察布,集宁南",JNN,,JAC,0
+,705,Jiangningxi,,"zh,南京,江宁西",JNX,,OKH,0
+,508,Jingpeng,,"zh,赤峰,经棚",JP,,JPC,0
+,233,Jianping,,"zh,朝阳,建平",JP,,JAD,0
+,2107,Jiuquannan,,"zh,酒泉,酒泉南",JQN,,JNJ,0
+,2107,Jiuquan,,"zh,酒泉,酒泉",JQ,,JQJ,0
+,712,Jinshanbei,,"zh,上海,金山北",JSB,,EGH,0
+,1402,Jishoudong,,"zh,吉首,吉首东",JSD,,JDA,0
+,1402,Jishou,,"zh,吉首,吉首",JS,,JIQ,0
+,916,Jiangshan,,"zh,衢州,江山",JS,,JUH,0
+,1407,Jianshan,,"zh,长沙,尖山",JS,,JPQ,0
+,52,Jiansanjiang,,"zh,佳木斯,建三江",JSJ,,JIB,0
+,804,Jieshounan,,"zh,阜阳,界首南",JSN,,JKU,0
+,110,Jiutai,,"zh,长春,九台",JT,,JTL,0
+,110,Jiutainan,,"zh,长春,九台南",JTN,,JNL,0
+,2108,Jingtieshan,,"zh,嘉峪关,镜铁山",JTS,,JVJ,0
+,814,Jixibei,,"zh,宣城,绩溪北",JXB,,NRH,0
+,5409,Jiexiudong,,"zh,晋中,介休东",JXD,,JDV,0
+,5409,Jiexiu,,"zh,晋中,介休",JX,,JXV,0
+,1610,Jingxi,,"zh,百色,靖西",JX,,JMZ,0
+,902,Jiaxing,,"zh,嘉兴,嘉兴",JX,,JXH,0
+,26,Jixi,,"zh,鸡西,鸡西",JX,,JXB,0
+,365,Jingxing,,"zh,石家庄,井陉",JX,,JJP,0
+,1104,Jinxian,,"zh,南昌,进贤",JX,,JUG,0
+,902,Jiaxingnan,,"zh,嘉兴,嘉兴南",JXN,,EPH,0
+,1104,Jinxiannan,,"zh,南昌,进贤南",JXN,,JXG,0
+,814,Jixixian,,"zh,宣城,绩溪县",JXX,,JRH,0
+,26,Jixixi,,"zh,鸡西,鸡西西",JXX,,JAB,0
+,1803,Jinyang,,"zh,贵阳,金阳",JY,,JYE,0
+,621,Juye,,"zh,菏泽,巨野",JY,,JYK,0
+,2108,Jiayuguan,,"zh,嘉峪关,嘉峪关",JYG,,JGJ,0
+,2108,Jiayuguannan,,"zh,嘉峪关,嘉峪关南",JYGN,,JBJ,0
+,1803,Jinyangnan,,"zh,贵阳,金阳南",JYN,,JNE,0
+,1707,Jianyangnan,,"zh,成都,简阳南",JYN,,JOW,0
+,1703,Jiangyou,,"zh,绵阳,江油",JY,,JFW,0
+,1314,Jinyintan,,"zh,武汉,金银潭",JYT,,JTN,0
+,136,Jingyu,,"zh,白山,靖宇",JY,,JYL,0
+,228,Jinzhoubei,,"zh,锦州,锦州北",JZB,,JFT,0
+,359,Jizhoubei,,"zh,天津,蓟州北",JZB,,JKP,0
+,1388,Jingzhou,,"zh,荆州,荆州",JZ,,JBN,0
+,819,Jinzhai,,"zh,六安,金寨",JZ,,JZH,0
+,228,Jinzhou,,"zh,锦州,锦州",JZ,,JZD,0
+,220,Jinzhou,,"zh,大连,金州",JZ,,JZT,0
+,365,Jinzhou,,"zh,石家庄,晋州",JZ,,JXP,0
+,359,Jizhou,,"zh,天津,蓟州",JZ,,JIP,0
+,228,Jinzhounan,,"zh,锦州,锦州南",JZN,,JOD,0
+,1205,Jiaozuo,,"zh,焦作,焦作",JZ,,JOF,0
+,1205,Jiaozuoxi,,"zh,焦作,焦作西",JZX,,JIF,0
+,110,Kaian,,"zh,长春,开安",KA,,KAT,0
+,2409,Kuche,,"zh,阿克苏,库车",KC,,KCR,0
+,9096,Kuduer,,"zh,呼伦贝尔,库都尔",KDE,,KDX,0
+,2408,Kuerle,,"zh,库尔勒,库尔勒",KEL,,KLR,0
+,1211,Kaifengbei,,"zh,开封,开封北",KFB,,KBF,0
+,1211,Kaifeng,,"zh,开封,开封",KF,,KFF,0
+,1407,Kaifusi,,"zh,长沙,开福寺",KFS,,FLQ,0
+,916,Kaihua,,"zh,衢州,开化",KH,,KHU,0
+,34,Kangjinjing,,"zh,哈尔滨,康金井",KJJ,,KJB,0
+,403,Kelan,,"zh,忻州,岢岚",KL,,KLV,0
+,1801,Kaili,,"zh,凯里,凯里",KL,,KLW,0
+,1801,Kailinan,,"zh,凯里,凯里南",KLN,,QKW,0
+,507,Kulun,,"zh,通辽,库伦",KL,,KLD,0
+,507,Kailu,,"zh,通辽,开鲁",KL,,KLC,0
+,2436,Kelamayi,,"zh,克拉玛依,克拉玛依",KLMY,,KHR,0
+,2410,Kashi,,"zh,喀什,喀什",KS,,KSR,0
+,710,Kunshan,,"zh,苏州,昆山",KS,,KSH,0
+,7,Keshan,,"zh,齐齐哈尔,克山",KS,,KSB,0
+,710,Kunshannan,,"zh,苏州,昆山南",KSN,,KNH,0
+,2482,Kuitun,,"zh,伊宁,奎屯",KT,,KTR,0
+,1803,Kaiyang,,"zh,贵阳,开阳",KY,,KVW,0
+,1902,Kunyang,,"zh,昆明,昆阳",KY,,KAM,0
+,204,Kaiyuan,,"zh,铁岭,开原",KY,,KYT,0
+,204,Kaiyuanxi,,"zh,铁岭,开原西",KYX,,KXT,0
+,357,Kangzhuang,,"zh,北京,康庄",KZ,,KZP,0
+,233,Kazuo,,"zh,朝阳,喀左",KZ,,KZT,0
+,1607,Longandong,,"zh,南宁,隆安东",LAD,,IDZ,0
+,819,Luan,,"zh,六安,六安",LA,,UAH,0
+,1207,Lingbao,,"zh,三门峡,灵宝",LB,,LBF,0
+,1628,Laibinbei,,"zh,来宾,来宾北",LBB,,UCZ,0
+,1207,Lingbaoxi,,"zh,三门峡,灵宝西",LBX,,LPF,0
+,1222,Lvboyuan,,"zh,郑州,绿博园",LBY,,LCF,0
+,6913,Lincang,,"zh,临沧,临沧",LC,,LXM,0
+,1712,Longchangbei,,"zh,内江,隆昌北",LCB,,NWW,0
+,1501,Lechangdong,,"zh,韶关,乐昌东",LCD,,ILQ,0
+,712,Luchaogang,,"zh,上海,芦潮港",LCG,,UCH,0
+,1606,Luchuan,,"zh,玉林,陆川",LC,,LKZ,0
+,1511,Longchuan,,"zh,河源,龙川",LC,,LUQ,0
+,1361,Lichuan,,"zh,恩施,利川",LC,,LCN,0
+,1117,Linchuan,,"zh,临川,临川",LC,,LCG,0
+,1712,Longchang,,"zh,内江,隆昌",LC,,LCW,0
+,414,Lucheng,,"zh,长治,潞城",LC,,UTP,0
+,603,Liaocheng,,"zh,聊城,聊城",LC,,UCK,0
+,601,Lingcheng,,"zh,德州,陵城",LC,,LGK,0
+,1511,Longchuanxi,,"zh,河源,龙川西",LCX,,LCA,0
+,603,Liaochengxi,,"zh,聊城,聊城西",LCX,,VXK,0
+,2502,Laochengzhen,,"zh,澄迈,老城镇",LCZ,,ACQ,0
+,9057,Liangdang,,"zh,陇南,两当",LD,,LDY,0
+,44,Ludao,,"zh,牡丹江,鹿道",LD,,LDL,0
+,1803,Longdongbao,,"zh,贵阳,龙洞堡",LDB,,FVW,0
+,1412,Loudi,,"zh,娄底,娄底",LD,,LDQ,0
+,1412,Loudinan,,"zh,娄底,娄底南",LDN,,UOQ,0
+,1707,Liduigongyuan,,"zh,成都,离堆公园",LDGY,,INW,0
+,358,Langfang,,"zh,廊坊,廊坊",LF,,LJP,0
+,405,Loufan,,"zh,太原,娄烦",LF,,USV,0
+,358,Langfangbei,,"zh,廊坊,廊坊北",LFB,,LBI,0
+,1525,Lufeng,,"zh,汕尾,陆丰",LF,,LLQ,0
+,411,Linfen,,"zh,临汾,临汾",LF,,LFV,0
+,411,Linfenxi,,"zh,临汾,临汾西",LFX,,LXV,0
+,358,Langfangxi,,"zh,廊坊,廊坊西",LFX,,LFI,0
+,44,Lagu,,"zh,牡丹江,拉古",LG,,LGB,0
+,1803,Luguan,,"zh,贵阳,芦官",LG,,LAE,0
+,1407,Lugu,,"zh,长沙,麓谷",LG,,BNQ,0
+,357,Lianggezhuang,,"zh,北京,良各庄",LGZ,,LGP,0
+,9034,Linhe,,"zh,巴彦淖尔,临河",LH,,LHC,0
+,135,Liuhe,,"zh,通化,柳河",LH,,LNL,0
+,1218,Luohe,,"zh,漯河,漯河",LH,,LON,0
+,705,Liuhe,,"zh,南京,六合",LH,,KLH,0
+,3124,Luohuangnan,,"zh,江津,珞璜南",LHN,,LNE,0
+,1415,Longhui,,"zh,邵阳,隆回",LH,,LHA,0
+,309,Longhua,,"zh,承德,隆化",LH,,UHP,0
+,2108,Lvhua,,"zh,嘉峪关,绿化",LH,,LWJ,0
+,1218,Luohexi,,"zh,漯河,漯河西",LHX,,LBN,0
+,9097,Longjing,,"zh,延边,龙井",LJ,,LJL,0
+,136,Linjiang,,"zh,白山,临江",LJ,,LQL,0
+,6927,Lijiang,,"zh,丽江,丽江",LJ,,LHM,0
+,110,Longjia,,"zh,长春,龙嘉",LJ,,UJL,0
+,809,Lujiang,,"zh,合肥,庐江",LJ,,UJH,0
+,1004,Lianjiang,,"zh,福州,连江",LJ,,LKS,0
+,809,Lujiangxi,,"zh,合肥,庐江西",LJX,,LUU,0
+,1211,Lankao,,"zh,开封,兰考",LK,,LKF,0
+,1211,Lankaonan,,"zh,开封,兰考南",LKN,,LUF,0
+,30,Linkou,,"zh,林口,林口",LK,,LKB,0
+,611,Longkoushi,,"zh,烟台,龙口市",LKS,,UKK,0
+,9010,Lvliang,,"zh,吕梁,吕梁",LL,,LHV,0
+,1408,Liling,,"zh,株洲,醴陵",LL,,LLG,0
+,34,Lanling,,"zh,哈尔滨,兰棱",LL,,LLB,0
+,34,Lalin,,"zh,哈尔滨,拉林",LL,,LAB,0
+,9010,Liulinnan,,"zh,吕梁,柳林南",LLN,,LKV,0
+,9057,Longnan,,"zh,陇南,陇南",LN,,INJ,0
+,233,Liaoningchaoyang,,"zh,朝阳,辽宁朝阳",LNCY,,VET,0
+,3116,Liangping,,"zh,梁平,梁平",LP,,UQW,0
+,309,Luanping,,"zh,承德,滦平",LP,,UPP,0
+,1901,Luoping,,"zh,曲靖,罗平",LP,,LPM,0
+,3116,Liangpingnan,,"zh,梁平,梁平南",LPN,,LPE,0
+,904,Linpingnan,,"zh,杭州,临平南",LPN,,EVH,0
+,1806,Liupanshui,,"zh,六盘水,六盘水",LPS,,UMW,0
+,401,Lingqiu,,"zh,大同,灵丘",LQ,,LVV,0
+,809,Longqiao,,"zh,合肥,龙桥",LQ,,LQU,0
+,1402,Longshanbei,,"zh,吉首,龙山北",LSB,,LBA,0
+,5409,Lingshidong,,"zh,晋中,灵石东",LSD,,UDV,0
+,1708,Leshan,,"zh,乐山,乐山",LS,,IVW,0
+,2513,Lingshui,,"zh,陵水,陵水",LS,,LIQ,0
+,919,Lishui,,"zh,丽水,丽水",LS,,USH,0
+,220,Lvshun,,"zh,大连,旅顺",LS,,LST,0
+,1101,Lushan,,"zh,九江,庐山",LS,,LSG,0
+,705,Lishui,,"zh,南京,溧水",LS,,LDH,0
+,623,Lanshanxi,,"zh,日照,岚山西",LSX,,UWK,0
+,1607,Litang,,"zh,南宁,黎塘",LT,,LTZ,0
+,359,Lutai,,"zh,天津,芦台",LT,,LTP,0
+,2003,Lintong,,"zh,西安,临潼",LT,,LIY,0
+,1502,Letong,,"zh,广州,乐同",LT,,LEA,0
+,2302,Lingwubei,,"zh,银川,灵武北",LWB,,UWJ,0
+,602,Laiwudong,,"zh,济南,莱芜东",LWD,,LWK,0
+,1803,Luowansanjiang,,"zh,贵阳,洛湾三江",LWSJ,,KRW,0
+,1422,Lixianbei,,"zh,常德,澧县北",LXB,,LEQ,0
+,1787,Luxian,,"zh,泸州,泸县",LX,,LXE,0
+,2124,Longxi,,"zh,定西,陇西",LX,,LXJ,0
+,2005,Longxian,,"zh,宝鸡,陇县",LX,,LXY,0
+,346,Linxi,,"zh,邢台,临西",LX,,UEP,0
+,614,Laixi,,"zh,青岛,莱西",LX,,LBK,0
+,913,Lanxi,,"zh,金华,兰溪",LX,,LWH,0
+,357,Liangxiang,,"zh,北京,良乡",LX,,LAP,0
+,2007,Lueyang,,"zh,汉中,略阳",LY,,LYY,0
+,212,Liaoyang,,"zh,辽阳,辽阳",LY,,LYT,0
+,1416,Leiyang,,"zh,衡阳,耒阳",LY,,LYQ,0
+,708,Liyang,,"zh,常州,溧阳",LY,,LEH,0
+,1008,Longyan,,"zh,龙岩,龙岩",LY,,LYS,0
+,1209,Luoyang,,"zh,洛阳,洛阳",LY,,LYF,0
+,622,Linyibei,,"zh,临沂,临沂北",LYB,,UMK,0
+,704,Lianyungangdong,,"zh,连云港,连云港东",LYGD,,UKH,0
+,1209,Luoyangdong,,"zh,洛阳,洛阳东",LYD,,LDF,0
+,704,Lianyungang,,"zh,连云港,连云港",LYG,,UIH,0
+,622,Linyi,,"zh,临沂,临沂",LY,,LVK,0
+,1209,Luoyanglongmen,,"zh,洛阳,洛阳龙门",LYLM,,LLF,0
+,2107,Liuyuannan,,"zh,酒泉,柳园南",LYN,,LNR,0
+,233,Lingyuan,,"zh,朝阳,凌源",LY,,LYD,0
+,122,Liaoyuan,,"zh,辽源,辽源",LY,,LYL,0
+,2107,Liuyuan,,"zh,酒泉,柳园",LY,,DHR,0
+,1412,Lianyuan,,"zh,娄底,涟源",LY,,LAQ,0
+,326,Laiyuan,,"zh,保定,涞源",LY,,LYP,0
+,1004,Luoyuan,,"zh,福州,罗源",LY,,LVS,0
+,1416,Leiyangxi,,"zh,衡阳,耒阳西",LYX,,LPQ,0
+,1787,Luzhou,,"zh,泸州,泸州",LZ,,LUE,0
+,2754,Linzhi,,"zh,林芝,林芝",LZ,,LZO,0
+,1602,Liuzhou,,"zh,柳州,柳州",LZ,,LZZ,0
+,1806,Liuzhi,,"zh,六盘水,六枝",LZ,,LIW,0
+,1720,Langzhong,,"zh,南充,阆中",LZ,,LZE,0
+,9,Longzhen,,"zh,黑河,龙镇",LZ,,LZA,0
+,205,Liaozhong,,"zh,沈阳,辽中",LZ,,LZD,0
+,810,Maanshandong,,"zh,马鞍山,马鞍山东",MASD,,OMH,0
+,9026,Machengbei,,"zh,黄冈,麻城北",MCB,,MBN,0
+,9026,Macheng,,"zh,黄冈,麻城",MC,,MCN,0
+,1207,Mianchinan,,"zh,三门峡,渑池南",MCN,,MNF,0
+,9096,Mianduhe,,"zh,呼伦贝尔,免渡河",MDH,,MDX,0
+,9203,Moding,,"zh,磨丁,磨丁",MD,,VBM,0
+,9096,Moerdaoga,,"zh,呼伦贝尔,莫尔道嘎",MEDG,,MRX,0
+,34,Maoershan,,"zh,哈尔滨,帽儿山",MES,,MRB,0
+,34,Mershanxi,,"zh,哈尔滨,帽儿山西",MESX,,MUB,0
+,808,Mingguang,,"zh,滁州,明光",MG,,MGH,0
+,9096,Mangui,,"zh,呼伦贝尔,满归",MG,,MHX,0
+,1803,Mengguan,,"zh,贵阳,孟关",MG,,MGE,0
+,1912,Mohan,,"zh,勐腊,磨憨",MH,,MHM,0
+,3,Mohe,,"zh,加格达奇,漠河",MH,,MVX,0
+,135,Meihekou,,"zh,通化,梅河口",MHK,,MHL,0
+,2206,Minhenan,,"zh,海东,民和南",MHN,,MNO,0
+,52,Mengjiagang,,"zh,佳木斯,孟家岗",MJG,,MGB,0
+,2408,Milan,,"zh,库尔勒,米兰",ML,,MIR,0
+,1912,Mengla,,"zh,勐腊,勐腊",ML,,MWM,0
+,2501,Meilan,,"zh,海口,美兰",ML,,MHQ,0
+,1955,Mile,,"zh,蒙自,弥勒",ML,,MLM,0
+,44,Muling,,"zh,牡丹江,穆棱",ML,,MLB,0
+,1509,Maoming,,"zh,茂名,茂名",MM,,MDQ,0
+,1509,Maomingnan,,"zh,茂名,茂名南",MMN,,MRQ,0
+,1509,Maomingxi,,"zh,茂名,茂名西",MMX,,MMZ,0
+,1710,Mianning,,"zh,西昌,冕宁",MN,,UGW,0
+,2404,Manasi,,"zh,昌吉,玛纳斯",MNS,,MSR,0
+,1004,Minqingbei,,"zh,福州,闽清北",MQB,,MBS,0
+,1212,Minquan,,"zh,商丘,民权",MQ,,MQF,0
+,6711,Meishandong,,"zh,眉山,眉山东",MSD,,IUW,0
+,6740,Mingshan,,"zh,雅安,名山",MS,,MSE,0
+,26,Mishan,,"zh,鸡西,密山",MS,,MSB,0
+,1314,Miaoshan,,"zh,武汉,庙山",MS,,MSN,0
+,205,Masanjia,,"zh,沈阳,马三家",MSJ,,MJT,0
+,1802,Mawei,,"zh,都匀,麻尾",MW,,VAW,0
+,2124,Minxian,,"zh,定西,岷县",MX,,MXJ,0
+,2007,Mianxian,,"zh,汉中,勉县",MX,,MVY,0
+,2234,Mangya,,"zh,茫崖,茫崖",MY,,HTO,0
+,1703,Mianyang,,"zh,绵阳,绵阳",MY,,MYW,0
+,357,Miyunbei,,"zh,北京,密云北",MYB,,MUP,0
+,2002,Mengyuan,,"zh,渭南,孟塬",MY,,HSY,0
+,2419,Moyu,,"zh,和田,墨玉",MY,,MUR,0
+,2248,Menyuan,,"zh,海北州,门源",MY,,MYO,0
+,1407,Muyun,,"zh,长沙,暮云",MY,,KIQ,0
+,357,Miyun,,"zh,北京,密云",MY,,MYP,0
+,1513,Meizhou,,"zh,梅州,梅州",MZ,,MOQ,0
+,1222,Mengzhuang,,"zh,郑州,孟庄",MZ,,MZF,0
+,1955,Mengzi,,"zh,蒙自,蒙自",MZ,,MZM,0
+,9096,Manzhouli,,"zh,呼伦贝尔,满洲里",MZL,,MLX,0
+,1513,Meizhouxi,,"zh,梅州,梅州西",MZX,,MXA,0
+,44,Ningan,,"zh,牡丹江,宁安",NA,,NAB,0
+,110,Nongan,,"zh,长春,农安",NA,,NAT,0
+,910,Ningbodong,,"zh,宁波,宁波东",NBD,,NVH,0
+,910,Ningbo,,"zh,宁波,宁波",NB,,NGH,0
+,1720,Nanbu,,"zh,南充,南部",NB,,NBE,0
+,1222,Nancao,,"zh,郑州,南曹",NC,,NEF,0
+,1720,Nanchongbei,,"zh,南充,南充北",NCB,,NCE,0
+,1720,Nanchong,,"zh,南充,南充",NC,,NCW,0
+,1121,Nancheng,,"zh,抚州,南城",NC,,NDG,0
+,16,Nancha,,"zh,伊春,南岔",NC,,NCB,0
+,1601,Nandan,,"zh,河池,南丹",ND,,NDZ,0
+,1023,Ningde,,"zh,宁德,宁德",ND,,NES,0
+,309,Nandamiao,,"zh,承德,南大庙",NDM,,NMP,0
+,2302,Ningdongnan,,"zh,银川,宁东南",NDN,,NDJ,0
+,2302,Ningdong,,"zh,银川,宁东",ND,,NOJ,0
+,208,Nanfen,,"zh,本溪,南芬",NF,,NFT,0
+,1121,Nanfeng,,"zh,抚州,南丰",NF,,NFG,0
+,910,Ninghai,,"zh,宁波,宁海",NH,,NHH,0
+,1314,Nanhudong,,"zh,武汉,南湖东",NHD,,NDN,0
+,7,Nehe,,"zh,齐齐哈尔,讷河",NH,,NHX,0
+,233,Niuheliang,,"zh,朝阳,牛河梁",NHL,,LKT,0
+,1712,Neijiangbei,,"zh,内江,内江北",NJB,,NKW,0
+,1712,Neijiang,,"zh,内江,内江",NJ,,NJW,0
+,9,Nenjiang,,"zh,黑河,嫩江",NJ,,NGX,0
+,1803,Nanjiang,,"zh,贵阳,南江",NJ,,FIW,0
+,34,Niujia,,"zh,哈尔滨,牛家",NJ,,NJB,0
+,357,Nankou,,"zh,北京,南口",NK,,NKP,0
+,357,Niulanshan,,"zh,北京,牛栏山",NLS,,NLP,0
+,1212,Ninglingxian,,"zh,商丘,宁陵县",NLX,,NLF,0
+,507,Naiman,,"zh,通辽,奈曼",NM,,NMD,0
+,2751,Nimu,,"zh,拉萨,尼木",NM,,NMO,0
+,1002,Nanpingshi,,"zh,南平,南平市",NPS,,NOS,0
+,2007,Ningqiangnan,,"zh,汉中,宁强南",NQN,,NOY,0
+,2756,Naqu,,"zh,那曲,那曲",NQ,,NQO,0
+,1502,Nanshabei,,"zh,广州,南沙北",NSB,,QSQ,0
+,727,Nantong,,"zh,南通,南通",NT,,NUH,0
+,727,Nantongxi,,"zh,南通,南通西",NTX,,NXU,0
+,403,Ningwu,,"zh,忻州,宁武",NW,,NWV,0
+,712,Nanxiangbei,,"zh,上海,南翔北",NXB,,NEH,0
+,1501,Nanxiong,,"zh,韶关,南雄",NX,,NCQ,0
+,1407,Ningxiang,,"zh,长沙,宁乡",NX,,NXQ,0
+,1216,Nanyang,,"zh,南阳,南阳",NY,,NFF,0
+,1216,Nanyangdong,,"zh,南阳,南阳东",NYD,,NOF,0
+,1848,Nayong,,"zh,毕节,纳雍",NY,,NYE,0
+,365,Nanyu,,"zh,石家庄,南峪",NY,,NUP,0
+,1222,Nanyangzhai,,"zh,郑州,南阳寨",NYZ,,NYF,0
+,7,Nianzishan,,"zh,齐齐哈尔,碾子山",NZS,,NZX,0
+,1314,Puan,,"zh,武汉,普安",PA,,PAN,0
+,2002,Puchengdong,,"zh,渭南,蒲城东",PCD,,PEY,0
+,9014,Pingchang,,"zh,巴中,平昌",PC,,PCE,0
+,404,Pingding,,"zh,阳泉,平定",PD,,PIP,0
+,1215,Pingdingshan,,"zh,平顶山,平顶山",PDS,,PEN,0
+,614,Pingdu,,"zh,青岛,平度",PD,,PNK,0
+,614,Pingduxi,,"zh,青岛,平度西",PDX,,PAK,0
+,1215,Pingdingshanxi,,"zh,平顶山,平顶山西",PDSX,,PDF,0
+,6906,Puer,,"zh,普洱,普洱",PE,,PEM,0
+,34,Pingfang,,"zh,哈尔滨,平房",PF,,PFB,0
+,222,Panjinbei,,"zh,盘锦,盘锦北",PJB,,PBD,0
+,222,Panjin,,"zh,盘锦,盘锦",PJ,,PVD,0
+,1707,Pujiang,,"zh,成都,蒲江",PJ,,PJE,0
+,611,Penglai,,"zh,烟台,蓬莱",PL,,POK,0
+,1314,Panlongcheng,,"zh,武汉,盘龙城",PLC,,PNN,0
+,220,Pulandian,,"zh,大连,普兰店",PLD,,PLT,0
+,2111,Pingliang,,"zh,平凉,平凉",PL,,PIJ,0
+,2111,Pingliangnan,,"zh,平凉,平凉南",PLN,,POJ,0
+,1514,Puning,,"zh,揭阳,普宁",PN,,PEQ,0
+,1969,Pupiao,,"zh,保山,蒲缥",PP,,PUM,0
+,309,Pingquanbei,,"zh,承德,平泉北",PQB,,PBP,0
+,309,Pingquan,,"zh,承德,平泉",PQ,,PQP,0
+,2419,Pishan,,"zh,和田,皮山",PS,,PSR,0
+,117,Panshi,,"zh,吉林,磐石",PS,,PSL,0
+,1501,Pingshi,,"zh,韶关,坪石",PS,,PSQ,0
+,34,Pingshan,,"zh,哈尔滨,平山",PS,,PSB,0
+,1782,Pengshuixi,,"zh,彭水,彭水西",PSX,,PEE,0
+,1004,Pingtan,,"zh,福州,平潭",PT,,PIS,0
+,1032,Putian,,"zh,莆田,莆田",PT,,PTS,0
+,1113,Pingxiangbei,,"zh,萍乡,萍乡北",PXB,,PBG,0
+,1615,Pingxiang,,"zh,崇左,凭祥",PX,,PXZ,0
+,1113,Pingxiang,,"zh,萍乡,萍乡",PX,,PXG,0
+,1710,Puxiong,,"zh,西昌,普雄",PX,,POW,0
+,1707,Pixian,,"zh,成都,郫县",PX,,PWW,0
+,1707,Pixianxi,,"zh,成都,郫县西",PXX,,PCW,0
+,1294,Puyang,,"zh,濮阳,濮阳",PY,,PYF,0
+,920,Pingyang,,"zh,温州,平阳",PY,,ARH,0
+,5409,Pingyaogucheng,,"zh,晋中,平遥古城",PYGC,,PDV,0
+,1294,Puyangdong,,"zh,濮阳,濮阳东",PYD,,PUF,0
+,601,Pingyuandong,,"zh,德州,平原东",PYD,,PUK,0
+,1101,Pengze,,"zh,九江,彭泽",PZ,,PZG,0
+,1979,Puzhehei,,"zh,文山,普者黑",PZH,,PZM,0
+,1806,Panzhou,,"zh,六盘水,盘州",PZ,,PAE,0
+,1711,Panzhihua,,"zh,攀枝花,攀枝花",PZH,,PRW,0
+,1707,Pengzhou,,"zh,成都,彭州",PZ,,PMW,0
+,1711,Panzhihuanan,,"zh,攀枝花,攀枝花南",PZHN,,PNE,0
+,1707,Pengzhounan,,"zh,成都,彭州南",PZN,,PKW,0
+,15,Qingan,,"zh,绥化,庆安",QA,,QAB,0
+,1707,Qingbaijiangdong,,"zh,成都,青白江东",QBJD,,QFW,0
+,1503,Qingcheng,,"zh,清远,清城",QC,,QCA,0
+,1340,Qichun,,"zh,蕲春,蕲春",QC,,QRN,0
+,1701,Qingchuan,,"zh,广元,青川",QC,,QCE,0
+,1403,Qiancheng,,"zh,怀化,黔城",QC,,QEQ,0
+,1707,Qingchengshan,,"zh,成都,青城山",QCS,,QSW,0
+,614,Qingdao,,"zh,青岛,青岛",QD,,QDK,0
+,614,Qingdaobei,,"zh,青岛,青岛北",QDB,,QHK,0
+,904,Qiandaohu,,"zh,杭州,千岛湖",QDH,,QDU,0
+,727,Qidong,,"zh,南通,启东",QD,,QOU,0
+,614,Qingdaoxi,,"zh,青岛,青岛西",QDX,,QUK,0
+,620,Qufudong,,"zh,济宁,曲阜东",QFD,,QAK,0
+,52,Qianfeng,,"zh,佳木斯,前锋",QF,,QFB,0
+,620,Qufu,,"zh,济宁,曲阜",QF,,QFK,0
+,2506,Qionghai,,"zh,琼海,琼海",QH,,QYQ,0
+,346,Qinghecheng,,"zh,邢台,清河城",QHC,,QYP,0
+,301,Qinhuangdao,,"zh,秦皇岛,秦皇岛",QHD,,QTP,0
+,357,Qinghe,,"zh,北京,清河",QH,,QIP,0
+,357,Qinghuayuan,,"zh,北京,清华园",QHY,,QHP,0
+,1901,Qujingbei,,"zh,曲靖,曲靖北",QJB,,QBM,0
+,3128,Qijiangdong,,"zh,綦江,綦江东",QJD,,QDE,0
+,3129,Qianjiang,,"zh,黔江,黔江",QJ,,QNW,0
+,1901,Qujing,,"zh,曲靖,曲靖",QJ,,QJM,0
+,52,Qianjinzhen,,"zh,佳木斯,前进镇",QJZ,,QEB,0
+,1707,Qionglai,,"zh,成都,邛崃",QL,,QLE,0
+,1005,Qingliu,,"zh,三明,清流",QL,,QLS,0
+,7,Qiqihaer,,"zh,齐齐哈尔,齐齐哈尔",QQHE,,QHX,0
+,7,Qiqihaernan,,"zh,齐齐哈尔,齐齐哈尔南",QQHEN,,QNB,0
+,816,Qianshan,,"zh,安庆,潜山",QS,,QSU,0
+,2751,Qushuixian,,"zh,拉萨,曲水县",QSX,,QSO,0
+,23,Qitaihe,,"zh,七台河,七台河",QTH,,QTB,0
+,2313,Qingtongxia,,"zh,吴忠,青铜峡",QTX,,QTJ,0
+,23,Qitaihexi,,"zh,七台河,七台河西",QTHX,,QXB,0
+,1715,Quxian,,"zh,达州,渠县",QX,,QRW,0
+,414,Qinxian,,"zh,长治,沁县",QX,,QVV,0
+,405,Qingxu,,"zh,太原,清徐",QX,,QUV,0
+,2141,Qingyang,,"zh,庆阳,庆阳",QY,,QOJ,0
+,1503,Qingyuan,,"zh,清远,清远",QY,,QBQ,0
+,919,Qingyuan,,"zh,丽水,庆元",QY,,QYU,0
+,1608,Qinzhoudong,,"zh,钦州,钦州东",QZD,,QDZ,0
+,357,Qiaozhuangdong,,"zh,北京,乔庄东",QZD,,QEP,0
+,916,Quzhou,,"zh,衢州,衢州",QZ,,QEH,0
+,1014,Quanzhou,,"zh,泉州,泉州",QZ,,QYS,0
+,1603,Quanzhounan,,"zh,桂林,全州南",QZN,,QNZ,0
+,916,Quzhouxi,,"zh,衢州,衢州西",QZX,,QXU,0
+,1803,Qingzhenxi,,"zh,贵阳,清镇西",QZX,,QUE,0
+,1602,Rongan,,"zh,柳州,融安",RA,,RAZ,0
+,920,Ruian,,"zh,温州,瑞安",RA,,RAH,0
+,6756,Rongchangbei,,"zh,荣昌,荣昌北",RCB,,RQW,0
+,612,Rongcheng,,"zh,威海,荣成",RC,,RCK,0
+,727,Rudong,,"zh,南通,如东",RD,,RIH,0
+,2301,Rujigou,,"zh,石嘴山,汝箕沟",RJG,,RQJ,0
+,1116,Ruijin,,"zh,赣州,瑞金",RJ,,RJG,0
+,2752,Rikaze,,"zh,日喀则,日喀则",RKZ,,RKO,0
+,1515,Raoping,,"zh,潮州,饶平",RP,,RVQ,0
+,2408,Ruoqiang,,"zh,库尔勒,若羌",RQ,,RQR,0
+,612,Rushannan,,"zh,威海,乳山南",RSN,,REK,0
+,623,Rizhao,,"zh,日照,日照",RZ,,RZK,0
+,623,Rizhaoxi,,"zh,日照,日照西",RZX,,KZK,0
+,2107,Subei,,"zh,酒泉,肃北",SB,,SBJ,0
+,34,Shuangchengbei,,"zh,哈尔滨,双城北",SCB,,SBB,0
+,819,Shuchengdong,,"zh,六安,舒城东",SCD,,SDU,0
+,2410,Shache,,"zh,喀什,莎车",SC,,SCR,0
+,315,Shacheng,,"zh,张家口,沙城",SC,,SCP,0
+,1211,Songchenglu,,"zh,开封,宋城路",SCL,,SFF,0
+,34,Shuangchengpu,,"zh,哈尔滨,双城堡",SCP,,SCB,0
+,1415,Shaodong,,"zh,邵阳,邵东",SD,,FIQ,0
+,357,Shidu,,"zh,北京,十渡",SD,,SEP,0
+,1412,Shuangfengbei,,"zh,娄底,双峰北",SFB,,NFQ,0
+,16,Shuangfeng,,"zh,伊春,双丰",SF,,OFB,0
+,44,Suifenhe,,"zh,牡丹江,绥芬河",SFH,,SFB,0
+,1501,Shaoguandong,,"zh,韶关,韶关东",SGD,,SGQ,0
+,1501,Shaoguan,,"zh,韶关,韶关",SG,,SNQ,0
+,602,Shanghebei,,"zh,济南,商河北",SHB,,SOK,0
+,357,Shahe,,"zh,北京,沙河",SH,,SHP,0
+,301,Shanhaiguan,,"zh,秦皇岛,山海关",SHG,,SHD,0
+,712,Shanghaisongjiang,,"zh,上海,上海松江",SHSJ,,IMH,0
+,346,Shaheshi,,"zh,邢台,沙河市",SHS,,VOP,0
+,15,Suihua,,"zh,绥化,绥化",SH,,SHB,0
+,2405,Shihezi,,"zh,石河子,石河子",SHZ,,SZR,0
+,712,Songjiangbei,,"zh,上海,松江北",SJB,,SAH,0
+,357,Sanjiadian,,"zh,北京,三家店",SJD,,ODP,0
+,7,Sanjianfang,,"zh,齐齐哈尔,三间房",SJF,,SFX,0
+,809,Shuijiahu,,"zh,合肥,水家湖",SJH,,SQH,0
+,34,Sunjia,,"zh,哈尔滨,孙家",SJ,,SUB,0
+,34,Shenjia,,"zh,哈尔滨,沈家",SJ,,OJB,0
+,1602,Sanjiangnan,,"zh,柳州,三江南",SJN,,SWZ,0
+,357,Shijingshannan,,"zh,北京,石景山南",SJSN,,SRP,0
+,205,Sujiatun,,"zh,沈阳,苏家屯",SJT,,SXT,0
+,1602,Sanjiangxian,,"zh,柳州,三江县",SJX,,SOZ,0
+,205,Shenjingzi,,"zh,沈阳,深井子",SJZ,,SWT,0
+,2413,Sikeshu,,"zh,塔城,四棵树",SKS,,SIR,0
+,117,Shulan,,"zh,吉林,舒兰",SL,,SLL,0
+,1707,Shuangliujichang,,"zh,成都,双流机场",SLJC,,IPW,0
+,34,Shuanglonghu,,"zh,哈尔滨,双龙湖",SLH,,OHB,0
+,15,Suiling,,"zh,绥化,绥棱",SL,,SIB,0
+,1502,Shiling,,"zh,广州,狮岭",SL,,SLA,0
+,1902,Shilin,,"zh,昆明,石林",SL,,SLM,0
+,1803,Shuanglongnan,,"zh,贵阳,双龙南",SLN,,SNE,0
+,2016,Shangluo,,"zh,商洛,商洛",SL,,OLY,0
+,1707,Shuangliuxi,,"zh,成都,双流西",SLX,,IQW,0
+,1902,Shilinxi,,"zh,昆明,石林西",SLX,,SYM,0
+,34,Shenglizhen,,"zh,哈尔滨,胜利镇",SLZ,,OLB,0
+,1422,Shimenxianbei,,"zh,常德,石门县北",SMXB,,VFQ,0
+,2015,Shenmubei,,"zh,榆林,神木北",SMB,,OMV,0
+,1005,Sanmingbei,,"zh,三明,三明北",SMB,,SHS,0
+,1005,Sanming,,"zh,三明,三明",SM,,SVS,0
+,1902,Songming,,"zh,昆明,嵩明",SM,,SVM,0
+,1407,Shumuling,,"zh,长沙,树木岭",SML,,FMQ,0
+,2015,Shenmunan,,"zh,榆林,神木南",SMN,,OMY,0
+,1207,Sanmenxianan,,"zh,三门峡,三门峡南",SMXN,,SCF,0
+,2015,Shenmu,,"zh,榆林,神木",SM,,HMY,0
+,946,Sanmenxian,,"zh,台州,三门县",SMX,,OQH,0
+,1207,Sanmenxiaxi,,"zh,三门峡,三门峡西",SMXX,,SXF,0
+,1207,Sanmenxia,,"zh,三门峡,三门峡",SMX,,SMF,0
+,2016,Shangnan,,"zh,商洛,商南",SN,,ONY,0
+,1719,Suining,,"zh,遂宁,遂宁",SN,,NIW,0
+,701,Suining,,"zh,徐州,睢宁",SN,,SNU,0
+,15,Song,,"zh,绥化,宋",SON,,SOB,0
+,1502,Shipai,,"zh,广州,石牌",SP,,SPQ,0
+,1717,Shapingba,,"zh,重庆,沙坪坝",SPB,,CYW,0
+,112,Sipingdong,,"zh,四平,四平东",SPD,,PPT,0
+,1314,Shanpodong,,"zh,武汉,山坡东",SPD,,SBN,0
+,112,Siping,,"zh,四平,四平",SP,,SPT,0
+,1221,Shenqiubei,,"zh,周口,沈丘北",SQB,,SKF,0
+,773,Suqian,,"zh,宿迁,宿迁",SQ,,SQU,0
+,1212,Shangqiu,,"zh,商丘,商丘",SQ,,SQF,0
+,2006,Shiquanxian,,"zh,安康,石泉县",SQX,,SXY,0
+,208,Shiqiaozi,,"zh,本溪,石桥子",SQZ,,SQT,0
+,1106,Shangrao,,"zh,上饶,上饶",SR,,SRG,0
+,34,Shirencheng,,"zh,哈尔滨,石人城",SRC,,SRB,0
+,2402,Shanshanbei,,"zh,吐鲁番,鄯善北",SSB,,SMR,0
+,816,Susongdong,,"zh,安庆,宿松东",SSD,,SSU,0
+,809,Shushandong,,"zh,合肥,蜀山东",SSD,,HTH,0
+,1410,Shaoshan,,"zh,湘潭,韶山",SS,,SSQ,0
+,16,Shenshu,,"zh,伊春,神树",SS,,SWB,0
+,1410,Shaoshannan,,"zh,湘潭,韶山南",SSN,,INQ,0
+,816,Susong,,"zh,安庆,宿松",SS,,OAH,0
+,1801,Sansui,,"zh,凯里,三穗",SS,,QHW,0
+,1843,Songtao,,"zh,铜仁,松桃",ST,,MZQ,0
+,1516,Shantounan,,"zh,汕头,汕头南",STN,,SNA,0
+,1516,Shantou,,"zh,汕头,汕头",ST,,OTQ,0
+,1525,Shanwei,,"zh,汕尾,汕尾",SW,,OGQ,0
+,1002,Shaowu,,"zh,南平,邵武",SW,,SWS,0
+,906,Shaoxingbei,,"zh,绍兴,绍兴北",SXB,,SLH,0
+,906,Shaoxingdong,,"zh,绍兴,绍兴东",SXD,,SSH,0
+,806,Sixiandong,,"zh,宿州,泗县东",SXD,,ODU,0
+,1002,Songxi,,"zh,南平,松溪",SX,,SIS,0
+,349,Shexian,,"zh,邯郸,涉县",SX,,OEP,0
+,603,Shenxian,,"zh,聊城,莘县",SX,,SNK,0
+,906,Shaoxing,,"zh,绍兴,绍兴",SX,,SOH,0
+,2509,Sanya,,"zh,三亚,三亚",SY,,SEQ,0
+,1415,Shaoyang,,"zh,邵阳,邵阳",SY,,SYQ,0
+,1301,Shiyan,,"zh,十堰,十堰",SY,,SNN,0
+,110,Shuangyang,,"zh,长春,双阳",SY,,OYT,0
+,1301,Shiyandong,,"zh,十堰,十堰东",SYD,,OUN,0
+,357,Shunyi,,"zh,北京,顺义",SY,,SOP,0
+,1005,Sanyuanqu,,"zh,三明,三元区",SYQ,,SMS,0
+,20,Shuangyashan,,"zh,双鸭山,双鸭山",SYS,,SSB,0
+,138,Songyuan,,"zh,松原,松原",SY,,VYT,0
+,20,Shuangyashanxi,,"zh,双鸭山,双鸭山西",SYSX,,OXB,0
+,357,Shunyixi,,"zh,北京,顺义西",SYX,,IKP,0
+,1505,Shenzhenbei,,"zh,深圳,深圳北",SZB,,IOQ,0
+,710,Suzhoubei,,"zh,苏州,苏州北",SZB,,OHH,0
+,1505,Shenzhenjichang,,"zh,深圳,深圳机场",SZJC,,SCA,0
+,906,Shengzhouxinchang,,"zh,绍兴,嵊州新昌",SZXC,,SKU,0
+,1505,Shenzhendong,,"zh,深圳,深圳东",SZD,,BJQ,0
+,806,Suzhoudong,,"zh,宿州,宿州东",SZD,,SRH,0
+,237,Suizhong,,"zh,葫芦岛,绥中",SZ,,SZD,0
+,402,Shuozhou,,"zh,朔州,朔州",SZ,,SUV,0
+,1505,Shenzhen,,"zh,深圳,深圳",SZ,,SZQ,0
+,1310,Suizhou,,"zh,随州,随州",SZ,,SZN,0
+,806,Suzhou,,"zh,宿州,宿州",SZ,,OXH,0
+,710,Suzhou,,"zh,苏州,苏州",SZ,,SZH,0
+,34,Shangzhi,,"zh,哈尔滨,尚志",SZ,,SZB,0
+,1310,Suizhounan,,"zh,随州,随州南",SZN,,ONN,0
+,2301,Shizuishannan,,"zh,石嘴山,石嘴山南",SZSN,,QQJ,0
+,34,Shangzhinan,,"zh,哈尔滨,尚志南",SZN,,OZB,0
+,1505,Shenzhenpingshan,,"zh,深圳,深圳坪山",SZPS,,IFQ,0
+,3108,Shizhuxian,,"zh,石柱,石柱县",SZX,,OSW,0
+,1505,Shenzhenxi,,"zh,深圳,深圳西",SZX,,OSQ,0
+,616,Taian,,"zh,泰安,泰安",TA,,TMK,0
+,9,Tongbei,,"zh,黑河,通北",TB,,TBB,0
+,2008,Tongchuandong,,"zh,铜川,铜川东",TCD,,TCY,0
+,2413,Tacheng,,"zh,塔城,塔城",TC,,TZR,0
+,2008,Tongchuan,,"zh,铜川,铜川",TC,,TBY,0
+,7,Tangchi,,"zh,齐齐哈尔,汤池",TC,,TCX,0
+,1403,Tongdao,,"zh,怀化,通道",TD,,TRQ,0
+,1314,Tuditangdong,,"zh,武汉,土地堂东",TDTD,,TTN,0
+,9096,Taerqi,,"zh,呼伦贝尔,塔尔气",TEQ,,TVX,0
+,2002,Tongguan,,"zh,渭南,潼关",TG,,TGY,0
+,5409,Taigu,,"zh,晋中,太谷",TG,,TGV,0
+,359,Tanggu,,"zh,天津,塘沽",TG,,TGP,0
+,2402,Tuha,,"zh,吐鲁番,吐哈",TH,,THR,0
+,1904,Tonghai,,"zh,玉溪,通海",TH,,TAM,0
+,7,Taha,,"zh,齐齐哈尔,塔哈",TH,,THX,0
+,1314,Tianhejichang,,"zh,武汉,天河机场",THJC,,TJN,0
+,1114,Taihe,,"zh,吉安,泰和",TH,,THG,0
+,3,Tahe,,"zh,加格达奇,塔河",TH,,TXX,0
+,1314,Tianhejie,,"zh,武汉,天河街",THJ,,TEN,0
+,816,Taihunan,,"zh,安庆,太湖南",THN,,TAU,0
+,1803,Tianhetan,,"zh,贵阳,天河潭",THT,,TTE,0
+,135,Tonghua,,"zh,通化,通化",TH,,THL,0
+,816,Taihu,,"zh,安庆,太湖",TH,,TKH,0
+,52,Tongjiang,,"zh,佳木斯,同江",TJ,,TJB,0
+,511,Tuoketuodong,,"zh,呼和浩特,托克托东",TKTD,,TVC,0
+,7,Tailai,,"zh,齐齐哈尔,泰来",TL,,TLX,0
+,2402,Tulufanbei,,"zh,吐鲁番,吐鲁番北",TLFB,,TAR,0
+,2402,Tulufan,,"zh,吐鲁番,吐鲁番",TLF,,TFR,0
+,507,Tongliao,,"zh,通辽,通辽",TL,,TLD,0
+,813,Tongling,,"zh,铜陵,铜陵",TL,,TJH,0
+,204,Tieling,,"zh,铁岭,铁岭",TL,,TLT,0
+,16,Tieli,,"zh,伊春,铁力",TL,,TLB,0
+,904,Tonglu,,"zh,杭州,桐庐",TL,,TLU,0
+,204,Tielingxi,,"zh,铁岭,铁岭西",TLX,,PXT,0
+,138,Taolaizhao,,"zh,松原,陶赖昭",TLZ,,TPT,0
+,9097,Tumenbei,,"zh,延边,图们北",TMB,,QSL,0
+,9097,Tumen,,"zh,延边,图们",TM,,TML,0
+,1378,Tianmen,,"zh,天门,天门",TM,,TKN,0
+,946,Toumengang,,"zh,台州,头门港",TMG,,TMU,0
+,2410,Tumushuke,,"zh,喀什,图木舒克",TMSK,,TMR,0
+,1378,Tianmennan,,"zh,天门,天门南",TMN,,TNN,0
+,3122,Tongnan,,"zh,潼南,潼南",TN,,TVW,0
+,1005,Taining,,"zh,三明,泰宁",TN,,TNS,0
+,1843,Tongren,,"zh,铜仁,铜仁",TR,,RDQ,0
+,1843,Tongrennan,,"zh,铜仁,铜仁南",TRN,,TNW,0
+,304,Tangshanbei,,"zh,唐山,唐山北",TSB,,FUP,0
+,208,Tianshifu,,"zh,本溪,田师府",TSF,,TFT,0
+,616,Taishan,,"zh,泰安,泰山",TS,,TAK,0
+,304,Tangshan,,"zh,唐山,唐山",TS,,TSP,0
+,2101,Tianshui,,"zh,天水,天水",TS,,TSJ,0
+,2101,Tianshuinan,,"zh,天水,天水南",TSN,,TIJ,0
+,16,Tangwanghe,,"zh,伊春,汤旺河",TWH,,THB,0
+,1314,Tangxunhu,,"zh,武汉,汤逊湖",TXH,,THN,0
+,1715,Tuxi,,"zh,达州,土溪",TX,,TSW,0
+,210,Tongyuanpu,,"zh,丹东,通远堡",TYP,,TYT,0
+,37,Taiyangsheng,,"zh,大庆,太阳升",TYS,,TQT,0
+,102,Tongyu,,"zh,白城,通榆",TY,,KTT,0
+,1807,Tongzibei,,"zh,遵义,桐梓北",TZB,,TBE,0
+,315,Taizicheng,,"zh,张家口,太子城",TZC,,IZP,0
+,628,Tengzhoudong,,"zh,枣庄,滕州东",TZD,,TEK,0
+,1807,Tongzidong,,"zh,遵义,桐梓东",TZD,,TDE,0
+,946,Taizhou,,"zh,台州,台州",TZ,,TEU,0
+,767,Taizhou,,"zh,泰州,泰州",TZ,,UTH,0
+,946,Taizhouxi,,"zh,台州,台州西",TZX,,TZH,0
+,357,Tongzhouxi,,"zh,北京,通州西",TZX,,TAP,0
+,2504,Wenchang,,"zh,文昌,文昌",WC,,WEQ,0
+,1314,Wuchang,,"zh,武汉,武昌",WC,,WCN,0
+,34,Wuchang,,"zh,哈尔滨,五常",WC,,WCB,0
+,1301,Wudangshan,,"zh,十堰,武当山",WDS,,WRN,0
+,607,Weifang,,"zh,潍坊,潍坊",WF,,WFK,0
+,220,Wafangdian,,"zh,大连,瓦房店",WFD,,WDT,0
+,34,Wanfatun,,"zh,哈尔滨,万发屯",WFT,,WFB,0
+,220,Wafangdianxi,,"zh,大连,瓦房店西",WFDX,,WXT,0
+,34,Wanggang,,"zh,哈尔滨,王岗",WG,,WGB,0
+,2004,Wugong,,"zh,咸阳,武功",WG,,WGY,0
+,612,Weihai,,"zh,威海,威海",WH,,WKK,0
+,515,Wuhai,,"zh,乌海,乌海",WH,,IAC,0
+,807,Wuhe,,"zh,蚌埠,五河",WH,,WHU,0
+,34,Weihe,,"zh,哈尔滨,苇河",WH,,WHB,0
+,515,Wuhainan,,"zh,乌海,乌海南",WHN,,VNC,0
+,812,Wuhu,,"zh,芜湖,芜湖",WH,,WHH,0
+,515,Wuhaixi,,"zh,乌海,乌海西",WHX,,WXC,0
+,34,Weihexi,,"zh,哈尔滨,苇河西",WHX,,WIB,0
+,1707,Wenjiang,,"zh,成都,温江",WJ,,WJE,0
+,34,Wujia,,"zh,哈尔滨,五家",WJ,,WUB,0
+,110,Wukeshu,,"zh,长春,五棵树",WKS,,WKT,0
+,9011,Wulanchabu,,"zh,乌兰察布,乌兰察布",WLCB,,WPC,0
+,34,Wanle,,"zh,哈尔滨,万乐",WL,,WEB,0
+,946,Wenling,,"zh,台州,温岭",WL,,VHH,0
+,1314,Wulongquannan,,"zh,武汉,乌龙泉南",WLQN,,WFN,0
+,3130,Wulong,,"zh,武隆,武隆",WL,,WLW,0
+,1646,Wulanhaote,,"zh,兴安,乌兰浩特",WLHT,,WWT,0
+,9034,Wulashanxi,,"zh,巴彦淖尔,乌拉山西",WLSX,,WQC,0
+,2002,Weinan,,"zh,渭南,渭南",WN,,WNY,0
+,2002,Weinanbei,,"zh,渭南,渭南北",WNB,,WBY,0
+,208,Wunvshan,,"zh,本溪,五女山",WNS,,WET,0
+,2002,Weinanxi,,"zh,渭南,渭南西",WNX,,WXY,0
+,9097,Wangqing,,"zh,延边,汪清",WQ,,WQL,0
+,359,Wuqing,,"zh,天津,武清",WQ,,WWP,0
+,1759,Wusheng,,"zh,广安,武胜",WS,,WSE,0
+,1808,Weishe,,"zh,兴义,威舍",WS,,WSM,0
+,517,Wushenqi,,"zh,鄂尔多斯,乌审旗",WSQ,,WGC,0
+,2413,Wusu,,"zh,塔城,乌苏",WS,,WSR,0
+,2104,Wuweidong,,"zh,武威,武威东",WWD,,WDJ,0
+,2104,Wuwei,,"zh,武威,武威",WW,,WUJ,0
+,2104,Wuweinan,,"zh,武威,武威南",WWN,,WWJ,0
+,812,Wuweinan,,"zh,芜湖,无为南",WWN,,WWU,0
+,1320,Wuxuebei,,"zh,武穴,武穴北",WXB,,WJN,0
+,709,Wuxidong,,"zh,无锡,无锡东",WXD,,WGH,0
+,709,Wuxi,,"zh,无锡,无锡",WX,,WXH,0
+,2403,Wuxi,,"zh,乌鲁木齐,乌西",WX,,WXR,0
+,1320,Wuxue,,"zh,武穴,武穴",WX,,WXN,0
+,1607,Wuxu,,"zh,南宁,吴圩",WX,,WYZ,0
+,413,Wenxixi,,"zh,运城,闻喜西",WXX,,WOV,0
+,1002,Wuyishanbei,,"zh,南平,武夷山北",WYSB,,WBS,0
+,16,Wuying,,"zh,伊春,五营",WY,,WWB,0
+,16,Wuyiling,,"zh,伊春,乌伊岭",WYL,,WPB,0
+,1002,Wuyishan,,"zh,南平,武夷山",WYS,,WAS,0
+,2124,Weiyuan,,"zh,定西,渭源",WY,,WEJ,0
+,1106,Wuyuan,,"zh,上饶,婺源",WY,,WYG,0
+,1715,Wanyuan,,"zh,达州,万源",WY,,WYY,0
+,3102,Wanzhoubei,,"zh,万州,万州北",WZB,,WZE,0
+,1655,Wuzhou,,"zh,梧州,梧州",WZ,,WZZ,0
+,3102,Wanzhou,,"zh,万州,万州",WZ,,WYW,0
+,2313,Wuzhong,,"zh,吴忠,吴忠",WZ,,WVJ,0
+,920,Wenzhou,,"zh,温州,温州",WZ,,RZH,0
+,1655,Wuzhounan,,"zh,梧州,梧州南",WZN,,WBZ,0
+,920,Wenzhounan,,"zh,温州,温州南",WZN,,VRH,0
+,1603,Xinganbei,,"zh,桂林,兴安北",XAB,,XDZ,0
+,326,Xiongan,,"zh,保定,雄安",XA,,IQP,0
+,2003,Xianxi,,"zh,西安,西安西",XAX,,EGY,0
+,1214,Xuchangdong,,"zh,许昌,许昌东",XCD,,XVF,0
+,237,Xingcheng,,"zh,葫芦岛,兴城",XC,,XCD,0
+,814,Xuancheng,,"zh,宣城,宣城",XC,,ECH,0
+,1710,Xichang,,"zh,西昌,西昌",XC,,ECW,0
+,1214,Xuchang,,"zh,许昌,许昌",XC,,XCF,0
+,1710,Xichangxi,,"zh,西昌,西昌西",XCX,,XCE,0
+,1707,Xindudong,,"zh,成都,新都东",XDD,,EWW,0
+,34,Xiangfang,,"zh,哈尔滨,香坊",XF,,XFB,0
+,1361,Xianfeng,,"zh,恩施,咸丰",XF,,XFA,0
+,204,Xifeng,,"zh,铁岭,西丰",XF,,XFT,0
+,1803,Xifeng,,"zh,贵阳,息烽",XF,,XFW,0
+,1407,Xianfeng,,"zh,长沙,先锋",XF,,NQQ,0
+,1407,Xiangfulu,,"zh,长沙,湘府路",XFL,,FVQ,0
+,403,Xuangang,,"zh,忻州,轩岗",XG,,XGV,0
+,1313,Xiaoganbei,,"zh,孝感,孝感北",XGB,,XJN,0
+,1313,Xiaogandong,,"zh,孝感,孝感东",XGD,,GDN,0
+,3201,Hkwestkowloon,,"zh,香港,香港西九龙",XGXJL,,XJA,0
+,2102,Xigu,,"zh,兰州,西固",XG,,XIJ,0
+,2102,Xiaguanying,,"zh,兰州,夏官营",XGY,,XGJ,0
+,1715,Xuanhan,,"zh,达州,宣汉",XH,,XHY,0
+,9011,Xinghebei,,"zh,乌兰察布,兴和北",XHB,,EBC,0
+,315,Xiahuayuanbei,,"zh,张家口,下花园北",XHYB,,OKP,0
+,1412,Xinhuanan,,"zh,娄底,新化南",XHN,,EJQ,0
+,1541,Xinhui,,"zh,江门,新会",XH,,EFQ,0
+,1403,Xinhuang,,"zh,怀化,新晃",XH,,XLQ,0
+,9011,Xinghexi,,"zh,乌兰察布,兴和西",XHX,,XEC,0
+,1403,Xinhuangxi,,"zh,怀化,新晃西",XHX,,EWQ,0
+,1707,Xinjin,,"zh,成都,新津",XJ,,IRW,0
+,365,Xinji,,"zh,石家庄,辛集",XJ,,ENP,0
+,34,Xujia,,"zh,哈尔滨,徐家",XJ,,XJB,0
+,1512,Xiaojinkou,,"zh,惠州,小金口",XJK,,NKQ,0
+,1707,Xinjinnan,,"zh,成都,新津南",XJN,,ITW,0
+,365,Xinjinan,,"zh,石家庄,辛集南",XJN,,IJP,0
+,1707,Xilai,,"zh,成都,西来",XL,,XLE,0
+,365,Xinle,,"zh,石家庄,新乐",XL,,ELP,0
+,705,Xianlin,,"zh,南京,仙林",XL,,XPH,0
+,9098,Xilinhaote,,"zh,锡林郭勒,锡林浩特",XLHT,,XTC,0
+,309,Xinglongxian,,"zh,承德,兴隆县",XLX,,EXP,0
+,34,Xinglongzhen,,"zh,哈尔滨,兴隆镇",XLZ,,XZB,0
+,1010,Xiamenbei,,"zh,厦门,厦门北",XMB,,XKS,0
+,205,Xinminbei,,"zh,沈阳,新民北",XMB,,XOT,0
+,1010,Xiamen,,"zh,厦门,厦门",XM,,XMS,0
+,205,Xinmin,,"zh,沈阳,新民",XM,,XMD,0
+,1010,Xiamengaoqi,,"zh,厦门,厦门高崎",XMGQ,,XBS,0
+,1317,Xianningnan,,"zh,咸宁,咸宁南",XNN,,UNN,0
+,1707,Xipudong,,"zh,成都,犀浦东",XPD,,XAW,0
+,1403,Xupunan,,"zh,怀化,溆浦南",XPN,,EMQ,0
+,1023,Xiapu,,"zh,宁德,霞浦",XP,,XOS,0
+,1403,Xupu,,"zh,怀化,溆浦",XP,,EPQ,0
+,1707,Xipu,,"zh,成都,犀浦",XP,,XIW,0
+,1780,Xiushan,,"zh,秀山,秀山",XS,,ETW,0
+,208,Xiaoshi,,"zh,本溪,小市",XS,,XST,0
+,1307,Xingshan,,"zh,宜昌,兴山",XS,,EMN,0
+,1909,Xishuangbanna,,"zh,景洪,西双版纳",XSBN,,ENM,0
+,34,Xinsongpu,,"zh,哈尔滨,新松浦",XSP,,XOB,0
+,1379,Xiantao,,"zh,仙桃,仙桃",XT,,VTN,0
+,1410,Xiangtan,,"zh,湘潭,湘潭",XT,,XTQ,0
+,1104,Xiangtang,,"zh,南昌,向塘",XT,,XTG,0
+,346,Xingtaidong,,"zh,邢台,邢台东",XTD,,EDP,0
+,1502,Xintangnan,,"zh,广州,新塘南",XTN,,NUQ,0
+,1714,Xingwen,,"zh,宜宾,兴文",XW,,XNE,0
+,1901,Xuanwei,,"zh,曲靖,宣威",XW,,XWM,0
+,1803,Xiuwenxian,,"zh,贵阳,修文县",XWX,,XWE,0
+,806,Xiaoxianbei,,"zh,宿州,萧县北",XXB,,QSH,0
+,34,Xinxiangfangbei,,"zh,哈尔滨,新香坊北",XXFB,,RHB,0
+,1204,Xinxiangdong,,"zh,新乡,新乡东",XXD,,EGF,0
+,9010,Xiaoxi,,"zh,吕梁,孝西",XX,,XOV,0
+,2007,Xixiang,,"zh,汉中,西乡",XX,,XQY,0
+,1216,Xixia,,"zh,南阳,西峡",XX,,XIF,0
+,1204,Xinxiang,,"zh,新乡,新乡",XX,,XXF,0
+,1902,Xiaoxinjie,,"zh,昆明,小新街",XXJ,,XXM,0
+,5409,Xiyang,,"zh,晋中,昔阳",XY,,XEP,0
+,1220,Xinyang,,"zh,信阳,信阳",XY,,XUN,0
+,2006,Xunyang,,"zh,安康,旬阳",XY,,XUY,0
+,2004,Xianyang,,"zh,咸阳,咸阳",XY,,XYY,0
+,213,Xiuyan,,"zh,鞍山,岫岩",XY,,XXT,0
+,1304,Xiangyang,,"zh,襄阳,襄阳",XY,,XFN,0
+,1787,Xuyongbei,,"zh,泸州,叙永北",XYB,,XEE,0
+,1111,Xinyubei,,"zh,新余,新余北",XYB,,XBG,0
+,216,Xiongyuecheng,,"zh,营口,熊岳城",XYC,,XYT,0
+,1220,Xinyangdong,,"zh,信阳,信阳东",XYD,,OYN,0
+,1304,Xiangyangdong,,"zh,襄阳,襄阳东",XYD,,EKN,0
+,1808,Xingyi,,"zh,兴义,兴义",XY,,XRZ,0
+,1509,Xinyi,,"zh,茂名,信宜",XY,,EEQ,0
+,2501,Xiuying,,"zh,海口,秀英",XY,,XYA,0
+,1808,Xingyinan,,"zh,兴义,兴义南",XYN,,XVE,0
+,1906,Xiangyun,,"zh,大理,祥云",XY,,XQM,0
+,1111,Xinyu,,"zh,新余,新余",XY,,XUG,0
+,2004,Xianyangxi,,"zh,咸阳,咸阳西",XYX,,XOY,0
+,1222,Xinzhengjichang,,"zh,郑州,新郑机场",XZJC,,EZF,0
+,701,Xuzhoudong,,"zh,徐州,徐州东",XZD,,UUH,0
+,403,Xinzhou,,"zh,忻州,忻州",XZ,,XXV,0
+,37,Xinzhao,,"zh,大庆,新肇",XZ,,XZT,0
+,1304,Xiangzhou,,"zh,襄阳,襄州",XZ,,XWN,0
+,701,Xuzhou,,"zh,徐州,徐州",XZ,,XCH,0
+,1222,Xinzheng,,"zh,郑州,新郑",XZ,,XNF,0
+,1407,Xiangzhanglu,,"zh,长沙,香樟路",XZL,,FNQ,0
+,403,Xinzhouxi,,"zh,忻州,忻州西",XZX,,IXV,0
+,6740,Yaan,,"zh,雅安,雅安",YA,,YAE,0
+,2010,Yanan,,"zh,延安,延安",YA,,YWY,0
+,1005,Yongannan,,"zh,三明,永安南",YAN,,YQS,0
+,7,Yian,,"zh,齐齐哈尔,依安",YA,,YAX,0
+,1707,Yingbinlu,,"zh,成都,迎宾路",YBL,,YFW,0
+,34,Yabuli,,"zh,哈尔滨,亚布力",YBL,,YBB,0
+,34,Yabulinan,,"zh,哈尔滨,亚布力南",YBLN,,YWB,0
+,233,Yebaishou,,"zh,朝阳,叶柏寿",YBS,,YBD,0
+,1714,Yibinxi,,"zh,宜宾,宜宾西",YBX,,YXE,0
+,34,Yabulixi,,"zh,哈尔滨,亚布力西",YBLX,,YSB,0
+,413,Yunchengbei,,"zh,运城,运城北",YCB,,ABV,0
+,1307,Yichangbei,,"zh,宜昌,宜昌北",YCB,,ABN,0
+,739,Yanchengbei,,"zh,盐城,盐城北",YCB,,AEH,0
+,1718,Yongchuandong,,"zh,永川,永川东",YCD,,WMW,0
+,1307,Yichangdong,,"zh,宜昌,宜昌东",YCD,,HAN,0
+,1759,Yuechi,,"zh,广安,岳池",YC,,AWW,0
+,2410,Yecheng,,"zh,喀什,叶城",YC,,YER,0
+,1529,Yangchun,,"zh,阳江,阳春",YC,,YQQ,0
+,1112,Yichun,,"zh,宜春,宜春",YC,,YEG,0
+,413,Yuncheng,,"zh,运城,运城",YC,,YNV,0
+,1307,Yichang,,"zh,宜昌,宜昌",YC,,YCN,0
+,739,Yancheng,,"zh,盐城,盐城",YC,,AFH,0
+,16,Yichun,,"zh,伊春,伊春",YC,,YCB,0
+,5409,Yuci,,"zh,晋中,榆次",YC,,YCV,0
+,359,Yangcun,,"zh,天津,杨村",YC,,YBP,0
+,2102,Yongdeng,,"zh,兰州,永登",YD,,YDJ,0
+,920,Yandangshan,,"zh,温州,雁荡山",YDS,,YGH,0
+,1169,Yudu,,"zh,于都,于都",YD,,YDG,0
+,1701,Yaodu,,"zh,广元,姚渡",YD,,AOJ,0
+,1503,Yingdexi,,"zh,清远,英德西",YDX,,IIQ,0
+,1508,Yunfudong,,"zh,云浮,云浮东",YFD,,IXQ,0
+,1708,Yangang,,"zh,乐山,燕岗",YG,,YGW,0
+,413,Yongjibei,,"zh,运城,永济北",YJB,,AJV,0
+,9097,Yanji,,"zh,延边,延吉",YJ,,YJL,0
+,1529,Yangjiang,,"zh,阳江,阳江",YJ,,WRQ,0
+,413,Yongji,,"zh,运城,永济",YJ,,YIV,0
+,358,Yanjiao,,"zh,廊坊,燕郊",YJ,,AJP,0
+,2410,Yingjisha,,"zh,喀什,英吉沙",YJS,,YIR,0
+,9097,Yanjixi,,"zh,延边,延吉西",YJX,,YXL,0
+,216,Yingkoudong,,"zh,营口,营口东",YKD,,YGT,0
+,913,Yongkangnan,,"zh,金华,永康南",YKN,,QUH,0
+,216,Yingkou,,"zh,营口,营口",YK,,YKT,0
+,9096,Yakeshi,,"zh,呼伦贝尔,牙克石",YKS,,YKX,0
+,34,Yilan,,"zh,哈尔滨,依兰",YL,,YEB,0
+,1606,Yulinbei,,"zh,玉林,玉林北",YLB,,ABZ,0
+,1902,Yiliangbei,,"zh,昆明,宜良北",YLB,,YSM,0
+,2003,Yongledian,,"zh,西安,永乐店",YLD,,YDY,0
+,1606,Yulin,,"zh,玉林,玉林",YL,,YLZ,0
+,2015,Yulin,,"zh,榆林,榆林",YL,,ALY,0
+,2004,Yangling,,"zh,咸阳,杨陵",YL,,YSY,0
+,1408,Yanling,,"zh,株洲,炎陵",YL,,YAG,0
+,2003,Yanliang,,"zh,西安,阎良",YL,,YNY,0
+,1902,Yanglin,,"zh,昆明,杨林",YL,,YLM,0
+,2004,Yanglingnan,,"zh,咸阳,杨陵南",YLN,,YEY,0
+,359,Yangliuqing,,"zh,天津,杨柳青",YLQ,,YQP,0
+,2509,Yalongwan,,"zh,三亚,亚龙湾",YLW,,TWQ,0
+,1707,Yangma,,"zh,成都,羊马",YM,,YME,0
+,34,Yimianpobei,,"zh,哈尔滨,一面坡北",YMPB,,YXB,0
+,1313,Yunmengdong,,"zh,孝感,云梦东",YMD,,YRN,0
+,2107,Yumen,,"zh,酒泉,玉门",YM,,YXJ,0
+,34,Yimianpo,,"zh,哈尔滨,一面坡",YMP,,YPB,0
+,1905,Yuanmouxi,,"zh,楚雄,元谋西",YMX,,AMM,0
+,1508,Yunan,,"zh,云浮,郁南",YN,,YKQ,0
+,2482,Yiningdong,,"zh,伊宁,伊宁东",YND,,YNR,0
+,2482,Yining,,"zh,伊宁,伊宁",YN,,YMR,0
+,1002,Yanpingdong,,"zh,南平,延平东",YPD,,ADS,0
+,2007,Yangpingguan,,"zh,汉中,阳平关",YPG,,YAY,0
+,1843,Yuping,,"zh,铜仁,玉屏",YP,,YZW,0
+,1002,Yanping,,"zh,南平,延平",YP,,YPS,0
+,403,Yuanping,,"zh,忻州,原平",YP,,YPV,0
+,1002,Yanpingxi,,"zh,南平,延平西",YPX,,YWS,0
+,403,Yuanpingxi,,"zh,忻州,原平西",YPX,,IPV,0
+,404,Yangquanbei,,"zh,阳泉,阳泉北",YQB,,YPP,0
+,404,Yangquandong,,"zh,阳泉,阳泉东",YQD,,AYP,0
+,358,Yongqingdong,,"zh,廊坊,永清东",YQD,,YDI,0
+,357,Yanqihu,,"zh,北京,雁栖湖",YQH,,FGP,0
+,2408,Yanqi,,"zh,库尔勒,焉耆",YQ,,YSR,0
+,920,Yueqing,,"zh,温州,乐清",YQ,,UPH,0
+,357,Yanqing,,"zh,北京,延庆",YQ,,YNP,0
+,9010,Yangquanqu,,"zh,吕梁,阳泉曲",YQQ,,YYV,0
+,404,Yangquan,,"zh,阳泉,阳泉",YQ,,AQP,0
+,405,Yangqu,,"zh,太原,阳曲",YQ,,YQV,0
+,34,Yuquan,,"zh,哈尔滨,玉泉",YQ,,YQB,0
+,405,Yangquxi,,"zh,太原,阳曲西",YQX,,IQV,0
+,5409,Yushe,,"zh,晋中,榆社",YS,,YSV,0
+,1106,Yushan,,"zh,上饶,玉山",YS,,YNG,0
+,1720,Yingshan,,"zh,南充,营山",YS,,NUW,0
+,110,Yushu,,"zh,长春,榆树",YS,,YRT,0
+,365,Yuanshi,,"zh,石家庄,元氏",YS,,YSP,0
+,357,Yanshan,,"zh,北京,燕山",YS,,AOP,0
+,1106,Yushannan,,"zh,上饶,玉山南",YSN,,YGG,0
+,7,Yushutun,,"zh,齐齐哈尔,榆树屯",YST,,YSX,0
+,2515,Yintan,,"zh,儋州,银滩",YT,,CTQ,0
+,611,Yantai,,"zh,烟台,烟台",YT,,YAK,0
+,1105,Yingtan,,"zh,鹰潭,鹰潭",YT,,YTG,0
+,1004,Yongtai,,"zh,福州,永泰",YT,,YTS,0
+,1105,Yingtanbei,,"zh,鹰潭,鹰潭北",YTB,,YKG,0
+,9096,Yitulihe,,"zh,呼伦贝尔,伊图里河",YTLH,,YEX,0
+,2408,Yitunbulake,,"zh,库尔勒,依吞布拉克",YTBLK,,YVR,0
+,611,Yantainan,,"zh,烟台,烟台南",YTN,,YLK,0
+,117,Yantongshan,,"zh,吉林,烟筒山",YTS,,YSL,0
+,304,Yutianxian,,"zh,唐山,玉田县",YTX,,ATP,0
+,913,Yiwu,,"zh,金华,义乌",YW,,YWH,0
+,1904,Yuxi,,"zh,玉溪,玉溪",YX,,AXM,0
+,1009,Yunxiao,,"zh,漳州,云霄",YX,,YBS,0
+,228,Yixian,,"zh,锦州,义县",YX,,YXD,0
+,1316,Yangxin,,"zh,黄石,阳新",YX,,YON,0
+,709,Yixing,,"zh,无锡,宜兴",YX,,YUH,0
+,1005,Youxi,,"zh,三明,尤溪",YX,,YXS,0
+,1423,Yiyang,,"zh,益阳,益阳",YY,,AEQ,0
+,1404,Yueyang,,"zh,岳阳,岳阳",YY,,YYQ,0
+,1404,Yueyangdong,,"zh,岳阳,岳阳东",YYD,,YIQ,0
+,1423,Yiyangnan,,"zh,益阳,益阳南",YYN,,YAA,0
+,713,Yangzhoudong,,"zh,扬州,扬州东",YZD,,YDU,0
+,2509,Yazhou,,"zh,三亚,崖州",YZ,,YUQ,0
+,1426,Yongzhou,,"zh,永州,永州",YZ,,AOQ,0
+,620,Yanzhou,,"zh,济宁,兖州",YZ,,YZK,0
+,713,Yangzhou,,"zh,扬州,扬州",YZ,,YLH,0
+,357,Yizhuang,,"zh,北京,亦庄",YZ,,YUP,0
+,2102,Yuzhong,,"zh,兰州,榆中",YZ,,IZJ,0
+,1904,Yangzong,,"zh,玉溪,阳宗",YZ,,AOM,0
+,1009,Zhaoan,,"zh,漳州,诏安",ZA,,ZDS,0
+,605,Zibobei,,"zh,淄博,淄博北",ZBB,,ZRK,0
+,605,Zibo,,"zh,淄博,淄博",ZB,,ZBK,0
+,357,Zhongcang,,"zh,北京,中仓",ZC,,TOP,0
+,405,Zhenchengdi,,"zh,太原,镇城底",ZCD,,ZDV,0
+,365,Zhengdingjichang,,"zh,石家庄,正定机场",ZDJC,,ZHP,0
+,365,Zhengding,,"zh,石家庄,正定",ZD,,ZDP,0
+,1314,Zhifangdong,,"zh,武汉,纸坊东",ZFD,,ZMN,0
+,809,Zhegao,,"zh,合肥,柘皋",ZG,,ZGU,0
+,1713,Zigongbei,,"zh,自贡,自贡北",ZGB,,ZGW,0
+,1713,Zigong,,"zh,自贡,自贡",ZG,,ZGE,0
+,1567,Zhuhai,,"zh,珠海,珠海",ZH,,ZHQ,0
+,220,Zhuanghebei,,"zh,大连,庄河北",ZHB,,ZUT,0
+,1567,Zhuhaibei,,"zh,珠海,珠海北",ZHB,,ZIQ,0
+,1567,Zhuhaijichang,,"zh,珠海,珠海机场",ZHJC,,ZJA,0
+,1567,Zhuhaichanglong,,"zh,珠海,珠海长隆",ZHCL,,ZLA,0
+,705,Zhonghuamen,,"zh,南京,中华门",ZHM,,VNH,0
+,1510,Zhanjiangbei,,"zh,湛江,湛江北",ZJB,,ZMQ,0
+,2101,Zhangjiachuan,,"zh,天水,张家川",ZJC,,ZIJ,0
+,710,Zhangjiagang,,"zh,苏州,张家港",ZJG,,ZAU,0
+,1510,Zhanjiang,,"zh,湛江,湛江",ZJ,,ZJZ,0
+,1848,Zhijin,,"zh,毕节,织金",ZJ,,IZW,0
+,2007,Zhijiang,,"zh,汉中,治江",ZJ,,ZIY,0
+,1403,Zhijiang,,"zh,怀化,芷江",ZJ,,ZPQ,0
+,906,Zhuji,,"zh,绍兴,诸暨",ZJ,,ZDH,0
+,706,Zhenjiang,,"zh,镇江,镇江",ZJ,,ZJH,0
+,34,Zhoujia,,"zh,哈尔滨,周家",ZJ,,ZOB,0
+,1421,Zhangjiajie,,"zh,张家界,张家界",ZJJ,,DIQ,0
+,315,Zhangjiakou,,"zh,张家口,张家口",ZJK,,ZMP,0
+,315,Zhangjiakounan,,"zh,张家口,张家口南",ZJKN,,IXP,0
+,706,Zhenjiangnan,,"zh,镇江,镇江南",ZJN,,ZEH,0
+,1510,Zhanjiangxi,,"zh,湛江,湛江西",ZJX,,ZWQ,0
+,1421,Zhangjiajiexi,,"zh,张家界,张家界西",ZJJX,,JXA,0
+,1221,Zhoukoudong,,"zh,周口,周口东",ZKD,,ZKF,0
+,1221,Zhoukou,,"zh,周口,周口",ZK,,ZKN,0
+,102,Zhenlai,,"zh,白城,镇赉",ZL,,ZLT,0
+,2050,Zhuangli,,"zh,富平,庄里",ZL,,ZLY,0
+,1314,Zuoling,,"zh,武汉,左岭",ZL,,ZSN,0
+,9096,Zhalantun,,"zh,呼伦贝尔,扎兰屯",ZLT,,ZTX,0
+,9096,Zhalainuoerxi,,"zh,呼伦贝尔,扎赉诺尔西",ZLNEX,,ZXX,0
+,1219,Zhumadian,,"zh,驻马店,驻马店",ZMD,,ZDN,0
+,1222,Zhongmu,,"zh,郑州,中牟",ZM,,ZGF,0
+,1219,Zhumadianxi,,"zh,驻马店,驻马店西",ZMDX,,ZLN,0
+,1008,Zhangping,,"zh,龙岩,漳平",ZP,,ZPS,0
+,2410,Zepu,,"zh,喀什,泽普",ZP,,ZPR,0
+,1008,Zhangpingxi,,"zh,龙岩,漳平西",ZPX,,ZXG,0
+,602,Zhangqiubei,,"zh,济南,章丘北",ZQB,,ZVK,0
+,1507,Zhaoqingdong,,"zh,肇庆,肇庆东",ZQD,,FCQ,0
+,1507,Zhaoqing,,"zh,肇庆,肇庆",ZQ,,ZVQ,0
+,602,Zhangqiu,,"zh,济南,章丘",ZQ,,ZTK,0
+,5409,Zuoquan,,"zh,晋中,左权",ZQ,,ZNP,0
+,2016,Zhashui,,"zh,商洛,柞水",ZS,,ZSY,0
+,507,Zhusihua,,"zh,通辽,珠斯花",ZSH,,ZHD,0
+,1581,Zhongshan,,"zh,中山,中山",ZS,,ZSQ,0
+,1112,Zhangshu,,"zh,宜春,樟树",ZS,,ZSG,0
+,1843,Zhushaguzhen,,"zh,铜仁,朱砂古镇",ZSGZ,,ZSE,0
+,220,Zhoushuizi,,"zh,大连,周水子",ZSZ,,ZIT,0
+,1504,Zhongtang,,"zh,东莞,中堂",ZT,,ZTA,0
+,1908,Zhaotong,,"zh,昭通,昭通",ZT,,ZDW,0
+,2304,Zhongwei,,"zh,中卫,中卫",ZW,,ZWJ,0
+,2304,Zhongweinan,,"zh,中卫,中卫南",ZWN,,ZTJ,0
+,1908,Zhenxiong,,"zh,昭通,镇雄",ZX,,ZXE,0
+,2006,Ziyang,,"zh,安康,紫阳",ZY,,ZVY,0
+,1304,Zaoyang,,"zh,襄阳,枣阳",ZY,,ZYN,0
+,6702,Ziyangbei,,"zh,资阳,资阳北",ZYB,,FYW,0
+,2106,Zhangye,,"zh,张掖,张掖",ZY,,ZYJ,0
+,1807,Zunyi,,"zh,遵义,遵义",ZY,,ZYE,0
+,1801,Zhenyuan,,"zh,凯里,镇远",ZY,,ZUW,0
+,1807,Zunyixi,,"zh,遵义,遵义西",ZYX,,ZIW,0
+,2106,Zhangyexi,,"zh,张掖,张掖西",ZYX,,ZEJ,0
+,1712,Zizhongbei,,"zh,内江,资中北",ZZB,,WZW,0
+,1009,Zhangzhoudong,,"zh,漳州,漳州东",ZZD,,GOS,0
+,326,Zhuozhoudong,,"zh,保定,涿州东",ZZD,,ZAP,0
+,628,Zaozhuang,,"zh,枣庄,枣庄",ZZ,,ZEK,0
+,1009,Zhangzhou,,"zh,漳州,漳州",ZZ,,ZUS,0
+,1408,Zhuzhou,,"zh,株洲,株洲",ZZ,,ZZQ,0
+,621,Zhuangzhai,,"zh,菏泽,庄寨",ZZ,,VOK,0
+,1408,Zhuzhounan,,"zh,株洲,株洲南",ZZN,,KVQ,0
+,628,Zaozhuangxi,,"zh,枣庄,枣庄西",ZZX,,ZFK,0
+,1408,Zhuzhouxi,,"zh,株洲,株洲西",ZZX,,ZAQ,0
+,9098,Abagaqi,,"zh,锡林郭勒,阿巴嘎旗",ABGQ,,AQC,0
+,357,Anding,,"zh,北京,安定",AD,,ADP,0
+,2756,Anduo,,"zh,那曲,安多",AD,,ADO,0
+,102,Anguang,,"zh,白城,安广",AG,,AGT,0
+,508,Aohan,,"zh,赤峰,敖汉",AH,,YED,0
+,326,Aihe,,"zh,保定,艾河",AH,,AHP,0
+,1423,Anhua,,"zh,益阳,安化",AH,,PKQ,0
+,2313,Aijiacun,,"zh,吴忠,艾家村",AJC,,AJJ,0
+,1403,Anjiangdong,,"zh,怀化,安江东",AJD,,ADA,0
+,309,Anjiang,,"zh,承德,安匠",AJ,,MJP,0
+,2107,Akesai,,"zh,酒泉,阿克塞",AKS,,AKJ,0
+,2005,Ankouyao,,"zh,宝鸡,安口窑",AKY,,AYY,0
+,507,Aolibugao,,"zh,通辽,敖力布告",ALBG,,ALD,0
+,1808,Anlong,,"zh,兴义,安龙",AL,,AUZ,0
+,9096,Alongshan,,"zh,呼伦贝尔,阿龙山",ALS,,ASX,0
+,3,Amuer,,"zh,加格达奇,阿木尔",AME,,JTX,0
+,1905,Ananzhuang,,"zh,楚雄,阿南庄",ANZ,,AZM,0
+,1419,Anren,,"zh,郴州,安仁",AR,,ARG,0
+,403,Antang,,"zh,忻州,安塘",AT,,ATV,0
+,2411,Atushi,,"zh,阿图什,阿图什",ATS,,ATR,0
+,9097,Antu,,"zh,延边,安图",AT,,ATL,0
+,9097,Antuxi,,"zh,延边,安图西",ATX,,AXL,0
+,2409,Awati,,"zh,阿克苏,阿瓦提",AWT,,AWR,0
+,1036,Anxi,,"zh,安溪,安溪",AX,,AXS,0
+,2506,Boao,,"zh,琼海,博鳌",BA,,BWQ,0
+,9010,Baibiguan,,"zh,吕梁,白壁关",BBG,,BGV,0
+,1848,Babu,,"zh,毕节,八步",BB,,BBE,0
+,727,Bencha,,"zh,南通,栟茶",BC,,FWH,0
+,326,Bancheng,,"zh,保定,板城",BC,,BUP,0
+,359,Baodi,,"zh,天津,宝坻",BD,,BZI,0
+,359,Baodinan,,"zh,天津,宝坻南",BDN,,BOI,0
+,1215,Baofeng,,"zh,平顶山,宝丰",BF,,BFF,0
+,326,Baigou,,"zh,保定,白沟",BG,,FEP,0
+,2006,Baihedong,,"zh,安康,白河东",BHD,,BIY,0
+,739,Binhaigang,,"zh,盐城,滨海港",BHG,,BGU,0
+,706,Baohuashan,,"zh,镇江,宝华山",BHS,,BWH,0
+,2006,Baihexian,,"zh,安康,白河县",BHX,,BEY,0
+,2301,Baijigou,,"zh,石嘴山,白芨沟",BJG,,BJJ,0
+,1506,Beijiao,,"zh,佛山,北滘",BJ,,IBQ,0
+,1506,Bijiang,,"zh,佛山,碧江",BJ,,BLQ,0
+,1806,Baijipo,,"zh,六盘水,白鸡坡",BJP,,BBM,0
+,20,Bijiashan,,"zh,双鸭山,笔架山",BJS,,BSB,0
+,228,Bajiaotai,,"zh,锦州,八角台",BJT,,BTD,0
+,1506,Beijiaoxi,,"zh,佛山,北滘西",BJX,,BJA,0
+,210,Beijingzi,,"zh,丹东,北井子",BJZ,,BRT,0
+,507,Baokang,,"zh,通辽,保康",BK,,BKD,0
+,1304,Baokangxian,,"zh,襄阳,保康县",BKX,,BKN,0
+,1646,Bailang,,"zh,兴安,白狼",BL,,BAT,0
+,1512,Boluobei,,"zh,惠州,博罗北",BLB,,BLA,0
+,2407,Boledong,,"zh,博乐,博乐东",BLD,,BOR,0
+,1606,Beiliu,,"zh,玉林,北流",BL,,BOZ,0
+,44,Baolin,,"zh,牡丹江,宝林",BL,,BNB,0
+,2482,Buliekai,,"zh,伊宁,布列开",BLK,,BLR,0
+,507,Baolongshan,,"zh,通辽,宝龙山",BLS,,BND,0
+,326,Bailixia,,"zh,保定,百里峡",BLX,,AAP,0
+,208,Balidianzi,,"zh,本溪,八里甸子",BLDZ,,BLT,0
+,1712,Baimabei,,"zh,内江,白马北",BMB,,BME,0
+,204,Bamiancheng,,"zh,铁岭,八面城",BMC,,BMD,0
+,309,Beimajuanzi,,"zh,承德,北马圈子",BMQZ,,BRP,0
+,309,Baiqi,,"zh,承德,白旗",BQ,,BQP,0
+,122,Baiquan,,"zh,辽源,白泉",BQ,,BQL,0
+,9040,Bishan,,"zh,璧山,璧山",BS,,FZW,0
+,2007,Bashan,,"zh,汉中,巴山",BS,,BAY,0
+,2007,Baishuijiang,,"zh,汉中,白水江",BSJ,,BSY,0
+,1316,Baishapu,,"zh,黄石,白沙铺",BSP,,BSN,0
+,1901,Baishapo,,"zh,曲靖,白沙坡",BSP,,BPM,0
+,2002,Baishuixian,,"zh,渭南,白水县",BSX,,BGY,0
+,1901,Baishuizhen,,"zh,曲靖,白水镇",BSZ,,BUM,0
+,1410,Bantang,,"zh,湘潭,板塘",BT,,NGQ,0
+,1806,Baotian,,"zh,六盘水,保田",BT,,BTE,0
+,1505,Bantian,,"zh,深圳,坂田",BT,,BTQ,0
+,334,Botou,,"zh,沧州,泊头",BT,,BZP,0
+,326,Beitun,,"zh,保定,北屯",BT,,BYP,0
+,233,Batuying,,"zh,朝阳,巴图营",BTY,,BWT,0
+,9010,Baiwendong,,"zh,吕梁,白文东",BWD,,BCV,0
+,208,Benxixincheng,,"zh,本溪,本溪新城",BXXC,,BVT,0
+,690,Boxing,,"zh,滨州,博兴",BX,,BXK,0
+,507,Baxiantong,,"zh,通辽,八仙筒",BXT,,VXD,0
+,1502,Baiyunjichangdong,,"zh,广州,白云机场东",BYJCD,,BDA,0
+,9011,Baiyinchagan,,"zh,乌兰察布,白音察干",BYCG,,BYC,0
+,1502,Baiyunhu,,"zh,广州,白云湖",BYH,,BHA,0
+,713,Baoying,,"zh,扬州,宝应",BY,,BAU,0
+,507,Baiyintala,,"zh,通辽,白音他拉",BYTL,,BID,0
+,1646,Baiyinhuanan,,"zh,兴安,白音华南",BYHN,,BOD,0
+,1502,Baiyunjichangnan,,"zh,广州,白云机场南",BYJCN,,BNA,0
+,1646,Baiyinhushuo,,"zh,兴安,白音胡硕",BYHS,,BCD,0
+,2103,Baiyinshi,,"zh,白银,白银市",BYS,,BNJ,0
+,9034,Baiyanhuaxi,,"zh,巴彦淖尔,白彦花西",BYHX,,FPC,0
+,358,Bazhoubei,,"zh,廊坊,霸州北",BZB,,VPP,0
+,2004,Binzhou,,"zh,咸阳,彬州",BZ,,BXY,0
+,358,Bazhou,,"zh,廊坊,霸州",BZ,,RMP,0
+,357,Beizhai,,"zh,北京,北宅",BZ,,BVP,0
+,9014,Bazhongxi,,"zh,巴中,巴中西",BZX,,BZE,0
+,358,Bazhouxi,,"zh,廊坊,霸州西",BZX,,FOP,0
+,1504,Changan,,"zh,东莞,长安",CA,,CAA,0
+,1515,Chaoan,,"zh,潮州,潮安",CA,,CMQ,0
+,1504,Changanxi,,"zh,东莞,长安西",CAX,,CXA,0
+,1317,Chibibei,,"zh,咸宁,赤壁北",CBB,,CIN,0
+,2002,Chengcheng,,"zh,渭南,澄城",CC,,CUY,0
+,2103,Changcheng,,"zh,白银,长城",CC,,CEJ,0
+,1506,Chencun,,"zh,佛山,陈村",CC,,CVA,0
+,1502,Cencun,,"zh,广州,岑村",CC,,CPQ,0
+,309,Chengdexianbei,,"zh,承德,承德县北",CDXB,,IYP,0
+,309,Chengdedong,,"zh,承德,承德东",CDD,,CCP,0
+,2007,Chenggubei,,"zh,汉中,城固北",CGB,,CBY,0
+,1214,Changge,,"zh,许昌,长葛",CG,,CEF,0
+,138,Chaganhu,,"zh,松原,查干湖",CGH,,VAT,0
+,1808,Ceheng,,"zh,兴义,册亨",CH,,CHZ,0
+,1581,Cuiheng,,"zh,中山,翠亨",CH,,IHQ,0
+,208,Caohekou,,"zh,本溪,草河口",CHK,,CKT,0
+,359,Cuihuangkou,,"zh,天津,崔黄口",CHK,,CHP,0
+,138,Caijiagou,,"zh,松原,蔡家沟",CJG,,CJT,0
+,9096,Chengjisihan,,"zh,呼伦贝尔,成吉思汗",CJSH,,CJX,0
+,1808,Chajiang,,"zh,兴义,岔江",CJ,,CAM,0
+,1512,Chenjiangnan,,"zh,惠州,陈江南",CJN,,KKQ,0
+,2005,Caijiapo,,"zh,宝鸡,蔡家坡",CJP,,CJY,0
+,2419,Cele,,"zh,和田,策勒",CL,,CLR,0
+,607,Changle,,"zh,潍坊,昌乐",CL,,CLK,0
+,309,Chaolianggou,,"zh,承德,超梁沟",CLG,,CYP,0
+,1408,Chalingnan,,"zh,株洲,茶陵南",CLN,,CNG,0
+,220,Changlingzi,,"zh,大连,长岭子",CLZ,,CLT,0
+,1516,Chaonan,,"zh,汕头,潮南",CN,,CHA,0
+,1714,Changning,,"zh,宜宾,长宁",CN,,CNE,0
+,2304,Changnong,,"zh,中卫,长农",CN,,CNJ,0
+,1504,Changping,,"zh,东莞,常平",CP,,DAQ,0
+,1901,Changpoling,,"zh,曲靖,长坡岭",CPL,,CPM,0
+,1504,Changpingnan,,"zh,东莞,常平南",CPN,,FPQ,0
+,603,Chipingnan,,"zh,聊城,茌平南",CPN,,CPK,0
+,1806,Changqing,,"zh,六盘水,长箐",CQ,,CQE,0
+,9,Chenqing,,"zh,黑河,辰清",CQ,,CQB,0
+,3127,Changshou,,"zh,长寿,长寿",CS,,EFW,0
+,3127,Changshouhu,,"zh,长寿,长寿湖",CSH,,CSE,0
+,9026,Caishan,,"zh,黄冈,蔡山",CS,,CON,0
+,349,Cishan,,"zh,邯郸,磁山",CS,,CSP,0
+,916,Changshan,,"zh,衢州,常山",CS,,CSU,0
+,710,Changshu,,"zh,苏州,常熟",CS,,CAU,0
+,44,Chushan,,"zh,牡丹江,楚山",CS,,CSB,0
+,138,Changshantun,,"zh,松原,长山屯",CST,,CVT,0
+,1053,Changting,,"zh,长汀,长汀",CT,,CES,0
+,1529,Chunwan,,"zh,阳江,春湾",CW,,CQQ,0
+,1655,Cenxi,,"zh,梧州,岑溪",CX,,CNZ,0
+,901,Changxing,,"zh,湖州,长兴",CX,,CBH,0
+,349,Cixi,,"zh,邯郸,磁西",CX,,CRP,0
+,616,Ciyao,,"zh,泰安,磁窑",CY,,CYK,0
+,1307,Changyang,,"zh,宜昌,长阳",CY,,CYN,0
+,614,Chengyang,,"zh,青岛,城阳",CY,,CEK,0
+,37,Chuangyecun,,"zh,大庆,创业村",CYC,,CEX,0
+,607,Changyi,,"zh,潍坊,昌邑",CY,,CRK,0
+,233,Chaoyangnan,,"zh,朝阳,朝阳南",CYN,,CYD,0
+,1204,Changyuan,,"zh,新乡,长垣",CY,,CYF,0
+,135,Chaoyangzhen,,"zh,通化,朝阳镇",CYZ,,CZL,0
+,2053,Chenzhuang,,"zh,蒲城,陈庄",CZ,,CZY,0
+,1515,Chaozhou,,"zh,潮州,潮州",CZ,,CKQ,0
+,359,Caozili,,"zh,天津,曹子里",CZL,,CFP,0
+,414,Changzhinan,,"zh,长治,长治南",CZN,,CAF,0
+,220,Chengzitan,,"zh,大连,城子坦",CZT,,CWT,0
+,1901,Chezhuanwan,,"zh,曲靖,车转湾",CZW,,CWM,0
+,1601,Duan,,"zh,河池,都安",DA,,RUZ,0
+,102,Daan,,"zh,白城,大安",DA,,RAT,0
+,1101,Dean,,"zh,九江,德安",DA,,DAG,0
+,2303,Daba,,"zh,青铜峡,大坝",DB,,DBJ,0
+,1610,Debao,,"zh,百色,德保",DB,,RBZ,0
+,102,Daobao,,"zh,白城,到保",DB,,RBT,0
+,226,Daba,,"zh,阜新,大巴",DB,,DBD,0
+,1509,Dianbai,,"zh,茂名,电白",DB,,NWQ,0
+,508,Daban,,"zh,赤峰,大板",DB,,DBC,0
+,15,Dongbianjing,,"zh,绥化,东边井",DBJ,,DBB,0
+,1646,Debosi,,"zh,兴安,德伯斯",DBS,,RDT,0
+,2104,Dachaigou,,"zh,武威,打柴沟",DCG,,DGJ,0
+,1710,Dechang,,"zh,西昌,德昌",DC,,DVW,0
+,358,Dachang,,"zh,廊坊,大厂",DC,,DCI,0
+,1101,Duchang,,"zh,九江,都昌",DC,,DCG,0
+,1504,Dongchengnan,,"zh,东莞,东城南",DCN,,IYQ,0
+,1710,Dechangxi,,"zh,西昌,德昌西",DCX,,DXE,0
+,26,Didao,,"zh,鸡西,滴道",DD,,DDB,0
+,2301,Dadenggou,,"zh,石嘴山,大磴沟",DDG,,DKJ,0
+,237,Dongdaihe,,"zh,葫芦岛,东戴河",DDH,,RDD,0
+,210,Dandongxi,,"zh,丹东,丹东西",DDX,,RWT,0
+,9096,Deerbuer,,"zh,呼伦贝尔,得耳布尔",DEBE,,DRX,0
+,52,Dongerdaohe,,"zh,佳木斯,东二道河",DEDH,,DRB,0
+,37,Duerbote,,"zh,大庆,杜尔伯特",DEBT,,TKX,0
+,1848,Dafang,,"zh,毕节,大方",DF,,DFE,0
+,122,Dongfeng,,"zh,辽源,东丰",DF,,DIL,0
+,1806,Duge,,"zh,六盘水,都格",DG,,DMM,0
+,1504,Dongguangang,,"zh,东莞,东莞港",DGG,,DGA,0
+,706,Dagangnan,,"zh,镇江,大港南",DGN,,DNU,0
+,206,Daguantun,,"zh,抚顺,大官屯",DGT,,DTT,0
+,334,Dongguang,,"zh,沧州,东光",DG,,DGP,0
+,26,Donghai,,"zh,鸡西,东海",DH,,DHB,0
+,315,Donghuayuanbei,,"zh,张家口,东花园北",DHYB,,QBP,0
+,357,Dahuichang,,"zh,北京,大灰厂",DHC,,DHP,0
+,1507,Dinghudong,,"zh,肇庆,鼎湖东",DHD,,UWQ,0
+,1507,Dinghushan,,"zh,肇庆,鼎湖山",DHS,,NVQ,0
+,1467,Shaodong,,"zh,邵东,大禾塘",DH,,SOQ,0
+,1502,Donghuan,,"zh,广州,东环",DH,,DHA,0
+,704,Donghaixian,,"zh,连云港,东海县",DHX,,DQH,0
+,15,Dongjin,,"zh,绥化,东津",DJ,,DKB,0
+,1301,Danjiangkou,,"zh,十堰,丹江口",DJK,,DON,0
+,614,Dongjiakou,,"zh,青岛,董家口",DJK,,DTK,0
+,9034,Dengkou,,"zh,巴彦淖尔,磴口",DK,,RKC,0
+,359,Dakoutun,,"zh,天津,大口屯",DKT,,DKP,0
+,507,Donglai,,"zh,通辽,东来",DL,,RVD,0
+,507,Dalin,,"zh,通辽,大林",DL,,DLD,0
+,16,Dailing,,"zh,伊春,带岭",DL,,DLB,0
+,517,Dalateqi,,"zh,鄂尔多斯,达拉特旗",DLTQ,,DIC,0
+,403,Douluo,,"zh,忻州,豆罗",DL,,DLV,0
+,517,Dalatexi,,"zh,鄂尔多斯,达拉特西",DLTX,,DNC,0
+,220,Dalianxi,,"zh,大连,大连西",DLX,,GZT,0
+,1504,Dalangzhen,,"zh,东莞,大朗镇",DLZ,,KOQ,0
+,507,Dongmingcun,,"zh,通辽,东明村",DMC,,DMD,0
+,309,Dongmiaohe,,"zh,承德,洞庙河",DMH,,DEP,0
+,233,Dapingfang,,"zh,朝阳,大平房",DPF,,DPD,0
+,326,Dapanshi,,"zh,保定,大盘石",DPS,,RPP,0
+,9096,Daqilaha,,"zh,呼伦贝尔,大其拉哈",DQLH,,DQX,0
+,901,Deqing,,"zh,湖州,德清",DQ,,DRH,0
+,946,Duqiao,,"zh,台州,杜桥",DQ,,DQU,0
+,901,Deqingxi,,"zh,湖州,德清西",DQX,,MOH,0
+,517,Dongshengdong,,"zh,鄂尔多斯,东胜东",DSD,,RSC,0
+,1502,Dashidong,,"zh,广州,大石东",DSD,,RHQ,0
+,1581,Dongsheng,,"zh,中山,东升",DS,,DRQ,0
+,220,Dengshahe,,"zh,大连,登沙河",DSH,,DWT,0
+,806,Dangshan,,"zh,宿州,砀山",DS,,DKH,0
+,9097,Dashitounan,,"zh,延边,大石头南",DSTN,,DAL,0
+,1646,Dashizhai,,"zh,兴安,大石寨",DSZ,,RZT,0
+,212,Dengta,,"zh,辽阳,灯塔",DT,,DGT,0
+,621,Dingtao,,"zh,菏泽,定陶",DT,,DQK,0
+,739,Dongtai,,"zh,盐城,东台",DT,,DBH,0
+,1901,Datianbian,,"zh,曲靖,大田边",DTB,,DBM,0
+,810,Dangtudong,,"zh,马鞍山,当涂东",DTD,,OWH,0
+,706,Dantu,,"zh,镇江,丹徒",DT,,RUH,0
+,2103,Dongwan,,"zh,白银,东湾",DW,,DRJ,0
+,1507,Dawang,,"zh,肇庆,大旺",DW,,WWQ,0
+,2109,Diwopu,,"zh,玉门,低窝铺",DWP,,DWJ,0
+,1106,Dexingdong,,"zh,上饶,德兴东",DXD,,DDG,0
+,1106,Dexing,,"zh,上饶,德兴",DX,,DWG,0
+,403,Dingxiang,,"zh,忻州,定襄",DX,,DXV,0
+,403,Daixian,,"zh,忻州,代县",DX,,DKV,0
+,1905,Dianxin,,"zh,楚雄,甸心",DX,,DXM,0
+,1501,Danxiashan,,"zh,韶关,丹霞山",DXS,,IRQ,0
+,349,Dongxu,,"zh,邯郸,东戌",DX,,RXP,0
+,914,Dayang,,"zh,建德,大洋",DY,,DUU,0
+,9096,Dayan,,"zh,呼伦贝尔,大雁",DY,,DYX,0
+,208,Dayang,,"zh,本溪,大阳",DY,,RET,0
+,706,Danyangbei,,"zh,镇江,丹阳北",DYB,,EXH,0
+,913,Dongyangbei,,"zh,金华,东阳北",DYB,,DIU,0
+,808,Dingyuandong,,"zh,滁州,定远东",DYD,,DEU,0
+,403,Dongyudi,,"zh,忻州,东淤地",DYD,,DBV,0
+,403,Daying,,"zh,忻州,大营",DY,,DYV,0
+,808,Dingyuan,,"zh,滁州,定远",DY,,EWH,0
+,402,Daiyue,,"zh,朔州,岱岳",DY,,RYV,0
+,1116,Dayu,,"zh,赣州,大余",DY,,DYG,0
+,1502,Dayuan,,"zh,广州,大源",DY,,DFQ,0
+,1306,Dangyangxi,,"zh,当阳,当阳西",DYX,,DXN,0
+,339,Dayingzhen,,"zh,衡水,大营镇",DYZ,,DJP,0
+,2304,Dazhanchang,,"zh,中卫,大战场",DZC,,DTJ,0
+,9010,Duizhen,,"zh,吕梁,兑镇",DZ,,DWV,0
+,1426,Daozhou,,"zh,永州,道州",DZ,,DFZ,0
+,413,Dongzhen,,"zh,运城,东镇",DZ,,DNV,0
+,403,Dongzhuang,,"zh,忻州,东庄",DZ,,DZV,0
+,1507,Duanzhou,,"zh,肇庆,端州",DZ,,WZQ,0
+,1403,Dizhuang,,"zh,怀化,低庄",DZ,,DVQ,0
+,349,Douzhuang,,"zh,邯郸,豆庄",DZ,,ROP,0
+,3118,Dazunan,,"zh,大足,大足南",DZN,,FQW,0
+,2006,Dazhuyuan,,"zh,安康,大竹园",DZY,,DZY,0
+,309,Dazhangzi,,"zh,承德,大杖子",DZZ,,DAP,0
+,309,Erdaogoumen,,"zh,承德,二道沟门",EDGM,,RDP,0
+,7,Erdaowan,,"zh,齐齐哈尔,二道湾",EDW,,RDX,0
+,9,Erlongshantun,,"zh,黑河,二龙山屯",ELST,,ELA,0
+,135,Ermihe,,"zh,通化,二密河",EMH,,RML,0
+,2413,Emin,,"zh,塔城,额敏",EM,,EMR,0
+,1541,Enping,,"zh,江门,恩平",EP,,PXQ,0
+,1983,Eshan,,"zh,峨山,峨山",ES,,EVM,0
+,2315,Erying,,"zh,固原,二营",EY,,RYJ,0
+,1315,Ezhoudong,,"zh,鄂州,鄂州东",EZD,,EFN,0
+,1023,Fuan,,"zh,宁德,福安",FA,,FAS,0
+,1112,Fengchengdong,,"zh,宜春,丰城东",FCD,,FIG,0
+,210,Fengchengdong,,"zh,丹东,凤城东",FCD,,FDT,0
+,6618,Fuchuan,,"zh,贺州,富川",FC,,FDZ,0
+,1112,Fengcheng,,"zh,宜春,丰城",FC,,FCG,0
+,1216,Fangcheng,,"zh,南阳,方城",FC,,FNF,0
+,1112,Fengchengnan,,"zh,宜春,丰城南",FCN,,FNG,0
+,812,Fanchangxi,,"zh,芜湖,繁昌西",FCX,,PUH,0
+,1221,Fugounan,,"zh,周口,扶沟南",FGN,,FGF,0
+,7,Fuhai,,"zh,齐齐哈尔,富海",FH,,FHX,0
+,1402,Fenghuanggucheng,,"zh,吉首,凤凰古城",FHGC,,FCA,0
+,1505,Fuhaixi,,"zh,深圳,福海西",FHX,,FHA,0
+,3113,Fengjie,,"zh,奉节,奉节",FJ,,FJE,0
+,1316,Fenglin,,"zh,黄石,枫林",FL,,FLN,0
+,20,Fulitun,,"zh,双鸭山,福利屯",FLT,,FTB,0
+,20,Fenglezhen,,"zh,双鸭山,丰乐镇",FLZ,,FZB,0
+,804,Funan,,"zh,阜阳,阜南",FN,,FNH,0
+,301,Funing,,"zh,秦皇岛,抚宁",FN,,FNP,0
+,739,Funing,,"zh,盐城,阜宁",FN,,AKH,0
+,739,Funingnan,,"zh,盐城,阜宁南",FNN,,FNU,0
+,2050,Fuping,,"zh,富平,富平",FP,,FPY,0
+,2007,Foping,,"zh,汉中,佛坪",FP,,FUY,0
+,2002,Fupingnan,,"zh,渭南,富平南",FPN,,FBY,0
+,1848,Faqi,,"zh,毕节,法启",FQ,,FQE,0
+,1004,Fuqingxi,,"zh,福州,福清西",FQX,,FVS,0
+,1402,Furongzhen,,"zh,吉首,芙蓉镇",FRZ,,FRA,0
+,611,Fushanbei,,"zh,烟台,福山北",FSB,,YTK,0
+,1513,Fengshundong,,"zh,梅州,丰顺东",FSD,,FDA,0
+,1513,Fengshun,,"zh,梅州,丰顺",FS,,FUQ,0
+,403,Fanshi,,"zh,忻州,繁峙",FS,,FSV,0
+,611,Fushan,,"zh,烟台,福山",FS,,FUK,0
+,1717,Fusheng,,"zh,重庆,复盛",FS,,FAW,0
+,326,Fushankou,,"zh,保定,福山口",FSK,,FKP,0
+,1615,Fusuinan,,"zh,崇左,扶绥南",FSN,,FNZ,0
+,136,Fusong,,"zh,白山,抚松",FS,,FSL,0
+,2502,Fushanzhen,,"zh,澄迈,福山镇",FSZ,,FZQ,0
+,805,Fengtainan,,"zh,淮南,凤台南",FTN,,FTU,0
+,7,Fengtun,,"zh,齐齐哈尔,冯屯",FT,,FTX,0
+,326,Futuyu,,"zh,保定,浮图峪",FTY,,FYP,0
+,2010,Fuxianbei,,"zh,延安,富县北",FXB,,FSY,0
+,622,Feixianbei,,"zh,临沂,费县北",FXB,,FBK,0
+,2010,Fuxiandong,,"zh,延安,富县东",FXD,,FDY,0
+,2010,Fuxian,,"zh,延安,富县",FX,,FEY,0
+,622,Feixian,,"zh,临沂,费县",FX,,FXK,0
+,9010,Fenyang,,"zh,吕梁,汾阳",FY,,FAV,0
+,864,Fengyang,,"zh,凤阳,凤阳",FY,,FUH,0
+,1901,Fuyuanbei,,"zh,曲靖,富源北",FYB,,FBM,0
+,138,Fuyu,,"zh,松原,扶余",FY,,FYT,0
+,9011,Fengzhenbei,,"zh,乌兰察布,丰镇北",FZB,,FFC,0
+,1121,Fuzhoubei,,"zh,抚州,抚州北",FZB,,FBG,0
+,1121,Fuzhoudong,,"zh,抚州,抚州东",FZD,,FDG,0
+,616,Fanzhen,,"zh,泰安,范镇",FZ,,VZK,0
+,358,Guandong,,"zh,廊坊,固安东",GAD,,GQP,0
+,358,Guan,,"zh,廊坊,固安",GA,,GFP,0
+,326,Gaobeidiandong,,"zh,保定,高碑店东",GBDD,,GMP,0
+,326,Gaobeidian,,"zh,保定,高碑店",GBD,,GBP,0
+,228,Goubangzi,,"zh,锦州,沟帮子",GBZ,,GBD,0
+,1304,Guchengbei,,"zh,襄阳,谷城北",GCB,,GBN,0
+,802,Guchengdong,,"zh,亳州,古城东",GCD,,GUU,0
+,1603,Gongcheng,,"zh,桂林,恭城",GC,,GCZ,0
+,1304,Gucheng,,"zh,襄阳,谷城",GC,,GCN,0
+,44,Guchengzhen,,"zh,牡丹江,古城镇",GCZ,,GZB,0
+,1802,Guidingbei,,"zh,都匀,贵定北",GDB,,FMW,0
+,814,Guangde,,"zh,宣城,广德",GD,,GRH,0
+,1802,Guiding,,"zh,都匀,贵定",GD,,GTW,0
+,814,Guangdenan,,"zh,宣城,广德南",GDN,,GNU,0
+,1315,Gediannan,,"zh,鄂州,葛店南",GDN,,GNN,0
+,1802,Guidingxian,,"zh,都匀,贵定县",GDX,,KIW,0
+,9104,Gangga,,"zh,岗嘎,岗嘎",GG,,GAO,0
+,2723,Gongga,,"zh,贡嘎,贡嘎",GG,,GGO,0
+,357,Guangao,,"zh,北京,官高",GG,,GVP,0
+,1646,Gegenmiao,,"zh,兴安,葛根庙",GGM,,GGT,0
+,1704,Guanghanbei,,"zh,德阳,广汉北",GHB,,GVW,0
+,9096,Ganhe,,"zh,呼伦贝尔,甘河",GH,,GAX,0
+,1949,Gejiu,,"zh,个旧,个旧",GJ,,JJM,0
+,2104,Gulang,,"zh,武威,古浪",GL,,GLJ,0
+,1909,Ganlanba,,"zh,景洪,橄榄坝",GLB,,GVM,0
+,2104,Gulangbei,,"zh,武威,古浪北",GLB,,GBJ,0
+,1805,Guanling,,"zh,安顺,关岭",GL,,GLE,0
+,1209,Guanlin,,"zh,洛阳,关林",GL,,GLF,0
+,2003,Gaoling,,"zh,西安,高陵",GL,,GGY,0
+,1710,Ganluonan,,"zh,西昌,甘洛南",GLN,,GNE,0
+,1603,Guilinxi,,"zh,桂林,桂林西",GLX,,GEZ,0
+,315,Guoleizhuang,,"zh,张家口,郭磊庄",GLZ,,GLP,0
+,607,Gaomibei,,"zh,潍坊,高密北",GMB,,GVK,0
+,1505,Guangmingcheng,,"zh,深圳,光明城",GMC,,IMQ,0
+,607,Gaomi,,"zh,潍坊,高密",GM,,GMK,0
+,704,Guannan,,"zh,连云港,灌南",GN,,GIU,0
+,1507,Guangning,,"zh,肇庆,广宁",GN,,FBQ,0
+,220,Guangningsinan,,"zh,大连,广宁寺南",GNN,,GNT,0
+,220,Guangningsi,,"zh,大连,广宁寺",GNS,,GQT,0
+,415,Gaopingdong,,"zh,晋城,高平东",GPD,,GVF,0
+,1361,Gaoping,,"zh,恩施,高坪",GP,,GGN,0
+,349,Guangping,,"zh,邯郸,广平",GP,,GPP,0
+,415,Gaoping,,"zh,晋城,高平",GP,,GPF,0
+,2010,Ganquanbei,,"zh,延安,甘泉北",GQB,,GEY,0
+,1502,Guanqiaobei,,"zh,广州,官桥北",GQB,,GQA,0
+,507,Ganqika,,"zh,通辽,甘旗卡",GQK,,GQD,0
+,2010,Ganquan,,"zh,延安,甘泉",GQ,,GQY,0
+,3128,Ganshuidong,,"zh,綦江,赶水东",GSD,,GDE,0
+,1220,Guangshan,,"zh,信阳,光山",GS,,GUN,0
+,210,Guanshui,,"zh,丹东,灌水",GS,,GST,0
+,357,Gushankou,,"zh,北京,孤山口",GSK,,GSP,0
+,2006,Gaotan,,"zh,安康,高滩",GT,,GAY,0
+,2106,Gaotai,,"zh,张掖,高台",GT,,GTJ,0
+,1023,Gutianbei,,"zh,宁德,古田北",GTB,,GBS,0
+,1023,Gutian,,"zh,宁德,古田",GT,,GTS,0
+,315,Guanting,,"zh,张家口,官厅",GT,,GTP,0
+,2106,Gaotainan,,"zh,张掖,高台南",GTN,,GAJ,0
+,315,Guantingxi,,"zh,张家口,官厅西",GTX,,KEP,0
+,1116,Ganxianbei,,"zh,赣州,赣县北",GXB,,GIG,0
+,1105,Guixi,,"zh,鹰潭,贵溪",GX,,GXG,0
+,802,Guoyang,,"zh,亳州,涡阳",GY,,GYH,0
+,713,Gaoyoubei,,"zh,扬州,高邮北",GYB,,GEU,0
+,701,Guanyinjichang,,"zh,徐州,观音机场",GYJC,,GCU,0
+,713,Gaoyou,,"zh,扬州,高邮",GY,,GAU,0
+,704,Guanyun,,"zh,连云港,灌云",GY,,GOU,0
+,233,Gongyingzi,,"zh,朝阳,公营子",GYZ,,GYD,0
+,1502,Guangzhoudaxuecheng,,"zh,广州,广州大学城",GZDXC,,GCQ,0
+,1002,Guangze,,"zh,南平,光泽",GZ,,GZS,0
+,1908,Guozhu,,"zh,昭通,果珠",GZ,,GZE,0
+,1581,Guzhen,,"zh,中山,古镇",GZ,,GNQ,0
+,2005,Guozhen,,"zh,宝鸡,虢镇",GZ,,GZY,0
+,216,Gaizhou,,"zh,营口,盖州",GZ,,GXT,0
+,2107,Guazhou,,"zh,酒泉,瓜州",GZ,,GZJ,0
+,807,Guzhen,,"zh,蚌埠,固镇",GZ,,GEH,0
+,138,Guanzijing,,"zh,松原,官字井",GZJ,,GOT,0
+,1502,Guangzhouchanglong,,"zh,广州,广州长隆",GZCL,,GCA,0
+,1008,Guanzhaishannan,,"zh,龙岩,冠豸山南",GZN,,GSS,0
+,1502,Guangzhoulianhuashan,,"zh,广州,广州莲花山",GZLHS,,GLA,0
+,1402,Guzhangxi,,"zh,吉首,古丈西",GZX,,GXA,0
+,9026,Hongan,,"zh,黄冈,红安",HA,,HWN,0
+,727,Haian,,"zh,南通,海安",HA,,HIH,0
+,752,Huaiannan,,"zh,淮安,淮安南",HAN,,AMH,0
+,315,Huaian,,"zh,张家口,怀安",HA,,QAP,0
+,1014,Huian,,"zh,泉州,惠安",HA,,HNS,0
+,2313,Huianpu,,"zh,吴忠,惠安堡",HAP,,KBJ,0
+,801,Huaibeibei,,"zh,淮北,淮北北",HBB,,PLH,0
+,1202,Hebidong,,"zh,鹤壁,鹤壁东",HBD,,HFF,0
+,15,Haibei,,"zh,绥化,海北",HB,,HEB,0
+,1202,Hebi,,"zh,鹤壁,鹤壁",HB,,HAF,0
+,614,Huibu,,"zh,青岛,灰埠",HB,,KBK,0
+,1333,Hanchuanbei,,"zh,汉川,汉川北",HCB,,KFN,0
+,1116,Huichangbei,,"zh,赣州,会昌北",HCB,,XEG,0
+,52,Hanconggou,,"zh,佳木斯,寒葱沟",HCG,,HKB,0
+,1510,Hechun,,"zh,湛江,河唇",HC,,HCZ,0
+,1513,Huacheng,,"zh,梅州,华城",HC,,VCQ,0
+,2482,Huocheng,,"zh,伊宁,霍城",HC,,SER,0
+,1313,Hanchuan,,"zh,孝感,汉川",HC,,HCN,0
+,2104,Heichongtan,,"zh,武威,黑冲滩",HCT,,HCJ,0
+,614,Hongdao,,"zh,青岛,红岛",HD,,HQK,0
+,44,Hengdaohezidong,,"zh,牡丹江,横道河子东",HDHZD,,KUX,0
+,9011,Huade,,"zh,乌兰察布,化德",HD,,HGC,0
+,2107,Hedongli,,"zh,酒泉,河东里",HDL,,KLJ,0
+,2206,Haidong,,"zh,海东,海东",HD,,LVO,0
+,411,Hongtong,,"zh,临汾,洪洞",HD,,HDV,0
+,2206,Haidongxi,,"zh,海东,海东西",HDX,,HDO,0
+,1106,Hengfeng,,"zh,上饶,横峰",HF,,HFG,0
+,2304,Hanfuwan,,"zh,中卫,韩府湾",HFW,,HXJ,0
+,9026,Huanggang,,"zh,黄冈,黄冈",HG,,KGN,0
+,1317,Henggouqiaodong,,"zh,咸宁,横沟桥东",HGQD,,HNN,0
+,9026,Huanggangxi,,"zh,黄冈,黄冈西",HGX,,KXN,0
+,52,Honghe,,"zh,佳木斯,洪河",HH,,HPB,0
+,507,Huanghuatong,,"zh,通辽,黄花筒",HHT,,HUD,0
+,1512,Huihuan,,"zh,惠州,惠环",HH,,KHQ,0
+,1316,Huahu,,"zh,黄石,花湖",HH,,KHN,0
+,2101,Hejiadian,,"zh,天水,贺家店",HJD,,HJJ,0
+,1504,Houjie,,"zh,东莞,厚街",HJ,,HJA,0
+,1905,Heijing,,"zh,楚雄,黑井",HJ,,HIM,0
+,1032,Hanjiang,,"zh,莆田,涵江",HJ,,HJS,0
+,1204,Huojia,,"zh,新乡,获嘉",HJ,,HJF,0
+,9034,Hangjinhouqi,,"zh,巴彦淖尔,杭锦后旗",HJHQ,,HDC,0
+,334,Hejianxi,,"zh,沧州,河间西",HJX,,HXP,0
+,1806,Huajiazhuang,,"zh,六盘水,花家庄",HJZ,,HJM,0
+,1707,Huaikounan,,"zh,成都,淮口南",HKN,,HKE,0
+,806,Huangkou,,"zh,宿州,黄口",HK,,KOH,0
+,1101,Hukou,,"zh,九江,湖口",HK,,HKG,0
+,1514,Huilai,,"zh,揭阳,惠来",HL,,HGA,0
+,315,Huailai,,"zh,张家口,怀来",HL,,VQP,0
+,44,Hailinbei,,"zh,牡丹江,海林北",HLB,,KBX,0
+,2010,Huanglingdong,,"zh,延安,黄陵东",HLD,,ULY,0
+,2507,Hele,,"zh,万宁,和乐",HL,,HLA,0
+,16,Haolianghe,,"zh,伊春,浩良河",HLH,,HHB,0
+,2511,Huangliu,,"zh,乐东,黄流",HL,,KLQ,0
+,2010,Huangling,,"zh,延安,黄陵",HL,,KLY,0
+,52,Heli,,"zh,佳木斯,鹤立",HL,,HOB,0
+,44,Hualin,,"zh,牡丹江,桦林",HL,,HIB,0
+,1502,Hualongnan,,"zh,广州,化龙南",HLN,,HDQ,0
+,9097,Helong,,"zh,延边,和龙",HL,,HLL,0
+,9096,Halasu,,"zh,呼伦贝尔,哈拉苏",HLS,,HAX,0
+,9099,Hulusitai,,"zh,阿拉善,呼鲁斯太",HLST,,VTJ,0
+,1504,Humenbei,,"zh,东莞,虎门北",HMB,,HBA,0
+,1504,Humendong,,"zh,东莞,虎门东",HMD,,HDA,0
+,9026,Huangmei,,"zh,黄冈,黄梅",HM,,VEH,0
+,1504,Hongmei,,"zh,东莞,洪梅",HM,,HMA,0
+,1504,Humen,,"zh,东莞,虎门",HM,,IUQ,0
+,309,Hanmaying,,"zh,承德,韩麻营",HMY,,HYP,0
+,1416,Hengnan,,"zh,衡阳,衡南",HN,,HNG,0
+,28,Huanandong,,"zh,桦南,桦南东",HND,,KNB,0
+,1983,Huanian,,"zh,峨山,化念",HN,,HDM,0
+,902,Haining,,"zh,嘉兴,海宁",HN,,HNH,0
+,816,Huaining,,"zh,安庆,怀宁",HN,,APH,0
+,2301,Huinongnan,,"zh,石嘴山,惠农南",HNN,,KNJ,0
+,2301,Huinong,,"zh,石嘴山,惠农",HN,,HMJ,0
+,1511,Hepingbei,,"zh,河源,和平北",HPB,,HPA,0
+,1511,Heping,,"zh,河源,和平",HP,,VAQ,0
+,1611,Hepu,,"zh,北海,合浦",HP,,HVZ,0
+,1711,Huapengzi,,"zh,攀枝花,花棚子",HPZ,,HZM,0
+,1567,Hengqinbei,,"zh,珠海,横琴北",HQB,,HOA,0
+,819,Huoqiu,,"zh,六安,霍邱",HQ,,FBH,0
+,9057,Hongqing,,"zh,陇南,宏庆",HQ,,HEY,0
+,1567,Hengqin,,"zh,珠海,横琴",HQ,,HQA,0
+,710,Huaqiao,,"zh,苏州,花桥",HQ,,VQH,0
+,1201,Hongqiqu,,"zh,安阳,红旗渠",HQQ,,HQF,0
+,1315,Huarongdong,,"zh,鄂州,华容东",HRD,,HPN,0
+,402,Huairen,,"zh,朔州,怀仁",HR,,HRV,0
+,1315,Huarongnan,,"zh,鄂州,华容南",HRN,,KRN,0
+,1315,Huarong,,"zh,鄂州,华容",HR,,HRN,0
+,2313,Hongsibu,,"zh,吴忠,红寺堡",HSP,,HSJ,0
+,2313,Hongsibubei,,"zh,吴忠,红寺堡北",HSBB,,HEJ,0
+,228,Heishanbei,,"zh,锦州,黑山北",HSB,,HQT,0
+,1316,Huangshibei,,"zh,黄石,黄石北",HSB,,KSN,0
+,1317,Heshengqiaodong,,"zh,咸宁,贺胜桥东",HSQD,,HLN,0
+,1422,Hanshou,,"zh,常德,汉寿",HS,,HHA,0
+,1416,Hengshan,,"zh,衡阳,衡山",HS,,HSQ,0
+,309,Hushiha,,"zh,承德,虎什哈",HSH,,HHP,0
+,709,Huishan,,"zh,无锡,惠山",HS,,VCH,0
+,16,Hongshan,,"zh,伊春,红山",HS,,VSB,0
+,1422,Hanshounan,,"zh,常德,汉寿南",HSN,,VSQ,0
+,810,Hanshannan,,"zh,马鞍山,含山南",HSN,,HSU,0
+,2103,Hongshaxian,,"zh,白银,红砂岘",HSX,,VSJ,0
+,1416,Hengshanxi,,"zh,衡阳,衡山西",HSX,,HEQ,0
+,1410,Hetang,,"zh,湘潭,荷塘",HT,,KXQ,0
+,605,Huantai,,"zh,淄博,桓台",HT,,VTK,0
+,26,Heitai,,"zh,鸡西,黑台",HT,,HQB,0
+,1805,Huangtongbei,,"zh,安顺,黄桶北",HTB,,HBE,0
+,605,Heiwang,,"zh,淄博,黑旺",HW,,HWK,0
+,9057,Huixian,,"zh,陇南,徽县",HX,,HYY,0
+,16,Hongxing,,"zh,伊春,红星",HX,,VXB,0
+,20,Hongxinglong,,"zh,双鸭山,红兴隆",HXL,,VHB,0
+,2103,Hongxiantai,,"zh,白银,红岘台",HXT,,HTJ,0
+,52,Huanxintian,,"zh,佳木斯,换新天",HXT,,VTB,0
+,1201,Huaxun,,"zh,安阳,滑浚",HX,,HWF,0
+,2002,Heyang,,"zh,渭南,合阳",HY,,HAY,0
+,2248,Haiyan,,"zh,海北州,海晏",HY,,HFO,0
+,9096,Hongyan,,"zh,呼伦贝尔,红彦",HY,,VIX,0
+,2002,Heyangbei,,"zh,渭南,合阳北",HYB,,HTY,0
+,1511,Heyuanbei,,"zh,河源,河源北",HYB,,HYA,0
+,611,Haiyangbei,,"zh,烟台,海阳北",HYB,,HEK,0
+,2006,Hanyin,,"zh,安康,汉阴",HY,,HQY,0
+,1313,Huaiyin,,"zh,孝感,槐荫",HY,,IYN,0
+,220,Huayuankou,,"zh,大连,花园口",HYK,,HYT,0
+,1221,Huaiyangnan,,"zh,周口,淮阳南",HYN,,HVF,0
+,2304,Huangyangtan,,"zh,中卫,黄羊滩",HYT,,HGJ,0
+,1313,Huayuan,,"zh,孝感,花园",HY,,HUN,0
+,2104,Huangyangzhen,,"zh,武威,黄羊镇",HYZ,,HYJ,0
+,901,Huzhoudong,,"zh,湖州,湖州东",HZD,,HKU,0
+,411,Huozhoudong,,"zh,临汾,霍州东",HZD,,HWV,0
+,9026,Huangzhou,,"zh,黄冈,黄州",HZ,,VON,0
+,919,Huzhen,,"zh,丽水,壶镇",HZ,,HUU,0
+,1509,Huazhou,,"zh,茂名,化州",HZ,,HZZ,0
+,411,Huozhou,,"zh,临汾,霍州",HZ,,HZV,0
+,1607,Hengzhou,,"zh,南宁,横州",HZ,,HGZ,0
+,901,Huzhounanxun,,"zh,湖州,湖州南浔",HZNX,,KIU,0
+,1512,Huizhouxi,,"zh,惠州,惠州西",HZX,,VXQ,0
+,2015,Jingbian,,"zh,榆林,靖边",JB,,JIY,0
+,507,Jinbaotun,,"zh,通辽,金宝屯",JBT,,JBD,0
+,415,Jinchengbei,,"zh,晋城,晋城北",JCB,,JEF,0
+,9010,Jiaocheng,,"zh,吕梁,交城",JC,,JNV,0
+,237,Jianchang,,"zh,葫芦岛,建昌",JC,,JFD,0
+,9102,Jiacha,,"zh,加查,加查",JC,,JIO,0
+,2111,Jingchuan,,"zh,平凉,泾川",JC,,JAJ,0
+,208,Jianchang,,"zh,本溪,碱厂",JC,,JUT,0
+,621,Juancheng,,"zh,菏泽,鄄城",JC,,JCK,0
+,814,Jingde,,"zh,宣城,旌德",JD,,NSH,0
+,349,Jingdian,,"zh,邯郸,井店",JD,,JFP,0
+,914,Jiandenan,,"zh,建德,建德南",JDN,,JAU,0
+,713,Jiangdu,,"zh,扬州,江都",JD,,UDH,0
+,2511,Jianfeng,,"zh,乐东,尖峰",JF,,PFQ,0
+,1502,Jianggao,,"zh,广州,江高",JG,,JGA,0
+,309,Jingoutun,,"zh,承德,金沟屯",JGT,,VGP,0
+,517,Jiangui,,"zh,鄂尔多斯,碱柜",JG,,JGC,0
+,1541,Jianghai,,"zh,江门,江海",JH,,JNQ,0
+,2407,Jinghe,,"zh,博乐,精河",JH,,JHR,0
+,9096,Jinhe,,"zh,呼伦贝尔,金河",JH,,JHX,0
+,9,Jinhe,,"zh,黑河,锦河",JH,,JHB,0
+,878,Jiuhuashan,,"zh,池州,九华山",JHS,,JSU,0
+,1426,Jianghua,,"zh,永州,江华",JH,,JHZ,0
+,739,Jianhu,,"zh,盐城,建湖",JH,,AJH,0
+,1717,Jiangjinbei,,"zh,重庆,江津北",JJB,,JAE,0
+,309,Jijiagou,,"zh,承德,纪家沟",JJG,,VJD,0
+,1708,Jiajiang,,"zh,乐山,夹江",JJ,,UTW,0
+,2015,Jinjie,,"zh,榆林,锦界",JJ,,JEY,0
+,1708,Jinkouhenan,,"zh,乐山,金口河南",JKGN,,JHE,0
+,1005,Jiangle,,"zh,三明,将乐",JL,,JLS,0
+,2105,Jiling,,"zh,金昌,芨岭",JL,,JLJ,0
+,1408,Jiulangshan,,"zh,株洲,九郎山",JLS,,KJQ,0
+,1541,Jiangmendong,,"zh,江门,江门东",JMD,,JWQ,0
+,1009,Jiaomei,,"zh,漳州,角美",JM,,JES,0
+,52,Jiamusixi,,"zh,佳木斯,佳木斯西",JMSX,,JUB,0
+,622,Junan,,"zh,临沂,莒南",JN,,JOK,0
+,622,Junanbei,,"zh,临沂,莒南北",JNB,,VNK,0
+,620,Jiningbei,,"zh,济宁,济宁北",JNB,,MIK,0
+,620,Jiningdong,,"zh,济宁,济宁东",JND,,MNK,0
+,1061,Jianningnan,,"zh,建宁,建宁南",JNN,,JQS,0
+,1002,Jianoudong,,"zh,南平,建瓯东",JOD,,JZS,0
+,1002,Jianou,,"zh,南平,建瓯",JO,,JVS,0
+,1002,Jianouxi,,"zh,南平,建瓯西",JOX,,JUS,0
+,220,Jinpu,,"zh,大连,金普",JP,,PWT,0
+,1513,Jianqiao,,"zh,梅州,建桥",JQ,,JQA,0
+,7,Jiangqiao,,"zh,齐齐哈尔,江桥",JQ,,JQX,0
+,706,Jurongxi,,"zh,镇江,句容西",JRX,,JWH,0
+,9,Jiusan,,"zh,黑河,九三",JS,,SSX,0
+,164,Jinshan,,"zh,巴音郭楞蒙古自治州,金山",JS,,JSR,0
+,1361,Jianshi,,"zh,恩施,建始",JS,,JRN,0
+,1955,Jianshui,,"zh,蒙自,建水",JS,,JSM,0
+,413,Jishan,,"zh,运城,稷山",JS,,JVV,0
+,117,Jishu,,"zh,吉林,吉舒",JS,,JSL,0
+,102,Jianshe,,"zh,白城,建设",JS,,JET,0
+,309,Jiashan,,"zh,承德,甲山",JS,,JOP,0
+,1305,Jingshan,,"zh,荆门,京山",JS,,JCN,0
+,902,Jiashan,,"zh,嘉兴,嘉善",JS,,JSH,0
+,1374,Jingshannan,,"zh,京山,京山南",JSN,,MIN,0
+,902,Jiashannan,,"zh,嘉兴,嘉善南",JSN,,EAH,0
+,804,Jieshoushi,,"zh,阜阳,界首市",JSS,,JUN,0
+,1901,Jiangsuotian,,"zh,曲靖,江所田",JST,,JOM,0
+,16,Jinshantun,,"zh,伊春,金山屯",JST,,JTB,0
+,1114,Jishuixi,,"zh,吉安,吉水西",JSX,,JSG,0
+,2103,Jingtai,,"zh,白银,景泰",JT,,JTJ,0
+,2107,Jinta,,"zh,酒泉,金塔",JT,,JIJ,0
+,1567,Jingwan,,"zh,珠海,井湾",JW,,JWA,0
+,9096,Jiwen,,"zh,呼伦贝尔,吉文",JW,,JWX,0
+,620,Jiaxiangbei,,"zh,济宁,嘉祥北",JXB,,MXK,0
+,1104,Jinxianbei,,"zh,南昌,进贤北",JXB,,JHG,0
+,814,Jingxian,,"zh,宣城,泾县",JX,,LOH,0
+,623,Juxian,,"zh,日照,莒县",JX,,JKK,0
+,620,Jiaxiang,,"zh,济宁,嘉祥",JX,,JUK,0
+,1215,Jiaxian,,"zh,平顶山,郏县",JX,,JXF,0
+,220,Jiaxinzi,,"zh,大连,夹心子",JXZ,,JXT,0
+,1514,Jieyang,,"zh,揭阳,揭阳",JY,,JYA,0
+,1002,Jianyang,,"zh,南平,建阳",JY,,JYS,0
+,1051,Jiaoyang,,"zh,上杭,蛟洋",JY,,JBS,0
+,767,Jiangyan,,"zh,泰州,姜堰",JY,,UEH,0
+,1703,Jiangyoubei,,"zh,绵阳,江油北",JYB,,JBE,0
+,621,Juyebei,,"zh,菏泽,巨野北",JYB,,MYK,0
+,1514,Jieyangjichang,,"zh,揭阳,揭阳机场",JYJC,,JUA,0
+,1514,Jieyangnan,,"zh,揭阳,揭阳南",JYN,,JRQ,0
+,1426,Jiangyong,,"zh,永州,江永",JY,,JYZ,0
+,136,Jiangyuan,,"zh,白山,江源",JY,,SZL,0
+,2103,Jingyuan,,"zh,白银,靖远",JY,,JYJ,0
+,919,Jinyun,,"zh,丽水,缙云",JY,,JYH,0
+,1206,Jiyuan,,"zh,济源,济源",JY,,JYF,0
+,2518,Jinyuewan,,"zh,东方,金月湾",JYW,,PYQ,0
+,2103,Jingyuanxi,,"zh,白银,靖远西",JYX,,JXJ,0
+,919,Jinyunxi,,"zh,丽水,缙云西",JYX,,PYH,0
+,614,Jiaozhoubei,,"zh,青岛,胶州北",JZB,,JZK,0
+,1205,Jiaozuodong,,"zh,焦作,焦作东",JZD,,WEF,0
+,5409,Jinzhong,,"zh,晋中,晋中",JZ,,JZV,0
+,1403,Jingzhou,,"zh,怀化,靖州",JZ,,JEQ,0
+,339,Jingzhou,,"zh,衡水,景州",JZ,,JEP,0
+,614,Jiaozhou,,"zh,青岛,胶州",JZ,,JXK,0
+,315,Jiuzhuangwo,,"zh,张家口,旧庄窝",JZW,,JVP,0
+,349,Kangcheng,,"zh,邯郸,康城",KC,,KCP,0
+,210,Kuandian,,"zh,丹东,宽甸",KD,,KDT,0
+,7,Kedong,,"zh,齐齐哈尔,克东",KD,,KOB,0
+,512,Kundulunzhao,,"zh,包头,昆都仑召",KDLZ,,KDC,0
+,2408,Kuermuyi,,"zh,库尔勒,库尔木依",KEMY,,VPR,0
+,1715,Kaijiangnan,,"zh,达州,开江南",KJN,,KAW,0
+,9096,Kalaqi,,"zh,呼伦贝尔,喀喇其",KLQ,,KQX,0
+,1541,Kaipingnan,,"zh,江门,开平南",KPN,,PVQ,0
+,44,Kuishan,,"zh,牡丹江,奎山",KS,,KAB,0
+,1514,Kuitan,,"zh,揭阳,葵潭",KT,,KTQ,0
+,1608,Kangxiling,,"zh,钦州,康熙岭",KXL,,KXZ,0
+,9096,Keyihe,,"zh,呼伦贝尔,克一河",KYH,,KHX,0
+,1502,Keyunlu,,"zh,广州,科韵路",KYL,,KEA,0
+,1955,Kaiyuannan,,"zh,蒙自,开远南",KYN,,KUM,0
+,2419,Kunyu,,"zh,和田,昆玉",KY,,ESR,0
+,1806,Lengba,,"zh,六盘水,冷坝",LB,,LBE,0
+,9207,Langbolabang,,"zh,琅勃拉邦,琅勃拉邦",LBLB,,VJM,0
+,806,Lingbi,,"zh,宿州,灵璧",LB,,GMH,0
+,1504,Liaobu,,"zh,东莞,寮步",LB,,LTQ,0
+,2010,Luochuanbei,,"zh,延安,洛川北",LCB,,LRY,0
+,1601,Luocheng,,"zh,河池,罗城",LC,,VCZ,0
+,2010,Luochuan,,"zh,延安,洛川",LC,,LTY,0
+,1501,Lechang,,"zh,韶关,乐昌",LC,,LCQ,0
+,414,Licheng,,"zh,长治,黎城",LC,,UCP,0
+,346,Lincheng,,"zh,邢台,临城",LC,,UUP,0
+,614,Lancun,,"zh,青岛,蓝村",LC,,LCK,0
+,2511,Ledong,,"zh,乐东,乐东",LD,,UQQ,0
+,508,Lindong,,"zh,赤峰,林东",LD,,LRC,0
+,1502,Longdong,,"zh,广州,龙洞",LD,,UGQ,0
+,2206,Ledu,,"zh,海东,乐都",LD,,LDO,0
+,309,Liangdixia,,"zh,承德,梁底下",LDX,,LDP,0
+,309,Liudaohezi,,"zh,承德,六道河子",LDHZ,,LVP,0
+,1806,Lufan,,"zh,六盘水,鲁番",LF,,LVM,0
+,1525,Lufengdong,,"zh,汕尾,陆丰东",LFD,,LDA,0
+,1361,Laifeng,,"zh,恩施,来凤",LF,,LFA,0
+,1512,Longfeng,,"zh,惠州,龙丰",LF,,KFQ,0
+,1525,Lufengnan,,"zh,汕尾,陆丰南",LFN,,LAA,0
+,1905,Lufengnan,,"zh,楚雄,禄丰南",LFN,,LQM,0
+,44,Langang,,"zh,牡丹江,兰岗",LG,,LNB,0
+,1905,Longgudian,,"zh,楚雄,龙骨甸",LGD,,LGM,0
+,2520,Lingaonan,,"zh,临高,临高南",LGN,,KGQ,0
+,1901,Lugou,,"zh,曲靖,芦沟",LG,,LOM,0
+,2104,Longgou,,"zh,武威,龙沟",LG,,LGJ,0
+,946,Linhai,,"zh,台州,临海",LH,,UFH,0
+,228,Linghai,,"zh,锦州,凌海",LH,,JID,0
+,7,Laha,,"zh,齐齐哈尔,拉哈",LH,,LHX,0
+,3,Linhai,,"zh,加格达奇,林海",LH,,LXX,0
+,304,Luanhe,,"zh,唐山,滦河",LH,,UDP,0
+,946,Linhainan,,"zh,台州,临海南",LHN,,LHU,0
+,228,Linghainan,,"zh,锦州,凌海南",LHN,,UNT,0
+,339,Longhua,,"zh,衡水,龙华",LH,,LHP,0
+,309,Luanheyan,,"zh,承德,滦河沿",LHY,,UNP,0
+,7,Liuhezhen,,"zh,齐齐哈尔,六合镇",LHZ,,LEX,0
+,1704,Luojiangdong,,"zh,德阳,罗江东",LJD,,IKW,0
+,220,Liangjiadian,,"zh,大连,亮甲店",LJD,,LRT,0
+,210,Liujiahe,,"zh,丹东,刘家河",LJH,,LVT,0
+,1510,Lianjiang,,"zh,湛江,廉江",LJ,,LJZ,0
+,1704,Luojiang,,"zh,德阳,罗江",LJ,,LJW,0
+,1602,Liujiang,,"zh,柳州,柳江",LJ,,UQZ,0
+,102,Liangjia,,"zh,白城,两家",LJ,,UJT,0
+,9,Lijia,,"zh,黑河,李家",LJ,,LJB,0
+,7,Longjiang,,"zh,齐齐哈尔,龙江",LJ,,LJX,0
+,52,Lianjiangkou,,"zh,佳木斯,莲江口",LJK,,LHB,0
+,697,Lijinnan,,"zh,东营,利津南",LJN,,LNK,0
+,2124,Lijiaping,,"zh,定西,李家坪",LJP,,LIJ,0
+,622,Lijiazhai,,"zh,临沂,厉家寨",LJZ,,UPK,0
+,30,Linkounan,,"zh,林口,林口南",LKN,,LRB,0
+,1404,Lukoupu,,"zh,岳阳,路口铺",LKP,,LKQ,0
+,7,Laolai,,"zh,齐齐哈尔,老莱",LL,,LAX,0
+,1802,Longlibei,,"zh,都匀,龙里北",LLB,,KFW,0
+,1512,Lilinbei,,"zh,惠州,沥林北",LLB,,KBQ,0
+,622,Lanlingbei,,"zh,临沂,兰陵北",LLB,,COK,0
+,1408,Lilingdong,,"zh,株洲,醴陵东",LLD,,UKQ,0
+,1426,Lingling,,"zh,永州,零陵",LL,,UWZ,0
+,1901,Luliang,,"zh,曲靖,陆良",LL,,LRM,0
+,301,Lulong,,"zh,秦皇岛,卢龙",LL,,UAP,0
+,1422,Linlixi,,"zh,常德,临澧西",LLX,,LWQ,0
+,2101,Luomen,,"zh,天水,洛门",LM,,LMJ,0
+,802,Lumiao,,"zh,亳州,芦庙",LM,,LMU,0
+,1116,Longnan,,"zh,赣州,龙南",LN,,UNG,0
+,1116,Longnandong,,"zh,赣州,龙南东",LND,,LBG,0
+,1107,Lepingbei,,"zh,景德镇,乐平北",LPB,,LKG,0
+,1806,Liupanshuidong,,"zh,六盘水,六盘水东",LPSD,,LDE,0
+,357,Luopoling,,"zh,北京,落坡岭",LPL,,LPP,0
+,2315,Liupanshan,,"zh,固原,六盘山",LPS,,UPJ,0
+,1107,Lepingshi,,"zh,景德镇,乐平市",LPS,,LPG,0
+,2419,Luopu,,"zh,和田,洛浦",LP,,LVR,0
+,603,Linqing,,"zh,聊城,临清",LQ,,UQK,0
+,2004,Liquannan,,"zh,咸阳,礼泉南",LQN,,UNY,0
+,919,Longquanshi,,"zh,丽水,龙泉市",LQS,,LVU,0
+,2004,Liquan,,"zh,咸阳,礼泉",LQ,,LGY,0
+,804,Linquan,,"zh,阜阳,临泉",LQ,,LOU,0
+,1412,Lengshuijiangdong,,"zh,娄底,冷水江东",LSJD,,UDQ,0
+,208,Lianshanguan,,"zh,本溪,连山关",LSG,,LGT,0
+,309,Liushuigou,,"zh,承德,流水沟",LSG,,USP,0
+,5409,Lingshi,,"zh,晋中,灵石",LS,,LSV,0
+,1220,Luoshan,,"zh,信阳,罗山",LS,,LRN,0
+,752,Lianshui,,"zh,淮安,涟水",LS,,LIU,0
+,1114,Longshi,,"zh,吉安,龙市",LS,,LAG,0
+,620,Liangshan,,"zh,济宁,梁山",LS,,LMK,0
+,1215,Lushan,,"zh,平顶山,鲁山",LS,,LAF,0
+,1807,Loushanguannan,,"zh,遵义,娄山关南",LSGN,,LSE,0
+,1009,Longshanzhen,,"zh,漳州,龙山镇",LSZ,,LAS,0
+,206,Lishizhai,,"zh,抚顺,李石寨",LSZ,,LET,0
+,26,Lishuzhen,,"zh,鸡西,梨树镇",LSZ,,LSB,0
+,2408,Luntai,,"zh,库尔勒,轮台",LT,,LAR,0
+,1905,Longtangba,,"zh,楚雄,龙塘坝",LTB,,LBM,0
+,1615,Laituan,,"zh,崇左,濑湍",LT,,LVZ,0
+,1503,Longtangzhen,,"zh,清远,龙塘镇",LTZ,,LVB,0
+,2304,Liwang,,"zh,中卫,李旺",LW,,VLJ,0
+,2106,Langweishan,,"zh,张掖,狼尾山",LWS,,LRJ,0
+,2311,Lingwu,,"zh,灵武,灵武",LW,,LNJ,0
+,615,Laiwuxi,,"zh,莱芜,莱芜西",LWX,,UXK,0
+,913,Lanxidong,,"zh,金华,兰溪东",LXD,,LZU,0
+,9010,Lanxian,,"zh,吕梁,岚县",LX,,UXV,0
+,9103,Langxian,,"zh,朗县,朗县",LX,,LIO,0
+,1189,Luxi,,"zh,芦溪,芦溪",LX,,LUG,0
+,1404,Linxiang,,"zh,岳阳,临湘",LX,,LXQ,0
+,304,Luanxian,,"zh,唐山,滦县",LX,,UXP,0
+,508,Linxi,,"zh,赤峰,林西",LX,,LXC,0
+,16,Langxiang,,"zh,伊春,朗乡",LX,,LXB,0
+,814,Langxinan,,"zh,宣城,郎溪南",LXN,,LXU,0
+,614,Laixinan,,"zh,青岛,莱西南",LXN,,LXK,0
+,802,Lixinxi,,"zh,亳州,利辛西",LXX,,XBH,0
+,611,Laiyang,,"zh,烟台,莱阳",LY,,LYK,0
+,916,Longyoubei,,"zh,衢州,龙游北",LYB,,LKU,0
+,233,Lingyuandong,,"zh,朝阳,凌源东",LYD,,LDD,0
+,622,Linyidong,,"zh,临沂,临沂东",LYD,,UYK,0
+,601,Linyi,,"zh,德州,临邑",LY,,LUK,0
+,1218,Linying,,"zh,漯河,临颍",LY,,LNF,0
+,611,Laiyangnan,,"zh,烟台,莱阳南",LYN,,VEK,0
+,916,Longyounan,,"zh,衢州,龙游南",LYN,,LYU,0
+,916,Longyou,,"zh,衢州,龙游",LY,,LMH,0
+,1541,Liyue,,"zh,江门,礼乐",LY,,UEQ,0
+,1602,Luzhaibei,,"zh,柳州,鹿寨北",LZB,,LSZ,0
+,605,Linzibei,,"zh,淄博,临淄北",LZB,,UEK,0
+,1787,Luzhoudong,,"zh,泸州,泸州东",LZD,,UDE,0
+,2106,Linze,,"zh,张掖,临泽",LZ,,LEJ,0
+,1615,Longzhou,,"zh,崇左,龙州",LZ,,VZZ,0
+,1510,Leizhou,,"zh,湛江,雷州",LZ,,UAQ,0
+,1193,Laizhou,,"zh,来舟,来舟",LZ,,LZS,0
+,9034,Liuzhao,,"zh,巴彦淖尔,刘召",LZ,,WYC,0
+,1602,Luzhai,,"zh,柳州,鹿寨",LZ,,LIZ,0
+,1711,Lazha,,"zh,攀枝花,拉鲊",LZ,,LEM,0
+,611,Laizhou,,"zh,烟台,莱州",LZ,,VPK,0
+,1806,Liuzhinan,,"zh,六盘水,六枝南",LZN,,LOE,0
+,2106,Linzenan,,"zh,张掖,临泽南",LZN,,LDJ,0
+,1720,Maan,,"zh,南充,马鞍",MA,,MAE,0
+,810,Maanshan,,"zh,马鞍山,马鞍山",MAS,,MAH,0
+,1715,Maoba,,"zh,达州,毛坝",MB,,MBY,0
+,2006,Maobaguan,,"zh,安康,毛坝关",MBG,,MGY,0
+,1504,Machong,,"zh,东莞,麻涌",MC,,MIA,0
+,117,Mingcheng,,"zh,吉林,明城",MC,,MCL,0
+,1313,Maochen,,"zh,孝感,毛陈",MC,,MHN,0
+,1207,Mianchi,,"zh,三门峡,渑池",MC,,MCF,0
+,357,Miaocheng,,"zh,北京,庙城",MC,,MAP,0
+,1806,Maocaoping,,"zh,六盘水,茅草坪",MCP,,KPM,0
+,1402,Mengdonghe,,"zh,吉首,猛洞河",MDH,,MUQ,0
+,44,Modaoshi,,"zh,牡丹江,磨刀石",MDS,,MOB,0
+,2419,Minfeng,,"zh,和田,民丰",MF,,MFR,0
+,1502,Maofengshan,,"zh,广州,帽峰山",MFS,,MTQ,0
+,1220,Minggang,,"zh,信阳,明港",MG,,MGN,0
+,1220,Minggangdong,,"zh,信阳,明港东",MGD,,MDN,0
+,808,Mingguangxi,,"zh,滁州,明光西",MGX,,MXU,0
+,1608,Mahuang,,"zh,钦州,马皇",MH,,MHZ,0
+,6905,Mojiang,,"zh,墨江,墨江",MJ,,MJM,0
+,1313,Minji,,"zh,孝感,闵集",MJ,,MJN,0
+,2408,Malan,,"zh,库尔勒,马兰",ML,,MLR,0
+,1404,Miluodong,,"zh,岳阳,汨罗东",MLD,,MQQ,0
+,2106,Minle,,"zh,张掖,民乐",ML,,MBJ,0
+,44,Malianhe,,"zh,牡丹江,马莲河",MLH,,MHB,0
+,1612,Maoling,,"zh,防城港,茅岭",ML,,MLZ,0
+,9105,Milin,,"zh,米林,米林",ML,,MIO,0
+,2006,Maliu,,"zh,安康,麻柳",ML,,MLY,0
+,112,Maolin,,"zh,四平,茂林",ML,,MLD,0
+,1901,Malong,,"zh,曲靖,马龙",ML,,MGM,0
+,507,Mulitu,,"zh,通辽,木里图",MLT,,MUD,0
+,1404,Miluo,,"zh,岳阳,汨罗",ML,,MLQ,0
+,2413,Manasihu,,"zh,塔城,玛纳斯湖",MNSH,,MNR,0
+,611,Muping,,"zh,烟台,牟平",MP,,MBK,0
+,1212,Minquanbei,,"zh,商丘,民权北",MQB,,MIF,0
+,7081,Maqiaohe,,"zh,马桥河,马桥河",MQH,,MQB,0
+,1004,Minqing,,"zh,福州,闽清",MQ,,MQS,0
+,9200,Mengsai,,"zh,孟赛,孟赛",MS,,VFM,0
+,1646,Mingshuihe,,"zh,兴安,明水河",MSH,,MUT,0
+,622,Mengshan,,"zh,临沂,蒙山",MS,,MOK,0
+,26,Mashan,,"zh,鸡西,麻山",MS,,MAB,0
+,1607,Mashanxian,,"zh,南宁,马山县",MSX,,MAZ,0
+,1509,Mata,,"zh,茂名,马踏",MT,,PWQ,0
+,2005,Meixiandong,,"zh,宝鸡,眉县东",MXD,,CXY,0
+,16,Meixi,,"zh,伊春,美溪",MX,,MEB,0
+,1403,Mayang,,"zh,怀化,麻阳",MY,,MVQ,0
+,1711,Miyidong,,"zh,攀枝花,米易东",MYD,,MDE,0
+,6108,Maiyuan,,"zh,麦园,麦园",MY,,MYS,0
+,1403,Mayangxi,,"zh,怀化,麻阳西",MYX,,MYA,0
+,2111,Miaozhuang,,"zh,平凉,庙庄",MZ,,MZJ,0
+,2015,Mizhi,,"zh,榆林,米脂",MZ,,MEY,0
+,1567,Mingzhu,,"zh,珠海,明珠",MZ,,MFQ,0
+,605,Nanboshan,,"zh,淄博,南博山",NBS,,NBK,0
+,1422,Niuchehe,,"zh,常德,牛车河",NCH,,NHA,0
+,508,Ningcheng,,"zh,赤峰,宁城",NC,,NCD,0
+,605,Nanqiu,,"zh,淄博,南仇",NC,,NCK,0
+,326,Nanchengsi,,"zh,保定,南城司",NCS,,NSP,0
+,9204,Nadui,,"zh,纳堆,纳堆",ND,,VCM,0
+,9107,Ninger,,"zh,宁洱,宁洱",NE,,NEM,0
+,208,Nanfenbei,,"zh,本溪,南芬北",NFB,,NUT,0
+,357,Nanguancun,,"zh,北京,南观村",NGC,,NGP,0
+,346,Nangongdong,,"zh,邢台,南宫东",NGD,,NFP,0
+,814,Ningguonan,,"zh,宣城,宁国南",NGN,,NIU,0
+,814,Ningguo,,"zh,宣城,宁国",NG,,NNH,0
+,2101,Nanhechuan,,"zh,天水,南河川",NHC,,NHJ,0
+,1905,Nanhua,,"zh,楚雄,南华",NH,,NAM,0
+,1005,Ninghua,,"zh,三明,宁化",NH,,NHS,0
+,1201,Neihuang,,"zh,安阳,内黄",NH,,NUF,0
+,228,Nihezi,,"zh,锦州,泥河子",NHZ,,NHD,0
+,1712,Neijiangdong,,"zh,内江,内江东",NJD,,NDE,0
+,1646,Ningjia,,"zh,兴安,宁家",NJ,,NVT,0
+,233,Nengjia,,"zh,朝阳,能家",NJ,,NJD,0
+,1009,Nanjing,,"zh,漳州,南靖",NJ,,NJS,0
+,1508,Nanjiangkou,,"zh,云浮,南江口",NJK,,NDQ,0
+,206,Nankouqian,,"zh,抚顺,南口前",NKQ,,NKT,0
+,1581,Nanlang,,"zh,中山,南朗",NL,,NNQ,0
+,1294,Nanle,,"zh,濮阳,南乐",NL,,NWF,0
+,233,Nailingao,,"zh,朝阳,奈林皋",NLG,,NGT,0
+,508,Nailin,,"zh,赤峰,乃林",NL,,NLD,0
+,812,Nanling,,"zh,芜湖,南陵",NL,,LLH,0
+,2482,Nileke,,"zh,伊宁,尼勒克",NLK,,NIR,0
+,1615,Ningmingdong,,"zh,崇左,宁明东",NMD,,NQZ,0
+,1615,Ningming,,"zh,崇左,宁明",NM,,NMZ,0
+,9096,Nanmu,,"zh,呼伦贝尔,南木",NM,,NMX,0
+,304,Nanpubei,,"zh,唐山,南堡北",NPB,,TLP,0
+,2509,Nanshanbei,,"zh,三亚,南山北",NSB,,NEQ,0
+,1581,Nantou,,"zh,中山,南头",NT,,NOQ,0
+,164,Nantun,,"zh,巴音郭楞蒙古自治州,南屯",NT,,NTR,0
+,309,Nanwanzi,,"zh,承德,南湾子",NWZ,,NWP,0
+,1714,Nixi,,"zh,宜宾,泥溪",NXI,,NIE,0
+,1714,Nanxi,,"zh,宜宾,南溪",NX,,NEE,0
+,2141,Ningxian,,"zh,庆阳,宁县",NX,,AXJ,0
+,1216,Neixiang,,"zh,南阳,内乡",NX,,NXF,0
+,920,Nanxijiang,,"zh,温州,楠溪江",NXJ,,NJU,0
+,1407,Ningxiangxi,,"zh,长沙,宁乡西",NXX,,NXA,0
+,404,Niangziguan,,"zh,阳泉,娘子关",NZG,,NIP,0
+,1304,Nanzhang,,"zh,襄阳,南漳",NZ,,NZN,0
+,1216,Nanzhao,,"zh,南阳,南召",NZ,,NAF,0
+,206,Nanzamu,,"zh,抚顺,南杂木",NZM,,NZT,0
+,1720,Pengan,,"zh,南充,蓬安",PA,,PAW,0
+,913,Panan,,"zh,金华,磐安",PA,,PAU,0
+,913,Panannan,,"zh,金华,磐安南",PAN,,PNU,0
+,1808,Puanxian,,"zh,兴义,普安县",PAX,,PUE,0
+,1720,Penganxi,,"zh,南充,蓬安西",PAX,,PXE,0
+,2206,Pinganyi,,"zh,海东,平安驿",PAY,,PNO,0
+,102,Pinganzhen,,"zh,白城,平安镇",PAZ,,PZT,0
+,2101,Pananzhen,,"zh,天水,磐安镇",PAZ,,PAJ,0
+,1955,Pingbian,,"zh,蒙自,屏边",PB,,PBM,0
+,1805,Pingbanan,,"zh,安顺,平坝南",PBN,,PBE,0
+,2002,Pucheng,,"zh,渭南,蒲城",PC,,PCY,0
+,26,Peide,,"zh,鸡西,裴德",PD,,PDB,0
+,1805,Puding,,"zh,安顺,普定",PD,,PGW,0
+,349,Piandian,,"zh,邯郸,偏店",PD,,PRP,0
+,1610,Pingguo,,"zh,百色,平果",PG,,PGZ,0
+,1806,Pingguan,,"zh,六盘水,平关",PG,,PGM,0
+,1806,Panguan,,"zh,六盘水,盘关",PG,,PAM,0
+,349,Paihuaibei,,"zh,邯郸,徘徊北",PHB,,PHP,0
+,1901,Pinghekou,,"zh,曲靖,平河口",PHK,,PHM,0
+,1505,Pinghu,,"zh,深圳,平湖",PH,,PHQ,0
+,309,Panjiadian,,"zh,承德,潘家店",PJD,,PDP,0
+,913,Pujiang,,"zh,金华,浦江",PJ,,PJU,0
+,220,Pikounan,,"zh,大连,皮口南",PK,,PKT,0
+,220,Pikou,,"zh,大连,皮口",PK,,PUT,0
+,1023,Pingnan,,"zh,宁德,屏南",PN,,PNS,0
+,1605,Pingnannan,,"zh,贵港,平南南",PNN,,PAZ,0
+,1955,Pengpu,,"zh,蒙自,朋普",PP,,PRM,0
+,6711,Pengshanbei,,"zh,眉山,彭山北",PSB,,PPW,0
+,2053,Pushi,,"zh,蒲城,蒲石",PS,,PSY,0
+,6711,Pengshan,,"zh,眉山,彭山",PS,,PSW,0
+,1782,Pengshui,,"zh,彭水,彭水",PS,,PHW,0
+,1714,Pingshan,,"zh,宜宾,屏山",PSH,,PSE,0
+,403,Pingshe,,"zh,忻州,平社",PS,,PSV,0
+,222,Panshan,,"zh,盘锦,盘山",PS,,PUD,0
+,622,Pingshang,,"zh,临沂,坪上",PS,,PSK,0
+,102,Pingtai,,"zh,白城,平台",PT,,PVT,0
+,1806,Pingtian,,"zh,六盘水,平田",PT,,PTM,0
+,1806,Putaojing,,"zh,六盘水,葡萄菁",PTQ,,PTW,0
+,401,Pingwang,,"zh,大同,平旺",PW,,PWV,0
+,1615,Pingxiangdong,,"zh,崇左,凭祥东",PXD,,PIZ,0
+,401,Pingxingguan,,"zh,大同,平型关",PXG,,PGV,0
+,1719,Pengxi,,"zh,遂宁,蓬溪",PX,,KZW,0
+,5409,Pingyao,,"zh,晋中,平遥",PY,,PYV,0
+,2315,Pengyang,,"zh,固原,彭阳",PY,,PYJ,0
+,1106,Poyang,,"zh,上饶,鄱阳",PY,,POG,0
+,7,Pingyang,,"zh,齐齐哈尔,平洋",PY,,PYX,0
+,1106,Poyangbei,,"zh,上饶,鄱阳北",PYB,,PYG,0
+,622,Pingyi,,"zh,临沂,平邑",PY,,PIK,0
+,2106,Pingyuanpu,,"zh,张掖,平原堡",PYP,,PPJ,0
+,601,Pingyuan,,"zh,德州,平原",PY,,PYK,0
+,1502,Panyu,,"zh,广州,番禺",PY,,PYA,0
+,357,Pingyu,,"zh,北京,平峪",PY,,PYP,0
+,508,Pingzhuangbei,,"zh,赤峰,平庄北",PZB,,PZD,0
+,701,Pizhoudong,,"zh,徐州,邳州东",PZD,,PIU,0
+,508,Pingzhuang,,"zh,赤峰,平庄",PZ,,PAD,0
+,701,Pizhou,,"zh,徐州,邳州",PZ,,PJH,0
+,1502,Pazhou,,"zh,广州,琶洲",PZ,,PTQ,0
+,226,Paozi,,"zh,阜新,泡子",PZ,,POD,0
+,508,Pingzhuangnan,,"zh,赤峰,平庄南",PZN,,PND,0
+,138,Qianan,,"zh,松原,乾安",QA,,QOT,0
+,304,Qianan,,"zh,唐山,迁安",QA,,QQP,0
+,2101,Qinan,,"zh,天水,秦安",QA,,QGJ,0
+,2141,Qingcheng,,"zh,庆阳,庆城",QC,,QHJ,0
+,1340,Qichunnan,,"zh,蕲春,蕲春南",QCN,,QCN,0
+,1416,Qidongbei,,"zh,衡阳,祁东北",QD,,QRQ,0
+,614,Qingdaojichang,,"zh,青岛,青岛机场",QDJC,,QJK,0
+,1416,Qidong,,"zh,衡阳,祁东",QD,,QMQ,0
+,220,Qingdui,,"zh,大连,青堆",QD,,QET,0
+,620,Qufunan,,"zh,济宁,曲阜南",QFN,,QQK,0
+,326,Qifengta,,"zh,保定,奇峰塔",QFT,,QVP,0
+,1014,Quangang,,"zh,泉州,泉港",QG,,QGS,0
+,226,Qinghemenbei,,"zh,阜新,清河门北",QHMB,,QBD,0
+,2005,Qianhe,,"zh,宝鸡,千河",QH,,QUY,0
+,601,Qihe,,"zh,德州,齐河",QH,,QIK,0
+,1615,Qujiu,,"zh,崇左,渠旧",QJ,,QJZ,0
+,1377,Qianjiang,,"zh,潜江,潜江",QJ,,QJN,0
+,1955,Qujiang,,"zh,蒙自,曲江",QJ,,QIM,0
+,808,Quanjiao,,"zh,滁州,全椒",QJ,,INH,0
+,15,Qinjia,,"zh,绥化,秦家",QJ,,QJB,0
+,208,Qijiapu,,"zh,本溪,祁家堡",QJP,,QBT,0
+,2015,Qingjianxian,,"zh,榆林,清涧县",QJX,,QNY,0
+,403,Qinjiazhuang,,"zh,忻州,秦家庄",QJZ,,QZV,0
+,228,Qilihe,,"zh,锦州,七里河",QLH,,QLD,0
+,1615,Quli,,"zh,崇左,渠黎",QL,,QLZ,0
+,2005,Qinling,,"zh,宝鸡,秦岭",QL,,QLY,0
+,1703,Qinglian,,"zh,绵阳,青莲",QL,,QEW,0
+,26,Qinglong,,"zh,鸡西,青龙",QL,,QIB,0
+,801,Qinglongshan,,"zh,淮北,青龙山",QLS,,QGH,0
+,815,Qimen,,"zh,黄山,祁门",QM,,QIH,0
+,815,Qimennan,,"zh,黄山,祁门南",QMN,,QNU,0
+,164,Qiemo,,"zh,巴音郭楞蒙古自治州,且末",QM,,QMR,0
+,2107,Qingshuibei,,"zh,酒泉,清水北",QSB,,QEJ,0
+,6711,Qingshen,,"zh,眉山,青神",QS,,QVW,0
+,2005,Qishan,,"zh,宝鸡,岐山",QS,,QAY,0
+,1567,Qianshan,,"zh,珠海,前山",QS,,QXQ,0
+,1219,Queshan,,"zh,驻马店,确山",QS,,QSN,0
+,2107,Qingshui,,"zh,酒泉,清水",QS,,QUJ,0
+,44,Qingshan,,"zh,牡丹江,青山",QS,,QSB,0
+,2101,Qingshuixian,,"zh,天水,清水县",QSX,,QIJ,0
+,708,Qishuyan,,"zh,常州,戚墅堰",QSY,,QYH,0
+,919,Qingtian,,"zh,丽水,青田",QT,,QVH,0
+,1708,Qianwei,,"zh,乐山,犍为",QWE,,JWE,0
+,309,Qianweitang,,"zh,承德,前苇塘",QWT,,QWP,0
+,5409,Qixiandong,,"zh,晋中,祁县东",QXD,,QGV,0
+,1848,Qianxi,,"zh,毕节,黔西",QX,,QXE,0
+,5409,Qixian,,"zh,晋中,祁县",QX,,QXV,0
+,2004,Qianxian,,"zh,咸阳,乾县",QX,,QBY,0
+,334,Qingxian,,"zh,沧州,青县",QX,,QXP,0
+,2108,Qiaoxi,,"zh,嘉峪关,桥西",QX,,QXJ,0
+,9011,Qixiayingnan,,"zh,乌兰察布,旗下营南",QXYN,,QNC,0
+,9011,Qixiaying,,"zh,乌兰察布,旗下营",QXY,,QXC,0
+,2005,Qianyang,,"zh,宝鸡,千阳",QY,,QOY,0
+,1426,Qiyang,,"zh,永州,祁阳",QY,,QWQ,0
+,1205,Qinyang,,"zh,焦作,沁阳",QY,,QYF,0
+,1426,Qiyangbei,,"zh,永州,祁阳北",QY,,QVQ,0
+,2315,Qiying,,"zh,固原,七营",QY,,QYJ,0
+,2103,Qingyangshan,,"zh,白银,庆阳山",QYS,,QSJ,0
+,206,Qingyuan,,"zh,抚顺,清原",QY,,QYT,0
+,607,Qingzhoushibei,,"zh,潍坊,青州市北",QZSB,,QOK,0
+,1014,Quanzhoudong,,"zh,泉州,泉州东",QZD,,QRS,0
+,1608,Qinzhou,,"zh,钦州,钦州",QZ,,QRZ,0
+,2141,Quzi,,"zh,庆阳,曲子",QZ,,QJJ,0
+,1014,Quanzhounan,,"zh,泉州,泉州南",QZN,,QNS,0
+,607,Qingzhoushi,,"zh,潍坊,青州市",QZS,,QZK,0
+,2519,Qiziwan,,"zh,昌江,棋子湾",QZW,,QZQ,0
+,2752,Renbu,,"zh,日喀则,仁布",RB,,RUO,0
+,1101,Ruichang,,"zh,九江,瑞昌",RC,,RCG,0
+,1101,Ruichangxi,,"zh,九江,瑞昌西",RCX,,RXG,0
+,727,Rugao,,"zh,南通,如皋",RG,,RBH,0
+,727,Rugaonan,,"zh,南通,如皋南",RGN,,RNU,0
+,1506,Ronggui,,"zh,佛山,容桂",RG,,RUQ,0
+,1801,Rongjiang,,"zh,凯里,榕江",RJ,,RVW,0
+,334,Renqiu,,"zh,沧州,任丘",RQ,,RQP,0
+,1602,Rongshui,,"zh,柳州,融水",RS,,RSZ,0
+,612,Rushan,,"zh,威海,乳山",RS,,ROK,0
+,1606,Rongxian,,"zh,玉林,容县",RX,,RXZ,0
+,339,Raoyang,,"zh,衡水,饶阳",RY,,RVP,0
+,1209,Ruyang,,"zh,洛阳,汝阳",RY,,RYF,0
+,1215,Ruzhou,,"zh,平顶山,汝州",RZ,,ROF,0
+,2313,Shiba,,"zh,吴忠,石坝",SB,,OBJ,0
+,309,Shangbancheng,,"zh,承德,上板城",SBC,,SBP,0
+,1801,Shibing,,"zh,凯里,施秉",SB,,AQW,0
+,309,Shangbanchengnan,,"zh,承德,上板城南",SBCN,,OBP,0
+,1116,Shichengdong,,"zh,赣州,石城东",SCD,,SDG,0
+,1220,Shangcheng,,"zh,信阳,商城",SC,,SWN,0
+,819,Shucheng,,"zh,六安,舒城",SC,,OCH,0
+,919,Suichang,,"zh,丽水,遂昌",SC,,SCU,0
+,1002,Shunchang,,"zh,南平,顺昌",SC,,SCS,0
+,403,Shenchi,,"zh,忻州,神池",SC,,SMV,0
+,135,Shanchengzhen,,"zh,通化,山城镇",SCZ,,SCL,0
+,2106,Shandan,,"zh,张掖,山丹",SD,,SDJ,0
+,1506,Shundebei,,"zh,佛山,顺德北",SDB,,SVA,0
+,2106,Shandanmachang,,"zh,张掖,山丹马场",SDMC,,JEJ,0
+,2015,Suide,,"zh,榆林,绥德",SD,,ODY,0
+,1506,Shunde,,"zh,佛山,顺德",SD,,ORQ,0
+,9011,Shangdu,,"zh,乌兰察布,商都",SD,,SXC,0
+,508,Sidaowan,,"zh,赤峰,四道湾",SDW,,OUD,0
+,1802,Sanduxian,,"zh,都匀,三都县",SDX,,KKW,0
+,1506,Shundexueyuan,,"zh,佛山,顺德学院",SDXY,,OJQ,0
+,358,Shengfang,,"zh,廊坊,胜芳",SF,,SUP,0
+,15,Sifangtai,,"zh,绥化,四方台",SFT,,STB,0
+,1908,Shuifu,,"zh,昭通,水富",SF,,OTW,0
+,2315,Sanguankou,,"zh,固原,三关口",SGK,,OKJ,0
+,9098,Sanggendalai,,"zh,锡林郭勒,桑根达来",SGDL,,OGC,0
+,616,Shanggaozhen,,"zh,泰安,上高镇",SGZ,,SVK,0
+,1008,Shanghang,,"zh,龙岩,上杭",SH,,SNS,0
+,2006,Shuhe,,"zh,安康,蜀河",SH,,SHY,0
+,1806,Songhe,,"zh,六盘水,松河",SH,,SBM,0
+,220,Shahekou,,"zh,大连,沙河口",SHK,,SKT,0
+,9098,Saihantala,,"zh,锡林郭勒,赛汗塔拉",SHTL,,SHC,0
+,773,Sihong,,"zh,宿迁,泗洪",SH,,GQH,0
+,2407,Shuangheshi,,"zh,博乐,双河市",SHS,,OHR,0
+,1507,Sihui,,"zh,肇庆,四会",SH,,AHQ,0
+,2301,Shahu,,"zh,石嘴山,沙湖",SH,,OHJ,0
+,358,Sanhexian,,"zh,廊坊,三河县",SHX,,OXP,0
+,309,Siheyong,,"zh,承德,四合永",SHY,,OHD,0
+,357,Sanhezhuang,,"zh,北京,三合庄",SHZ,,SVP,0
+,1513,Shejiangbei,,"zh,梅州,畲江北",SJB,,SOA,0
+,2315,Shenjiahe,,"zh,固原,沈家河",SJH,,OJJ,0
+,117,Shuangji,,"zh,吉林,双吉",SJ,,SML,0
+,15,Shangjia,,"zh,绥化,尚家",SJ,,SJB,0
+,1502,Shenjing,,"zh,广州,深井",SJ,,SHQ,0
+,204,Sanjiangkou,,"zh,铁岭,三江口",SJK,,SKD,0
+,605,Sijialing,,"zh,淄博,司家岭",SJL,,OLK,0
+,1505,Shajingxi,,"zh,深圳,沙井西",SJX,,SJA,0
+,226,Shijiazi,,"zh,阜新,十家子",SJZ,,SJD,0
+,1806,Sanjiazhai,,"zh,六盘水,三家寨",SJZ,,SMM,0
+,349,Shilidian,,"zh,邯郸,什里店",SLD,,OMP,0
+,2410,Shule,,"zh,喀什,疏勒",SL,,SUR,0
+,507,Shelihu,,"zh,通辽,舍力虎",SLH,,VLD,0
+,2107,Shulehe,,"zh,酒泉,疏勒河",SLH,,SHJ,0
+,112,Shuangliao,,"zh,四平,双辽",SL,,ZJD,0
+,26,Shilin,,"zh,鸡西,石磷",SL,,SPB,0
+,1504,Shilong,,"zh,东莞,石龙",SL,,SLQ,0
+,512,Salaqi,,"zh,包头,萨拉齐",SLQ,,SLC,0
+,1646,Suolun,,"zh,兴安,索伦",SL,,SNT,0
+,315,Shalingzi,,"zh,张家口,沙岭子",SLZ,,SLP,0
+,1422,Shimenxian,,"zh,常德,石门县",SMX,,OMQ,0
+,2015,Shenmuxi,,"zh,榆林,神木西",SMX,,OUY,0
+,2753,Shannan,,"zh,山南,山南",SNA,,SAO,0
+,334,Suning,,"zh,沧州,肃宁",SN,,SYP,0
+,1369,Shennongjia,,"zh,神农架,神农架",SNJ,,SMN,0
+,9098,Sunitezuoqi,,"zh,锡林郭勒,苏尼特左旗",SNTZQ,,ONC,0
+,1426,Shuangpai,,"zh,永州,双牌",SP,,SBZ,0
+,1219,Suiping,,"zh,驻马店,遂平",SP,,SON,0
+,2304,Shapotou,,"zh,中卫,沙坡头",SPT,,SFJ,0
+,1212,Shangqiudong,,"zh,商丘,商丘东",SQD,,SIF,0
+,1715,Shiqiao,,"zh,达州,石桥",SQ,,SQE,0
+,1221,Shenqiu,,"zh,周口,沈丘",SQ,,SQN,0
+,1212,Shangqiunan,,"zh,商丘,商丘南",SQN,,SPF,0
+,233,Shuiquan,,"zh,朝阳,水泉",SQ,,SID,0
+,9101,Sangri,,"zh,桑日,桑日",SRI,,SRO,0
+,1506,Shishanbei,,"zh,佛山,狮山北",SSB,,NSQ,0
+,1506,Sanshuibei,,"zh,佛山,三水北",SSB,,ARQ,0
+,1504,Songshanhubei,,"zh,东莞,松山湖北",SSHB,,KUQ,0
+,2402,Shanshan,,"zh,吐鲁番,鄯善",SS,,SSR,0
+,1506,Shishan,,"zh,佛山,狮山",SS,,KSQ,0
+,1506,Sanshui,,"zh,佛山,三水",SS,,SJQ,0
+,620,Sishui,,"zh,济宁,泗水",SS,,OSK,0
+,44,Shanshi,,"zh,牡丹江,山市",SS,,SQB,0
+,1502,Shenshan,,"zh,广州,神山",SS,,SRA,0
+,233,Sanshijia,,"zh,朝阳,三十家",SSJ,,SRD,0
+,1506,Sanshuinan,,"zh,佛山,三水南",SSN,,RNQ,0
+,620,Sishuinan,,"zh,济宁,泗水南",SSN,,ONK,0
+,1541,Shuangshuizhen,,"zh,江门,双水镇",SSZ,,PQQ,0
+,9096,Suotuhan,,"zh,呼伦贝尔,索图罕",STH,,SHX,0
+,1715,Shiti,,"zh,达州,石梯",ST,,STE,0
+,804,Santangji,,"zh,阜阳,三堂集",STJ,,SDH,0
+,402,Shentou,,"zh,朔州,神头",ST,,SEV,0
+,44,Shitou,,"zh,牡丹江,石头",ST,,OTB,0
+,1806,Shatuo,,"zh,六盘水,沙沱",ST,,SFM,0
+,357,Shangwan,,"zh,北京,上万",SW,,SWP,0
+,1708,Shawannan,,"zh,乐山,沙湾南",SWN,,SWE,0
+,2413,Shawanshi,,"zh,塔城,沙湾市",SWS,,SXR,0
+,9,Sunwu,,"zh,黑河,孙吴",SW,,SKB,0
+,815,Shexianbei,,"zh,黄山,歙县北",SXB,,NPH,0
+,1510,Suixi,,"zh,湛江,遂溪",SX,,SXZ,0
+,9097,Shixian,,"zh,延边,石岘",SX,,SXL,0
+,805,Shouxian,,"zh,淮南,寿县",SX,,SOU,0
+,1069,Shaxian,,"zh,沙县,沙县",SX,,SAS,0
+,1501,Shixing,,"zh,韶关,始兴",SX,,IPQ,0
+,1310,Suixian,,"zh,随州,随县",SX,,OVN,0
+,815,Shexian,,"zh,黄山,歙县",SX,,OVH,0
+,806,Sixian,,"zh,宿州,泗县",SX,,GPH,0
+,1005,Shuixi,,"zh,三明,水茜",SX,,SSS,0
+,1806,Shangxipu,,"zh,六盘水,上西铺",SXP,,SXM,0
+,2104,Shixiazi,,"zh,武威,石峡子",SXZ,,SXJ,0
+,5409,Shouyang,,"zh,晋中,寿阳",SY,,SYV,0
+,773,Siyang,,"zh,宿迁,泗阳",SY,,MPH,0
+,773,Shuyang,,"zh,宿迁,沭阳",SY,,FMH,0
+,919,Songyang,,"zh,丽水,松阳",SY,,SUU,0
+,414,Shuiyang,,"zh,长治,水洋",SY,,OYP,0
+,815,Sanyang,,"zh,黄山,三阳",SY,,SYU,0
+,739,Sheyang,,"zh,盐城,射阳",SY,,SAU,0
+,1008,Shuangyang,,"zh,龙岩,双洋",SY,,SQS,0
+,44,Suiyang,,"zh,牡丹江,绥阳",SY,,SYB,0
+,1415,Shaoyangbei,,"zh,邵阳,邵阳北",SYB,,OVQ,0
+,2101,Sanyangchuan,,"zh,天水,三阳川",SYC,,SYJ,0
+,2104,Shangyaodun,,"zh,武威,上腰墩",SYD,,SPJ,0
+,2315,Sanying,,"zh,固原,三营",SY,,OEJ,0
+,402,Shanyin,,"zh,朔州,山阴",SY,,SNV,0
+,906,Shangyunan,,"zh,绍兴,上虞南",SYN,,SVU,0
+,135,Sanyuanpu,,"zh,通化,三源浦",SYP,,SYL,0
+,233,Shangyuan,,"zh,朝阳,上园",SY,,SUD,0
+,2004,Sanyuan,,"zh,咸阳,三原",SY,,SAY,0
+,906,Shangyu,,"zh,绍兴,上虞",SY,,BDH,0
+,1415,Shaoyangxi,,"zh,邵阳,邵阳西",SYX,,SXA,0
+,1305,Shayangxi,,"zh,荆门,沙洋西",SYX,,OJN,0
+,237,Suizhongbei,,"zh,葫芦岛,绥中北",SZB,,SND,0
+,1505,Shenzhenjichangbei,,"zh,深圳,深圳机场北",SZJCB,,SBA,0
+,906,Shengzhoubei,,"zh,绍兴,嵊州北",SZB,,SEU,0
+,1567,Sanzaodong,,"zh,珠海,三灶东",SZD,,SAA,0
+,710,Shengze,,"zh,苏州,盛泽",SZ,,SJU,0
+,2002,Sunzhen,,"zh,渭南,孙镇",SZ,,OZY,0
+,2507,Shenzhou,,"zh,万宁,神州",SZ,,SRQ,0
+,1421,Sangzhi,,"zh,张家界,桑植",SZ,,SZA,0
+,339,Shenzhou,,"zh,衡水,深州",SZ,,OZP,0
+,2107,Suzhou,,"zh,酒泉,肃州",SZ,,SRJ,0
+,1567,Shizimen,,"zh,珠海,十字门",SZM,,SIA,0
+,710,Suzhounan,,"zh,苏州,苏州南",SZN,,SMU,0
+,1901,Shizong,,"zh,曲靖,师宗",SZ,,SEM,0
+,710,Suzhouyuanqu,,"zh,苏州,苏州园区",SZYQ,,KAH,0
+,710,Suzhouxinqu,,"zh,苏州,苏州新区",SZXQ,,ITH,0
+,2301,Shizuishan,,"zh,石嘴山,石嘴山",SZS,,OZJ,0
+,1388,Songzixi,,"zh,荆州,松滋西",SZX,,SIN,0
+,213,Taian,,"zh,鞍山,台安",TA,,TID,0
+,213,Taiannan,,"zh,鞍山,台安南",TAN,,TAD,0
+,2124,Tonganyi,,"zh,定西,通安驿",TAY,,TAJ,0
+,1216,Tongbai,,"zh,南阳,桐柏",TB,,TBF,0
+,710,Taicang,,"zh,苏州,太仓",TC,,TCU,0
+,2008,Tongchuanbei,,"zh,铜川,铜川北",TCB,,TDY,0
+,611,Taocunbei,,"zh,烟台,桃村北",TCB,,TOK,0
+,816,Tongchengdong,,"zh,安庆,桐城东",TCD,,TOU,0
+,2413,Tiechanggou,,"zh,塔城,铁厂沟",TCG,,TJR,0
+,622,Tancheng,,"zh,临沂,郯城",TC,,TZK,0
+,816,Tongcheng,,"zh,安庆,桐城",TC,,TTH,0
+,816,Tongchengnan,,"zh,安庆,桐城南",TCN,,TUU,0
+,710,Taicangnan,,"zh,苏州,太仓南",TCN,,TNU,0
+,208,Tiechashan,,"zh,本溪,铁刹山",TCS,,PST,0
+,611,Taocun,,"zh,烟台,桃村",TC,,TCK,0
+,1610,Tiandongbei,,"zh,百色,田东北",TDB,,TBZ,0
+,1610,Tiandong,,"zh,百色,田东",TD,,TDZ,0
+,5409,Taigudong,,"zh,晋中,太谷东",TGD,,TEV,0
+,2408,Tieganlike,,"zh,库尔勒,铁干里克",TGLK,,VAR,0
+,9011,Tuguiwula,,"zh,乌兰察布,土贵乌拉",TGWL,,TGC,0
+,5409,Taiguxi,,"zh,晋中,太谷西",TGX,,TIV,0
+,804,Taihebei,,"zh,阜阳,太和北",THB,,JYN,0
+,804,Taihedong,,"zh,阜阳,太和东",THD,,TDU,0
+,1216,Tanghe,,"zh,南阳,唐河",TH,,THF,0
+,304,Tanghainan,,"zh,唐山,唐海南",THN,,IEP,0
+,135,Tonghuaxian,,"zh,通化,通化县",THX,,TXL,0
+,7,Tuanjie,,"zh,齐齐哈尔,团结",TJ,,TIX,0
+,2104,Tanjiajing,,"zh,武威,谭家井",TJJ,,TNJ,0
+,1567,Tangjiawan,,"zh,珠海,唐家湾",TJW,,PDQ,0
+,357,Tongjunzhuang,,"zh,北京,统军庄",TJZ,,TZP,0
+,813,Tonglingbei,,"zh,铜陵,铜陵北",TLB,,KXH,0
+,1646,Tuliemaodu,,"zh,兴安,吐列毛杜",TLMD,,TMD,0
+,9096,Tulihe,,"zh,呼伦贝尔,图里河",TLH,,TEX,0
+,1615,Tingliang,,"zh,崇左,亭亮",TL,,TIZ,0
+,1610,Tianlin,,"zh,百色,田林",TL,,TFZ,0
+,1378,Tianmenbei,,"zh,天门,天门北",TMB,,TMN,0
+,1023,Taimushan,,"zh,宁德,太姥山",TMS,,TLS,0
+,9011,Tumuertai,,"zh,乌兰察布,土牧尔台",TMET,,TRC,0
+,2104,Tumenzi,,"zh,武威,土门子",TMZ,,TCJ,0
+,102,Taonan,,"zh,白城,洮南",TN,,TVT,0
+,138,Taipingchuan,,"zh,松原,太平川",TPC,,TIT,0
+,20,Taipingzhen,,"zh,双鸭山,太平镇",TPZ,,TEB,0
+,1294,Taiqian,,"zh,濮阳,台前",TQ,,TTK,0
+,3,Tuqiang,,"zh,加格达奇,图强",TQ,,TQX,0
+,2304,Tuqiaozi,,"zh,中卫,土桥子",TQZ,,TQJ,0
+,2141,Tianshuibu,,"zh,庆阳,甜水堡",TSB,,TUJ,0
+,210,Tangshancheng,,"zh,丹东,汤山城",TSC,,TCT,0
+,1541,Taishan,,"zh,江门,台山",TS,,PUQ,0
+,16,Taoshan,,"zh,伊春,桃山",TS,,TAB,0
+,304,Tangshanxi,,"zh,唐山,唐山西",TSX,,TSI,0
+,946,Tiantaishan,,"zh,台州,天台山",TTS,,TIU,0
+,138,Tongtu,,"zh,松原,通途",TT,,TUT,0
+,2124,Tongwei,,"zh,定西,通渭",TW,,TWJ,0
+,1408,Tianxindong,,"zh,株洲,田心东",TXD,,KQQ,0
+,1655,Tengxian,,"zh,梧州,藤县",TX,,TAZ,0
+,2313,Tongxin,,"zh,吴忠,同心",TX,,TXJ,0
+,902,Tongxiang,,"zh,嘉兴,桐乡",TX,,TCH,0
+,1610,Tianyang,,"zh,百色,田阳",TY,,TRZ,0
+,508,Tianyi,,"zh,赤峰,天义",TY,,TND,0
+,1201,Tangyin,,"zh,安阳,汤阴",TY,,TYF,0
+,2509,Tianyahaijiao,,"zh,三亚,天涯海角",TYHJ,,THA,0
+,2313,Taiyangshan,,"zh,吴忠,太阳山",TYS,,TYJ,0
+,1422,Taoyuan,,"zh,常德,桃源",TY,,TYA,0
+,52,Tangyuan,,"zh,佳木斯,汤原",TY,,TYB,0
+,210,Tongyuanpuxi,,"zh,丹东,通远堡西",TYPX,,TST,0
+,326,Tayayi,,"zh,保定,塔崖驿",TYY,,TYP,0
+,628,Tengzhou,,"zh,枣庄,滕州",TZ,,TXK,0
+,401,Tianzhen,,"zh,大同,天镇",TZ,,TZV,0
+,2104,Tianzhu,,"zh,武威,天祝",TZ,,TZJ,0
+,816,Tianzhushan,,"zh,安庆,天柱山",TZS,,QWH,0
+,2104,Tianzhuxi,,"zh,武威,天祝西",TZX,,TRJ,0
+,349,Wuan,,"zh,邯郸,武安",WA,,WAP,0
+,358,Wenan,,"zh,廊坊,文安",WA,,WBP,0
+,1114,Wananxian,,"zh,吉安,万安县",WAX,,WAG,0
+,326,Wanganzhen,,"zh,保定,王安镇",WAZ,,WVP,0
+,2015,Wubu,,"zh,榆林,吴堡",WB,,WUY,0
+,1646,Wuchagou,,"zh,兴安,五叉沟",WCG,,WCT,0
+,1510,Wuchuan,,"zh,湛江,吴川",WC,,WAQ,0
+,44,Wenchun,,"zh,牡丹江,温春",WC,,WDB,0
+,508,Wudan,,"zh,赤峰,乌丹",WD,,IDC,0
+,9,Wudalianchi,,"zh,黑河,五大连池",WDLC,,WRB,0
+,612,Wendengdong,,"zh,威海,文登东",WDD,,WGK,0
+,612,Wendeng,,"zh,威海,文登",WD,,WBK,0
+,309,Wudaohe,,"zh,承德,五道河",WDH,,WHP,0
+,1606,Wendi,,"zh,玉林,文地",WD,,WNZ,0
+,612,Wendengnan,,"zh,威海,文登南",WDN,,WWK,0
+,1646,Weidong,,"zh,兴安,卫东",WD,,WVT,0
+,326,Wangdu,,"zh,保定,望都",WD,,WDP,0
+,1301,Wudangshanxi,,"zh,十堰,武当山西",WDSX,,WWN,0
+,9096,Wuerqihan,,"zh,呼伦贝尔,乌尔旗汗",WEQH,,WHX,0
+,607,Weifangbei,,"zh,潍坊,潍坊北",WFB,,WJK,0
+,1106,Wufushan,,"zh,上饶,五府山",WFS,,WFG,0
+,138,Wangfu,,"zh,松原,王府",WF,,WUT,0
+,1901,Wuguantian,,"zh,曲靖,吴官田",WGT,,WGM,0
+,9097,Weihulingbei,,"zh,延边,威虎岭北",WHLB,,WBL,0
+,612,Weihaibei,,"zh,威海,威海北",WHB,,WHK,0
+,812,Wuhubei,,"zh,芜湖,芜湖北",WHB,,WBU,0
+,612,Weihainanhai,,"zh,威海,威海南海",WHNH,,WRK,0
+,812,Wuhunan,,"zh,芜湖,芜湖南",WHN,,RVH,0
+,1204,Weihuinan,,"zh,新乡,卫辉南",WHN,,WVF,0
+,1513,Wuhua,,"zh,梅州,五华",WH,,WHA,0
+,1204,Weihui,,"zh,新乡,卫辉",WH,,WHF,0
+,2103,Wujiachuan,,"zh,白银,吴家川",WJC,,WCJ,0
+,349,Wuji,,"zh,邯郸,午汲",WJ,,WJP,0
+,1806,Weiqing,,"zh,六盘水,威箐",WJ,,WAM,0
+,2404,Weijiaquan,,"zh,昌吉,魏家泉",WJQ,,WJR,0
+,1807,Wujiangzhai,,"zh,遵义,乌江寨",WJZ,,ZNE,0
+,23,Woken,,"zh,七台河,倭肯",WK,,WQB,0
+,9041,Wulan,,"zh,海西州,乌兰",WL,,WIO,0
+,210,Wulongbei,,"zh,丹东,五龙背",WLB,,WBT,0
+,210,Wulongbeidong,,"zh,丹东,五龙背东",WLBD,,WMT,0
+,3,Walagan,,"zh,加格达奇,瓦拉干",WLG,,WVX,0
+,623,Wulian,,"zh,日照,五莲",WL,,WLK,0
+,3130,Wulongnan,,"zh,武隆,武隆南",WLN,,WLE,0
+,9034,Wulateqianqi,,"zh,巴彦淖尔,乌拉特前旗",WLTQQ,,IQC,0
+,2005,Wolongsi,,"zh,宝鸡,卧龙寺",WLS,,WLY,0
+,226,Wulanmutu,,"zh,阜新,乌兰木图",WLMT,,VLT,0
+,1504,Wangniudun,,"zh,东莞,望牛墩",WND,,WNA,0
+,9096,Wunuer,,"zh,呼伦贝尔,乌奴耳",WNE,,WRX,0
+,2507,Wanning,,"zh,万宁,万宁",WN,,WNQ,0
+,1107,Wannian,,"zh,景德镇,万年",WN,,WWG,0
+,2002,Weinannan,,"zh,渭南,渭南南",WNN,,WVY,0
+,2101,Weinanzhen,,"zh,天水,渭南镇",WNZ,,WNJ,0
+,1008,Wuping,,"zh,龙岩,武平",WP,,WPS,0
+,334,Wuqiao,,"zh,沧州,吴桥",WQ,,WUP,0
+,9202,Wanrong,,"zh,老挝万荣,万荣",WR,,VOM,0
+,9010,Wenshui,,"zh,吕梁,文水",WS,,WEV,0
+,1906,Weishan,,"zh,大理,巍山",WS,,WOM,0
+,2101,Wushan,,"zh,天水,武山",WS,,WSJ,0
+,164,Washixia,,"zh,巴音郭楞蒙古自治州,瓦石峡",WSX,,WHR,0
+,1603,Wutong,,"zh,桂林,五通",WT,,WTZ,0
+,339,Wangtong,,"zh,衡水,王瞳",WT,,WTP,0
+,403,Wutaishan,,"zh,忻州,五台山",WTS,,WSV,0
+,2313,Wangtuanzhuang,,"zh,吴忠,王团庄",WTZ,,WZJ,0
+,812,Wuwei,,"zh,芜湖,无为",WW,,IIH,0
+,708,Wawushan,,"zh,常州,瓦屋山",WWS,,WAH,0
+,2436,Wuwu,,"zh,克拉玛依,五五",WW,,WVR,0
+,414,Wuxiangdong,,"zh,长治,武乡东",WXD,,WVV,0
+,1908,Weixin,,"zh,昭通,威信",WX,,WXE,0
+,414,Wuxiang,,"zh,长治,武乡",WX,,WUV,0
+,413,Wenxi,,"zh,运城,闻喜",WX,,WXV,0
+,26,Weixing,,"zh,鸡西,卫星",WX,,WVB,0
+,709,Wuxixinqu,,"zh,无锡,无锡新区",WXXQ,,IFH,0
+,913,Wuyibei,,"zh,金华,武义北",WYB,,WDH,0
+,913,Wuyi,,"zh,金华,武义",WY,,RYH,0
+,1806,Wayaotian,,"zh,六盘水,瓦窑田",WYT,,WIM,0
+,9034,Wuyuan,,"zh,巴彦淖尔,五原",WY,,IYC,0
+,1567,Wanzai,,"zh,珠海,湾仔",WZ,,WZA,0
+,1567,Wanzaibei,,"zh,珠海,湾仔北",WZB,,WBA,0
+,920,Wenzhoubei,,"zh,温州,温州北",WZB,,URH,0
+,9097,Weizigou,,"zh,延边,苇子沟",WZG,,WZL,0
+,2002,Weizhuang,,"zh,渭南,韦庄",WZ,,WZY,0
+,403,Wuzhai,,"zh,忻州,五寨",WZ,,WZV,0
+,1205,Wuzhi,,"zh,焦作,武陟",WZ,,WIF,0
+,812,Wanzhinan,,"zh,芜湖,湾沚南",WZN,,WNU,0
+,233,Weizhangzi,,"zh,朝阳,魏杖子",WZZ,,WKD,0
+,414,Weizizhen,,"zh,长治,微子镇",WZZ,,WQP,0
+,1603,Xingan,,"zh,桂林,兴安",XA,,XAZ,0
+,1901,Xinan,,"zh,曲靖,新安",XA,,EAM,0
+,1209,Xinanxian,,"zh,洛阳,新安县",XAX,,XAF,0
+,315,Xinbaoan,,"zh,张家口,新保安",XBA,,XAP,0
+,309,Xiabancheng,,"zh,承德,下板城",XBC,,EBP,0
+,315,Xibali,,"zh,张家口,西八里",XBL,,XLP,0
+,906,Xinchangbei,,"zh,绍兴,新昌北",XCB,,XBU,0
+,1214,Xuchangbei,,"zh,许昌,许昌北",XCB,,EBF,0
+,1221,Xiangcheng,,"zh,周口,项城",XC,,ERN,0
+,1905,Xiaocun,,"zh,楚雄,小村",XC,,XEM,0
+,237,Xingchengxi,,"zh,葫芦岛,兴城西",XCX,,XXD,0
+,9096,Xinchuoyuan,,"zh,呼伦贝尔,新绰源",XCY,,XRX,0
+,44,Xiachengzi,,"zh,牡丹江,下城子",XCZ,,XCB,0
+,1710,Xide,,"zh,西昌,喜德",XD,,EDW,0
+,1901,Xiaodejiang,,"zh,曲靖,小得江",XDJ,,EJM,0
+,309,Xidamiao,,"zh,承德,西大庙",XDM,,XMP,0
+,1608,Xiaodong,,"zh,钦州,小董",XD,,XEZ,0
+,228,Xiaodong,,"zh,锦州,小东",XD,,XOD,0
+,1416,Xidu,,"zh,衡阳,西渡",XD,,XDA,0
+,1710,Xidexi,,"zh,西昌,喜德西",XDX,,XXE,0
+,411,Xiangfen,,"zh,临汾,襄汾",XF,,XFV,0
+,1116,Xinfeng,,"zh,赣州,信丰",XF,,EFG,0
+,411,Xiangfenxi,,"zh,临汾,襄汾西",XFX,,XTV,0
+,1116,Xinfengxi,,"zh,赣州,信丰西",XFX,,XFG,0
+,1114,Xingan,,"zh,吉安,新干",XG,,EGG,0
+,1313,Xiaogan,,"zh,孝感,孝感",XG,,XGN,0
+,1114,Xingandong,,"zh,吉安,新干东",XGD,,XGG,0
+,1116,Xingguoxi,,"zh,赣州,兴国西",XGX,,XIG,0
+,614,Xiagezhuang,,"zh,青岛,夏格庄",XGZ,,XZK,0
+,9,Xigangzi,,"zh,黑河,西岗子",XGZ,,NBB,0
+,315,Xuanhuabei,,"zh,张家口,宣化北",XHB,,VJP,0
+,1512,Xihudong,,"zh,惠州,西湖东",XHD,,WDQ,0
+,2409,Xinhe,,"zh,阿克苏,新和",XH,,XIR,0
+,2304,Xuanhe,,"zh,中卫,宣和",XH,,XWJ,0
+,358,Xianghe,,"zh,廊坊,香河",XH,,XHI,0
+,9,Xianghe,,"zh,黑河,襄河",XH,,XXB,0
+,357,Xiehejian,,"zh,北京,斜河涧",XHJ,,EEP,0
+,1412,Xinhua,,"zh,娄底,新化",XH,,EHQ,0
+,315,Xuanhua,,"zh,张家口,宣化",XH,,XHP,0
+,1221,Xihua,,"zh,周口,西华",XH,,EHF,0
+,315,Xiahuayuan,,"zh,张家口,下花园",XHY,,XYP,0
+,2006,Xiaohezhen,,"zh,安康,小河镇",XHZ,,EKY,0
+,611,Xujiadian,,"zh,烟台,徐家店",XJD,,HYK,0
+,1114,Xiajiang,,"zh,吉安,峡江",XJ,,EJG,0
+,413,Xinjiang,,"zh,运城,新绛",XJ,,XJV,0
+,946,Xianjunan,,"zh,台州,仙居南",XJN,,XNU,0
+,946,Xianju,,"zh,台州,仙居",XJ,,XJU,0
+,26,Xingkai,,"zh,鸡西,兴凯",XK,,EKB,0
+,910,Xikou,,"zh,宁波,溪口",XK,,XKU,0
+,1581,Xiaolan,,"zh,中山,小榄",XL,,EAQ,0
+,52,Xianglan,,"zh,佳木斯,香兰",XL,,XNB,0
+,2111,Xinli,,"zh,平凉,新李",XL,,XLJ,0
+,213,Xiliu,,"zh,鞍山,西柳",XL,,GCT,0
+,16,Xilin,,"zh,伊春,西林",XL,,XYB,0
+,3,Xinlin,,"zh,加格达奇,新林",XL,,XPX,0
+,228,Xinlitun,,"zh,锦州,新立屯",XLT,,XLD,0
+,309,Xinglongxianxi,,"zh,承德,兴隆县西",XLXX,,IRP,0
+,26,Ximashan,,"zh,鸡西,西麻山",XMS,,XMB,0
+,208,Xiamatang,,"zh,本溪,下马塘",XMT,,XAT,0
+,9010,Xiaonan,,"zh,吕梁,孝南",XN,,XNV,0
+,1317,Xianningbei,,"zh,咸宁,咸宁北",XNB,,XRN,0
+,1317,Xianningdong,,"zh,咸宁,咸宁东",XND,,XKN,0
+,1513,Xingning,,"zh,梅州,兴宁",XN,,ENQ,0
+,1317,Xianning,,"zh,咸宁,咸宁",XN,,XNN,0
+,1513,Xingningnan,,"zh,梅州,兴宁南",XNN,,XNA,0
+,2004,Xingping,,"zh,咸阳,兴平",XP,,XPY,0
+,1219,Xiping,,"zh,驻马店,西平",XP,,XPN,0
+,1806,Xinpingtian,,"zh,六盘水,新坪田",XPT,,XPM,0
+,1504,Xipingxi,,"zh,东莞,西平西",XPX,,EGQ,0
+,226,Xinqiu,,"zh,阜新,新邱",XQ,,XQD,0
+,16,Xinqing,,"zh,伊春,新青",XQ,,XQB,0
+,2103,Xingquanbu,,"zh,白银,兴泉堡",XQP,,XQJ,0
+,309,Xiaosigou,,"zh,承德,小寺沟",XSG,,ESP,0
+,1615,Xiashi,,"zh,崇左,夏石",XS,,XIZ,0
+,1341,Xishui,,"zh,浠水,浠水",XS,,XZN,0
+,23,Xingshu,,"zh,七台河,杏树",XS,,XSB,0
+,403,Xiashe,,"zh,忻州,下社",XS,,XSV,0
+,326,Xushui,,"zh,保定,徐水",XS,,XSP,0
+,1341,Xishuinan,,"zh,浠水,浠水南",XSN,,VNN,0
+,220,Xingshutun,,"zh,大连,杏树屯",XST,,XDT,0
+,2106,Xusanwan,,"zh,张掖,许三湾",XSW,,XSJ,0
+,739,Xiangshuixian,,"zh,盐城,响水县",XSX,,XSU,0
+,346,Xingtai,,"zh,邢台,邢台",XT,,XTP,0
+,1410,Xiangtanbei,,"zh,湘潭,湘潭北",XTB,,EDQ,0
+,1379,Xiantaoxi,,"zh,仙桃,仙桃西",XTX,,XAN,0
+,309,Xiataizi,,"zh,承德,下台子",XTZ,,EIP,0
+,1943,Xiaowandong,,"zh,南涧,小湾东",XWD,,XNM,0
+,1510,Xuwen,,"zh,湛江,徐闻",XW,,XJQ,0
+,1714,Xingwennan,,"zh,宜宾,兴文南",XWN,,XAE,0
+,508,Xinwopu,,"zh,赤峰,新窝铺",XWP,,EPD,0
+,1646,Xiwuqi,,"zh,兴安,西乌旗",XWQ,,XWD,0
+,1205,Xiuwu,,"zh,焦作,修武",XW,,XWF,0
+,1205,Xiuwuxi,,"zh,焦作,修武西",XWX,,EXF,0
+,1220,Xinxian,,"zh,信阳,新县",XX,,XSN,0
+,1220,Xixian,,"zh,信阳,息县",XX,,ENN,0
+,1410,Xiangxiang,,"zh,湘潭,湘乡",XX,,XXQ,0
+,806,Xiaoxian,,"zh,宿州,萧县",XX,,EOH,0
+,1508,Xinxingnan,,"zh,云浮,新兴南",XXN,,XPQ,0
+,1204,Xinxiangnan,,"zh,新乡,新乡南",XXN,,ENF,0
+,1508,Xinxingxian,,"zh,云浮,新兴县",XXX,,XGQ,0
+,9034,Xixiaozhao,,"zh,巴彦淖尔,西小召",XXZ,,XZC,0
+,326,Xiaoxizhuang,,"zh,保定,小西庄",XXZ,,XXP,0
+,44,Xiangyang,,"zh,牡丹江,向阳",XY,,XDB,0
+,2006,Xunyangbei,,"zh,安康,旬阳北",XYB,,XBY,0
+,2004,Xianyangbei,,"zh,咸阳,咸阳北",XYB,,EBY,0
+,414,Xiangyuandong,,"zh,长治,襄垣东",XYD,,EAF,0
+,1606,Xingye,,"zh,玉林,兴业",XY,,SNZ,0
+,1806,Xiaoyugu,,"zh,六盘水,小雨谷",XYG,,XHM,0
+,701,Xinyi,,"zh,徐州,新沂",XY,,VIH,0
+,1905,Xiaoyuejiu,,"zh,楚雄,小月旧",XYJ,,XFM,0
+,1606,Xingyenan,,"zh,玉林,兴业南",XYN,,XKZ,0
+,701,Xinyinan,,"zh,徐州,新沂南",XYN,,XYU,0
+,1032,Xianyou,,"zh,莆田,仙游",XY,,XWS,0
+,3,Xiaoyangqi,,"zh,加格达奇,小扬气",XYQ,,XYX,0
+,414,Xiangyuan,,"zh,长治,襄垣",XY,,EIF,0
+,1212,Xiayixian,,"zh,商丘,夏邑县",XYX,,EJH,0
+,20,Xinyouyi,,"zh,双鸭山,新友谊",XYY,,EYB,0
+,2101,Xinyangzhen,,"zh,天水,新阳镇",XYZ,,XZJ,0
+,9096,Xinzhangfang,,"zh,呼伦贝尔,新帐房",XZF,,XZX,0
+,349,Xuanzhong,,"zh,邯郸,悬钟",XZ,,XRP,0
+,1646,Xizhelimu,,"zh,兴安,西哲里木",XZLM,,XRD,0
+,309,Xinzhangzi,,"zh,承德,新杖子",XZZ,,ERP,0
+,1005,Yongan,,"zh,三明,永安",YA,,YAS,0
+,26,Yonganxiang,,"zh,鸡西,永安乡",YAX,,YNB,0
+,1601,Yonganzhen,,"zh,河池,永安镇",YAZ,,YQZ,0
+,1711,Yanbian,,"zh,攀枝花,盐边",YB,,YBE,0
+,1212,Yongchengbei,,"zh,商丘,永城北",YCB,,RGH,0
+,1529,Yangchundong,,"zh,阳江,阳春东",YCD,,YBQ,0
+,1901,Yangcaodi,,"zh,曲靖,秧草地",YCD,,YKM,0
+,601,Yuchengdong,,"zh,德州,禹城东",YCD,,YSK,0
+,739,Yanchengdafeng,,"zh,盐城,盐城大丰",YCDF,,YFU,0
+,2016,Yanchuan,,"zh,商洛,砚川",YC,,YYY,0
+,1330,Yicheng,,"zh,宜城,宜城",YC,,YYN,0
+,2313,Yanchi,,"zh,吴忠,盐池",YC,,YKJ,0
+,1313,Yingcheng,,"zh,孝感,应城",YC,,YHN,0
+,621,Yuncheng,,"zh,菏泽,郓城",YC,,YPK,0
+,601,Yancheng,,"zh,德州,晏城",YC,,YEK,0
+,601,Yucheng,,"zh,德州,禹城",YC,,YCK,0
+,710,Yangchenghu,,"zh,苏州,阳澄湖",YCH,,AIH,0
+,415,Yangcheng,,"zh,晋城,阳城",YC,,YNF,0
+,26,Yingchun,,"zh,鸡西,迎春",YC,,YYB,0
+,357,Yanchi,,"zh,北京,雁翅",YC,,YAP,0
+,401,Yuncailing,,"zh,大同,云彩岭",YCL,,ACP,0
+,1304,Yichengnan,,"zh,襄阳,宜城南",YCN,,YIN,0
+,1717,Yongchuannan,,"zh,重庆,永川南",YCN,,YNE,0
+,1212,Yuchengxian,,"zh,商丘,虞城县",YCX,,IXH,0
+,220,Yingchengzi,,"zh,大连,营城子",YCZ,,YCT,0
+,1169,Yudubei,,"zh,于都,于都北",YDB,,YYG,0
+,2102,Yongdengbei,,"zh,兰州,永登北",YDB,,ABJ,0
+,1503,Yingde,,"zh,清远,英德",YD,,YDQ,0
+,1506,Yundonghai,,"zh,佛山,云东海",YDH,,NAQ,0
+,1905,Yindi,,"zh,楚雄,尹地",YD,,YDM,0
+,1008,Yongding,,"zh,龙岩,永定",YD,,YGS,0
+,1529,Yangdong,,"zh,阳江,阳东",YD,,WLQ,0
+,2104,Yuandun,,"zh,武威,园墩",YD,,YAJ,0
+,1603,Yongfunan,,"zh,桂林,永福南",YFN,,YBZ,0
+,1106,Yugan,,"zh,上饶,余干",YG,,YFG,0
+,401,Yanggao,,"zh,大同,阳高",YG,,YOV,0
+,26,Yanggang,,"zh,鸡西,杨岗",YG,,YRB,0
+,1806,Yuge,,"zh,六盘水,雨格",YG,,VTM,0
+,401,Yanggaonan,,"zh,大同,阳高南",YGN,,AGV,0
+,603,Yanggu,,"zh,聊城,阳谷",YG,,YIK,0
+,16,Youhao,,"zh,伊春,友好",YH,,YOB,0
+,357,Yanhecheng,,"zh,北京,沿河城",YHC,,YHP,0
+,773,Yanghe,,"zh,宿迁,洋河",YH,,GTH,0
+,1503,Yanhu,,"zh,清远,燕湖",YH,,YHA,0
+,1710,Yuehua,,"zh,西昌,月华",YH,,YQW,0
+,404,Yanhui,,"zh,阳泉,岩会",YH,,AEP,0
+,1529,Yangjiangbei,,"zh,阳江,阳江北",YJB,,YLQ,0
+,1905,Yangjiuhe,,"zh,楚雄,羊臼河",YJH,,YHM,0
+,1989,Yuanjiang,,"zh,元江,元江",YJ,,AJM,0
+,819,Yeji,,"zh,六安,叶集",YJ,,YCH,0
+,1806,Yingjie,,"zh,六盘水,营街",YJ,,YAM,0
+,1105,Yujiang,,"zh,鹰潭,余江",YJ,,YHG,0
+,9099,Yuejiajing,,"zh,阿拉善,岳家井",YJJ,,YGJ,0
+,357,Yunjusi,,"zh,北京,云居寺",YJS,,AFP,0
+,2008,Yijun,,"zh,铜川,宜君",YJ,,YRY,0
+,616,Yanjiazhuang,,"zh,泰安,燕家庄",YJZ,,AZK,0
+,913,Yongkang,,"zh,金华,永康",YK,,RFH,0
+,2408,Yinfkule,,"zh,库尔勒,英库勒",YKL,,YLR,0
+,37,Yinlang,,"zh,大庆,银浪",YL,,YJX,0
+,1908,Yile,,"zh,昭通,以勒",YL,,YPE,0
+,1211,Yunlianghe,,"zh,开封,运粮河",YLH,,YEF,0
+,9,Yilaha,,"zh,黑河,伊拉哈",YLH,,YLX,0
+,2408,Yuli,,"zh,库尔勒,尉犁",YL,,WRR,0
+,1214,Yanling,,"zh,许昌,鄢陵",YL,,YIF,0
+,44,Yilin,,"zh,牡丹江,伊林",YL,,YLB,0
+,1720,Yilong,,"zh,南充,仪陇",YL,,YCE,0
+,1806,Yueliangtian,,"zh,六盘水,月亮田",YLT,,YUM,0
+,1207,Yima,,"zh,三门峡,义马",YM,,YMF,0
+,403,Yangmingbu,,"zh,忻州,阳明堡",YMB,,YVV,0
+,1313,Yunmeng,,"zh,孝感,云梦",YM,,YMN,0
+,9096,Yimin,,"zh,呼伦贝尔,伊敏",YM,,YMX,0
+,210,Yimianshan,,"zh,丹东,一面山",YMS,,YST,0
+,622,Yinan,,"zh,临沂,沂南",YN,,YNK,0
+,1906,Yunnanyi,,"zh,大理,云南驿",YNY,,ANM,0
+,1504,Yinping,,"zh,东莞,银瓶",YP,,KPQ,0
+,2304,Yingpanshui,,"zh,中卫,营盘水",YPS,,YZJ,0
+,920,Yueqingdong,,"zh,温州,乐清东",YQD,,OLH,0
+,9097,Yongqing,,"zh,延边,永庆",YQ,,YQL,0
+,1415,Yangqiao,,"zh,邵阳,杨桥",YQ,,YQA,0
+,605,Yuanqian,,"zh,淄博,源迁",YQ,,AQK,0
+,2419,Yuquanzhen,,"zh,和田,玉泉镇",YQZ,,YFR,0
+,1905,Yongren,,"zh,楚雄,永仁",YR,,ARM,0
+,804,Yingshangbei,,"zh,阜阳,颍上北",YSB,,YBU,0
+,1361,Yesanguan,,"zh,恩施,野三关",YSG,,BNN,0
+,309,Yushugou,,"zh,承德,榆树沟",YSG,,YGP,0
+,2105,Yushi,,"zh,金昌,玉石",YS,,YSJ,0
+,1603,Yangshuo,,"zh,桂林,阳朔",YS,,YCZ,0
+,2004,Yongshou,,"zh,咸阳,永寿",YS,,ASY,0
+,1512,Yunshan,,"zh,惠州,云山",YS,,KZQ,0
+,1806,Yushe,,"zh,六盘水,玉舍",YS,,AUM,0
+,622,Yishui,,"zh,临沂,沂水",YS,,YUK,0
+,804,Yingshang,,"zh,阜阳,颍上",YS,,YVH,0
+,1209,Yanshi,,"zh,洛阳,偃师",YS,,YSF,0
+,1205,Yueshan,,"zh,焦作,月山",YS,,YBF,0
+,309,Yangshuling,,"zh,承德,杨树岭",YSL,,YAD,0
+,1008,Yanshinan,,"zh,龙岩,雁石南",YSN,,YMS,0
+,326,Yesanpo,,"zh,保定,野三坡",YSP,,AIP,0
+,5409,Yushexi,,"zh,晋中,榆社西",YSX,,AXV,0
+,2004,Yongshouxi,,"zh,咸阳,永寿西",YSX,,AUY,0
+,309,Yingshouyingzi,,"zh,承德,鹰手营子",YSYZ,,YIP,0
+,1503,Yuantan,,"zh,清远,源潭",YT,,YTQ,0
+,2419,Yutian,,"zh,和田,于田",YT,,YWR,0
+,304,Yutiannan,,"zh,唐山,玉田南",YTN,,YTI,0
+,112,Yitong,,"zh,四平,伊通",YT,,YTL,0
+,1403,Yatunpu,,"zh,怀化,牙屯堡",YTP,,YTZ,0
+,37,Yantongtun,,"zh,大庆,烟筒屯",YTT,,YUX,0
+,611,Yantaixi,,"zh,烟台,烟台西",YTX,,DCK,0
+,1901,Yangweishao,,"zh,曲靖,羊尾哨",YWS,,YWM,0
+,815,Yixiandong,,"zh,黄山,黟县东",YXD,,YIU,0
+,1909,Yexianggu,,"zh,景洪,野象谷",YXG,,AGM,0
+,1529,Yangxi,,"zh,阳江,阳西",YX,,WMQ,0
+,6913,Yunxian,,"zh,临沧,云县",YX,,AIM,0
+,690,Yangxin,,"zh,滨州,阳信",YX,,YVK,0
+,402,Yingxian,,"zh,朔州,应县",YX,,YZV,0
+,1408,Youxian,,"zh,株洲,攸县",YX,,YOG,0
+,1101,Yongxiu,,"zh,九江,永修",YX,,ACG,0
+,1408,Youxiannan,,"zh,株洲,攸县南",YXN,,YXG,0
+,2007,Yangxianxi,,"zh,汉中,洋县西",YXX,,YXY,0
+,228,Yixianxi,,"zh,锦州,义县西",YXX,,YSD,0
+,3114,Yunyang,,"zh,云阳,云阳",YY,,YUE,0
+,1779,Youyang,,"zh,酉阳,酉阳",YY,,AFW,0
+,1106,Yiyang,,"zh,上饶,弋阳",YY,,YIG,0
+,910,Yuyao,,"zh,宁波,余姚",YY,,YYH,0
+,910,Yuyaobei,,"zh,宁波,余姚北",YYB,,CTH,0
+,349,Yangyi,,"zh,邯郸,阳邑",YY,,ARP,0
+,1404,Yueyangnan,,"zh,岳阳,岳阳南",YYN,,RWQ,0
+,1005,Yangyuan,,"zh,三明,杨源",YY,,AYS,0
+,2101,Yuanyangzhen,,"zh,天水,鸳鸯镇",YYZ,,YYJ,0
+,2007,Yanzibian,,"zh,汉中,燕子砭",YZB,,YZY,0
+,1601,Yizhou,,"zh,河池,宜州",YZ,,YSZ,0
+,1503,Yinzhan,,"zh,清远,银盏",YZ,,YZA,0
+,736,Yizheng,,"zh,仪征,仪征",YZ,,UZH,0
+,2008,Yaozhou,,"zh,铜川,耀州",YZ,,YOY,0
+,1214,Yuzhou,,"zh,许昌,禹州",YZ,,YZF,0
+,1711,Yizi,,"zh,攀枝花,迤资",YZ,,YQM,0
+,2509,Yazhouwan,,"zh,三亚,崖州湾",YZW,,YWA,0
+,1901,Yangzhewo,,"zh,曲靖,羊者窝",YZW,,AEM,0
+,2016,Zhenan,,"zh,商洛,镇安",ZA,,ZEY,0
+,507,Zhian,,"zh,通辽,治安",ZA,,ZAD,0
+,401,Zhaobai,,"zh,大同,招柏",ZB,,ZBP,0
+,309,Zhangbaiwan,,"zh,承德,张百湾",ZBW,,ZUP,0
+,2102,Zhongchuanjichangdong,,"zh,兰州,中川机场东",ZCJCD,,ZRJ,0
+,2010,Zichang,,"zh,延安,子长",ZC,,ZHY,0
+,411,Zhaocheng,,"zh,临汾,赵城",ZC,,ZCV,0
+,1506,Zhangcha,,"zh,佛山,张槎",ZC,,ZAA,0
+,1307,Zhicheng,,"zh,宜昌,枝城",ZC,,ZCN,0
+,620,Zoucheng,,"zh,济宁,邹城",ZC,,ZIK,0
+,607,Zhucheng,,"zh,潍坊,诸城",ZC,,ZQK,0
+,2404,Zhundong,,"zh,昌吉,准东",ZD,,ZER,0
+,15,Zhaodong,,"zh,绥化,肇东",ZD,,ZDB,0
+,1901,Zhaofupu,,"zh,曲靖,照福铺",ZFP,,ZFM,0
+,611,Zhifu,,"zh,烟台,芝罘",ZF,,GZK,0
+,517,Zhungeer,,"zh,鄂尔多斯,准格尔",ZGE,,ZEC,0
+,226,Zhanggutai,,"zh,阜新,章古台",ZGT,,ZGD,0
+,9,Zhaoguang,,"zh,黑河,赵光",ZG,,ZGB,0
+,1002,Zhenghe,,"zh,南平,政和",ZH,,ZES,0
+,7,Zhonghe,,"zh,齐齐哈尔,中和",ZH,,ZHX,0
+,1848,Zhijinbei,,"zh,毕节,织金北",ZJB,,ZJE,0
+,1307,Zhijiangbei,,"zh,宜昌,枝江北",ZJB,,ZIN,0
+,2002,Zhongjiacun,,"zh,渭南,钟家村",ZJC,,ZJY,0
+,326,Zijingguan,,"zh,保定,紫荆关",ZJG,,ZYP,0
+,44,Zhujiagou,,"zh,牡丹江,朱家沟",ZJG,,ZUB,0
+,228,Zhoujiatun,,"zh,锦州,周家屯",ZJT,,ZOD,0
+,2315,Zhujiawan,,"zh,固原,褚家湾",ZJW,,CWJ,0
+,1512,Zhongkai,,"zh,惠州,仲恺",ZK,,ZKA,0
+,9014,Zengkou,,"zh,巴中,曾口",ZK,,ZKE,0
+,5409,Zhanglan,,"zh,晋中,张兰",ZL,,ZLV,0
+,1979,Zhulin,,"zh,文山,珠琳",ZL,,ZOM,0
+,403,Zaolin,,"zh,忻州,枣林",ZL,,ZIV,0
+,1502,Zhuliao,,"zh,广州,竹料",ZL,,ZUA,0
+,507,Zhalute,,"zh,通辽,扎鲁特",ZLT,,ZLD,0
+,1504,Zhangmutoudong,,"zh,东莞,樟木头东",ZMTD,,ZRQ,0
+,1504,Zhangmutou,,"zh,东莞,樟木头",ZMT,,ZOQ,0
+,2719,Zhanang,,"zh,扎囊,扎囊",ZN,,ZNO,0
+,2304,Zhongningdong,,"zh,中卫,中宁东",ZND,,ZDJ,0
+,2304,Zhongning,,"zh,中卫,中宁",ZN,,VNJ,0
+,1023,Zhouning,,"zh,宁德,周宁",ZN,,ZNS,0
+,2304,Zhongningnan,,"zh,中卫,中宁南",ZNN,,ZNJ,0
+,690,Zouping,,"zh,滨州,邹平",ZP,,ZLK,0
+,1216,Zhenping,,"zh,南阳,镇平",ZP,,ZPF,0
+,1009,Zhangpu,,"zh,漳州,漳浦",ZP,,ZCS,0
+,2002,Zhangqiao,,"zh,渭南,张桥",ZQ,,ZQY,0
+,339,Zaoqiang,,"zh,衡水,枣强",ZQ,,ZVP,0
+,910,Zhuangqiao,,"zh,宁波,庄桥",ZQ,,ZQH,0
+,9098,Zhurihe,,"zh,锡林郭勒,朱日和",ZRH,,ZRC,0
+,1581,Zhongshanbei,,"zh,中山,中山北",ZSB,,ZGQ,0
+,1112,Zhangshudong,,"zh,宜春,樟树东",ZSD,,ZOG,0
+,6618,Zhongshan,,"zh,贺州,钟山",ZS,,ZSZ,0
+,1410,Zhaoshan,,"zh,湘潭,昭山",ZS,,KWQ,0
+,6618,Zhongshanxi,,"zh,贺州,钟山西",ZSX,,ZAZ,0
+,1023,Zhitishan,,"zh,宁德,支提山",ZTS,,ZIS,0
+,357,Zhuwo,,"zh,北京,珠窝",ZW,,ZOP,0
+,15,Zhangweitun,,"zh,绥化,张维屯",ZWT,,ZWB,0
+,226,Zhangwu,,"zh,阜新,彰武",ZW,,ZWD,0
+,1503,Zhouxin,,"zh,清远,洲心",ZX,,ZIA,0
+,2124,Zhangxian,,"zh,定西,漳县",ZX,,ZXJ,0
+,1143,Zixi,,"zh,资溪,资溪",ZX,,ZXS,0
+,2006,Zongxi,,"zh,安康,棕溪",ZX,,ZOY,0
+,102,Zhenxi,,"zh,白城,镇西",ZX,,ZVT,0
+,1305,Zhongxiang,,"zh,荆门,钟祥",ZX,,ZTN,0
+,357,Zhangxin,,"zh,北京,张辛",ZX,,ZIP,0
+,1375,Zhongxiangnan,,"zh,钟祥,钟祥南",ZXN,,VKN,0
+,9098,Zhengxiangbaiqi,,"zh,锡林郭勒,正镶白旗",ZXBQ,,ZXC,0
+,1955,Zhuyuan,,"zh,蒙自,竹园",ZY,,ZUM,0
+,611,Zhaoyuan,,"zh,烟台,招远",ZY,,VDK,0
+,628,Zaozhuangdong,,"zh,枣庄,枣庄东",ZZD,,ZNK,0
+,9011,Zhuozidong,,"zh,乌兰察布,卓资东",ZZD,,ZDC,0
+,2015,Zizhou,,"zh,榆林,子洲",ZZ,,ZZY,0
+,326,Zhuozhou,,"zh,保定,涿州",ZZ,,ZXP,0
+,1901,Zhongzhai,,"zh,曲靖,中寨",ZZ,,ZZM,0
+,136,Zhazi,,"zh,白山,咋子",ZZ,,ZAL,0
+,9011,Zhuozishan,,"zh,乌兰察布,卓资山",ZZS,,ZZC,0
+,1014,Anxidong,,"zh,泉州,安溪东",AXD,,ANS,0
+,411,Anze,,"zh,临汾,安泽",AZ,,AEV,0
+,1703,Anzhou,,"zh,绵阳,安州",AZ,,AZE,0
+,205,Boguan,,"zh,沈阳,伯官",BG,,BGT,0
+,1512,Boluo,,"zh,惠州,博罗",BL,,BOA,0
+,1717,Banan,,"zh,重庆,巴南",BN,,BNE,0
+,136,Baishandong,,"zh,白山,白山东",BSD,,BDL,0
+,1969,Baoshan,,"zh,保山,保山",BS,,BAM,0
+,2103,Beitan,,"zh,白银,北滩",BT,,BEJ,0
+,2103,Baiyinnan,,"zh,白银,白银南",BYN,,BVJ,0
+,9041,Chaka,,"zh,海西州,茶卡",CK,,CVO,0
+,603,Chiping,,"zh,聊城,茌平",CP,,CHK,0
+,1014,Dehua,,"zh,泉州,德化",DH,,DKS,0
+,1802,Dushandong,,"zh,都匀,独山东",DSD,,DDE,0
+,1005,Datianbei,,"zh,三明,大田北",DTB,,DTS,0
+,411,Fushan,,"zh,临汾,浮山",FS,,FOV,0
+,904,Fuyangxi,,"zh,杭州,富阳西",FYX,,FUU,0
+,1703,Gaochuan,,"zh,绵阳,高川",GC,,GCE,0
+,1808,Geju,,"zh,兴义,革居",GJ,,GEM,0
+,1717,Gulu,,"zh,重庆,古路",GL,,GOE,0
+,210,Huaboshan,,"zh,丹东,花博山",HBS,,KBT,0
+,411,Hongtongbei,,"zh,临汾,洪洞北",HDB,,HLV,0
+,1512,Huidong,,"zh,惠州,惠东",HD,,KDA,0
+,9210,Huanglongjiuzhai,,"zh,阿坝藏族羌族自治州,黄龙九寨",HLJZ,,HIE,0
+,9210,Huangshengguan,,"zh,阿坝藏族羌族自治州,黄胜关",HSG,,HGE,0
+,9024,Huangshui,,"zh,石柱县,黄水",HS,,SZE,0
+,2515,Haitou,,"zh,儋州,海头",HT,,FTQ,0
+,1512,Huizhounan,,"zh,惠州,惠州南",HZN,,KNA,0
+,904,Hangzhouxi,,"zh,杭州,杭州西",HZX,,HVU,0
+,1717,Jiangbeijichang,,"zh,重庆,江北机场",JBJC,,JCE,0
+,706,Jurong,,"zh,镇江,句容",JR,,JRU,0
+,708,Jintan,,"zh,常州,金坛",JT,,JTU,0
+,2103,Jingyuanbei,,"zh,白银,靖远北",JYB,,JOJ,0
+,136,Jiangyuandong,,"zh,白山,江源东",JYD,,JDL,0
+,709,Jiangyin,,"zh,无锡,江阴",JY,,KYH,0
+,2005,Jiangzhang,,"zh,宝鸡,绛帐",JZ,,JZY,0
+,1802,Libo,,"zh,都匀,荔波",LB,,UBE,0
+,1512,Luofushan,,"zh,惠州,罗浮山",LFS,,LVA,0
+,1717,Luohuangdong,,"zh,重庆,珞璜东",LHD,,LHE,0
+,9010,Linxian,,"zh,吕梁,临县",LX,,LUV,0
+,1717,Longxing,,"zh,重庆,龙兴",LX,,LIE,0
+,9210,Maoxian,,"zh,阿坝藏族羌族自治州,茂县",MX,,MXE,0
+,1005,Mingxi,,"zh,三明,明溪",MX,,MOS,0
+,1704,Mianzhunan,,"zh,德阳,绵竹南",MZN,,MNE,0
+,1014,Nananbei,,"zh,泉州,南安北",NAB,,NUS,0
+,3110,Nanchuanbei,,"zh,南川,南川北",NCB,,NUE,0
+,1717,Nanpeng,,"zh,重庆,南彭",NP,,NAE,0
+,2007,Ningqiang,,"zh,汉中,宁强",NQ,,NQY,0
+,1714,Nanxibei,,"zh,宜宾,南溪北",NXB,,NOE,0
+,2103,Pingchuanxi,,"zh,白银,平川西",PCX,,PCJ,0
+,411,Puxian,,"zh,临汾,蒲县",PX,,PXV,0
+,2102,Qinwangchuan,,"zh,兰州,秦王川",QWC,,QWJ,0
+,1707,Sanchahu,,"zh,成都,三岔湖",SCH,,SCE,0
+,1704,Shifangxi,,"zh,德阳,什邡西",SFX,,SFE,0
+,3110,Shuijiangxi,,"zh,南川,水江西",SJX,,SVE,0
+,2016,Shangluobei,,"zh,商洛,商洛北",SLB,,SBY,0
+,9010,Shilouxian,,"zh,吕梁,石楼县",SLX,,STV,0
+,9210,Songpan,,"zh,阿坝藏族羌族自治州,松潘",SP,,SOE,0
+,1717,Shuitu,,"zh,重庆,水土",ST,,SUE,0
+,1704,Sanxingdui,,"zh,德阳,三星堆",SXD,,SDE,0
+,402,Shanyinnan,,"zh,朔州,山阴南",SYN,,OYV,0
+,1005,Sanyuanxi,,"zh,三明,三元西",SYX,,SRS,0
+,402,Shuozhoudong,,"zh,朔州,朔州东",SZD,,OZV,0
+,1707,Tianfujichang,,"zh,成都,天府机场",TFJC,,TIE,0
+,1717,Tongjing,,"zh,重庆,统景",TJ,,TOE,0
+,904,Tongludong,,"zh,杭州,桐庐东",TLD,,TBU,0
+,9089,Tiemenguan,,"zh,铁门关,铁门关",TMG,,XAR,0
+,708,Wujin,,"zh,常州,武进",WJ,,WJU,0
+,1712,Weiyuan,,"zh,内江,威远",WY,,WYE,0
+,206,Xinbin,,"zh,抚顺,新宾",XB,,XBD,0
+,6930,Xianggelila,,"zh,香格里拉,香格里拉",XGLL,,EUM,0
+,411,Xixian,,"zh,临汾,隰县",XX,,EAV,0
+,415,Xiyangcun,,"zh,晋城,西阳村",XYC,,XQF,0
+,6930,Xiaozhongdian,,"zh,香格里拉,小中甸",XZD,,EDM,0
+,1714,Yibindong,,"zh,宜宾,宜宾东",YBD,,EDE,0
+,1714,Yibin,,"zh,宜宾,宜宾",YB,,YKE,0
+,1946,Yangbi,,"zh,漾濞,漾濞",YB,,AVM,0
+,1014,Yongchun,,"zh,泉州,永春",YC,,ACS,0
+,1717,Yinhua,,"zh,重庆,银花",YH,,YWE,0
+,1717,Yinglong,,"zh,重庆,迎龙",YL,,YVE,0
+,403,Yanmenguan,,"zh,忻州,雁门关",YMG,,RDV,0
+,1947,Yongpingxian,,"zh,永平,永平县",YPX,,APM,0
+,1713,Yantan,,"zh,自贡,沿滩",YT,,YTE,0
+,1710,Yuexi,,"zh,西昌,越西",YX,,YIE,0
+,402,Yingxianxi,,"zh,朔州,应县西",YXX,,AAV,0
+,1502,Zengcheng,,"zh,广州,增城",ZC,,ZCA,0
+,9210,Zhenjiangguan,,"zh,阿坝藏族羌族自治州,镇江关",ZJG,,ZEE,0
+,6702,Ziyangxi,,"zh,资阳,资阳西",ZYX,,ZIE,0
+,1712,Zizhongxi,,"zh,内江,资中西",ZZX,,ZZE,0
